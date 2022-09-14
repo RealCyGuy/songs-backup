@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Uvs_qUMWQXT0PW4Psi5ebR2X6Lk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMkQ1M0U2NzVEOTA2MTY5",
+    "snippet": {
+        "publishedAt": "2021-07-17T01:48:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "SHIORI vs. Hitorigoto",
+        "description": "This song is not mine. I only upload because I can't find this song on youtube except for osu replays.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/uKwV5s15C_U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/uKwV5s15C_U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/uKwV5s15C_U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1069,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "uKwV5s15C_U"
+        },
+        "videoOwnerChannelTitle": "Cyrus Yip",
+        "videoOwnerChannelId": "UCX5XEfoxcLU9Dr_GVIdsLPA"
+    },
+    "contentDetails": {
+        "videoId": "uKwV5s15C_U",
+        "videoPublishedAt": "2021-07-17T01:46:31Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

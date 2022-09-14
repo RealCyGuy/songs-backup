@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "13CPPb7f9x3DY_-3DyuE07RaSfw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CMERDMzBCRkNCQzdENkU2",
+    "snippet": {
+        "publishedAt": "2021-08-06T18:17:05Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Revenge / Eurobeat Remix",
+        "description": "y tho? dunno.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/blaJc14IkaI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/blaJc14IkaI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/blaJc14IkaI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/blaJc14IkaI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/blaJc14IkaI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 973,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "blaJc14IkaI"
+        },
+        "videoOwnerChannelTitle": "Turbo",
+        "videoOwnerChannelId": "UCus8EVJ7Oc9zINhs-fg8l1Q"
+    },
+    "contentDetails": {
+        "videoId": "blaJc14IkaI",
+        "videoPublishedAt": "2019-07-30T03:49:08Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

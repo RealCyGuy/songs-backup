@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "dQDXc1vfSYz0-sOlIeWsVw0lFM8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wOTgyNUI0ODRDNDYzOTgz",
+    "snippet": {
+        "publishedAt": "2021-12-27T01:12:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Komi Can't Communicate OP (Clean) | Cinderella - CIDERGIRL | Netflix Anime",
+        "description": "Check out the clean opening to Komi Can't Communicate featuring \"Cinderella\" by CIDERGIRL. Komi drops on Netflix October 21, with new episodes every week!\n\nSubscribe: https://bit.ly/33okaL0\n\nAbout Netflix:\nNetflix is the world's leading streaming entertainment service with over 209 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\n\nKomi Can't Communicate OP (Clean) | Cinderella - CIDERGIRL | Netflix Anime\nhttps://www.youtube.com/NetflixAnime\n\nAt a high school full of unique characters, Tadano helps his shy and unsociable classmate Komi reach her goal of making friends with 100 people.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xHlx3rx5Bew/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xHlx3rx5Bew/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xHlx3rx5Bew/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xHlx3rx5Bew/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xHlx3rx5Bew/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 553,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xHlx3rx5Bew"
+        },
+        "videoOwnerChannelTitle": "Netflix Anime",
+        "videoOwnerChannelId": "UCBSs9x2KzSLhyyA9IKyt4YA"
+    },
+    "contentDetails": {
+        "videoId": "xHlx3rx5Bew",
+        "videoPublishedAt": "2021-10-14T09:00:00Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

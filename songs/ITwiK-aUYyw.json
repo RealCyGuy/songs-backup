@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "LericEXRT1spCTTVFt2cv2lGxgU",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RTgwRTAzODlGMjdBREIy",
+    "snippet": {
+        "publishedAt": "2021-10-16T01:45:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Amogus (EDM Remix)",
+        "description": "Amogus, but it's an EDM remix\n\n___________\nCredits:\nAMOGUS - https://youtu.be/5DlROhT8NgU\nAmong Us Dance - https://youtu.be/kRQcyrbwRFU\nAmong Us Drip - https://youtu.be/grd-K33tOSM\n\n#memnicus",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ITwiK-aUYyw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ITwiK-aUYyw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ITwiK-aUYyw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ITwiK-aUYyw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ITwiK-aUYyw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 748,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ITwiK-aUYyw"
+        },
+        "videoOwnerChannelTitle": "Memnicus",
+        "videoOwnerChannelId": "UC70Gov_qr1CF_euitGoWY7g"
+    },
+    "contentDetails": {
+        "videoId": "ITwiK-aUYyw",
+        "videoPublishedAt": "2021-04-22T22:15:18Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

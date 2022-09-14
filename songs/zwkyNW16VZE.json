@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "KOxtPn5Dm51nukroypoxZiAd_GE",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QTJDNzA4RTBEOEE3QTRC",
+    "snippet": {
+        "publishedAt": "2021-12-25T07:07:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pegboard Nerds - Emoji ($unday $ervice Remix)",
+        "description": "Nerds By Nature 2016 North American Tour on sale NOW at PegboardNerds.com!\n\nPink Cloud (The Remixes) Out NOW!\nOrder on iTunes: http://www.monster.cat/1U9IhR7\nOrder on Bandcamp: http://www.monster.cat/1P3ox1J\nOrder on Google Play: http://www.monster.cat/1P3o7IB\n---\nListen on Spotify: http://www.monster.cat/1RAaQtc\n\n\u25bc Follow Pegboard Nerds\nFacebook: http://www.facebook.com/PegboardNerds\nTwitter: http://www.twitter.com/pegboardnerds\nSoundcloud: @pegboardnerds\nYoutube: http://www.youtube.com/user/PegboardNerds\n\n\u25bc Follow $unday $ervice\nFacebook: http://www.facebook.com/SundayServiceOfficial\nTwitter: http://www.twitter.com/ssundayservice\nSoundcloud: @SundayServiceOfficial\nInstagram: http://www.instagram.com/SundayServiceOfficial\n\n\u25bc Follow Monstercat\nSnapchat: Monstercat\nYouTube: http://www.youtube.com/Monstercat\nSpotify: http://www.monster.cat/1hGrCWk\nFacebook: http://www.facebook.com/Monstercat\nTwitter: http://www.twitter.com/Monstercat\nInstagram: http://www.instagram.com/monstercatagram\nSoundCloud: @Monstercat\nGoogle+: http://www.plus.google.com/+Monstercat",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zwkyNW16VZE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zwkyNW16VZE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zwkyNW16VZE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zwkyNW16VZE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/zwkyNW16VZE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 566,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zwkyNW16VZE"
+        },
+        "videoOwnerChannelTitle": "Pegboard Nerds",
+        "videoOwnerChannelId": "UCeVB7ql9TxVhvJhEEQ0qipQ"
+    },
+    "contentDetails": {
+        "videoId": "zwkyNW16VZE",
+        "videoPublishedAt": "2016-01-28T23:29:18Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

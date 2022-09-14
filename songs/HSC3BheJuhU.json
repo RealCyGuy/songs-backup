@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "qel939D1HcxGBYyyvhxeDpCBqTM",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MzU2NUUyMEUwMzM4ODMz",
+    "snippet": {
+        "publishedAt": "2022-03-22T01:02:21Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30103D MV\u3011\u300cUnAlive\u300d- Calliope Mori (Original Song)",
+        "description": "Major Debut Solo Concert: New Underworld Order on July 21st! \n\u25c6Streaming Ticket\uff08SPWN \u914d\u4fe1\u30c1\u30b1\u30c3\u30c8\uff09\n\u56fd\u5185\uff1ahttps://virtual.spwn.jp/events/22072101-jpCalliope1stlive\nOverseas: https://virtual.spwn.jp/events/22072102-engCalliope1stlive\n\n\u25c6Venue Ticket\uff08\u73fe\u5730\u8996\u8074\u30c1\u30b1\u30c3\u30c8\uff09\nhttps://l-tike.com/st1/mori-calliope\n\n\u25c6Merchandise(\u30e9\u30a4\u30d6\u30b0\u30c3\u30ba)\nhttps://items-store.jp/hololive-calliope-new-underworld-order\n* Products are currently only available for domestic shipping.\n* Overseas sales will commence from June 15th, 2022.\n\n\u25c6Official Concert Website\uff08\u7279\u8a2d\u30b5\u30a4\u30c8\uff09\n https://newunderworldorder.hololivepro.com/\n\n\u25c6Official Hashtag\uff08\u516c\u6f14\u30cf\u30c3\u30b7\u30e5\u30bf\u30b0\uff09\n#CalliSolo\n\nStreaming: https://cover.lnk.to/UnAlive\n\u201cUnAlive\u201d\nCalliope Mori's 1st Full Album is finally here!\n\nCREDITS:\nVocals, Lyrics, Rap and Direction by: Calliope Mori\nProduced and Engineered by Elliot Hsu\nhttps://twitter.com/Leigendar\n\nMusic Video by Nonoru\nhttps://twitter.com/nonolu41\n-------------------------------------------------------------------------------------\n-------------------------------------------------------------------------------------\n[Hashtags]\n(LIVE) #calliolive\n(LIVE) #\u30ab\u30ea\u30aa\u30e9\u30a4\u30d6\n(Music) #callioP\n(Fanart) #callillust\n(Fan-art) #\u30ab\u30ea\u30a4\u30e9\u30b9\u30c8\n(Fan-name) Dead Beats // \u30c7\u30c3\u30c9\u30d3\u30fc\u30c4\n\n[Twitter]\nhttps://twitter.com/moricalliope\n@moricalliope\n\n\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\uff1d\nSubtitling: T-chan",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HSC3BheJuhU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HSC3BheJuhU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HSC3BheJuhU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HSC3BheJuhU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HSC3BheJuhU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 313,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HSC3BheJuhU"
+        },
+        "videoOwnerChannelTitle": "Mori Calliope Ch. hololive-EN",
+        "videoOwnerChannelId": "UCL_qhgtOy0dy1Agp8vkySQg"
+    },
+    "contentDetails": {
+        "videoId": "HSC3BheJuhU",
+        "videoPublishedAt": "2022-03-21T14:30:12Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

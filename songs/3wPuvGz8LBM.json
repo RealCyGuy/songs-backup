@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "1WPtiqGwNK1sZO5v6zvNmM0KI_k",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zRkU2NThDOTQ0MTlERjk3",
+    "snippet": {
+        "publishedAt": "2022-04-13T01:22:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "r/place song",
+        "description": "Thanks for Watching the video!\n\nSUBSCRIBE! -- http://youtube.com/daybydave\n\n2nd Channel: https://www.youtube.com/channel/UCfWKkSt9QfABTqn1s6051XA\n\nTwitter -- https://twitter.com/DaveDelirious\n\nInstagram -- https://www.instagram.com/davedelirious/\n\nDiscord -- https://discord.gg/Cshs5C8\n\n(DM me on Twitter for hiring enquiries)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3wPuvGz8LBM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3wPuvGz8LBM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3wPuvGz8LBM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 297,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3wPuvGz8LBM"
+        },
+        "videoOwnerChannelTitle": "Day by Dave",
+        "videoOwnerChannelId": "UCwIxsvoZdE976J4hyRiRI5A"
+    },
+    "contentDetails": {
+        "videoId": "3wPuvGz8LBM",
+        "videoPublishedAt": "2022-04-04T17:42:54Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

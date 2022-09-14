@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "fmEfRC0_rmCGrCJbDllkj-bLQkw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDA4QzRCRjQ1ODRDMDVB",
+    "snippet": {
+        "publishedAt": "2022-02-12T07:17:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "CG5 - Sparkly Abs (feat. CaptainSparklez) [Official Audio]",
+        "description": "STREAM NOW! Links below!\nApple Music \u25b6 https://apple.co/3GrzM29\nSpotify \u25b6 https://spoti.fi/3DrC8vW\n\nFeaturing @CaptainSparklez\nArt by @Shirotani\n\nFollow CG5's social media:\nTwitter \u25b6 http://twitter.com/cg5beats\nTwitch \u25b6 https://www.twitch.tv/cg5music\nSpotify \u25b6 https://sptfy.com/cg5_\nInstagram \u25b6 http://www.instagram.com/cg5beats/\n\nFollow @CG5LIVE, @CG5Covers, & @CG5 Instrumentals\nDiscord Server \u25b6 https://discord.gg/CG5\n\nYou got some sparkly abs,\nThat beautiful facial hair.\nYou make me wanna jump right off of that cliff over there.\n'Cuz you are way too handsome, yeah.\nI get intrusive thoughts of death.\nWait what?\n\nYou got some sparkly abs,\nThat beautiful facial hair.\nYou make me wanna jump right off of that cliff over there.\n'Cuz you are way too handsome, yeah.\nI get intrusive thoughts of death.\nWait what?\n\nI wanna be like you,\nI wanna be like you,\nBut I'll never be like you,\nBe like you, be like you.\nI wanna be like you,\nI wanna be like you,\nBut I'll never be like you,\nBe like you, be like you.\n\nWhy you gotta tell me,\nHow much you really wanna kill me?\nCuz I'm built like a god so manly?\nWhy can't we all be a happy family?\nI mean, yeah, look at my biceps,\nAnd my triceps,\nAnd my quadriceps,\nAnd my fiveceps.\nAww man, I'm a handsome mamma-jamma.\nBut you can't just give up.\n\nI wanna be like you,\nI wanna be like you,\nBut I'll never be like you,\nBe like you, be like you.\nI wanna be like you,\nI wanna be like you,\nBut I'll never be like you,\nBe like you, be like you.\n\nYou got some sparkly abs,\nThat beautiful facial hair.\nYou make me wanna jump right off of that cliff over there.\n'Cuz you are way too handsome, yeah.\nI get intrusive thoughts of death.\nWait what?\n\nI wanna be like you,\nI wanna be like you,\nBut I'll never be like you,\nBe like you, be like you.\nI wanna be like you,\nI wanna be like you,\nBut I'll never be like you,\nBe like you, be like you.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jfzByTWBhug/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jfzByTWBhug/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jfzByTWBhug/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/jfzByTWBhug/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/jfzByTWBhug/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 397,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jfzByTWBhug"
+        },
+        "videoOwnerChannelTitle": "CG5",
+        "videoOwnerChannelId": "UCLCdyRg3u5O-EVP5p46QxcQ"
+    },
+    "contentDetails": {
+        "videoId": "jfzByTWBhug",
+        "videoPublishedAt": "2021-12-07T19:30:03Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

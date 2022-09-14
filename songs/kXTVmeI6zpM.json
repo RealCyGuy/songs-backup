@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "ZJOBA9g4tXTHazXNKNIh7fC21J0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DODA1RjBCODc2NDNENDZD",
+    "snippet": {
+        "publishedAt": "2022-04-06T06:22:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u5468\u67cf\u8c6a & \u9023\u8a69\u96c5 - \u65e5\u843d\u65e5\u51fa (Christmas Morning Remix) (Official Audio)",
+        "description": "Official Audio of Pakho Chau & Shiga Lin - \u65e5\u843d\u65e5\u51fa (Christmas Morning Remix) \n\n\u25b6 iTunes: http://itun.es/hk/1PT11\n\u25b6 KKBOX: http://bit.ly/AmPm_KKBOX\n\u25b6 Spotify: http://bit.ly/AmPm_Spotify\n\u25b6 MOOV: http://bit.ly/AmPm_Moov\n\u25b6 MusicOne: http://bit.ly/AmPm_MusicOne\n\u25b6 SOLITON: http://bit.ly/AmPm_Soliton\n\n\u65e5\u843d\u65e5\u51fa (Christmas Morning Remix)\n\u66f2\uff1a\u5f90\u6d69\n\u8a5e\uff1a\u9673\u8a60\u8b19 (Rap Lyrics: Lesley\u59dc\u9e97\u6587)\n\u7de8\uff1aRandy Chow / \u5f90\u6d69\n\u76e3\uff1aRandy Chow / \u5f90\u6d69\n\nConnect with Pakho:\nFacebook: http://www.facebook.com/pakhochau\nInstagram: http://instagram.com/punkhippie\nWeibo: http://www.weibo.com/pakho\nWebsite: http://www.warnermusic.com.hk/pakho-chau\n\nConnect with Shiga:\nFacebook: https://www.facebook.com/shigalin\nInstagram: http://instagram.com/shi_ga\nWeibo: http://weibo.com/shiga\nWebsite: http://www.warnermusic.com.hk\n\n\n\u00a9 2014 Warner Music Hong Kong",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kXTVmeI6zpM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kXTVmeI6zpM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kXTVmeI6zpM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kXTVmeI6zpM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kXTVmeI6zpM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 300,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kXTVmeI6zpM"
+        },
+        "videoOwnerChannelTitle": "warnermusichk",
+        "videoOwnerChannelId": "UCOkYP-AE5izd0N7af72uC1Q"
+    },
+    "contentDetails": {
+        "videoId": "kXTVmeI6zpM",
+        "videoPublishedAt": "2014-12-12T12:20:34Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Soktv4F7hOoxF6xaUZt7KHEsMgc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wOEMwQzhGNDcxNEI2QkRC",
+    "snippet": {
+        "publishedAt": "2022-06-24T04:31:05Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NAYEON \"POP!\" M/V",
+        "description": "NAYEON \"POP!\" M/V\n\nNAYEON The 1st Mini Album \"IM NAYEON\"\nReleased on 2022.06.24 FRI 1PM KST/0AM EST\n\n\u2763Listen \"IM NAYEON\" HERE\ud83d\udc47\nhttps://NAYEON.lnk.to/IMNAYEON \n\nTWICE Official Shop: https://TWICE.lnk.to/Shop\nTWICE Official YouTube: http://www.youtube.com/c/TWICE \nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official TikTok https://www.tiktok.com/@twice_tiktok_official\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\n\u24d2 2022 JYP Entertainment. All Rights Reserved\n\n#TWICE #NAYEON #IMNAYEON",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/f6YDKF0LVWw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/f6YDKF0LVWw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/f6YDKF0LVWw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 87,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f6YDKF0LVWw"
+        },
+        "videoOwnerChannelTitle": "JYP Entertainment",
+        "videoOwnerChannelId": "UCaO6TYtlC8U5ttz62hTrZgg"
+    },
+    "contentDetails": {
+        "videoId": "f6YDKF0LVWw",
+        "videoPublishedAt": "2022-06-24T04:00:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

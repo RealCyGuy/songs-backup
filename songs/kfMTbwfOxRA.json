@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "qJ0ZA4FKZ8k3k6rIS9chJlNCHGA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QTE1NURFMkU1NzlCM0ZB",
+    "snippet": {
+        "publishedAt": "2022-01-04T17:11:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u767d\u9bcaJAWS - Dive Back In Time\uff5cLINK CLICK",
+        "description": "\u25cd Donghua : LINK CLICK (\u6642\u5149\u4ee3\u7406\u4eba)\n\n\u25cd Song : Dive Back In Time\n\u25cd Artist : \u767d\u9bcaJAWS\n\n\u25d6 Disclaimer ! \u25d7\nI don't claim this song/picture as mine\nBe aware this channel is only fun purpose\nAll music belongs to the original creators.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kfMTbwfOxRA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kfMTbwfOxRA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kfMTbwfOxRA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kfMTbwfOxRA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kfMTbwfOxRA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 503,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kfMTbwfOxRA"
+        },
+        "videoOwnerChannelTitle": "Damao",
+        "videoOwnerChannelId": "UCLyQ1CgSANv9HOfq9rrQWog"
+    },
+    "contentDetails": {
+        "videoId": "kfMTbwfOxRA",
+        "videoPublishedAt": "2021-05-26T07:00:09Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

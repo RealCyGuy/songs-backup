@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "gUegY35u8C2ArOFwiPYgcrcCMbA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMDkwRkI3NzExODA2MTFG",
+    "snippet": {
+        "publishedAt": "2021-04-28T04:13:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "LiSA - Crossing Field",
+        "description": "Music video by LiSA performing Crossing Field. (C) 2012 Aniplex Inc.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/KId6eunoiWk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/KId6eunoiWk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/KId6eunoiWk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1267,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "KId6eunoiWk"
+        },
+        "videoOwnerChannelTitle": "lxixsxaVEVO",
+        "videoOwnerChannelId": "UCm9XuXWofRSxSqX3imN0q9A"
+    },
+    "contentDetails": {
+        "videoId": "KId6eunoiWk",
+        "videoPublishedAt": "2015-01-26T08:00:04Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

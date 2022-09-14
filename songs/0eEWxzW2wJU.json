@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "4BUMCQHzzv2Qp6xGWYEcH-xIEvE",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wQUE0QzM4MkJGQ0YwQjUx",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:32:12Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Wii sports resort music: Main theme",
+        "description": "Wii sports resort music main themeI know this has already been uploaded like 3 times, but I'm uploading the whole soundtrack. If I miss any tracks just let me know and i'll record it.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0eEWxzW2wJU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0eEWxzW2wJU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0eEWxzW2wJU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1291,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0eEWxzW2wJU"
+        },
+        "videoOwnerChannelTitle": "OBigCheese",
+        "videoOwnerChannelId": "UC7IwRbZvU0gu_aaimc5DHjQ"
+    },
+    "contentDetails": {
+        "videoId": "0eEWxzW2wJU",
+        "videoPublishedAt": "2010-04-06T23:57:28Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

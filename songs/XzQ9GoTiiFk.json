@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "wYdJwNDmQPFLDV25eoMHukyddOI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yNkQ0OEUyMUVCRkU3MTc0",
+    "snippet": {
+        "publishedAt": "2022-06-20T00:34:35Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Michael Giacchino - Lightyear (From \"Lightyear\"/Audio Only)",
+        "description": "To infinity and \u2026 \ud83d\ude80 Experience the origin story of a Space Ranger in Disney and Pixar\u2019s #Lightyear. See Disney and Pixar\u2019s Lightyear, only in theaters now.\n\nThe film features the voices of Chris Evans as accomplished Space Ranger Buzz Lightyear, Uzo Aduba as his commander and best friend Alisha Hawthorne and Peter Sohn as Sox. Keke Palmer, Taika Waititi and Dale Soules lend their voices to the Junior Zap Patrol\u2019s Izzy Hawthorne, Mo Morrison and Darby Steel, respectively, and James Brolin can be heard as the enigmatic Zurg. The voice cast also includes Mary McDonald-Lewis as onboard computer I.V.A.N., Isiah Whitlock Jr. as Commander Burnside, Efren Ramirez as Airman Diaz, and Keira Hairston as Young Izzy. Directed by Angus MacLane (co-director \u201cFinding Dory\u201d), produced by Galyn Susman (\u201cToy Story That Time Forgot\u201d) and featuring a score by award-winning composer Michael Giacchino (\u201cThe Batman,\u201d \u201cUp\u201d), \u201cLightyear\u201d opens only in theaters on June 17, 2022.\n \nhttps://www.facebook.com/PixarsLightyear\nhttps://www.twitter.com/pixarslightyear \nhttps://www.instagram.com/pixarslightyear/\nHashtag: #Lightyear\n\nSubscribe to DisneyMusicVEVO \ud83d\udd14 for all the latest Disney music videos: https://disneymusic.co/disneymusicYT \n\nFollow Disney Music: \nInstagram: https://instagram.com/disneymusic \nTwitter: https://twitter.com/disneymusic \nTikTok: https://www.tiktok.com/@disneymusic\nFacebook: https://facebook.com/disneymusic\n\nMusic video by Michael Giacchino performing Lightyear (From \"Lightyear\"/Audio Only). \u00a9 2022 Walt Disney Records/Pixar\n\nhttp://vevo.ly/36kudX",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XzQ9GoTiiFk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XzQ9GoTiiFk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XzQ9GoTiiFk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 100,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "XzQ9GoTiiFk"
+        },
+        "videoOwnerChannelTitle": "DisneyMusicVEVO",
+        "videoOwnerChannelId": "UCgwv23FVv3lqh567yagXfNg"
+    },
+    "contentDetails": {
+        "videoId": "XzQ9GoTiiFk",
+        "videoPublishedAt": "2022-06-17T04:00:14Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

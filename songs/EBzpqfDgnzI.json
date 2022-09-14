@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "FL4LN3eUamTJh6nATZpvWPzdKBs",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRUY3NzJGODYyMjQzNUU0",
+    "snippet": {
+        "publishedAt": "2022-06-19T16:02:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Neppa (Official English Version)\u3010Will Stetson\u3011\u300c\u71b1\u6ce2\u300d",
+        "description": "A song about a brutal heatwave.\nSupport me on Patreon! Your support allows me to continue creating covers. https://www.patreon.com/willstetson \n\nThank you to my top Patrons for supporting: DivineDarkness, pavalineox, 3Lives, Aubrey P, Charles E H, Drew P, halcyogenic, Just Some Dough, Keira, Oliviaaa, PotatoGranola, SpiceyWulf and Tuulikki A L are super cool!!\n\nCredits:\nOriginal: @tephe  (https://www.youtube.com/watch?v=9UKCoCrWl9M)\nVocals: Will Stetson\nLyrics:  @Bread Box \nMix: Dictate\nArt/Video: SAW\n\nFollow Will Stetson!\nPatreon: https://www.patreon.com/willstetson\nTwitter: https://www.twitter.com/stillwetson\nTwitch: https://www.twitch.tv/willstetson\nSoundCloud: https://soundcloud.com/willstetson\nBusiness Inquiries: willstetsonbusiness@gmail.com\n\nFollow tephe!\nTwitter: https://twitter.com/s_tephe\nYouTube: https://www.youtube.com/channel/UCEcKO1-QMCfPEipdJbOHfJw\n\nFollow Dictate!\nSoundCloud: https://soundcloud.com/dictateneuro\nTwitter: https://www.twitter.com/dictatemusic\nSpotify: https://open.spotify.com/artist/4a74ArK6onepkCuKcZfG3w\n\nFollow David Toth!\nTwitter: https://www.twitter.com/breadboxvideo\nYouTube: https://www.youtube.com/c/breadboxvideo\n\nFollow SAW!\nTwitter: https://twitter.com/seesaw_yt\nYouTube: https://www.youtube.com/channel/UCZc_X2HULaJeAjdJV8sqoLA\n\nMy Gear \u2193\u2193\u2193\nBlue Compass Boom Arm: https://amzn.to/38twvhV\nBlue Baby Bottle Condenser Mic: https://amzn.to/3ak2FxT\nAKG P120 Condenser Mic: https://amzn.to/3afgCgu\nShure SM58 Dynamic Mic: https://amzn.to/38hKsPF\nScarlett 4i4 Audio Interface: https://amzn.to/2u6HdvH\nScarlett Solo Audio Interface: https://amzn.to/2txeyQm\nBlue 10-FT XLR Cable: https://amzn.to/2Ru9gNB\n\n#WillStetson #Neppa #tephe #\u71b1\u6ce2\n\nLyrics:\nThe sun is pounding through the window\nDon\u2019t know where I\u2019ve been, though\nWithering, I turn from below\nWhat should I force myself to do now?\nLosing all my spirit, I hide my face and fall to the ground\n\nThe pavement burns in hazy visions\nSinging ever with it, soli, cicadas begin\nMy mind is muddied up and melting\nFilled up to bursting, saturated puddles to mist\n\nMy isolation starts constricting me\nIn a mess I stumble, gritting my teeth\n\nGod, I\u2019m melting, melting\nTake away the trembling\nCome and lend a hand and borrow some heat\nWhile I\u2019m melting, melting\nLeaving the scene, far before me\nYou vanished like sparks within the breeze\nAnd I\u2019m melting, melting\nLike a fading melody, like a summer chime when the winds find a peace\nCause nothing, nothing\nMatters to me, let it repeat\nThe feelings will fade within the heat\nRight?",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EBzpqfDgnzI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EBzpqfDgnzI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EBzpqfDgnzI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EBzpqfDgnzI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EBzpqfDgnzI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 105,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EBzpqfDgnzI"
+        },
+        "videoOwnerChannelTitle": "Will Stetson",
+        "videoOwnerChannelId": "UCe82o8G7z0bFXI2U092nteA"
+    },
+    "contentDetails": {
+        "videoId": "EBzpqfDgnzI",
+        "videoPublishedAt": "2022-06-19T16:00:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

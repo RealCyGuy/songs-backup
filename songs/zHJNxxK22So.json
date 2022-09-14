@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "m-lk4t8CKAGFIXADUoCLAwuHkls",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNUVDQUI2QjYwRDY2NjlB",
+    "snippet": {
+        "publishedAt": "2021-10-05T05:04:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Mii Channel Theme but with Minecraft Villager Noises (Music Only)",
+        "description": "This is an unlisted video. You shouldn't be here... jk\n\nIf you've somehow got here without knowing what this video is, it's just the music part of my Mii Channel Theme with Minecraft villager noises video without me talking. You either don't wanna hear me talk, or you want a looped version for your playlist. Whatever the reason, this is the vid for you! \ud83d\udc4c\ud83c\udffb\n\nHere's the original video that you should 100% watch again: https://youtu.be/HHZ_VEfmSZU\n\nDon't forget if you enjoyed the video, make sure you smash that LIKE button, and SUBSCRIBE for more content like this! Get that BELL on too so you don't miss any future uploads! COMMENT below what video you wanna see next, and give me ideas on what songs to recreate! \ud83d\ude01\n\n__________________________________________________\n\n\u26cf\ufe0f Minecraft: https://www.minecraft.net\n\u25b6\ufe0f Subscribe: http://bit.ly/1NGU0rF\n\ud83d\udc26 Twitter: https://twitter.com/Jachael123\n\ud83d\udcde Discord: https://discord.gg/s8eszcJ\n\ud83d\udcf7 Instagram: https://www.instagram.com/jachael123/\n\ud83c\udfb5 TikTok: https://www.tiktok.com/@jachael123\n\ud83e\udd16 Reddit: https://www.reddit.com/user/Jachael123_\n\ud83d\udcd8 Facebook: https://www.facebook.com/Jachael123/\n\u2601\ufe0f SoundCloud: https://soundcloud.com/jachael123\n\ud83d\udc55 Merch (outdated): http://bit.ly/1O2Qli0\n\ud83d\udd25 Bonus Channel: http://bit.ly/1Q086o5\n\ud83d\udd34 OBS: https://obsproject.com/\n\ud83c\udf99\ufe0f Ableton Live 10 Lite: https://www.ableton.com/en/products/live-lite/\n\u23fa\ufe0f Vegas Pro: https://www.vegascreativesoftware.com\n\n__________________________________________________\n\nStay tuned for an amazing new video every week!\n\n#miichanneltheme #minecraftremake",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zHJNxxK22So/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zHJNxxK22So/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zHJNxxK22So/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zHJNxxK22So/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/zHJNxxK22So/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 789,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zHJNxxK22So"
+        },
+        "videoOwnerChannelTitle": "Jachael123",
+        "videoOwnerChannelId": "UC_k82NIddfZzOGWabJX-hlw"
+    },
+    "contentDetails": {
+        "videoId": "zHJNxxK22So",
+        "videoPublishedAt": "2020-03-22T15:20:27Z"
+    },
+    "status": {
+        "privacyStatus": "unlisted"
+    }
+}

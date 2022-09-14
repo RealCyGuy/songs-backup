@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "fPZeTr3eUCr-m8muJa1dJIhHj34",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RDkwQTYwODlGMDlFOTE3",
+    "snippet": {
+        "publishedAt": "2022-05-22T18:51:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Maroon 5 - Beautiful Mistakes (blackbear version)",
+        "description": "blackbear\u2019s original songwriting demo of Maroon 5 \u201cBeautiful Mistakes\u201d \n\n\nfollow bear: \nhttp://twitter.com/iamblackbear\nhttp://instagram.com/bear \nhttp://www.beartrap.la\n\n\n#blackbear #maroon5 #beautifulmistakes",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Q0xhzomeTNQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Q0xhzomeTNQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Q0xhzomeTNQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Q0xhzomeTNQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Q0xhzomeTNQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 197,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Q0xhzomeTNQ"
+        },
+        "videoOwnerChannelTitle": "blackbear",
+        "videoOwnerChannelId": "UCtAPxCyQaMxr61zBYFCqsFQ"
+    },
+    "contentDetails": {
+        "videoId": "Q0xhzomeTNQ",
+        "videoPublishedAt": "2022-03-18T22:46:59Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

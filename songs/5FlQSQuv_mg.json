@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "j4z1TfTwocOhRq5_-e6teYlIi1o",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNEU0QkIwNDE5QTMzMjMx",
+    "snippet": {
+        "publishedAt": "2022-06-10T06:06:06Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Maroon 5 - Payphone ft. Wiz Khalifa (Lyric Video)",
+        "description": "Music video by Maroon 5 performing Payphone (Lyric Video). \u00a9 2012 A&M/Octone Records\n\nBuy It Now! http://smarturl.it/M5Payphone\n\nSign up for updates: http://smarturl.it/Maroon5.News",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5FlQSQuv_mg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5FlQSQuv_mg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5FlQSQuv_mg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5FlQSQuv_mg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5FlQSQuv_mg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 129,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5FlQSQuv_mg"
+        },
+        "videoOwnerChannelTitle": "Maroon5VEVO",
+        "videoOwnerChannelId": "UCN1hnUccO4FD5WfM7ithXaw"
+    },
+    "contentDetails": {
+        "videoId": "5FlQSQuv_mg",
+        "videoPublishedAt": "2012-04-17T00:00:08Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

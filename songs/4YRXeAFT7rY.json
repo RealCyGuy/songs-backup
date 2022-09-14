@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "DAeyoov5COxgEM-0Uc4G6iCCLtc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QkJFRDFCQzQwQTMyRjdB",
+    "snippet": {
+        "publishedAt": "2022-02-20T07:28:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Cheerful Calm - Static-P",
+        "description": "Get a premium subscription to https://bss.studio to download all of our songs for only $5.\n\nMusic, Animation: Static-P\nArt and Assistance: Rainy\n\nPrograms:\nCubase 8 Pro\nPaint Tool SAI\nPhotoshop\nPower Director\nMotionArtist\n-------------------------------------------------------------------\nCommunity Website: https://bss.studio\nTwitter: https://twitter.com/_Static_P\nRainy Twitter: https://twitter.com/raindoki\nRainy YouTube: https://www.youtube.com/c/rainry\nRainy Instagram: https://www.instagram.com/raindoki/\n-------------------------------------------------------------------",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4YRXeAFT7rY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4YRXeAFT7rY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4YRXeAFT7rY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/4YRXeAFT7rY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/4YRXeAFT7rY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 365,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "4YRXeAFT7rY"
+        },
+        "videoOwnerChannelTitle": "Static-P",
+        "videoOwnerChannelId": "UCKhCucg9dqwu-B5LgNPD-3g"
+    },
+    "contentDetails": {
+        "videoId": "4YRXeAFT7rY",
+        "videoPublishedAt": "2018-06-22T03:37:58Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

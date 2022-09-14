@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "ypk4pN-D4kEcO1U44b5KHOZDDTI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMjdGRjlGOUIzNTdFMUNG",
+    "snippet": {
+        "publishedAt": "2022-03-23T05:57:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Vanessa Carlton - A Thousand Miles (Lyrics)",
+        "description": "I take requests just comment!\n\nArtist: Vanessa Carlton\nSong: A Thousand Miles\nAlbum: Be Not Nobody\nYear: 2002\n\nPhoto: https://www.deviantart.com/aenami/art/Cold-red-light-601733033\n\n~I don't own the song\nenjoy!\n\n.................................................................................\nCopyright Email: Audioandlyrics543@gmail.com\n.................................................................................",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/KdMBLxqntH0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/KdMBLxqntH0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/KdMBLxqntH0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/KdMBLxqntH0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 306,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "KdMBLxqntH0"
+        },
+        "videoOwnerChannelTitle": "Audioandlyrics",
+        "videoOwnerChannelId": "UChWcegNjI5qZV-8jBgFAJ6A"
+    },
+    "contentDetails": {
+        "videoId": "KdMBLxqntH0",
+        "videoPublishedAt": "2018-11-23T08:04:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

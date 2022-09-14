@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "40S9Wi3IgT3kjmsmY73AdX-r64U",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ERkUyQTM0MzEwQjZCMTY5",
+    "snippet": {
+        "publishedAt": "2021-04-26T01:18:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Noisestorm - Crab Rave [Monstercat Release]",
+        "description": "The Monstercat Denim Collection is available now! https://monster.cat/34phqxu\n\n\ud83c\udfa7 Support on all platforms: https://Monstercat.lnk.to/CrabRave\n\nA huge shout out to Noisestorm whose artistry made this song and video possible - he produced it all! \ud83e\udd80\n\nEvery year after the most intense tropical storms, thousands of crabs gather on this remote island. Now for the first time, witness all the side-stepping, air-snapping action of the monumental Crab Rave! Claws in the air!\n\n\u25bc Follow Monstercat\nSpotify: http://monster.cat/2biZbkd\nApple Music: http://apple.co/2xiKWTO\nFacebook: http://facebook.com/Monstercat\nTwitter: http://twitter.com/Monstercat\nInstagram: http://instagram.com/monstercat\nSnapchat: https://www.snapchat.com/add/monstercat\nSoundCloud: http://soundcloud.com/Monstercat\nTikTok: https://tiktok.com/@monstercat\n\n\ud83d\udca5Follow Noisestorm\nFacebook: https://www.facebook.com/Noisestorm\nTwitter: http://twitter.com/NoisestormMusic\nSoundcloud: https://soundcloud.com/noisestorm\nYoutube: https://www.youtube.com/EoinOBroinMusic\n\nGenre: House\n\n\u25bc Sign up for the Monstercat Newsletter!\nhttps://monster.cat/newsletter\n\n\u25bc Want some new Merchandise?\nhttp://monster.cat/MonstercatShop\n\n\u25bc Download with Gold\nhttps://monster.cat/goldyt",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LDU_Txk06tM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LDU_Txk06tM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LDU_Txk06tM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/LDU_Txk06tM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1311,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "LDU_Txk06tM"
+        },
+        "videoOwnerChannelTitle": "Monstercat Instinct",
+        "videoOwnerChannelId": "UCp8OOssjSjGZRVYK6zWbNLg"
+    },
+    "contentDetails": {
+        "videoId": "LDU_Txk06tM",
+        "videoPublishedAt": "2018-04-01T16:03:16Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

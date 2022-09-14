@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "P4Lo2mm2UX2QmJEcpLiMvzmmGqk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNzk2RjIwRUFGNDAzM0FF",
+    "snippet": {
+        "publishedAt": "2022-07-28T23:38:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30ed\u30af\u30c7\u30ca\u30b7\u300c\u305f\u3060\u58f0\u4e00\u3064\u300d/ Rokudenashi - One Voice -\uff3bOfficial Music Video\uff3d",
+        "description": "2021.12.22 Release\nStreaming\uff06Download \u25b6 https://Rokudenashi.lnk.to/OneVoice\n\nInstrumental\uff1ahttps://youtu.be/9plvSK4MXOc\nInstrumental\uff1c\u30d4\u30a2\u30d7\u30ed\uff1e\uff1ahttps://piapro.jp/t/LxID\n\nTwitter\uff1ahttps://twitter.com/rokudenashi_inf\nInstagram\uff1ahttps://www.instagram.com/rokudenashi_info/\n\nWords, Music & Arrangement\uff1aMIMI\uff08 https://www.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA \uff09\nIllustration\uff1afaPka\uff08 https://twitter.com/fapkapukapuka?s=20 \uff09\nRec & Mix Engineer\uff1aChikara Sato\nMastering Engineer\uff1aTsubasa Yamazaki\n\n#\u30ed\u30af\u30c7\u30ca\u30b7\u3000#\u305f\u3060\u58f0\u4e00\u3064\u3000#\u306b\u3093\u3058\u3093",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5GUaMOpfmr8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5GUaMOpfmr8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5GUaMOpfmr8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 14,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5GUaMOpfmr8"
+        },
+        "videoOwnerChannelTitle": "\u30ed\u30af\u30c7\u30ca\u30b7",
+        "videoOwnerChannelId": "UCRlRgAguUGfWD4EDfBUls4w"
+    },
+    "contentDetails": {
+        "videoId": "5GUaMOpfmr8",
+        "videoPublishedAt": "2021-12-21T15:00:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

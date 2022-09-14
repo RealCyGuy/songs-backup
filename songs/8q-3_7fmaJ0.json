@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "6AsEokDE9sp4AzpeJDqiCHjFa0E",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40MEE4MzM5MDQwOUEyQUZB",
+    "snippet": {
+        "publishedAt": "2021-07-21T04:31:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30df\u30bd\u30c3\u30ab\u30b9 / \u30e9\u30a4\u30b8\u30f3\u30b0\u30ec\u30a4\u30f3\u30dc\u30a6(Short Ver.)",
+        "description": "\uff90\uff7f\uff6f\uff76\uff7d\u304c\u3001\u5e83\u544a\u306a\u3057\u3067\u5168\u66f2\u8074\u304d\u653e\u984c\u3010AWA/\u7121\u6599\u3011\n\u66f2\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u3001\u570f\u5916\u3067\u3082\u8074\u3051\u308b\u3002\n\u7121\u6599\u3067\u4f53\u9a13\u3059\u308b\u25b6https://mf.awa.fm/2ycfWK5\n\n\nOFFICIAL HP\u3000http://misokkasu.com/\n\n2015\u5e749\u670816\u65e5\u767a\u58f2\u3001TV\u30a2\u30cb\u30e1\u300c\u98df\u621f\u306e\u30bd\u30fc\u30de\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300290\u2019\uff53\u306e\u5fd8\u308c\u5f62\u898b\u3001\u30b9\u30da\u30fc\u30b9\u6b4c\u8b21\u30ed\u30c3\u30af\u30d0\u30f3\u30c9\u201c\u30df\u30bd\u30c3\u30ab\u30b9\u201d\u306e\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u30b7\u30f3\u30b0\u30eb\u3002\u81ea\u79f0\u3001\u540d\u53e4\u5c4b\u306e\u672c\u7269\u306e\u66b4\u308c\u3093\u574a\uff01",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8q-3_7fmaJ0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8q-3_7fmaJ0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8q-3_7fmaJ0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8q-3_7fmaJ0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1039,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8q-3_7fmaJ0"
+        },
+        "videoOwnerChannelTitle": "avex",
+        "videoOwnerChannelId": "UC1oPBUWifc0QOOY8DEKhLuQ"
+    },
+    "contentDetails": {
+        "videoId": "8q-3_7fmaJ0",
+        "videoPublishedAt": "2015-08-18T09:00:01Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

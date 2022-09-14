@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Rw9LeajXJrfh2E6GUPdYiJb24V0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRDAwMkFENUFBQkZFMDg1",
+    "snippet": {
+        "publishedAt": "2021-08-24T06:27:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "C418 - Chirp (Trap Remix)",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mivkBks2e6s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mivkBks2e6s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mivkBks2e6s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mivkBks2e6s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mivkBks2e6s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 937,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mivkBks2e6s"
+        },
+        "videoOwnerChannelTitle": "ZZSnaps",
+        "videoOwnerChannelId": "UCJqyxOTkuQHQwUGxfMYfIXQ"
+    },
+    "contentDetails": {
+        "videoId": "mivkBks2e6s",
+        "videoPublishedAt": "2019-06-21T17:15:50Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

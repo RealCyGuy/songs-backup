@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "3Pkifhbc33LXEi5Y_7dL618ROFs",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QTRDMjY0RTNGMzVENTk5",
+    "snippet": {
+        "publishedAt": "2021-09-24T06:26:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Childe/Tartaglia - Snezhnaya's Greatest Love Machine",
+        "description": "Heeeyoo!\n\nOnly another small edit I suddenly got motivation for :D This song was done by the voice actor Griffin Burns of Childe in Genshin, he recently released this on Tiktok, which is quite catchy to listen to (I wish for a full version haha) Hell yeah, I wanna bath in his voice! *totally not simping*\n\nHere you can find Griffin Burns: https://vm.tiktok.com/ZMe19fGLq/\nGame: Genshin Impact / Mihoyo\nhttps://genshin.mihoyo.com/en/home\nOriginal Song: https://www.youtube.com/watch?v=YgGzAKP_HuM\n(Edit: Surpisingly, the original was taken down, however you probably can still find reuploads of the song as like a 1 hour version: https://www.youtube.com/watch?v=vGqb4oHeMAc)\n\n- Kuri\n\nI do not own any of the content -------- Fair Use - Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZSzINfPlVLY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZSzINfPlVLY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZSzINfPlVLY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ZSzINfPlVLY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ZSzINfPlVLY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 822,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZSzINfPlVLY"
+        },
+        "videoOwnerChannelTitle": "xWhiteKurix",
+        "videoOwnerChannelId": "UCRYGWAzxzXsvaym-NjcMm_w"
+    },
+    "contentDetails": {
+        "videoId": "ZSzINfPlVLY",
+        "videoPublishedAt": "2021-02-01T21:10:55Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

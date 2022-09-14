@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "9KoGc52orw1BxvOfOLv_e7F9UME",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QUZFQjIwMTYwQTBENERD",
+    "snippet": {
+        "publishedAt": "2022-07-28T23:06:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Snail's House - PIXELIZE",
+        "description": "New EP! listen or choose your streaming services here! https://linkco.re/G9hBQXFz\n\nSPOTIFY : https://open.spotify.com/album/0khtnuyyVmXGHpQ1xSkDGc?si=QqQ9hts2R6u3pSaO3bbqXQ\n\nArtwork by yknsugar (https://twitter.com/yknsugar)\nanimating of original artwork by uki (https://twitter.com/ukistuff)\n\n\u25b2buy my albums on bandcamp\n\nhttp://0101.bandcamp.com\n\n\u25b2Follow me on \n\nTwitter : http://twitter.com/ujicosnail\nSoundCloud : http://soundcloud.com/ujico\nInstagram : https://www.instagram.com/ujicosnail/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qWsSMTK3CqI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qWsSMTK3CqI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qWsSMTK3CqI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qWsSMTK3CqI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qWsSMTK3CqI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 20,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qWsSMTK3CqI"
+        },
+        "videoOwnerChannelTitle": "Ujico*/Snail's House",
+        "videoOwnerChannelId": "UCYxBY8mhJ7R2rMIcQ28H_Zw"
+    },
+    "contentDetails": {
+        "videoId": "qWsSMTK3CqI",
+        "videoPublishedAt": "2022-07-22T15:00:32Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

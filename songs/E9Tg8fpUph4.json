@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "EQFeUH00vDC3AAeh1uKDJ2nlBOg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMjZGMjhENDlGQzc0ODAz",
+    "snippet": {
+        "publishedAt": "2021-12-27T06:39:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Sneaky Adventure - Gaming Background Music (HD)",
+        "description": "\u25ba For more sound effects/music for your videos check out Artlist (Get 2 free extra months when you subscribe) - https://bit.ly/artlist2months\n\nFAQ:\n\n\u25ba How do I download this sound effect/music?\nThere will be a link at the top of the description if you are allowed to download and use this sound effect/music within your videos. If there is no download link, you use this sound effect/music at your own risk within your videos.\n\n\u25ba Can I use this sound effect/music in my videos?\nCheck the description of each video for details of whether you have permission to use this sound effect/music within your video. If there is no download link, you use this sound effect/music at your own risk within your videos.\n\n\u25ba Do you own these sound effects/music?\nNo. I do not own these sounds. I have sourced them from the internet and uploaded them for ease of access to the Youtube community.\n\n\u25ba Do you make money from these sound effects/music?\nNo. Although Youtube may place adverts on these videos, monetisation is not enabled on this channel so I do not make money through these adverts.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/E9Tg8fpUph4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/E9Tg8fpUph4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/E9Tg8fpUph4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/E9Tg8fpUph4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/E9Tg8fpUph4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 549,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "E9Tg8fpUph4"
+        },
+        "videoOwnerChannelTitle": "Gaming Sound FX",
+        "videoOwnerChannelId": "UCi-xN4ZB6e-0JcXzvBEomlw"
+    },
+    "contentDetails": {
+        "videoId": "E9Tg8fpUph4",
+        "videoPublishedAt": "2015-07-08T21:35:53Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

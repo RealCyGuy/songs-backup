@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "kdyHwBk9TVdS1x8WcQeVGrL-uZQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42QTdDRkRERUJDMUFDNEZC",
+    "snippet": {
+        "publishedAt": "2022-04-26T06:07:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Your Door Was Locked! (Minecraft Animation)",
+        "description": "Download YOUR DOOR WAS LOCKED:\niTunes: http://bit.ly/1zG94eA\nGoogle Play: http://bit.ly/1wuD9hm\nTurn this video into a gif! https://www.gifyoutube.com/watch?v=-EOpEDmxTDM\nDownload the Official Element Animation App!: http://bit.ly/1mhikQe\nSupport us on Patreon! - http://www.patreon.com/elementanimation\nThanks to our Patreons:\nVanceFinity and Michael_So\nJug1212\nKevin Martinez\nDer Drache TV\nChristina Taylor\nGail Perrin\nJessica Darhower\nPeter \u201cMarenthyu\u201d\nJustin Heath\nSigur\u00f0ur\nJohn Oersal\nMichael Jacob\n\nOur Official Minecraft Server:\nserver.elementanimation.com\nAlso check out our sponsors server!\ncore.nixium.com\n\n--------------------------------\nFOLLOW US:\n--------------------------------\nFacebook - http://www.facebook.com/elementanimation\nTwitter - http://twitter.com/TheCrackEA\nWebsite - http://www.elementanimation.com\n\n-----------------------------------\nElement Animation Posters\n\nhttp://www.zazzle.com/elementanimation\n-----------------------------------\nElement Animation T-Shirts!\n\nUK: http://elementanimation.spreadshirt.co.uk\n\nUS: http://elementanimation.spreadshirt.com\n\nDISCLAIMER: The Minecraft videos we create are not approved by or associated with Mojang unless specified otherwise.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Z7JiPUinWgY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Z7JiPUinWgY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Z7JiPUinWgY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Z7JiPUinWgY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Z7JiPUinWgY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 257,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Z7JiPUinWgY"
+        },
+        "videoOwnerChannelTitle": "Element Animation",
+        "videoOwnerChannelId": "UC0AE_22J0kAo30yjasaeFqw"
+    },
+    "contentDetails": {
+        "videoId": "Z7JiPUinWgY",
+        "videoPublishedAt": "2014-12-19T21:22:22Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

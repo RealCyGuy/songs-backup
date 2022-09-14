@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "eMT_s1C-z9eGkFfY_MHCkAlRnDM",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DM0I4OUE4MzY0NzUyMkY5",
+    "snippet": {
+        "publishedAt": "2022-06-02T05:08:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "(8bit) SPY\u00d7FAMILY - Opening Theme / \"Mixed Nuts\" - Official HIGE DANdism (Chiptune Cover/SPY FAMILY)",
+        "description": "SPY\u00d7FAMILY - Ending Theme / \"Kigeki (Comedy)\" - Gen Hoshino (8bit / Chiptune Cover)\nhttps://youtu.be/YYH5deUxof8\n\nTwitter : https://twitter.com/GearRabbit\n\n\n\u201cSPY \u00d7 FAMILY\u201d Opening theme song animation\nhttps://youtu.be/U_rWZK_8vUY\n\nSPY x FAMILY\nOP Song",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/g2p_eccnvNE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/g2p_eccnvNE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/g2p_eccnvNE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/g2p_eccnvNE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/g2p_eccnvNE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 158,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "g2p_eccnvNE"
+        },
+        "videoOwnerChannelTitle": "I'm GearRabbit, make Chiptune / 8bit cover",
+        "videoOwnerChannelId": "UC0PEyRpmqGprh_6Z4BwlFvA"
+    },
+    "contentDetails": {
+        "videoId": "g2p_eccnvNE",
+        "videoPublishedAt": "2022-04-25T12:12:28Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "115u8HWP8lh-yzmhMLaymAWqJDc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42MTI4Njc2QjM1RjU1MjlG",
+    "snippet": {
+        "publishedAt": "2021-04-25T04:00:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Jaiden & Boyinaband - Empty (Official Music Video)",
+        "description": "Thanks to Dave for approaching me with this idea and helping me step out of my tiny little comfort zone. (lyrics in description)\nGet the song on iTunes: https://itunes.apple.com/us/album/empty-single/1396093848?app=music&ign-mpt=uo%3D4\n\nBehind the Scenes: https://www.youtube.com/watch?v=xR3hrZS2c0A&ab_channel=Boyinaband\nWhy I don't have a face reveal: https://www.youtube.com/watch?v=VhEATqXnXCI&t=3s&ab_channel=JaidenAnimations\nSupport if you or someone you know is struggling with an eating disorder: https://www.nationaleatingdisorders.org/help-support/contact-helpline\n\nLyrics:\n\nV1:\nMirror mirror on the wall \nTunnel vision on the flaws\nIn the scale of things it\u2019s unimportant\nSo no talking but it\u2019s still an intrusive thought\n\nTried hard to correct it\nBut nothing was effective\nNo-one else seemed so obsessed with it, things were desperate\nUntil the voice crept in\n\nI can help you, trust me, you\u2019re ready\n\nIt seemed dangerous\nBut it said to have faith in it\n\nThe secret is to just be empty\n\nDidn\u2019t know if it was wise to listen\nBut what could it hurt to try?\n\nP1:\nAnd at first it was working \nBut then things were emerging \nCracked lips and Tired eyes \nI\u2019m hungry with no appetite\n\nI\u2019m shivering and shaking, and I tell myself it\u2019s fine, but\nYou can\u2019t fool your body, you can only fool your mind, yuh\n\nEmpty\nI just need to be empty\nHide from anybody who\u2019ll prevent me\nJust fill up on water and shame\nNo, I\u2019m not hungry, I just ate\n\nI\u2019ve developed a taste for this\nEndure the neverending ache\nConvince myself I\u2019m in control and it\u2019s not\nAll that voice that makes me sick\n\nC:\nInside it\u2019s empty\nAna- I know it\u2019s wrong\nI\u2019m looking but I can\u2019t see myself\n\nInside it\u2019s empty\nAna- I know it\u2019s wrong\nBut it\u2019s so hard to stop it alone\n\nV2:\nBeen getting even worse\nAll the days begin to merge\nJust a blurry haze and now it\u2019s\nAlmost second nature to ignore the urges\n\nCan\u2019t trust my own nature\nEvery calorie a failure\nGotta push the intake down every day\n\u2018Cause the voice comes back to say\n\nYou want to eat?   Bite your tongue\n\nDon\u2019t want to stay an embarrassment\njust have to stomach it\n\nThey don't know what you want\nA tug of war against common sense\ndon\u2019t wanna believe that I\u2019ve overstepped\n\nP2:\nBut it\u2019s so overwhelming\nAnd I hope no-one can tell\n\u2018Cause the numbers keep decreasing\nThis ordeal is becoming routine, check\n\nArms back neck thighs Suck it in and Pinch my sides\nThe scales are betraying me, the mirror is a lie, yeah\n\nNumbers\nIt all comes down to numbers\nI know it\u2019s wrong but\nJust because you know you\u2019re colorblind \ndoesn\u2019t mean you can see the colors\n\nFine, I admit I\u2019m addicted\nBut the hunger feels good, how do I quit this\nI know I could die, I\u2019ve seen the statistics\nBut the voice is with me through thick and thin\n\nBridge:\nI can reach out\nTo someone not like me\nIf you ask for help it doesn\u2019t make you weak\n\nI can reach out\nignore what the voice tells me\nI can help my mind learn to trust my body\n\n\n(dave is such a nice genuine guy i appreciate all he's done to help me. thank you dave!)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/36QMyiRAv-Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/36QMyiRAv-Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/36QMyiRAv-Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/36QMyiRAv-Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/36QMyiRAv-Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1340,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "36QMyiRAv-Y"
+        },
+        "videoOwnerChannelTitle": "Jaiden Animations",
+        "videoOwnerChannelId": "UCGwu0nbY2wSkW8N-cghnLpA"
+    },
+    "contentDetails": {
+        "videoId": "36QMyiRAv-Y",
+        "videoPublishedAt": "2018-06-08T19:08:21Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

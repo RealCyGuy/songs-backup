@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "tQqPmcGhplriFAhELkdQGFzLfQQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QUNDQ0M1NDkwQTY0OUMw",
+    "snippet": {
+        "publishedAt": "2022-02-04T05:36:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Mike Posner - I Took A Pill In Ibiza (SeeB Remix)",
+        "description": "\u266b Download Mike Posner - I Took A Pill In Ibiza (SeeB Remix) \u266b\n\u27a5 https://ffm.bio/chillnation\nListen to more from Chill Nation on Spotify: https://chillnation.ffm.to/chillspotify\n\n\u266b Support Chill Nation\nhttp://soundcloud.com/allchillnation\nhttp://facebook.com/allchillnation\nhttp://instagram.com/allchillnation\nhttp://vine.co/allchillnation\n\n\u266b Support Mike Posner \nhttps://soundcloud.com/mikeposner\nhttp://facebook.com/therealmikeposner\nhttp://twitter.com/MikePosner\n\n\u00a9 For copyright issues, please mail us here:\nallchillnationmusic@gmail.com\n#chill",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/u3VFzuUiTGw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/u3VFzuUiTGw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/u3VFzuUiTGw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/u3VFzuUiTGw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/u3VFzuUiTGw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 415,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "u3VFzuUiTGw"
+        },
+        "videoOwnerChannelTitle": "Chill Nation",
+        "videoOwnerChannelId": "UCM9KEEuzacwVlkt9JfJad7g"
+    },
+    "contentDetails": {
+        "videoId": "u3VFzuUiTGw",
+        "videoPublishedAt": "2016-02-03T18:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

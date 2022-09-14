@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "l1ZhkjJPiH8QKv--sTdmRE6fJ5M",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wNEZGRThGNjc4MjJEM0FD",
+    "snippet": {
+        "publishedAt": "2022-07-26T22:30:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ATARASHII GAKKO! - Free Your Mind (Official Music Video)",
+        "description": "Let go of your inhibitions and free your mind! ATARASHII GAKKO! at full speed! They run around the streets, alleys, and neighborhood shops of Tokyo with skaters in tow as they spread their infectious seishun energy. You gotta dance, you gotta sing, you gotta free your mind!\n\n'SNACKTIME' EP -- out now: https://atarashiigakko.lnk.to/SNACKTIMEID\n\nCredits\nDirector: Sayaka Nakane\nAssistant Director: Risa Nakatomi\nDirector of Photography: Shunki Terada\nEditor: Sayaka Nakane\nProducer: Takashi Sugai\nProduction Manager: Ken Inoue\nProduction Company: CROMANYON (Japan)\nHair & Makeup: Mari Okuda\nHair & Makeup Assistant: Anri Toyomori\n\nCast : JESSE / Tadaomi Shibuya / TERU / Keijirou Suzuki / Yasuhiro Kobayashi /  Yukiko Tsuji / Haruka Katagata / Kota Ikeda / Nana / Mario / Curea / Risa / Scott\n\nSpecial Thanks To:\nBigwing Skate Distribution: https://www.instagram.com/bigwing_dist \nJesse\u2032s Shop & Factory: http://jesse.tokyo/jsf/\nYoshio Habuto \n\u200eTogoshi-Ginza Shopping Street\n\nWatch Real AG!'s American Experiment [series]\nhttps://youtube.com/playlist?list=PLPDNGE_KSi5Tu0U51ovQ-uCcD_E5A_D20 \n\nSubscribe to ATARASHII GAKKO!\nhttp://88rising.lnk.to/ATARASHIIGAKKO-subscribe\n\nFollow ATARASHII GAKKO!\nhttps://www.instagram.com/japan_leaders\nhttps://twitter.com/japanleaders\nhttps://www.facebook.com/japanleaders\nhttps://www.tiktok.com/@japanleaders\n\nSubscribe to 88rising\nhttp://88rising.lnk.to/subscribe\n\nFollow 88rising\nhttp://instagram.com/88rising\nhttp://twitter.com/88rising\nhttp://facebook.com/88rising\n\nJoin the community\nhttps://discord.gg/88rising\n\n#ATARASHIIGAKKO #EPSNACKTIME #FreeYourMind",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5sIIOnXJVrw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5sIIOnXJVrw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5sIIOnXJVrw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5sIIOnXJVrw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5sIIOnXJVrw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 25,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5sIIOnXJVrw"
+        },
+        "videoOwnerChannelTitle": "88rising",
+        "videoOwnerChannelId": "UCZW5lIUz93q_aZIkJPAC0IQ"
+    },
+    "contentDetails": {
+        "videoId": "5sIIOnXJVrw",
+        "videoPublishedAt": "2021-11-12T05:00:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

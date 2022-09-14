@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "G9d4wUn45OpcHOMiVQ8HGfLMuTw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GMUYyNkE2QjczNDk4RDY4",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:44:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "OMI - Cheerleader (Felix Jaehn Remix) [Official Video]",
+        "description": "OMI's debut artist album \"Me 4 U\" is out now everywhere!!\niTunes: http://smarturl.it/Me4U\nAll other stores: https://lnk.to/me4uomi\n\nCheck out \"Cheerleader (Felix Jaehn Remix)\" on our Dance All Day Spotify playlist! http://smarturl.it/DanceAllDay\n\nFollow OMI:\nhttp://www.omimusiconline.com/\nhttps://twitter.com/omimusiconline\nhttps://www.facebook.com/OMItoday\nhttps://instagram.com/omi/\n\nDirector: Lenny Bass\nExec Producer: Mikha Grumet\nProducer: Carolina Nunez\nDirector of Photography: Angel Barroeta\nProduction Company: Indigo Films\n\nInsightful Jamaican artist Omi (Omar Samuel Pasley) is bringing his breakthrough story to the U.S., with the compelling sheen of \u201cCheerleader,\u201d leading the way.  The smash dance song has notched more than 90 million Spotify streams, topping iTunes in 14 territories, including Germany, Australia, Sweden and others (Top 10 in nearly 30 other markets).  Released in 2012, a cleverly understated remix by German DJ/Producer Felix Jaehn helped power the global momentum building around the infectious track.\n\n\u201cCheerleader\u201d originally took off in Hawaii, but Omi was getting a larger sense of the song\u2019s \u2018stickiness\u2019 where ever he performed it live.  \u201cPeople just gravitated to it, always remarking how it was their favorite.\u201d  Felix Jaehn\u2019s 2014 remix added to the combustible nature of the track,\u201d but by deftly imbuing acoustic gestures into the mix \u2013 conga, piano, trumpet \u2013 embellishing its unornamented feel.  \u201cI loved the mix even before it took off,\u201d says Omi. \u201cSo calm;  And unusual for a remix, it made you want to listen to the words, too.\u201d\n\nfrom Ultra Music\n\nSubscribe to Ultra Music  - http://www.youtube.com/subscription_center?add_user=ultrarecords\nSubscribe to UltraTV  - http://www.youtube.com/subscription_center?add_user=ultratv\n\nUltra Music is an American independent electronic music record label based in New York City. Ultra's current roster includes Benny Benassi, The Bloody Beetroots, Steve Aoki, Lil Jon, Above & Beyond, Hot Since 82, Faul, Chris Lake, Klingande, Bakermat, Carnage, Mr Probz, Flosstradamus, Hardwell, Henry Krinkle, Chris Malinchak, Storm Queen, Congorock, Adrian Lux, Axwell, TOKiMonsta, and others. Ultra has featured releases from the aforementioned artists and many others including Ti\u00ebsto, Avicii, Paul van Dyk, Paul Oakenfold, The Crystal Method, Sasha & John Digweed, and others.\n\nUltra Music Online:\nhttp://www.ultramusic.com\nhttp://www.twitter.com/ultrarecords\nhttp://www.facebook.com/ultramusic\nhttp://www.youtube.com/ultratv\nhttp://merch.ultramusic.com\nhttp://instagram.com/ultrarecords\nhttps://soundcloud.com/ultrarecords\nhttp://open.spotify.com/user/ultramusicofficial",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jGflUbPQfW8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jGflUbPQfW8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jGflUbPQfW8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/jGflUbPQfW8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/jGflUbPQfW8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 987,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jGflUbPQfW8"
+        },
+        "videoOwnerChannelTitle": "Ultra Music",
+        "videoOwnerChannelId": "UC4rasfm9J-X4jNl9SvXp8xA"
+    },
+    "contentDetails": {
+        "videoId": "jGflUbPQfW8",
+        "videoPublishedAt": "2015-04-08T07:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

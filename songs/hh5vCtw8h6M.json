@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "RPS-8-u1DGxXighpNm6qHUzbS10",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNzc3QkZBODAwOTYxMTg5",
+    "snippet": {
+        "publishedAt": "2022-06-02T15:17:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Stacey Ryan - Fall In Love Alone (Lyric Video)",
+        "description": "Stream/Download \u201cFall In Love Alone\u201d today!\nhttps://StaceyRyan.lnk.to/FallInLoveAlone\nConnect with Stacey Ryan!\nInstagram: https://www.instagram.com/staceyryanmusic\nFacebook: https://www.facebook.com/staceyryanmusic\nTwitter: https://twitter.com/staceyryanmusic\nTik Tok: https://www.tiktok.com/@staceyryanmusic\nDirected & shot by Stacey Ryan\nEdited by Penny Kapadoukakis\nProduced by \u00b01824",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hh5vCtw8h6M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hh5vCtw8h6M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hh5vCtw8h6M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 151,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hh5vCtw8h6M"
+        },
+        "videoOwnerChannelTitle": "StaceyRyanVEVO",
+        "videoOwnerChannelId": "UC72onfzFBzAZ0UhEK3DdE4g"
+    },
+    "contentDetails": {
+        "videoId": "hh5vCtw8h6M",
+        "videoPublishedAt": "2022-05-13T04:00:16Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

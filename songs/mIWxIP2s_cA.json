@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "cdhfUe1r0BVcd5C-N0cW6-3GVY8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNzdEQzY0REQzQTEyN0U3",
+    "snippet": {
+        "publishedAt": "2021-04-27T04:04:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kakegurui OST - The Demise of Mankind",
+        "description": "OST by Technoboys Pulcraft Green-Fund",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mIWxIP2s_cA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mIWxIP2s_cA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mIWxIP2s_cA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mIWxIP2s_cA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mIWxIP2s_cA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1274,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mIWxIP2s_cA"
+        },
+        "videoOwnerChannelTitle": "Anime Propaganda",
+        "videoOwnerChannelId": "UCN6E6r0PJSbMZ32LrWb8iKg"
+    },
+    "contentDetails": {
+        "videoId": "mIWxIP2s_cA",
+        "videoPublishedAt": "2018-04-04T13:52:20Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "G_VytkMq2I7WKps12AbgNz-dVzA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNTRGQTE1QjY2NUE5NTAz",
+    "snippet": {
+        "publishedAt": "2021-05-11T02:31:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Nice Guys",
+        "description": "Behind the Scenes at\nhttp://www.youtube.com/higatv\n\nTwo losers take a \"how to pick up girls\" class and realize that Nice Guys finish last which results in the ultimate douches.\n\nGet \"Nice Guys\" on iTunes!\nhttp://itunes.apple.com/us/album/nice-guys-single/id441177425\n\n\nSubscribe to these lovely people:\n\nChester See (Check out Chester's Version)\nhttp://www.youtube.com/chestersee\n\nKevjumba (Check out Kev's Version)\nhttp://www.youtube.com/kevjumba\n\nDtrix \nhttp://www.youtube.com/thedominicshow\n\nCathy Nguyen \nhttp://www.youtube.com/lilcdawg\n\nKina Grannis\nhttp://www.youtube.com/kinagrannis\n\n\nAndy Lange recorded and produced the music. See how he did it in his \"Making the Music\" video here: http://www.youtube.com/watch?v=oifnuRe8LFI\nBe sure to subscribe to Andy's channel! http://www.youtube.com/andylangemusic\n\nSubscribe to Justin! Filmed and Edited by Justin Safaei\nhttp://www.youtube.com/jsafaei",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xfeys7Jfnx8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xfeys7Jfnx8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xfeys7Jfnx8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xfeys7Jfnx8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xfeys7Jfnx8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1234,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xfeys7Jfnx8"
+        },
+        "videoOwnerChannelTitle": "nigahiga",
+        "videoOwnerChannelId": "UCSAUGyc_xA8uYzaIVG6MESQ"
+    },
+    "contentDetails": {
+        "videoId": "xfeys7Jfnx8",
+        "videoPublishedAt": "2011-05-31T20:33:21Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

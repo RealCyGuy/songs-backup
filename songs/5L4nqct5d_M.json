@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "SXT1435Hzkh0Eh195g3PXm3dEIc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MkVENTQ2NkVERkY1RTE4",
+    "snippet": {
+        "publishedAt": "2021-12-01T05:05:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "A Whole New World - ZAYN, Zhavia, Mena, Naomi Scott (Aladdin)(Jennel Garcia ft. Boyce Avenue cover)",
+        "description": "Watch Jennel Garcia cover of A Whole New World by ZAYN, Zhavia Ward, Mena Massoud, & Naomi Scott from Disney\u2019s \u201cAladdin\u201d\n\nSpotify Covers Playlist: https://smarturl.it/JGACSpotify\nApple Covers Playlist: https://smarturl.it/JGACApple\n\nSpotify: https://smarturl.it/AWNWSpotifyBA\nApple: https://smarturl.it/AWNWAppleBA\niTunes: https://smarturl.it/AWNWiTunesBA\nYouTube: https://smarturl.it/AWNWYTMusicBA\nAmazon: https://smarturl.it/AWNWAmazonBA\nDeezer: https://smarturl.it/AWNWDeezerBA\n\nJennel Garcia (of the X Factor) & Boyce Avenue performing a piano cover of A Whole New World by ZAYN, Zhavia Ward, Mena Massoud, and Naomi Scott from Disney\u2019s \u201cAladdin\u201d #awholenewworld #zayn #cover #zhaviaward #menamassoud #menamassoud #naomiscott #boyceavenue #jennelgarcia #acoustic #coversongs #cover #acousticsongs #pianomusic \n\n\ud83d\udd14 Subscribe & make sure to enable all push notifications! \ud83d\udd14\n\n- - - - - - - - - - - -\n\nJennel Garcia:\nYouTube: http://youtube.com/JennelGarciaOfficial\nInstagram: http://instagram.com/JennelGarcia\nTwitter: http://twitter.com/JennelGarcia\nFacebook: http://facebook.com/JennelGarciaOfficial\n\nBoyce Avenue:\nAlejandro Manzano (Lead Vocals, Acoustic Guitar, Piano): http://instagram.com/alejandroluisman... \nFabian Manzano (Background Vocals, Electric Guitar): http://instagram.com/fabianmanzano\nDaniel Manzano (Background Vocals, Bass, Percussion): http://instagram.com/danielmanzano\n\nhttp://instagram.com/boyceavenue\nhttp://twitter.com/boyceavenue\nhttp://facebook.com/boyceavenue\nhttp://boyceavenue.com\n\n- - - - - - - - - - - -\n\nAudio & Video Produced by Boyce Avenue\nEngineered, Mixed & Mastered by Adam Barber\nDirected by Alejandro Manzano\nFilmed by Adam Barber & Fabian Manzano\nEdited & Colored by Adam Barber\nVideo Assistant: Jordan Schilling\nFilmed at 3 Peace Studios in Sarasota, Florida\nOriginally Performed by ZAYN, Zhavia Ward, Mena Massoud, Naomi Scott, Peabo Bryson, Regina Belle, Brad Kane, Lea Salonga (From Disney\u2019s \u201cAladdin\u201d)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5L4nqct5d_M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5L4nqct5d_M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5L4nqct5d_M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5L4nqct5d_M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5L4nqct5d_M/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 635,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5L4nqct5d_M"
+        },
+        "videoOwnerChannelTitle": "Jennel Garcia",
+        "videoOwnerChannelId": "UCGnpSC2D45zmAnw7ti02bTg"
+    },
+    "contentDetails": {
+        "videoId": "5L4nqct5d_M",
+        "videoPublishedAt": "2020-12-04T18:57:05Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

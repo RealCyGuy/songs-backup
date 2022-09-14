@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "hQBPSF8DGExUz3RsqBn7WRrt7QA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNjc2ODczOEQyQTAwMURD",
+    "snippet": {
+        "publishedAt": "2021-10-23T18:19:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Timmy Trumpet & Savage - Freaks (Official Visualiser)",
+        "description": "Available to Stream & Download now \u25ba https://TMRW.lnk.to/FreaksID\nFollow TMRW\u2019s Brand New playlist \u25ba https://ffm.to/brandnewplaylist/spotify\nSubscribe here \u25ba https://TMRW.lnk.to/YouTubeID\n\nClick the \ud83d\udd14 to stay updated with our new uploads!\n\n---\n\nWelcome to the official TMRW Music YouTube channel, where we bring you the biggest dance hits first. If you like what you see, don't forget to Subscribe for more: https://TMRW.lnk.to/YouTube\n\nFollow TMRW Music: \nll Spotify: https://ffm.to/musthavehitsplaylist.oyd\nll Youtube: https://TMRW.lnk.to/YouTube\nll Instagram: http://instagram.com/tmrw_music\nll Facebook: http://www.facebook.com/musictmrw \nll Twitter: https://twitter.com/tmrw_music\nll TikTok: https://TMRW.lnk.to/TikTokID\n\nFollow Timmy Trumpet \nll Facebook: https://www.facebook.com/timmytrumpet\nll Twitter: https://twitter.com/timmytrumpet\nll Instagram: https://www.instagram.com/timmytrumpet\nll TikTok: https://www.tiktok.com/@timmytrumpet\n\nFollow Savage\nll Facebook: https://www.facebook.com/SavageDkonz\nll Twitter: https://twitter.com/SavageDkonz\nll Instagram: https://www.instagram.com/savage_nz \n\n#TimmyTrumpet\n#Savage\n#Freaks\n#TMRWmusic",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/r1dquH_KOQc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/r1dquH_KOQc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/r1dquH_KOQc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/r1dquH_KOQc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/r1dquH_KOQc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 728,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "r1dquH_KOQc"
+        },
+        "videoOwnerChannelTitle": "TMRW Music",
+        "videoOwnerChannelId": "UCuED6By6MiMj4Zv7P7Zq3Og"
+    },
+    "contentDetails": {
+        "videoId": "r1dquH_KOQc",
+        "videoPublishedAt": "2014-08-12T07:10:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

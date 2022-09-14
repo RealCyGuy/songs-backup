@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "_9y7qk8LVlzsiBOKVfg04oNarPk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDMwRjNBNEU3NDhBNzYz",
+    "snippet": {
+        "publishedAt": "2022-06-05T18:36:13Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Coconut Mall // Naz3nt Future Funk Remix",
+        "description": "Merry Christmas!\n\nI know this isn't a Christmas song but I thought I'd get something out for the holidays ;)\n\nDownload // https://drive.google.com/file/d/1OmKw6UvPLDBeny6d6rKdbw0wAhGVN0p3/view?usp=sharing\n\nHit Me Up:\n~ Join the discord // https://discord.gg/ywmryFp\n~ Soundcloud // https://soundcloud.com/naz3nt\n~ Clyp // https://clyp.it/user/sn4klvkb",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mrAG3bZ0NGA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mrAG3bZ0NGA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mrAG3bZ0NGA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mrAG3bZ0NGA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mrAG3bZ0NGA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 135,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mrAG3bZ0NGA"
+        },
+        "videoOwnerChannelTitle": "Naz3nt",
+        "videoOwnerChannelId": "UCK4pBEj7qSlprwO0w527EBw"
+    },
+    "contentDetails": {
+        "videoId": "mrAG3bZ0NGA",
+        "videoPublishedAt": "2017-12-25T20:30:05Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

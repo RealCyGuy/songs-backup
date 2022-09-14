@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "ZM4qb2cB568-EWcNPYRQDhYoafY",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NzEyMDIyNUI5MEJBMDIw",
+    "snippet": {
+        "publishedAt": "2021-09-30T18:06:12Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pigstep (Electro Swing Remix) // Zivex",
+        "description": "Spotify: https://open.spotify.com/track/7HqdKn8dCgtZ4aEpOdGMrD?si=0ce739e2c2a94104\nApple Music: https://music.apple.com/album/pigstep-electro-swing-remix/1560791196\nSoundCloud: https://soundcloud.com/zivexofficial/pigswing/\n\n====\n\nFAQ:\nQ: Can I use this in my video? \nA: Only with an official download from Patreon. https://www.patreon.com/posts/43556479\nSeveral YouTube to MP3 converters state in their terms of use that anything downloaded with their service are for personal use only, using it without express permission is a violation of those terms.\n\nQ: 1 hour version? \nA: Highly unlikely. You can use the loop function by right-clicking on the video player (or put in a playlist on its own if on mobile) \n\n====\r\n\nOriginal song by Lena Raine as part of Minecraft's Nether Update - https://www.youtube.com/watch?v=BTthtlT80Rc\nCover art by No\u00ebl Risco - https://twitter.com/noel_risco/\r\nMusic made with Logic Pro X\r\nVisuals made in Adobe After Effects CC\r\n\r\n====\r\n\nSupport me financially on Patreon or Ko-Fi!\nhttps://ko-fi.com/zivex\nhttps://patreon.com/zivex\n\r\nCome chat with me on Discord!\r\nhttps://discord.gg/heM7eKy",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ks3DUf4Emog/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ks3DUf4Emog/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ks3DUf4Emog/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ks3DUf4Emog/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ks3DUf4Emog/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 796,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ks3DUf4Emog"
+        },
+        "videoOwnerChannelTitle": "Zivex",
+        "videoOwnerChannelId": "UCT-BYu4Q7anSl0M_P7x2wyQ"
+    },
+    "contentDetails": {
+        "videoId": "ks3DUf4Emog",
+        "videoPublishedAt": "2020-05-31T08:30:03Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

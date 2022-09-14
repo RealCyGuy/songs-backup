@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "2m-HShtdji41805WyuwjtSFzAE0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40M0EyQTRBQzJBNkE2RTdD",
+    "snippet": {
+        "publishedAt": "2021-12-08T05:31:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Fukashigi no TRUMPET \ud83c\udfba\ud83c\udfba",
+        "description": "Anime: Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai\n\nHey if you like the video please share and subscribe for more projects.\n\n\nThere's my last cover go to see it : https://youtu.be/03mfuMx0n9I\n\n\n\n\n\n\n\n\n\nuwu",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wo3OM2_E7FU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wo3OM2_E7FU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wo3OM2_E7FU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/wo3OM2_E7FU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/wo3OM2_E7FU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 611,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wo3OM2_E7FU"
+        },
+        "videoOwnerChannelTitle": "No Coffee No laifu",
+        "videoOwnerChannelId": "UC6yOiybOvS743tWKN2DQ1Wg"
+    },
+    "contentDetails": {
+        "videoId": "wo3OM2_E7FU",
+        "videoPublishedAt": "2019-11-23T02:07:23Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

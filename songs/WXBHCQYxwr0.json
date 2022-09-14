@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "OztXzinAWv4t-f-1Kt3t4fW5QPo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42MTY4OTRDNjQxRjc1OUI2",
+    "snippet": {
+        "publishedAt": "2021-12-20T02:21:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ava Max - Sweet but Psycho [Official Music Video]",
+        "description": "Listen to my debut album \"Heaven & Hell\" now: https://AvaMax.lnk.to/HeavenandHellID\n\n\"Sweet but Psycho\" Available Now\nDownload/Stream: https://avamax.lnk.to/SweetButPsychoID\n\nSubscribe for more official content from Ava Max: https://Atlantic.lnk.to/AvaMaxSubscribe\n\nJoin Ava's mailing list to be the first to know about tour dates, video premieres, special announcements & more: https://AvaMax.lnk.to/JoinAY\n\nFollow Ava Max\nFacebook - https://www.facebook.com/avamaxofficial\nInstagram - https://www.instagram.com/avamax\nTwitter - https://twitter.com/avamax\nhttp://avamax.com\n\n#OfficialMusicVideo #MusicVideo #SweetButPsycho\n\nDirected by Shomi Patwary\nActor: Prasad Romijn\n\nAva Max is a unique new talent, crafting pop anthems with a much-needed dose of fiery female empowerment.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WXBHCQYxwr0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WXBHCQYxwr0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WXBHCQYxwr0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 571,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WXBHCQYxwr0"
+        },
+        "videoOwnerChannelTitle": "Ava Max",
+        "videoOwnerChannelId": "UCOwgc8DswjoBMuuUU2ScPvQ"
+    },
+    "contentDetails": {
+        "videoId": "WXBHCQYxwr0",
+        "videoPublishedAt": "2018-08-27T16:26:25Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "KDuXfBzqVyhUzIRyOgcBm8nVoss",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRTc5NzhFOUU0MDUyQ0JC",
+    "snippet": {
+        "publishedAt": "2021-12-04T15:47:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pink Panther theme (acapella)",
+        "description": "Follow Maytree? :) Please Subscribe!\nwww.instagram.com/maytree_music\nwww.facebook.com/maytreemusic\nwww.youtube.com/maytreeofficial\n\n#pinkpanther #animation #ost",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rJJnI_-SNi4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rJJnI_-SNi4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rJJnI_-SNi4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rJJnI_-SNi4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rJJnI_-SNi4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 624,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rJJnI_-SNi4"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+    },
+    "contentDetails": {
+        "videoId": "rJJnI_-SNi4",
+        "videoPublishedAt": "2021-11-19T12:00:34Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

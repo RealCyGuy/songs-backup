@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "xuIblQRgKu6En2dRQJ2AEMFg3gA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMzUwRDA1QTFBNTk0NjU2",
+    "snippet": {
+        "publishedAt": "2021-12-25T07:52:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[FULL] Love Dramatic - Kaguya-sama: Love is War OP - Piano Arrangement [Synthesia]",
+        "description": "Full version of the opening to Kaguya-sama: Love is War (Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen in Romaji, but that's ridiculously long and I couldn't fit it in the title), Love Dramatic!\n\nI've been looping the full version ever since it came out, and man is it a good song. \n\nAnd for once, my arrangement has nothing really crazy in it! This is probably the easiest full version I have ever written!\n\nOk, there's three hand technique at 2:05, but hey each song need a challenge!\nOh and also at 2:23 it's not a really fast run it's a black keys glissando so it's not as hard as it looks. Don't worry.\n\nHope you enjoy the simple(-ish?) arrangement of the best OP of this season! (debatable)\n\n--------------------\n\nSubscribe to my channel for more content!\n\nChannel/\u30c1\u30e3\u30f3\u30cd\u30eb: https://www.youtube.com/c/zzzAnimeonPiano\nTwitter/\u30c4\u30a4\u30c3\u30bf\u30fc: https://twitter.com/zzzanimeonpiano\nSheets/\u697d\u8b5c: https://sheet.host/user/zzzanimeonpiano\nSoundcloud: https://soundcloud.com/zzz_animeonpiano\nDiscord Server: http://discord.gg/2dGFq6z\n\n--------------------\n\nSheets/\u697d\u8b5c:\nhttps://sheet.host/sheet/k8CBT4\n\n--------------------\n\nSong/\u66f2\u540d: Love Dramatic\nAnime/\u30a2\u30cb\u30e1: Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen\n\nOriginal Artist/\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8: Masayuki Suzuki feat. Rikka Ihara\nArranged by/\u30a2\u30ec\u30f3\u30b8: zzz",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ico-nsXqvCg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ico-nsXqvCg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ico-nsXqvCg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ico-nsXqvCg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ico-nsXqvCg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 559,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ico-nsXqvCg"
+        },
+        "videoOwnerChannelTitle": "zzz - Anime on Piano",
+        "videoOwnerChannelId": "UCXbCo1dYKNceoxUC7rKMjZw"
+    },
+    "contentDetails": {
+        "videoId": "ico-nsXqvCg",
+        "videoPublishedAt": "2019-02-17T05:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

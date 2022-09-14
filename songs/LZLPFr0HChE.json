@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "3TVsSrIG6yy8aoYRa26v_qwEJXA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FRDg3NTZEODVFNDA4MjNE",
+    "snippet": {
+        "publishedAt": "2022-04-18T17:51:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Dear You - Higurashi vocal Drum and Bass remix",
+        "description": "I've finally set up a paypal donate button on my main page and a sendspace link to the HQ mp3 file. \n\nI'm not going to demand anyone pay to download the mp3, but I hope enough of my fans support me financially, so I can spend less time working and more time making music! Even 1 dollar/pound/euro is really appreciated.\n\nHere's the link, let me know when i need to re-upload.\n\nhttps://www.sendspace.com/file/y931tp\n\nand here's a link to my soundcloud page\n\nhttps://soundcloud.com/adam-whitton/dear-you-higurashi-vocal-dnb\n\nCheck it out and please leave me a comment, if you liked this then you might like my other drum and bass remixes.\n\nThanks for Listening guys",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LZLPFr0HChE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LZLPFr0HChE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LZLPFr0HChE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 271,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "LZLPFr0HChE"
+        },
+        "videoOwnerChannelTitle": "DJGenericname",
+        "videoOwnerChannelId": "UCMy2KNsfZQNMPgvURvKl9eQ"
+    },
+    "contentDetails": {
+        "videoId": "LZLPFr0HChE",
+        "videoPublishedAt": "2008-10-06T21:08:39Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

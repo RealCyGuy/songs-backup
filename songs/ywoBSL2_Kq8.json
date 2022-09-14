@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "XyAnHhruWuDTTQWumDIvXrCe5EE",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RjlDRkUwMEQ4MEM5RDlC",
+    "snippet": {
+        "publishedAt": "2021-10-16T16:56:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Amogus (Hardbass Remix)",
+        "description": "Listen on SoundCloud \u25ba https://soundcloud.com/memnicus/amogus-hardbass\n\n___________\nCredits:\nAMOGUS meme - https://youtu.be/5DlROhT8NgU\nAmong Us Drip - https://youtu.be/grd-K33tOSM\nTemplates - https://youtu.be/UaCE1-cVWy8\nBackground - https://youtu.be/Bj3qepNUFyE\n\nI was making a full version of the EDM remix, but something went wrong\n\n#memnicus",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ywoBSL2_Kq8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ywoBSL2_Kq8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ywoBSL2_Kq8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ywoBSL2_Kq8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ywoBSL2_Kq8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 744,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ywoBSL2_Kq8"
+        },
+        "videoOwnerChannelTitle": "Memnicus",
+        "videoOwnerChannelId": "UC70Gov_qr1CF_euitGoWY7g"
+    },
+    "contentDetails": {
+        "videoId": "ywoBSL2_Kq8",
+        "videoPublishedAt": "2021-04-26T11:55:11Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

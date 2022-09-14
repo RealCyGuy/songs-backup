@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "7P3yMQ_wGPdB4Xxu6eP1PBl2PJ4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNjk0RTcxOTg4RDVGNTdC",
+    "snippet": {
+        "publishedAt": "2021-12-10T23:57:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ginger Root - Loretta (Future Funk)",
+        "description": "A Future Funk remix of Loretta by Ginger Root.\nArtwork By - @yunkjardd - https://twitter.com/yunkjardd?lang=en\nOriginal Song - https://www.youtube.com/watch?v=u-WTfP3WJc4\nI'm still new to making future funk so please be kind lol.\nSoundCloud:https://soundcloud.com/nanshii-204552866/ginger-root-loretta-future-funk-remix?si=66b58a2785764900b738198bc598cdc2",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/w0uggyQrk-o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/w0uggyQrk-o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/w0uggyQrk-o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/w0uggyQrk-o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/w0uggyQrk-o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 592,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "w0uggyQrk-o"
+        },
+        "videoOwnerChannelTitle": "Koi Summer",
+        "videoOwnerChannelId": "UC4QZY1S4RLmVDo_Y0PKoAUA"
+    },
+    "contentDetails": {
+        "videoId": "w0uggyQrk-o",
+        "videoPublishedAt": "2021-08-17T19:00:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

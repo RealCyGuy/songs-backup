@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "wUvP8-dDPhFKo-1hzv0L7Rh6G1M",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yM0IwNzUxRTc3MTg4Njkw",
+    "snippet": {
+        "publishedAt": "2021-07-13T23:28:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "K-ON!! KIRA KIRA Days -ReMix-",
+        "description": "\u3051\u3044\u304a\u3093!!\u3000\u300e\u30ad\u30e9\u30ad\u30e9Days\u300f\nremixed by kenzuishi607",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/v578iMqN9wU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/v578iMqN9wU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/v578iMqN9wU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/v578iMqN9wU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1076,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "v578iMqN9wU"
+        },
+        "videoOwnerChannelTitle": "kenzuishi6O7",
+        "videoOwnerChannelId": "UCpLJCw04zPBS6SYs-IG0E7A"
+    },
+    "contentDetails": {
+        "videoId": "v578iMqN9wU",
+        "videoPublishedAt": "2012-10-20T13:26:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "KtbUs9zybdMFyfvMc9nIqCYEEmI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CRjcyRUY0NDExMTVCREY3",
+    "snippet": {
+        "publishedAt": "2021-12-12T05:37:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059 OP \u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb the peggies Rent-A-Girlfriend [\u30d4\u30a2\u30ce]",
+        "description": "\u30e1\u30f3\u30d0\u30fc\u9650\u5b9a\u52d5\u753b/members-only video/\u6703\u54e1\u9650\u5b9a\u5f71\u7247\uff01\u03a3(;\uff9f\u0434\uff9f)\nhttps://youtu.be/O1F5pxjc3Es (\u3061\u3065\u308b \u958b\u5c01\uff01\uff1f Chizuru Unboxing!?)\n\n\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059 OP \u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb the peggies [\u30d4\u30a2\u30ce]\nRent-A-Girlfriend OP Centimeter the peggies [piano]\nThe arrangement created by \u3059\u3060\u3061\u98a8\u5473\nCover by pan piano\n\n\u300c\u3042\u306a\u305f \u79c1\u306e\u3053\u3068 \u30b9\u30ad\uff1f\u300d\n(\u00b4\u30fb\u03c9\u30fb`)\n\n#\u5f7c\u5973\u304a\u501f\u308a\u3057\u307e\u3059\n#\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb\n#thepeggies\n#RentAGirlfriend\n#Centimeter\n#\u3061\u3065\u308b\n#chizuru\n#\u6c34\u539f\u5343\u9db4\n#\u5f3e\u3044\u3066\u307f\u305f\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nSupport me by Patreon!!(*\u00b4\u2200`)~\u2665\nhttps://www.patreon.com/panpiano\n\nMy Instagram\nhttps://www.instagram.com/panpianoatelier/\n\nMy Blog(\u4e2d\u6587)\nhttp://panpiano.com\n\n\u5c0fP\u7684\u97f3\u6a02\u5de5\u623f\u92fc\u7434\u521d\u7d1a\u8ab2\u7a0b(\u4e2d\u6587)\nhttp://panpiano.com/basic_class/\n\nMy Twitter!(\u65e5\u672c\u8a9e)\nhttps://twitter.com/panpianoatelier\n\nMy facebook page(\u4e2d\u6587/English):\nhttps://www.facebook.com/panpianoatelier\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/168_z38rdf8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/168_z38rdf8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/168_z38rdf8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/168_z38rdf8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/168_z38rdf8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 589,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "168_z38rdf8"
+        },
+        "videoOwnerChannelTitle": "Pan Piano",
+        "videoOwnerChannelId": "UCI7ktPB6toqucpkkCiolwLg"
+    },
+    "contentDetails": {
+        "videoId": "168_z38rdf8",
+        "videoPublishedAt": "2021-12-11T13:30:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

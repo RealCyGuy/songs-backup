@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "K2-INZfNKyFiqWJ4J84WqT-13hA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GM0Q3M0MzMzY5NTJFNTdE",
+    "snippet": {
+        "publishedAt": "2021-04-25T03:48:31Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "L's theme A",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qR6dzwQahOM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qR6dzwQahOM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qR6dzwQahOM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1353,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qR6dzwQahOM"
+        },
+        "videoOwnerChannelTitle": "joseuchiha80",
+        "videoOwnerChannelId": "UC15Wumb6NXhAIR8dRBAK78g"
+    },
+    "contentDetails": {
+        "videoId": "qR6dzwQahOM",
+        "videoPublishedAt": "2010-07-13T11:55:12Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

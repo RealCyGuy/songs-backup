@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "_oWp99iwuiUuCtr6NqPmmB0_InU",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40OTY5ODI1NkZBOTg1RDE0",
+    "snippet": {
+        "publishedAt": "2022-02-20T08:01:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\"i don't wanna go to school\" full song",
+        "description": "get this song on iTunes, if you're into that sort of thing   https://itunes.apple.com/us/album/school/id1031121667\n\n\n\n\n\nhttp://billwurtz.com\n\n\n\n\npatreon:  http://patreon.com/billwurtz\nspotify:  https://play.spotify.com/artist/78cT0dM5Ivm722EP2sgfDh\nitunes:  http://itunes.apple.com/us/artist/bill-wurtz/id1019208137\ntwitter:  http://twitter.com/billwurtz\ninstagram:  http://instagram.com/notbillwurtz\nvine:  http://vine.co/billwurtz\ndonate:  http://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VXTWA8CDYP4RJ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RffAHV3tcgM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RffAHV3tcgM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RffAHV3tcgM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/RffAHV3tcgM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/RffAHV3tcgM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 359,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "RffAHV3tcgM"
+        },
+        "videoOwnerChannelTitle": "bill wurtz",
+        "videoOwnerChannelId": "UCq6aw03lNILzV96UvEAASfQ"
+    },
+    "contentDetails": {
+        "videoId": "RffAHV3tcgM",
+        "videoPublishedAt": "2015-08-10T22:29:26Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

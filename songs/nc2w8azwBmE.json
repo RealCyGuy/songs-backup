@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "p0Z8CRUy3C1nH-4IXv0jJPKizFQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41Qzc2Qzk0NzY4Njk4MTg1",
+    "snippet": {
+        "publishedAt": "2022-07-04T04:57:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Gravity Falls (acapella)",
+        "description": "Would you follow Maytree? :)\nwww.instagram.com/maytree_music\nwww.facebook.com/maytreemusic\nwww.youtube.com/maytreeofficial\n\n#gravityfalls #disney #tvshow",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 71,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nc2w8azwBmE"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+    },
+    "contentDetails": {
+        "videoId": "nc2w8azwBmE",
+        "videoPublishedAt": "2022-03-04T12:00:22Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

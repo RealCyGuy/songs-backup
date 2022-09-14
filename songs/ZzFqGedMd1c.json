@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "8qCW6RuaaieQYSdLGgSR3a8YY_Y",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNEI2QjE5MzFENjA0NkIy",
+    "snippet": {
+        "publishedAt": "2022-06-04T00:17:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shoko Nakagawa - Doridori",
+        "description": "Music video by Shoko Nakagawa performing Doridori. (C) 2014 Sony Music Records, a division of Sony Music Labels Inc.\n\nhttp://vevo.ly/YNiNnD",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZzFqGedMd1c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZzFqGedMd1c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZzFqGedMd1c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ZzFqGedMd1c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ZzFqGedMd1c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 140,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZzFqGedMd1c"
+        },
+        "videoOwnerChannelTitle": "ShokoNakagawaVEVO",
+        "videoOwnerChannelId": "UCa7gEBQUdo-li2wDI1pjbhA"
+    },
+    "contentDetails": {
+        "videoId": "ZzFqGedMd1c",
+        "videoPublishedAt": "2018-07-01T07:00:05Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "tuc_5885EOmsfnXfiCFt7oc9GQk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43NjBEM0I3NzgwODY2RDIz",
+    "snippet": {
+        "publishedAt": "2022-03-16T16:54:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Night Tempo x Tomggg - \u597d\u304d? Suki!",
+        "description": "\u597d\u304d? Suki! by Night Tempo x Tomggg\nFree Download : https://www.toneden.io/nighttempo/post/suki\n\nSpecial thanks to The Boin for creating the wonderful visuals to this track! Please check out their other edits below!\nThe Boin\u2019s Youtube : https://www.youtube.com/channel/UCArs0FB5QjYpTAtnMmjMn6w\n\nFollow Night Tempo (producer) :\n- Soundcloud : https://soundcloud.com/ntreboot\n- Twitter : https://twitter.com/nighttempo\n- Facebook : https://www.facebook.com/nighttempo\n- Instagram : https://www.instagram.com/nighttempo/\n\nFollow Tomggg (producer) : \n- Soundcloud  : https://soundcloud.com/tomggg\n- Twitter : https://twitter.com/Tomggg\n- Website : http://info.tatsuyafujishiro.com/\n\nFollow The Boin (visual editor) :\n- Youtube : https://www.youtube.com/channel/UCArs0FB5QjYpTAtnMmjMn6w\n- Twitter : https://twitter.com/BOINBOISBOS\n- Soundcloud : https://soundcloud.com/superbbs\n\nFollow Waifu Wednesdays :\n- Twitter : https://twitter.com/waifuwed\n- Facebook : https://www.facebook.com/waifuwednesdays/\n\nAnime Used : Flip Flappers\n\nSubmit your songs for upload to : waifumanagement@gmail.com!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/S8pjExFdu7g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/S8pjExFdu7g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/S8pjExFdu7g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/S8pjExFdu7g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/S8pjExFdu7g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 326,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "S8pjExFdu7g"
+        },
+        "videoOwnerChannelTitle": "Waifu Wednesdays",
+        "videoOwnerChannelId": "UC-wNjNTqCfXSKd4S1tNgWUg"
+    },
+    "contentDetails": {
+        "videoId": "S8pjExFdu7g",
+        "videoPublishedAt": "2017-02-08T12:52:42Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

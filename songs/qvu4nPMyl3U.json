@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Y2L3x1jDJnsLZfUyAgEeJ19l9_Q",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRDNCNzJGRkIxNzNDMTcz",
+    "snippet": {
+        "publishedAt": "2022-06-13T01:08:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'Savage Love' (Laxed \u2013 Siren Beat) [BTS Remix] Lyric Video",
+        "description": "#SavageLoveRemix #BTS #\ubc29\ud0c4\uc18c\ub144\ub2e8\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qvu4nPMyl3U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qvu4nPMyl3U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qvu4nPMyl3U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qvu4nPMyl3U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qvu4nPMyl3U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 119,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qvu4nPMyl3U"
+        },
+        "videoOwnerChannelTitle": "BANGTANTV",
+        "videoOwnerChannelId": "UCLkAepWjdylmXSltofFvsYQ"
+    },
+    "contentDetails": {
+        "videoId": "qvu4nPMyl3U",
+        "videoPublishedAt": "2020-10-02T04:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

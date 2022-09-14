@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "hmQ_6NRA-2gYSWeYLr2U19vssKQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41QzgzQTNDMjYxMzc1MTgy",
+    "snippet": {
+        "publishedAt": "2022-07-26T05:29:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "My Brothe: An Email Funk Opera",
+        "description": "I never imagined strangers on the internet could be so generous.\n\nBLESS MY PATREON? \nhttps://link.jazzemu.com/mb/patreon\n\nFor Spotify, Socials, Merch and all other sluicable delectations: \nhttps://linktr.ee/jazzemu_\n\nJazz Emu Loves u xx",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dmss2dJ__cI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dmss2dJ__cI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dmss2dJ__cI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/dmss2dJ__cI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 27,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "dmss2dJ__cI"
+        },
+        "videoOwnerChannelTitle": "Jazz Emu",
+        "videoOwnerChannelId": "UCM-Imt636hk4nHrXKwxR7XA"
+    },
+    "contentDetails": {
+        "videoId": "dmss2dJ__cI",
+        "videoPublishedAt": "2021-03-25T14:30:40Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

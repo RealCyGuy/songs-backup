@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "4WExytTmRssquxMrZUzAupGFzW4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRUI2REQ2Q0UxMEJDMEZC",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:12:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Justin Bieber - Sorry (PURPOSE : The Movement)",
+        "description": "\u2018Purpose\u2019 Available Everywhere Now!\niTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113 \nStream & Add To Your Spotify Playlist: http://smarturl.it/sPurpose?IQid=VEVO1113 \nGoogle Play: http://smarturl.it/gPurpose?IQid=VEVO1113 \nAmazon: http://smarturl.it/aPurpose?IQid=VEVO1113 \n\nProduced by: BLOOD and Skrillex\n\nDirector: Parris Goebel\nProducer: Justin Bieber, Scott \"Scooter\" Braun and Parris Goebel\nAnimator: John Hwang \nProduction Company: SB Films and Taktix Films\nChoreographer: Parris Goebel\nDancers: The Ladies of ReQuest & The Royal Family Dance Crews from The Palace Dance Studio, NZ\n\n\nFollow Justin:\nhttp://facebook.com/justinbieber\nhttp://twitter.com/justinbieber\nhttp://instagram.com/justinbieber\nhttp://shots.com/justinbieber \nhttp://fahlo.me/justinbieber\nAnd sign up to Justin\u2019s newsletter: http://justinbiebermusic.com\nSnapchat: rickthesizzler\n \nLyrics: Sorry \u2013 Justin Bieber\n \nYou gotta go and get \nAngry at all of my honesty\nYou know I try but I don't do too well with apologies \nI hope I don't run out of Time could someone call the referee\nCause I just need one more shot at forgiveness \n \nI know you know that I \nmade those mistakes maybe once or twice \nAnd by once or twice I Mean \nMaybe a couple a hundred times \nSo let me oh let me \nRedeem oh redeem oh my self tonight \nCause I just need one more shot at second chances \n \nYeah\nIs it too late now to say sorry \nCause I\u2019m missing more than just your body \nIs it too late now to say sorry \nYeah I know that I let you down \nIs it too late to say I'm sorry now \nI\u2019m sorry yeah\nSorry yeah\nSorry\nYeah I know that I let you down\nIs it too late to say I\u2019m sorry now\n \nI'll take every single piece of the blame \nIf you want me too \nBut you know that there is no innocent one in this game for two\nI'll go I'll go and then \nYou go you go out and spill the truth \nCan we both say the words and forget this \n \nYeah\nIs it too late now to say sorry \nCause I\u2019m missing more than just your body \nIs it too late now to say sorry \nYeah I know that I let you down \nIs it too late to say I'm sorry now \n \nI'm not just trying to get you back on me\nCause I\u2019m missing more than just your body \nIs it too late now to say sorry \nYeah I know that I let you down \nIs it too late to say I'm sorry now \n \nI\u2019m sorry (yeah)\nSorry (oh)\nSorry\nYeah I know that I let you down \nIs it too late to say I'm sorry now \n \nI\u2019m sorry (yeah)\nSorry (oh)\nSorry\nYeah I know that I let you down \nIs it too late to say I'm sorry now  \n\nhttp://vevo.ly/Uf3y0K\n\n\u00a9: 2015 Def Jam Recordings, a division of UMG Recordings, Inc.\n\n#JustinBieber #Sorry #Vevo #Pop #Purpose",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 996,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fRh_vgS2dFE"
+        },
+        "videoOwnerChannelTitle": "JustinBieberVEVO",
+        "videoOwnerChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A"
+    },
+    "contentDetails": {
+        "videoId": "fRh_vgS2dFE",
+        "videoPublishedAt": "2015-10-22T20:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

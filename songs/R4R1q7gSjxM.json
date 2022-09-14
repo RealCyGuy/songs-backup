@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Ile9zuwoxCEDdF4G-UOhx_9om_o",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MUYwREI2M0UxQkIzNkUw",
+    "snippet": {
+        "publishedAt": "2022-06-01T05:14:41Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "SPY x FAMILY Ending but it's lofi hip hop | Comedy - Gen Hoshino (Anya Chill Beats)",
+        "description": "1 HOUR VERSION \u25ba https://youtu.be/CzfdkezO6xM\n\ud83c\udfa7 Stream on Spotify, Apple Music & More! \u25ba https://lnk.to/WakuWaku\n\u266b SPY x FAMILY SPOTIFY PLAYLIST \u25ba https://spoti.fi/3E1qSbp\n\nFollow MIK (lofi artist I collab'd with)\n\u25baYouTube: https://www.youtube.com/user/mikkychihuahua\n\u25baSpotify: http://spoti.fi/3jaB7yS\n\u25baInstagram: https://www.instagram.com/mikhelvin\n\n\ud83c\udfa7 Support my work on Patreon (HQ Mp3 & Wave)  \u25ba https://www.patreon.com/samuelkimmusic\n\ud83d\udc4d Buy me some Coffee \u25ba https://www.buymeacoffee.com/samuelkimmusic\n\n\ud83c\udfa7 My Music is Available Here \ud83c\udfa7\n\u25ba Spotify: https://spoti.fi/2vYKPBd\n\u25ba Apple Music/iTunes: https://apple.co/2wMUESQ\n\u25ba YouTube Music: https://bit.ly/2VFh8z9\n\u25ba Deezer: https://bit.ly/3eTNaPt\n\nConnect With Me on Social Media!\n\u25baInstagram: https://www.instagram.com/samuelkimmusic\n\u25baTwitter: https://twitter.com/samuelkimmusic\n\nAll copyright belongs to their respective owners. \nComedy by Gen Hoshino\nLofi Cover Arranged & Produced by MIK & Samuel Kim\n\n#SPYxFAMILY\n__________________________________________________________________________________________________ ***DO NOT RE-UPLOAD on YouTube or other platforms (Soundcloud, TikTok, etc.) It is strictly prohibited to use my covers/arrangements for Podcasts (Spotify/Apple Podcasts) Also DO NOT make remixes using the audio file of my covers, and DO NOT illegally distribute my music to streaming platforms. If you want to use my music for your YouTube videos, please visit: https://bit.ly/3oTIrlr",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/R4R1q7gSjxM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/R4R1q7gSjxM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/R4R1q7gSjxM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/R4R1q7gSjxM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/R4R1q7gSjxM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 161,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "R4R1q7gSjxM"
+        },
+        "videoOwnerChannelTitle": "Samuel Kim Music",
+        "videoOwnerChannelId": "UCuoKuTCQ9dmPIgOgyLm9HgQ"
+    },
+    "contentDetails": {
+        "videoId": "R4R1q7gSjxM",
+        "videoPublishedAt": "2022-04-16T14:00:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

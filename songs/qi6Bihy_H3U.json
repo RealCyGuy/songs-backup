@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "fJ2C4LpEA-UVwLa0hPnOgB1UyEI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42QkE0ODNBNTRFMTc5NEM2",
+    "snippet": {
+        "publishedAt": "2022-04-27T04:21:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "mxmtoon - victim of nostalgia (official audio)",
+        "description": "'victim of nostalgia' is from mxmtoon's album rising, out now! stream or download rising here: http://mxmtoon.ffm.to/rising\n\nhttp://www.mxmtoon.com\nhttp://instagram.com/mxmtoon\nhttp://twitter.com/mxmtoon\nhttp://facebook.com/mxmtoon\nhttp://my.community.com/mxmtoon\n\nlyrics:\ni miss dinner talks and walks around the block with mom and\nwatching slasher films how i would kill to feel that thrill again\nspending all my time on finish lines and don\u2019t know why\nmaybe i should call my dad\n\ni wished that time passed like seasons in LA\nwhen grass in the front yard was waiting for greener days\n\nit\u2019s the panic of growing up\nit\u2019s the fear of fallin\u2019 down\nand if life ain't what you want\nit don\u2019t come back around\n\nit\u2019s the panic of growing up\nit\u2019s the fear of missing out\nwill it ever be enough\nif i\u2019m a victim of nostalgia\n\nwill i always be the words i wrote when i was 17\nwill the world still be around when i turn 63\ncause getting older\u2019s getting old\nand i wish someone would\u2019ve told me\n\ni wished that time passed like seasons in LA\nwhen grass in the front yard was waiting for greener days\n\nit\u2019s the panic of growing up\nit\u2019s the fear of fallin\u2019 down\nand if life ain't what you want\nit don\u2019t come back around\n\nit\u2019s the panic of growing up\nit\u2019s the fear of missing out\nwill it ever be enough\nif i\u2019m a victim of nostalgia\n\ni don\u2019t wanna\nfeel so bored of\nwhat i have right now",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qi6Bihy_H3U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qi6Bihy_H3U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qi6Bihy_H3U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qi6Bihy_H3U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qi6Bihy_H3U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 255,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qi6Bihy_H3U"
+        },
+        "videoOwnerChannelTitle": "mxmtoon",
+        "videoOwnerChannelId": "UCtuYNnKhOOQL_H6F-EzUaZg"
+    },
+    "contentDetails": {
+        "videoId": "qi6Bihy_H3U",
+        "videoPublishedAt": "2022-04-27T04:03:47Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

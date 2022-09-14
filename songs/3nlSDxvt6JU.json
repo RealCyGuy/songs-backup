@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "uaFFNAvx2N2cr7gui90pEHZ1wAQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNjNFN0I4ODYzQTQ3QTg2",
+    "snippet": {
+        "publishedAt": "2021-06-01T23:44:14Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Snail's House - Pixel Galaxy (Official MV)",
+        "description": "\u272a Hello! here's the Official Music Video of the song \"Pixel Galaxy\" which I released on April!\n\n******Buy/Listen to the song here****** \n\nhttps://0101.bandcamp.com/album/pixel-galaxy-2\n\nhttps://soundcloud.com/ujico/albums\n\niTunes : https://itunes.apple.com/jp/album/pixel-galaxy-single/id1304454906\n\nSpotify : https://open.spotify.com/album/0VET0W6B5ik8UsznaLXXDw?si=zUtxcGqn\n\n\u25b2MV CREATORS\n\n\u2605Speedosausage (main MV)\n\nhttps://twitter.com/SpeedoSausage\n\nhttps://www.youtube.com/user/speedosausage\n\n\u2605SouredApple (Background)\n\nhttps://twitter.com/SouredApple\n\nhttps://souredapple.newgrounds.com/\n\n\u2605KoizumiHazuki (Character design of snail girl)\n\nhttp://twitter.com/koizumihazuki\n\n\u2605moawling (Official Artwork)\n\nhttp://twitter.com/moawko\n\nhttps://moawling.newgrounds.com/\n\n\u2605\u9b54\u754c\u306e\u4f4f\u6c11 (Makaij) (Dream Castle Design)\n\nhttps://twitter.com/makaiJ\n\nhttps://www.pixiv.net/member.php?id=173369\n\n\u25b2Support me on Patreon!\n\nhttp://patreon.com/ujico\n\n\u25b2buy my albums on bandcamp\n\nhttp://0101.bandcamp.com\n\n\u25b2Please read this policy if you ever consider using my song on your vids : \nhttps://www.facebook.com/ujicosnaily/posts/512900315718340\n\n\u25b2Follow me on Social Media\n\nTwitter : http://twitter.com/loudnessfete\nSoundCloud : http://soundcloud.com/ujico\nFacebook : http://facebook.com/ujicosnaily\n\n\u25b2I have official discord server too, join here \n\nhttp://discord.me/ujico",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3nlSDxvt6JU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3nlSDxvt6JU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3nlSDxvt6JU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1179,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3nlSDxvt6JU"
+        },
+        "videoOwnerChannelTitle": "Ujico*/Snail's House",
+        "videoOwnerChannelId": "UCYxBY8mhJ7R2rMIcQ28H_Zw"
+    },
+    "contentDetails": {
+        "videoId": "3nlSDxvt6JU",
+        "videoPublishedAt": "2017-10-23T11:00:00Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

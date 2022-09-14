@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "YXQljIpf7L1t8WD7ClLZ_-n93ko",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yRTVFMEFEOEExQkE2MTA2",
+    "snippet": {
+        "publishedAt": "2021-09-17T05:49:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version)",
+        "description": "Please like and subscribe for more!!!\nWe love you, thanks for the views!\nDiscord: https://discord.gg/z5fGxdk3H6\n\nOriginal: https://youtu.be/TLsLd22mhOA\nExtension: @denialofate (VelvetCasca)\nThumbnail - @volkandulkadiroglu\n\n\n\nI own nothing shown in this video, but the edit. This video features materials protected by the Fair Use guidelines of Section 107 of the Copyright Act. All rights reserved to the copyright owners.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/k4FF7x8vnZg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/k4FF7x8vnZg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/k4FF7x8vnZg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 847,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "k4FF7x8vnZg"
+        },
+        "videoOwnerChannelTitle": "Hepburn",
+        "videoOwnerChannelId": "UC0XJ0f_Wa11Nk9V5Yno0qHg"
+    },
+    "contentDetails": {
+        "videoId": "k4FF7x8vnZg",
+        "videoPublishedAt": "2021-01-08T21:40:54Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "1RHZEZ51OhSgAbBJ4qWIFUUWFbk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMzFGOTQwQ0EwOTBBQUJE",
+    "snippet": {
+        "publishedAt": "2022-05-22T03:48:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u70ed\u7231105 \u2103\u7684\u4f60/\u963f\u8086Super Idol\uff09Japanese Cover, with romaji lyrics.",
+        "description": "Cover By:https://m.bilibili.com/video/BV1jK4y197Au\nOriginal Song:https://youtu.be/04Nna741O54\n\nRomaji lyrics by me. \n#\u70ed\u7231105C\u7684\u4f60\n#superidol \n#cover",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Hif-WDuzuTs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Hif-WDuzuTs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Hif-WDuzuTs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Hif-WDuzuTs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Hif-WDuzuTs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 203,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Hif-WDuzuTs"
+        },
+        "videoOwnerChannelTitle": "Rexx",
+        "videoOwnerChannelId": "UCP3k9NwsECUdvgcgbQoW7LQ"
+    },
+    "contentDetails": {
+        "videoId": "Hif-WDuzuTs",
+        "videoPublishedAt": "2021-10-21T17:00:39Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

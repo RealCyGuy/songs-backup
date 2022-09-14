@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "1iyqjEWoKI-VGPGrvtxUo5faZ9s",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MjE3M0ZBOUE4MjY1QTA1",
+    "snippet": {
+        "publishedAt": "2021-05-25T22:40:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Season 2019: A New Journey | League of Legends",
+        "description": "Season 2019: A New Journey\n\nPlay for free. Sign up for League of Legends - https://riot.com/playfree2019\n\nInspired by the true story of Michelle, a university student and League of Legends player who joined a team and joined the fight. Season 2019 of League of Legends starts now! It\u2019s On.\n\nAnimation: P.A. Works\nDirector: Shingo Yamashita\nMusic:  BANDAI NAMCO Arts\nVocals and Lyrics: AmaLee - https://www.youtube.com/user/LeeandLie\nAdditional Mixing and Engineering: Shawn Christmas and Freddy van Hoof\n\nSee the full production credits here - https://nexus.leagueoflegends.com/en-us/2019/01/a-brand-new-anime-journey-season-2019/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1e2xApDeRok/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1e2xApDeRok/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1e2xApDeRok/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1e2xApDeRok/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1e2xApDeRok/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1199,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1e2xApDeRok"
+        },
+        "videoOwnerChannelTitle": "League of Legends",
+        "videoOwnerChannelId": "UC2t5bjwHdUX4vM2g8TRDq5g"
+    },
+    "contentDetails": {
+        "videoId": "1e2xApDeRok",
+        "videoPublishedAt": "2019-01-23T18:00:20Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

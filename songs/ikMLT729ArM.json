@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "bkA4ojItJ0XY2TI73Cfep1Xf0pg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40REI0Q0ZBNkM2MTYyNEJG",
+    "snippet": {
+        "publishedAt": "2021-11-07T03:15:35Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Mozart drill remix",
+        "description": "\u2757This beat is free for non-profit\u2757\n\nInstagram: @prod.smurph\nBeatstars: https://www.beatstars.com/beat/8303557\n\noriginal: Rondo Alla Turca",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ikMLT729ArM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ikMLT729ArM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ikMLT729ArM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ikMLT729ArM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ikMLT729ArM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 692,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ikMLT729ArM"
+        },
+        "videoOwnerChannelTitle": "Prod. Smurph",
+        "videoOwnerChannelId": "UCpC53Vrt8LRq0rsgHHdlP2A"
+    },
+    "contentDetails": {
+        "videoId": "ikMLT729ArM",
+        "videoPublishedAt": "2021-03-30T08:58:03Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

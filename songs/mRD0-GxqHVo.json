@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "jlLh50Ygg7uxa7jFHqy0baa8cvM",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40NDM0QzEwRjlCNEZEOUI0",
+    "snippet": {
+        "publishedAt": "2022-02-20T07:47:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Glass Animals - Heat Waves (Official Video)",
+        "description": "DREAMLAND IS HERE. IT\u2019S YOURS NOW. I\u2019m feeling somewhere between absolute terror & super excitement. I really hope you enjoy it. can grab a copy / listen here: https://GlassAnimals.lnk.to/DreamlandAlbumYT\n\nInstagram: https://www.instagram.com/glassanimals\nFacebook: https://www.facebook.com/glassanimals/\nTwitter: https://twitter.com/GlassAnimals\n\nGrab merch, join mailing list & view live dates: https://www.glassanimals.com/\n\nDirector: Colin Read\nProduction Company: Pulse Films\n\nLyrics\n\nroad shimmer\nwiggling the vision\nheat heat waves\ni\u2019m swimming in a mirror\n\nsometimes, all i think about is you\nlate nights in the middle of june\nheat waves been faking me out\ncan\u2019t make you happier now\n\nusually i put\nsomething on tv\nso we never think\nabout you and me\n\nbut today i see\nour reflections \nclearly in hollywood\nlaying on the screen\n\nyou just need a better life than this\nyou need something I can never give\nfake water all across the road\nit\u2019s gone now the night has come but\n\nyou can\u2019t fight it\nyou can\u2019t breathe\nyou say something so loving but\nnow  I\u2019ve got to let you go\nyou\u2019ll be better off in someone new\ni don\u2019t wanna be alone\nyou know it hurts me too\n\nyou look so broken when you cry\none more and then i\u2019ll say goodbye\n\ni just wonder what you\u2019re dreaming of\nwhen you sleep and smile so comfortable\ni just wish that I could give you that\nthat look that\u2019s perfectly unsad\n\nsometimes, all i think about is you\nlate nights in the middle of june\nheat waves been faking me out\nheat waves been faking me out\n\n\nMusic video by Glass Animals performing Heat Waves. \u00a9 2020 Wolf Tone Records, a division of Universal Music Operations Limited\n\n#GlassAnimals",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mRD0-GxqHVo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mRD0-GxqHVo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mRD0-GxqHVo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mRD0-GxqHVo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mRD0-GxqHVo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 363,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mRD0-GxqHVo"
+        },
+        "videoOwnerChannelTitle": "GlassAnimalsVEVO",
+        "videoOwnerChannelId": "UCOMLtULLvoymORim06O1vaw"
+    },
+    "contentDetails": {
+        "videoId": "mRD0-GxqHVo",
+        "videoPublishedAt": "2020-06-29T18:30:09Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

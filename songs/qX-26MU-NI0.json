@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Zxk3n61j1Krs74vvaxRLAl9WMhs",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QTU5RDhBQzExQkJGQjA3",
+    "snippet": {
+        "publishedAt": "2021-10-13T06:26:24Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I Wrote a Song Using Only Genshin Co-Op Signatures",
+        "description": "there are some wild genshin co-op signatures out there\n\nTWITCH \u25ba https://www.twitch.tv/vertiboat\n\n--------------------------------------------------------------------------\n\nDISCORD\u25ba https://discord.gg/6qEbFfDvwG\n\n\nTWITTER\u25ba https://twitter.com/Vertiboat\n\n--------------------------------------------------------------------------\n\nInstrumental is Venti and Dvalin by demongummies:\nhttps://www.youtube.com/watch?v=6uYA66ZtMj0\n\nSpecial Thanks to @demongummies for giving me permission to use their instrumental!\n\nGo check out their Youtube, Spotify, Soundcloud, and Instagram here: \nhttps://linktr.ee/demongummies\n\nBarbara in Thumbnail from:\nhttps://twitter.com/wusie2\n\n--------------------------------------------------------------------------\n\n#genshinsignatures #coopsignatures #canifishplease",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qX-26MU-NI0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qX-26MU-NI0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qX-26MU-NI0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qX-26MU-NI0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qX-26MU-NI0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 756,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qX-26MU-NI0"
+        },
+        "videoOwnerChannelTitle": "Vertigoat",
+        "videoOwnerChannelId": "UCd6pl2oRlCFrnsO5E4w_43w"
+    },
+    "contentDetails": {
+        "videoId": "qX-26MU-NI0",
+        "videoPublishedAt": "2021-09-28T14:00:19Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

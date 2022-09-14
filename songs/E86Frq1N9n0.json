@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "EhIPJ0MFL-PhIOAPKBEUkH2m1OY",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRTRBNTJEODRDMzI2RDk3",
+    "snippet": {
+        "publishedAt": "2022-01-03T07:38:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010Himechin\u3011Summertime \u2740 cinnamons x evening cinema \u3010Cover\u3011",
+        "description": "This song cute and I like cute things so I covered it xd\nyay \nHope you enjoy~\n~CREDITS~\nVocals/Video: Me!\nMix : Laplace\n\u2727https://www.youtube.com/channel/UCnKO...\n\u2727 https://twitter.com/AnguishedAlcor\nOriginal Song: https://www.youtube.com/watch?v=KMTo2LmixqQ\n\n\u2740MY SOCIALS\u2740\n\u2657Twitch: https://www.twitch.tv/himechin\n\n\u265dMy website: https://www.himechin.com\n\n\u2657Facebook page: https://www.facebook.com/himechindesu\n\n\u265dTwitter: https://twitter.com/himechin77\n\n\u2657Instagram: https://www.instagram.com/_.himechin._/\n\n\u265dPatreon: https://www.patreon.com/himechin\n\n\u2657Discord https://discord.gg/CwN5z3y5wW\n\n\u265dMerch https://teespring.com/stores/himegoods\n_________________________________________________________________ \nLeave a like and comment your thoughts~ \nand please be kind enough to subscribe ovo\n\n#playsummertime #cinnamons #eveningcinema",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/E86Frq1N9n0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/E86Frq1N9n0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/E86Frq1N9n0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/E86Frq1N9n0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/E86Frq1N9n0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 512,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "E86Frq1N9n0"
+        },
+        "videoOwnerChannelTitle": "Himechin",
+        "videoOwnerChannelId": "UChGFiHo7QMZEEdW0VSKX40w"
+    },
+    "contentDetails": {
+        "videoId": "E86Frq1N9n0",
+        "videoPublishedAt": "2020-07-09T04:00:30Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "dwMdyeKte72-rf8hqG1OVyY0Deg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41NzU4OUM4RTVCRTRFRTEx",
+    "snippet": {
+        "publishedAt": "2021-11-13T23:24:15Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Centimeter - Rent-a-Girlfriend (Opening) | Band Cover",
+        "description": "Rent-a-Girlfriend's opening song \"Centimeter\" covered by MattyyyM, Romi, Nanaru, \u687f\u5b50 Drumstick, HalcyonMusic & Rufus Mann!\n\n\ud83c\udfa7 Download this cover:\n\u25ba Spotify: https://spoti.fi/2WDMHZI\n\u25ba iTunes: https://apple.co/34Dqgbv\n\nCheck out everybody's channel!\n\ud83c\udfa4 @ROMI \n\ud83c\udfa4 @Nanaru \n\ud83e\udd41 @\u687f\u5b50 Drumstick \n\ud83c\udfb9 @HalcyonMusic / \u30cf\u30eb\u30b7\u30aa\u30f3 Anime Piano Covers \n\ud83c\udfb8 @Rufus Mann (bass)\n\ud83c\udfb8 @MattyyyM (guitar, mixing, mastering)\n\n\ud83d\udd14 Subscribe for weekly anime guitar covers: \u279c https://bit.ly/2LvSUQU\n\n\ud83c\udfb5 Support my channel on Patreon for tabs, backing tracks and MP3's!\n\u25ba Patreon: https://www.patreon.com/MattyyyM\n\n\ud83d\udde8\ufe0f Leave more anime opening suggestions below, and I hope you choose to like and share it!\n\n\ud83d\udcdd Credits: \nOriginally written by the peggies\n\nMore Band Covers!\n\u279c Demon Slayer - \"Gurenge\": \nhttps://www.youtube.com/watch?v=KqRl5OAFYCQ\n\u279c Tokyo Ghoul - \"Unravel\":\nhttps://www.youtube.com/watch?v=2j5KxZ8zLGg\n\u279c Naruto Shippuden - \"Silhouette\":\nhttps://www.youtube.com/watch?v=DrvE393d7n0",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gEZ_DY1V9U0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gEZ_DY1V9U0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gEZ_DY1V9U0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gEZ_DY1V9U0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gEZ_DY1V9U0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 673,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gEZ_DY1V9U0"
+        },
+        "videoOwnerChannelTitle": "MattyyyM",
+        "videoOwnerChannelId": "UCAYP3fJ8zYa5ieaekR8cjOg"
+    },
+    "contentDetails": {
+        "videoId": "gEZ_DY1V9U0",
+        "videoPublishedAt": "2020-12-23T20:00:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

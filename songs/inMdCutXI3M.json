@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "LaX-E8r4aISXf2lQWVqGa_nG354",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zOTExNTAwOERBMTNFRUM4",
+    "snippet": {
+        "publishedAt": "2021-07-18T18:44:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ViViD HIKARI (Video)",
+        "description": "ViViD HIKARI (Video Oficial)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/inMdCutXI3M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/inMdCutXI3M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/inMdCutXI3M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1062,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "inMdCutXI3M"
+        },
+        "videoOwnerChannelTitle": "K-Pop Love Mexico",
+        "videoOwnerChannelId": "UCVjLGL2XlCusPJLjPTjrbrw"
+    },
+    "contentDetails": {
+        "videoId": "inMdCutXI3M",
+        "videoPublishedAt": "2015-02-01T11:24:01Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

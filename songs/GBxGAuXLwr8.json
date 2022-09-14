@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "XjfyLTm1U5p__9L2SixWMnFTXtA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40MTlENzU1QTA2NEU2MjZB",
+    "snippet": {
+        "publishedAt": "2021-12-25T07:42:07Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Padoru Padoru (Azure Project Remix) \u266a",
+        "description": "\u2606 Stream/Download: https://soundcloud.com/iamazure/padoru-azure-projects-half-baked-remix\nMore Information/Social Media links in the description below \u21e9 \n\n\u2606 Follow Azure Project\n\u25cf SoundCloud: https://soundcloud.com/iamazure\n\u25cf Youtube: https://www.youtube.com/channel/UC8nqjyptbmE_RPNciPwPxIg\n\u25cf Facebook: https://www.facebook.com/KennethCities\n\n\u2606 Background: https://imgur.com/vGHF5lg\n\n\u2606 Follow Starling\n\u25cf Spotify: https://sptfy.com/StarlingEDMx\n\u25cf SoundCloud: https://soundcloud.com/StarlingEDM\n\u25cf Fanpage : https://www.facebook.com/StarlingEDM\n\u25cf Youtube: https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w\n\u25cf Ask: https://ask.fm/jodiestarling\n\n\n\u2606 Support Me\n\u25cf https://ko-fi.com/StarlingYT\n\u25cf https://www.paypal.me/JodieStarlingVN\n \n\n\u2606 Watch More Videos:\n\u25cf https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w/videos\n\n\n\u270f\ufe0f Copyright/Claims/Issues: info@starlingedm.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GBxGAuXLwr8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GBxGAuXLwr8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GBxGAuXLwr8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GBxGAuXLwr8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GBxGAuXLwr8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 561,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GBxGAuXLwr8"
+        },
+        "videoOwnerChannelTitle": "StarlingEDM",
+        "videoOwnerChannelId": "UCd7AuGqhXpOf-m5YBH4HM7w"
+    },
+    "contentDetails": {
+        "videoId": "GBxGAuXLwr8",
+        "videoPublishedAt": "2019-12-01T04:42:27Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

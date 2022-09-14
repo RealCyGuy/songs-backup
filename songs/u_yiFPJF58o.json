@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "mDbaprfcGsjMWcj2aTzicQ38qxo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RjUxOEJEMjNENzI2NDMz",
+    "snippet": {
+        "publishedAt": "2022-01-04T17:12:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Alec Benjamin x Zhao Lusi - Water Fountain (Mandarin Version)",
+        "description": "Download/Stream 'These Two Windows': https://alecbenjamin.lnk.to/TheseTwoWindowsID\n\nShop 'These Two Windows' merch: https://alecbenjamin.store\n\nFollow Alec Benjamin\nhttp://alecbenjamin.com\nhttps://facebook.com/AlecBenjaminMusic\nhttps://twitter.com/alecbenjamin\nhttps://instagram.com/alecbenjamin\nhttps://www.tiktok.com/@alecbenjamin\n\n#AlecBenjamin #TheseTwoWindows #WaterFountain",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/u_yiFPJF58o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/u_yiFPJF58o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/u_yiFPJF58o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/u_yiFPJF58o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 502,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "u_yiFPJF58o"
+        },
+        "videoOwnerChannelTitle": "Alec Benjamin",
+        "videoOwnerChannelId": "UCtWBCzqucZXq0M8jsqunM0g"
+    },
+    "contentDetails": {
+        "videoId": "u_yiFPJF58o",
+        "videoPublishedAt": "2021-01-06T20:27:39Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

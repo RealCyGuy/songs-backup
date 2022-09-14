@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "B3m2237WIA-MP2iPabmLrmvGoio",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNEExNDdDRjNCMkE3QzFF",
+    "snippet": {
+        "publishedAt": "2021-09-22T23:53:12Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Doki Doki Literature Club! OST - Your Reality (Credits)",
+        "description": "From the Doki Doki Literature Club OST. Full lyrics below.\nAvailable in the DDLC Fan Pack: http://ddlc.moe\nFull playlist: https://www.youtube.com/playlist?list=PLc5ZKngbAPXMG4yjq9ESGfqblQfL9g4-p\n\nEvery day, I imagine a future where I can be with you\nIn my hand is a pen that will write a poem of me and you\nThe ink flows down into a dark puddle\nJust move your hand - write the way into his heart!\nBut in this world of infinite choices\nWhat will it take just to find that special day?\nWhat will it take just to find that special day?\n\nHave I found everybody a fun assignment to do today?\nWhen you're here, everything that we do is fun for them anyway\nWhen I can't even read my own feelings\nWhat good are words when a smile says it all?\nAnd if this world won't write me an ending\nWhat will it take just for me to have it all?\n\nDoes my pen only write bitter words for those who are dear to me?\nIs it love if I take you, or is it love if I set you free?\nThe ink flows down into a dark puddle\nHow can I write love into reality?\nIf I can't hear the sound of your heartbeat\nWhat do you call love in your reality?\nAnd in your reality, if I don't know how to love you\nI'll leave you be",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CAL4WMpBNs0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CAL4WMpBNs0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CAL4WMpBNs0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/CAL4WMpBNs0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/CAL4WMpBNs0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 839,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CAL4WMpBNs0"
+        },
+        "videoOwnerChannelTitle": "Team Salvato",
+        "videoOwnerChannelId": "UC41-En1dwTQ6SRtDH0oY8bw"
+    },
+    "contentDetails": {
+        "videoId": "CAL4WMpBNs0",
+        "videoPublishedAt": "2017-09-25T15:32:48Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

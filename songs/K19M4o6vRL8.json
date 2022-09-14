@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "cZIgl5UU3DMYD1qnkTrK6bPY2w8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DNzlDMkVGN0RENEU3MDEw",
+    "snippet": {
+        "publishedAt": "2021-12-10T01:35:21Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BIBI - The Weekend (Official Music Video)",
+        "description": "Official music video for \"The Weekend\" by BIBI \u2014 out now: https://88rising.lnk.to/TheWeekendID\n\n\ube44\ube44 Bullets- we\u2019re back for the The Weekend!\nFollowing the success of BIBI\u2019s debut US performance at the hallmark 88rising Head in the Clouds Festival, the singer-songwriter returns with a thrilling visual storyline produced by 88rising and Core.A creative- starring BIBI in a forbidden romance with a sinister turn of events. The music video encompasses the pop-R&B track \u201cThe Weekend\u201d which is off 88rising\u2019s upcoming collaborative \u201cHead In The Clouds 3\u201d album.\n\n#BIBI #TheWeekend #BIBIWKND\n\nWant more #BIBI? Also check out the Samsung #withGalaxy official music video for \"The Weekend\" here: https://youtu.be/Q0rprWgwoWU\n\nFollow BIBI\nhttps://www.instagram.com/nakedbibi\nhttps://www.tiktok.com/@nakedbibi\nhttps://twitter.com/nakedbibi\n\nSubscribe to 88rising\nhttp://88rising.lnk.to/subscribe\n\nFollow 88rising\nhttp://instagram.com/88rising\nhttp://twitter.com/88rising\nhttp://facebook.com/88rising\n\nJoin the community\nhttps://discord.gg/88rising",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/K19M4o6vRL8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/K19M4o6vRL8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/K19M4o6vRL8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/K19M4o6vRL8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/K19M4o6vRL8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 599,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "K19M4o6vRL8"
+        },
+        "videoOwnerChannelTitle": "88rising",
+        "videoOwnerChannelId": "UCZW5lIUz93q_aZIkJPAC0IQ"
+    },
+    "contentDetails": {
+        "videoId": "K19M4o6vRL8",
+        "videoPublishedAt": "2021-12-06T05:00:14Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

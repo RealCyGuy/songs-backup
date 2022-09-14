@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "9nPHaS2e7EenDINixpbXG810mDw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45RUE5MzExM0M1MDk4OEY1",
+    "snippet": {
+        "publishedAt": "2022-03-22T00:56:06Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "lag train but it's lofi hiphop (inabakumori)",
+        "description": "Lag Train Lofi Hip-Hop Remix\n\u30e9\u30b0\u30c8\u30ec\u30a4\u30f3\u30fb\u30ed\u30fc\u30d5\u30a1\u30a4\u30fb\u30ea\u30df\u30c3\u30af\u30b9\n\nOriginal: https://www.youtube.com/watch?v=UnIhRpIT7nc\n\n\ud835\ude6c\ud835\ude5a\ud835\ude56\ud835\ude67 \ud835\ude5d\ud835\ude5a\ud835\ude56\ud835\ude59\ud835\ude65\ud835\ude5d\ud835\ude64\ud835\ude63\ud835\ude5a\ud835\ude68\n\u2606*:.\uff61. o(\u2267\u25bd\u2266)o .\uff61.:*\u2606\n\nCollaboration with jian lofi\ud83d\ude40\nhttps://youtube.com/c/jianlofi\n\nFollow me:\nTwitter: @venvn2\nInstagram: prodvenvn\n\nStream my music!\nhttps://linktr.ee/venvn\n\n#inabakumori #lagtrain #lagtrainmeme #rubberbandgirl",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UUdg-tQX5oY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UUdg-tQX5oY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UUdg-tQX5oY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UUdg-tQX5oY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UUdg-tQX5oY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 314,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UUdg-tQX5oY"
+        },
+        "videoOwnerChannelTitle": "venvn",
+        "videoOwnerChannelId": "UCcXl_tOBXjHE6VQSUMuXbbA"
+    },
+    "contentDetails": {
+        "videoId": "UUdg-tQX5oY",
+        "videoPublishedAt": "2021-11-18T07:18:50Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

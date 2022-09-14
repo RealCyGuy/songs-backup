@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "hYu4e3f6WfUWP-hZI45ZDaMkQQY",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40MEYyNDcyNUI2ODA2NEE4",
+    "snippet": {
+        "publishedAt": "2021-10-31T22:52:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Camila Cabello - Havana (Audio) ft. Young Thug",
+        "description": "\"Havana\" feat. Young Thug  available at iTunes   http://smarturl.it/Havana_iT\nApple Music  http://smarturl.it/Havana_AM\nSpotify  http://smarturl.it/Havana_Sptfy \n\nFind Camila Here: \nhttps://twitter.com/camila_cabello\nhttps://www.instagram.com/camila_cabello\nhttps://www.facebook.com/97camilacabello/\n\n(C) 2017 Simco Ltd. under exclusive license to Epic Records, a division of Sony Music Entertainment",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HCjNJDNzw8Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HCjNJDNzw8Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HCjNJDNzw8Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HCjNJDNzw8Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HCjNJDNzw8Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 709,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HCjNJDNzw8Y"
+        },
+        "videoOwnerChannelTitle": "CamilaCabelloVEVO",
+        "videoOwnerChannelId": "UCk0wwaFCIkxwSfi6gpRqQUw"
+    },
+    "contentDetails": {
+        "videoId": "HCjNJDNzw8Y",
+        "videoPublishedAt": "2017-08-03T16:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

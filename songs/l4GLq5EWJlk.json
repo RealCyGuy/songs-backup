@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "dKNFFkUPgHmpJj_qlM2mDuW_9Zg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMTg4OUIyNkM0MzVDRTVF",
+    "snippet": {
+        "publishedAt": "2022-02-03T06:52:31Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u6b0a\u5fa1\u5929\u4e0b Sun Quan the Emperor - Piano DIFFICULT version",
+        "description": "\u6b0a\u5fa1\u5929\u4e0b (Sun Quan the Emperor)\n\u4f5c\u66f2/Composed: \u70cf\u9f9cSui \n\u6539\u7f16\u66f2/Arranged: Junferno\n\n\u6211\u521a\u628a\u89c6\u9891\u7ed9\u6e32\u67d3\u597d\u4e86\u5c31\u53d1\u73b0\u6709\u53e6\u4e00\u4e2a\u89c6\u9891\u7528\u7684\u80cc\u666f\u56fe\u7247\u548c\u989c\u8272\u548c\u6211\u7528\u7684\u4e00\u6478\u4e00\u6837\u3002\u4e5f\u597d\u6211\u4eec\u7684\u6539\u7f16\u66f2\u529e\u7684\u5f88\u4e0d\u4e00\u6837\u3002\n\nIt was only after rendering that I noticed someone else had coincidentally uploaded a version with the same background art and colours. Luckily, our arrangements are very different.\n\n\u4e50\u8c31\uff08\u514d\u8d39\u4e0b\u8f7d\uff09/Sheet music (free download): https://musescore.com/vinferno/sun-quan-the-emperor\n\n\u539f\u7248/Original\nhttps://www.bilibili.com/video/av2075941\nhttps://www.youtube.com/watch?v=hLfbcwf3Am0",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/l4GLq5EWJlk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/l4GLq5EWJlk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/l4GLq5EWJlk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/l4GLq5EWJlk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/l4GLq5EWJlk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 417,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "l4GLq5EWJlk"
+        },
+        "videoOwnerChannelTitle": "Junferno",
+        "videoOwnerChannelId": "UCRb6Mw3fJ6OFzp-cB9X29aA"
+    },
+    "contentDetails": {
+        "videoId": "l4GLq5EWJlk",
+        "videoPublishedAt": "2021-03-05T03:26:39Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

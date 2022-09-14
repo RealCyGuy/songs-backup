@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "A6AqTAsNQ1OGAjFA7PCpZInT440",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yRjUwQTI5RjEyQzVEMDM1",
+    "snippet": {
+        "publishedAt": "2021-12-22T06:52:41Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Azula - Avatar: The Last Airbender Soundtrack",
+        "description": "I take no credit for the audio or picture. All audio belongs to the registered publishers of Avatar: The Last Airbender and the \"The Track Team\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0BZLxBp4wgU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0BZLxBp4wgU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0BZLxBp4wgU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/0BZLxBp4wgU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 567,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0BZLxBp4wgU"
+        },
+        "videoOwnerChannelTitle": "Avatar Music",
+        "videoOwnerChannelId": "UCZ4Y-yrebWyPwAJDG89gu-g"
+    },
+    "contentDetails": {
+        "videoId": "0BZLxBp4wgU",
+        "videoPublishedAt": "2012-09-24T15:38:51Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

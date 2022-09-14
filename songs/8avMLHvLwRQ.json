@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "QYzfdXiHtV-wvWVP8rKUFdNyflg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NEVEOEUyMjAyOUMzQjVG",
+    "snippet": {
+        "publishedAt": "2021-09-09T04:31:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Wii Shop Channel Music",
+        "description": "From Nintendo's Wii, the Wii shop channel's music.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8avMLHvLwRQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8avMLHvLwRQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8avMLHvLwRQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 892,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8avMLHvLwRQ"
+        },
+        "videoOwnerChannelTitle": "Winry Rockbell",
+        "videoOwnerChannelId": "UCm5uTu01LnK6Q1FfHd0i7Ng"
+    },
+    "contentDetails": {
+        "videoId": "8avMLHvLwRQ",
+        "videoPublishedAt": "2007-01-07T22:50:58Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

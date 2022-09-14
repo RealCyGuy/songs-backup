@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "owfUiU2Uhz5g23pxf_47T6Zk5bg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42RTNCOEMxREI3Q0VDMjU2",
+    "snippet": {
+        "publishedAt": "2021-04-26T01:19:24Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Blue Ridge Saga By James Swearingen",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/erBC7bj8DHY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/erBC7bj8DHY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/erBC7bj8DHY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/erBC7bj8DHY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1309,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "erBC7bj8DHY"
+        },
+        "videoOwnerChannelTitle": "bandpieces",
+        "videoOwnerChannelId": "UCWKqIx5p9cIfNi6QB2bac6A"
+    },
+    "contentDetails": {
+        "videoId": "erBC7bj8DHY",
+        "videoPublishedAt": "2012-07-09T09:39:57Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

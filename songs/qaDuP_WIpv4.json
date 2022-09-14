@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "yF-t1IfkNH8-WsXQxqpaWDF99bM",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMUM4MDIwOUM1QjAxMjEx",
+    "snippet": {
+        "publishedAt": "2022-04-17T04:06:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shotgun Willy x Yung Craka - Mexico (Lyric Video)",
+        "description": "Stream/Download: https://lnk.to/GetMexico\n\nFollow my IG: https://www.instagram.com/shotgunwilly\nVisual by: https://twitter.com/ArchieMcW\nYung Craka: https://www.youtube.com/channel/UCQJJKNjy-t_Yqf5w7M2D3PA\nProd. CallMeG",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qaDuP_WIpv4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qaDuP_WIpv4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qaDuP_WIpv4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qaDuP_WIpv4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qaDuP_WIpv4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 273,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qaDuP_WIpv4"
+        },
+        "videoOwnerChannelTitle": "Shotgun Willy",
+        "videoOwnerChannelId": "UCTg6Jny4X_LteWGccXf596Q"
+    },
+    "contentDetails": {
+        "videoId": "qaDuP_WIpv4",
+        "videoPublishedAt": "2021-04-30T04:00:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

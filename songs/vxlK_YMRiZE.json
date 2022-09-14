@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "jUuRUzPqPp_VvrMGClhtdrb0Zi4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42QjkxQzlGNTZERTRFODZE",
+    "snippet": {
+        "publishedAt": "2021-09-14T05:30:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u266bAddictive Music\u266b Ten Rabbits - \u5341\u53ea\u5154\u5b50",
+        "description": "\u2665\u10e6 Don't forget to SUBSCRIBE, Like & Share the if you enjoy it!~\u30fd(\uff9f\u2267\u03c9\u2266 )\uff89~\u2665\nTitle: Ten Rabbits\nCovered by: \u5341\u53ea\u5154\u5b50",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vxlK_YMRiZE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vxlK_YMRiZE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vxlK_YMRiZE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/vxlK_YMRiZE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 859,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vxlK_YMRiZE"
+        },
+        "videoOwnerChannelTitle": "Hoang Phuc",
+        "videoOwnerChannelId": "UCrLQXgjqJd0sJriAW25jh1w"
+    },
+    "contentDetails": {
+        "videoId": "vxlK_YMRiZE",
+        "videoPublishedAt": "2021-04-28T14:08:51Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

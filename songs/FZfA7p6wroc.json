@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "uPVTaQTL4K3igT5R6HjvIOMfJzE",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GRkI5NzhDQTI2Nzg5NTQ2",
+    "snippet": {
+        "publishedAt": "2021-12-07T23:41:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[FULL] Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai ED [Synthesia]",
+        "description": "After a bit of pain trying to write variations, I'm finally finished full version of Fukashigi no Carte, ED to SeiButa!\n\nI can rant forever about how amazing the anime is, or how weird the song was for me to arrange, but I won't. If you want to argue or talk with me about this, I'm always on Twitter and Discord!\n That's how much of a fan I am on this anime, I'm willing to yell anyone else down if they even say it's remotely bad.\n\nThe song itself is amazing too. The variations of the chorus is minimal, but I managed to write unique runs for each one. The piano solo/improv in the middle I just copied, and I also copied the original ending I had on my TV-size. For the half-step modulation, I just did a direct modulation via a pivot note of F.\n\nYea it was a pain to arrange. At least it turned out okay!\n\nEnjoy!\n\nP.S. don't ask me who best girl is, I can't decide.\n\nEDIT: Thank you to @HalcyonMusic for playing my arrangement! Now I know it's not impossible :)\nLink here: https://youtu.be/nS2glOKg0Do\nShow him some love!\n\n--------------------\n\nSubscribe to my channel for more content!\n\nChannel: https://www.youtube.com/c/zzzAnimeonPiano\nTwitter: https://twitter.com/zzzanimeonpiano\nSheets: https://sheet.host/user/zzzanimeonpiano\n\n--------------------\n\nSheets:\nhttps://sheet.host/sheet/puXrtr\nNote: the sheets have been simplified slightly in the second verse. It will not match exactly what is played in the video.\n\nEDIT: The part from 1:42 to 1:57 has been further simplified. The files for those are available under the same link.\n\n--------------------\n\nSong: Fukashigi no Carte\nAnime: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai \n\nOriginal Artists:\nMai Sakurajima (CV: Asami Seto),\nTomoe Koga (CV: Nao Touyama),\nRio Futaba (CV: Atsumi Tanezaki),\nNodoka Toyohama (CV: Maaya Uchida),\nKaede Azusawara (CV: Yurika Kubo),\nShouko Makinohara (CV: Inori Minase)\n\nArranged by: zzz",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FZfA7p6wroc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FZfA7p6wroc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FZfA7p6wroc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/FZfA7p6wroc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/FZfA7p6wroc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 620,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "FZfA7p6wroc"
+        },
+        "videoOwnerChannelTitle": "zzz - Anime on Piano",
+        "videoOwnerChannelId": "UCXbCo1dYKNceoxUC7rKMjZw"
+    },
+    "contentDetails": {
+        "videoId": "FZfA7p6wroc",
+        "videoPublishedAt": "2018-11-10T11:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

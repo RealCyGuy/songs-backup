@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "kvTh1BTqgDySIfqoKAsLC-PmR-k",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MkY4MEFEMzE4Q0IyQ0E4",
+    "snippet": {
+        "publishedAt": "2021-07-12T00:35:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
+        "description": "Official music video by The Weeknd & Ariana Grande performing \"Save Your Tears\" (Remix), available everywhere now: https://TheWeeknd.lnk.to/SYTRMX\n\n\u25baSubscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD\n\n\u25baGet exclusive merch: https://shop.theweeknd.com\n\n\u25baFollow The Weeknd:\nhttps://www.theweeknd.com\nhttps://instagram.com/theweeknd\nhttps://twitter.com/theweeknd\nhttps://facebook.com/theweeknd\nhttps://snapchat.com/add/theweeknd\nhttps://triller.co/@theweeknd\nhttps://tiktok.com/@theweeknd\n\nProduction Company: Blinkink @blink_ink\nDirector: Jack Brown - @jbanimation\nExecutive Producer: Josef Byrne @philipphlop \nProducers: Matt Marsh, Dom Thompson-Talbot & Sami Goddard\nStoryboard Artist: Sav Aky\u00fcz @splitwigs\n\nDesign:\nPete Sharp @petesharp.universe\nDexter Maurer @dextermaurer\nJames Neilson @jamesxneilson\n\nCharacter Design: Jack Brown - @jbanimation\n\nAnimation:\nAnita Gill @_anitagill\nAndrew Khosravani @andrew_khosravani\nEd Smith @boxbeatrobot\nKatherine Spangenberg @katiediazz.art\nGaurav Wakankar @gwakankar\nMaki Yoshikura @maki_animation\nMichael Towers @michael.towers\nNikunj Patel @spiralofsorts\nThomas Knowler @knowlerdraws\n\nCompositors:\nJonathan Gallagher @grasptheview\nPaul Cheshire @paul_cheshire\nAdriano Vessichelli @adrianovessichelli\n\nEditor: David Toba @ediztor\n\nLyrics:\nTHE WEEKND\nI saw you dancing in a crowded room\nYou look so happy when I\u2019m not with you\nBut then you saw me caught you by surprise\nA single teardrop falling from your eyes\nI don\u2019t know why I run away\nI make you cry when I run away\nYou could\u2019ve asked my why I broke your heart\nYou could\u2019ve told me that you fell apart\nBut you walked past me like I wasn\u2019t there\nAnd just pretended like you didn\u2019t care\nI don\u2019t know why I run away\nI make you cry when I run away\nTake me back cause I wanna stay\nSave your tears for another\u2026\nSave your tears for another day\nSave your tears for another day\n\nARIANA GRANDE\nMet you once under a Pisces moon\nI kept my distance \u2018cause I know that you\nDon\u2019t like when I\u2019m with nobody else\nI couldn\u2019t help it, I put you through hell\nI don\u2019t know why I run away, oh boy\nI make you cry when I run away\nBoy take me back \u2018cause I wanna stay\nSave your tears for another\nI realize that it\u2019s much too late\nAnd you deserve someone better\n\nTHE WEEKND & ARIANA GRANDE\nSave your tears for another day\nSave your tears for another day\nI don\u2019t know why, I run away\nI make you cry when I run away\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\nSave your tears for another day\n\n#TheWeeknd #ArianaGrande #SaveYourTearsRemix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LIIDh-qI9oI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1082,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "LIIDh-qI9oI"
+        },
+        "videoOwnerChannelTitle": "TheWeekndVEVO",
+        "videoOwnerChannelId": "UCF_fDSgPpBQuh1MsUTgIARQ"
+    },
+    "contentDetails": {
+        "videoId": "LIIDh-qI9oI",
+        "videoPublishedAt": "2021-04-23T04:00:06Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "i1o4gIzvunEGrTObyOOnegX4ass",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRTdDRERFQTdFMzdCQzY3",
+    "snippet": {
+        "publishedAt": "2021-08-10T23:50:44Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Blend W",
+        "description": "Anime Snoop Dogg the cute japanese girl finds a free job posting at a maid cafe serving up delicious snacks and a double cheeseburger with dr dre\n\nwhat you thought i was just going to do the short parody video i did a couple of months ago? :^)\n\nParody of the intro for the anime Blend S.\n\nLot of hidden work in this one, a ton of rotoscoping, there was a lot more work than i expected but I'm still pretty happy with it, especially the audio. I also wanted to have a bit more fun with this one instead of doing a 1:1 recreation\n\n\nIf you liked the video, please throw me a subscription and a like, it's a good way to keep me going. \n\nCREDITS:\n\nAnimation: Eric Bradford\nAudio Clean up: beat_shobon\n\n-----\nPatreon helps me make cool videos like this, and helps me continue to make videos, please consider becoming a patron where you you get rewards such as uncompressed audio and all of my project files:\n\nhttps://www.patreon.com/MowtenDoo\n-----\n\nLINKS:\nhttps://twitter.com/MowtenDoo\nhttps://soundcloud.com/mowtendoo\nhttps://www.twitch.tv/mowtendoo\nhttps://teespring.com/stores/mowtendoo-store",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/DJfg39WkMvE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/DJfg39WkMvE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/DJfg39WkMvE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/DJfg39WkMvE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/DJfg39WkMvE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 964,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "DJfg39WkMvE"
+        },
+        "videoOwnerChannelTitle": "MowtenDoo",
+        "videoOwnerChannelId": "UCYFvEPbFbDIVRiODrh1-x4g"
+    },
+    "contentDetails": {
+        "videoId": "DJfg39WkMvE",
+        "videoPublishedAt": "2018-05-05T22:42:11Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

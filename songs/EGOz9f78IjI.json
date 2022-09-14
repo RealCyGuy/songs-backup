@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "2A-EJ9n5w-VdhhWhOVAX7hcNQ-0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDc2MTU5OTE1QjUwNTk0",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:39:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pentatonix - My Favorite Things (Official Video)",
+        "description": "Official Music Video for \u201cMy Favorite Things\u201d by Pentatonix\n\nListen to Pentatonix: https://Pentatonix.lnk.to/listenYD\n\nWatch More Videos by Pentatonix: https://pentatonix.lnk.to/listenYD/youtube \nSubscribe to the Official PTX YouTube channel: https://Pentatonix.lnk.to/subscribeYD\n\nJoin Our Patreon Fan Page! http://www.patreon.com/pentatonix\n\nFOLLOW PTX: \nhttp://www.ptxofficial.com \nhttp://www.facebook.com/Pentatonix \nhttps://www.instagram.com/ptxofficial\nhttps://www.tiktok.com/@pentatonix\nhttp://www.twitter.com/ptxofficial  \nhttp://www.snapchat.com/add/PTXsnap\n\n#Pentatonix #MyFavoriteThings  #OfficialVideo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 990,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EGOz9f78IjI"
+        },
+        "videoOwnerChannelTitle": "PentatonixVEVO",
+        "videoOwnerChannelId": "UCIE6_c6qPrHzuVRssQ5B0lQ"
+    },
+    "contentDetails": {
+        "videoId": "EGOz9f78IjI",
+        "videoPublishedAt": "2020-12-17T20:00:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

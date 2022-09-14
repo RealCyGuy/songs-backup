@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "X0QZYIb_AE9xh6PhhtKv4BKSa6Y",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EMzdGRjBBQzVCNEY2NDhG",
+    "snippet": {
+        "publishedAt": "2021-05-29T20:57:15Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Dr. Dre - Still Dre (Piano Solo)",
+        "description": "Performing a magical concert in Portofino, Italy on August 21. Click Here to watch the livestream! https://youtu.be/ZECGjoy0Cuc\n\nJust released my FIRST album! Listen here: https://youtu.be/Vbz290I-bEo\n\nThis is my epic piano cover of Dr Dre - Still D.R.E. (the piano solo version). Special thanks to kodeblooded for working with me on this remix.\n\n-----------------------------------------------------------------------------------\n\nFull EDM version \u25ba\u25ba https://youtu.be/Lme5W31aOPo\nSheet music here (piano part) \u25ba\u25ba https://www.musicnotes.com/l/R9Vm4\nkodeblooded YT Channel \u25ba\u25ba http://bit.ly/3nZi11n\n\n-----------------------------------------------------------------------------------\n\nStream This Song\nSpotify \u25ba\u25ba  https://bit.ly/stillDreSpotify\nApple \u25ba\u25ba http://apple.co/3aTT83q\nStream on other platforms \u25ba\u25ba https://ffm.to/stilldre\n\n-----------------------------------------------------------------------------------\n\nFollow me:\nTWITCH  \u25ba\u25ba https://twitch.tv/musicalbasics\nDISCORD  \u25ba\u25ba https://discord.gg/musicalbasics\n\n-----------------------------------------------------------------------------------\n\nStream My Music :)\n\nSpotify  \u25ba\u25ba http://bit.ly/MBPiano_Spotify\nApple Music  \u25ba\u25ba https://bit.ly/MB_AppleMusic\nAny other music service just search for MusicalBasics\n\n-----------------------------------------------------------------------------------\n\nThank you to my supporters on Patreon \u25ba\u25ba http://bit.ly/MB_Patreon\n\n-----------------------------------------------------------------------------------\n\nThanks For Watching!\n\n#Music #Piano #Epic #Virtuoso",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/j5LzEASx4YM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/j5LzEASx4YM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/j5LzEASx4YM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1184,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "j5LzEASx4YM"
+        },
+        "videoOwnerChannelTitle": "MusicalBasics Performances",
+        "videoOwnerChannelId": "UCn6EM__P_NUg_GrP23cJlmw"
+    },
+    "contentDetails": {
+        "videoId": "j5LzEASx4YM",
+        "videoPublishedAt": "2020-05-09T16:00:20Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

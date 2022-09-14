@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "39TToY4vRZIQHxP0khwwyCEEs-0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EQTRFODZENkUxQTRDQjlD",
+    "snippet": {
+        "publishedAt": "2022-01-25T07:58:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Upside Downs - Brain Stew 10 (official audio)",
+        "description": "WHAT IS THIS?... This is my cartoon band The Upside Downs and our newest song Brain Stew 10.\n\nAll of The Upside Downs songs are on Spotify: \nhttps://open.spotify.com/artist/3ZFRjGy24yyIAcfv02zmbe?si=aA2vYiQfRy-OF2F2janSjQ\n\nThe original song is Brain Stew by Green Day. This cover is legally licensed and cleared through Distrokid.\n\nLyrics by: Green Day, Ray William Johnson\nMusic by:  Green Day,  @BB GOAT   \nProduced by:  @BB GOAT \n\n#TheUpsideDowns #Music #RayWilliamJohnson",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/eMU81UFGtAY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/eMU81UFGtAY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/eMU81UFGtAY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/eMU81UFGtAY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/eMU81UFGtAY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 445,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eMU81UFGtAY"
+        },
+        "videoOwnerChannelTitle": "Ray William Johnson",
+        "videoOwnerChannelId": "UCGt7X90Au6BV8rf49BiM6Dg"
+    },
+    "contentDetails": {
+        "videoId": "eMU81UFGtAY",
+        "videoPublishedAt": "2021-04-16T22:25:01Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

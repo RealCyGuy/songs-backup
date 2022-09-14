@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "n_gnRwa8FPdL200Pr31oRm4quQQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MkFEOUMzQ0I0NzY5Nzc5",
+    "snippet": {
+        "publishedAt": "2022-02-15T06:57:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010Akie\u79cb\u7d75\u3011\u4e00\u68a6\u5343\u5bb5 YiMengQianXiao [\u539f\u795e\u30a4\u30f3\u30d1\u30af\u30c8 / Genshin Impact] \u30ab\u30d0\u30fc",
+        "description": "\u5143\u5bb5\u8282\u5feb\u4e50\uff01\n\u770b\u539f\u795e\u65b0\u6625\u4f1a\u7684\u65f6\u5019 \u4e00\u542c\u5230\u5c31\u51b3\u5b9a\u8981\u5531\u7684\u4e00\u9996\u6b4c\uff01\u592a\u559c\u6b22\u4e86\uff01\n\n\u5728\u73a9\u539f\u795e\u7684\u8fd9\u4e9b\u65e5\u5b50\u91cc\uff0c\u4f5c\u4e3a\u65c5\u884c\u8005\uff0c\u6e38\u79bb\u4e86\u8499\u5fb7\u7483\u6708\u7a3b\u59bb\uff0c\u8ba4\u8bc6\u4e86\u8bb8\u8bb8\u591a\u591a\u7684\u670b\u53cb\uff01\n\uff08\u8fd8\u62bd\u5230\u4e86\u5341\u4e2a\u8fea\u5362\u514b\uff09\n\u5e0c\u671b\u80fd\u548c\u66f4\u591a\u53ef\u7231\u53c8\u5e05\u6c14\u7684\u89d2\u8272\u4eec\u4e00\u8d77\u63a2\u7d22\u63d0\u74e6\u7279\uff01\n\u5e0c\u671b\u65c5\u884c\u8005\u53ef\u4ee5\u5feb\u70b9\u627e\u5230\u54e5\u54e5/\u59b9\u59b9\uff01\n\u5e0c\u671b\u6211\u80fd\u5feb\u70b9\u62bd\u5230\u516b\u91cd\u795e\u5b50\uff01\n\n\u7ffb\u5531\uff1aAkie\u79cb\u7ed8\n\u6df7\u97f3\uff1a\u6d0b\u8471\u6df7\u97f3\u5de5\u4f5c\u5ba4\n\u539f\u66f2\uff1ahttps://www.bilibili.com/festival/genshin2022?bvid=BV1QL4y147wM\n\u6b4c\u624b\uff1a\u6d1b\u5929\u4f9d\n\u4f5c\u66f2/\u7f16\u66f2/\u5236\u4f5c\u4eba\uff1a\u4eba\u5f62\u514e\n\u4f5c\u8bcd\uff1a\u767d\u5947/\u5148\u4ee3\n\u8c03\u6821\uff1a\u52a8\u70b9P\n\u5409\u4ed6\uff1aBitman\n\u7b1b\u5b50\uff1a\u7b1b\u5446\u5b50\u56da\u725b\n\u8d1d\u65af\uff1a\u4eba\u5f62\u514e\n\u5f26\u4e50\u7f16\u5199/\u76d1\u5236\uff1a\u80e1\u9759\u6210\n\u5f26\u4e50\u6f14\u594f\uff1a\u56fd\u9645\u9996\u5e2d\u7231\u4e50\u4e50\u56e2\n\u5f26\u4e50\u5f55\u97f3\uff1a\u738b\u5c0f\u56db@\u91d1\u7530\u5f55\u97f3\u68da\n\u548c\u58f0\uff1a\u6d1b\u5929\u4f9d/\u55b5\u2606\u9171\n\u6df7\u97f3/\u6bcd\u5e26\uff1a\u4eba\u5f62\u514e\n\u753b\u5e08\uff1a\u767d\u8336\u837c\u8475\u3001\u963f\u7a33\u540c\u5b66\u3001sheya\u3001\u74e6\u5988\u3001\u7f8e\u5473\u98ce\u5473\u87f9\n\u89c6\u9891\uff1aKin_en\n\u76d1\u5236\uff1a\u54c8\u7c73\u4f26\u7684\u5f04\u7b1b\u8005",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fuQUvNZUs9k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fuQUvNZUs9k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fuQUvNZUs9k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 372,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fuQUvNZUs9k"
+        },
+        "videoOwnerChannelTitle": "Akie\u79cb\u7d75",
+        "videoOwnerChannelId": "UCs_JLrcQMNMHZgclnYwmAcQ"
+    },
+    "contentDetails": {
+        "videoId": "fuQUvNZUs9k",
+        "videoPublishedAt": "2022-02-15T04:08:31Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

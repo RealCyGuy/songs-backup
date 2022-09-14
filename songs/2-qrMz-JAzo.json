@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "xBo6txP35yzzmbxqFQpfTBALuoo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMTVCOURDRUFENEI0MzQx",
+    "snippet": {
+        "publishedAt": "2021-11-09T05:26:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "John Williams - Flying Theme (E.T. the Extra-terrestial Soundtrack) [HQ]",
+        "description": "Longtime Spielberg collaborator John Williams, who composed the film's musical score, described the challenge of creating one that would generate sympathy for such an odd-looking creature. As with their previous collaborations, Spielberg liked every theme Williams composed and had it included. Spielberg loved the music for the final chase so much that he edited the sequence to suit it. Williams took a modernist approach, especially with his use of polytonality, which refers to the sound of two different keys played simultaneously. The Lydian mode can also be used in a polytonal way. Williams combined polytonality and the Lydian mode to express a mystic, dreamlike and heroic quality. His theme\u2014emphasizing coloristic instruments such as the harp, piano, celesta, and other keyboards, as well as percussion\u2014suggests E.T.'s childlike nature and his \"machine.\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2-qrMz-JAzo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2-qrMz-JAzo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2-qrMz-JAzo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/2-qrMz-JAzo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/2-qrMz-JAzo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 689,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2-qrMz-JAzo"
+        },
+        "videoOwnerChannelTitle": "The Spirit of Orchestral Music",
+        "videoOwnerChannelId": "UCAorliAMLIw_US9fmKxqOdg"
+    },
+    "contentDetails": {
+        "videoId": "2-qrMz-JAzo",
+        "videoPublishedAt": "2016-04-04T05:44:11Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

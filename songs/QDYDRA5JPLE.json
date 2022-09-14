@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "mgWZ8Ntz_YRx_ydZqCJVQ9EBH4w",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNzcyQjBENzY0MzhCQTI3",
+    "snippet": {
+        "publishedAt": "2022-02-13T06:39:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Lil Nas X - THATS WHAT I WANT (Official Video)",
+        "description": "Official video for \"THATS WHAT I WANT\" by Lil Nas X\n \nListen & Download \u2018MONTERO\u2019 the album out now: https://lilnasx.lnk.to/MonteroAlbum\n\nIf you\u2019d like to make a donation to Bros in Convo, click the link below and Gilead COMPASS Initiative will match total donations up to $25,000 \nhttps://brosinconvo.org/donate/\n\nStory By: Lil Nas X\nStarring: Yai Ariza\nDirector: STILLZ\nExec Producer: Esteban Zuluaga, Juan Vasquez \nProd. Company: WeOwnTheCity\nProducer: Esteban Zuluaga, Fabien Colas, Malcolm Duncan\nProducer/Commissioner: Saul Levitz\nCreative Director/Stylist: Hodo Musa\nDP: Christopher Ripley\nProduction Design: Terry Watson\nEditor: Miles Trahan\nColorist: Aubrey Woodiwiss\nVFX: Cameo FX & Straynge\n \nAmazon Music - https://lilnasx.lnk.to/MonteroAlbum/amazonmusic\nApple Music - https://lilnasx.lnk.to/MonteroAlbum/applemusic\nAudiomack - https://lilnasx.lnk.to/MonteroAlbum/audiomack\nDeezer - https://lilnasx.lnk.to/MonteroAlbum/deezer\niTunes - https://lilnasx.lnk.to/MonteroAlbum/itunes\nSoundCloud - https://lilnasx.lnk.to/MonteroAlbum/soundcloud\nSpotify - https://lilnasx.lnk.to/MonteroAlbum/spotify\nTidal - https://lilnasx.lnk.to/MonteroAlbum/tidal\nYouTube Music - https://lilnasx.lnk.to/MonteroAlbum/youtubemusic\n \nFollow Lil Nas X\nFacebook - https://www.facebook.com/LilNasX/\nInstagram - https://www.instagram.com/lilnasx/\nTwitter - https://twitter.com/LilNasX\nTikTok - https://www.tiktok.com/@lilnasx\n\n#LilNasX #MonterotheAlbum #THATSWHATIWANT",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/QDYDRA5JPLE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/QDYDRA5JPLE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/QDYDRA5JPLE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/QDYDRA5JPLE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/QDYDRA5JPLE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 395,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QDYDRA5JPLE"
+        },
+        "videoOwnerChannelTitle": "LilNasXVEVO",
+        "videoOwnerChannelId": "UCtTfSyci2urfwXXu_eRpNRA"
+    },
+    "contentDetails": {
+        "videoId": "QDYDRA5JPLE",
+        "videoPublishedAt": "2021-09-17T04:00:12Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

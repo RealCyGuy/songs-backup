@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "vAfrPqBf4-WJ6AzBCpavyr9Hyhs",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44MURFOUQxQUU1MDJENzg3",
+    "snippet": {
+        "publishedAt": "2022-05-19T04:22:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "As it was - Harry Styles (xooos cover)",
+        "description": "#Asitwas #HarryStyles\n\nxooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/\n\nBusiness contact : sooyeon507@gmail.com\n\nmix by @napkins music\n\n\"\ubcf8 \uc601\uc0c1\uc740 \uc18c\ub2c8 \ubba4\uc9c1 \ucf54\ub9ac\uc544\uc5d0\uc11c \uc9c0\uc6d0\uc744 \ubc1b\uc544 \uc81c\uc791\ub418\uc5c8\uc74c\uc744 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4.\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LLonEkjjM3M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LLonEkjjM3M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LLonEkjjM3M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/LLonEkjjM3M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/LLonEkjjM3M/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 215,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "LLonEkjjM3M"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "LLonEkjjM3M",
+        "videoPublishedAt": "2022-04-25T12:41:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

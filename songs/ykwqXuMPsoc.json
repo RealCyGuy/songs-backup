@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "i_UOe4Ecm2ijoaPaRReY9m0GSQ0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41NTQ3NjUzQTI4RUVGMEQy",
+    "snippet": {
+        "publishedAt": "2022-02-07T06:31:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Narwhals : animated music video : MrWeebl",
+        "description": "As seen on the Sprint commercials.\nNarwhals, Narwhals swimming in the ocean. Causing a commotion. 'Cos they are so awesome!\n\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\u2193\n\nMrWeebl is a channel of fun and silliness, with songs and cartoons and even cartoon songs. Wow. Some call it random. It's not random. It's absurd look at life because day-to-day life is ridiculous. \n\nPlease subscribe to us, or even better, follow us on Twitter and Instagram since that way YouTube can't just not show you what we've been up to like it tends to do.\n\nhttps://twitter.com/TheWeebl\nhttps://instagram.com/weebls_stuff\n\nIf you really want to help us then please consider supporting our work via Patreon.\n\nhttp://www.patreon.com/mrweebl\n\nOr you can always visit our website and store here.\n\nhttp://weebls-stuff.com\n\nSubscribe to Mr Weebl : http://is.gd/MoreWeebl",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ykwqXuMPsoc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ykwqXuMPsoc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ykwqXuMPsoc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ykwqXuMPsoc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ykwqXuMPsoc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 406,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ykwqXuMPsoc"
+        },
+        "videoOwnerChannelTitle": "Weebl's Stuff",
+        "videoOwnerChannelId": "UC9wk6mlzKKN3_sVMPd2p-3Q"
+    },
+    "contentDetails": {
+        "videoId": "ykwqXuMPsoc",
+        "videoPublishedAt": "2009-02-22T14:54:49Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "WMg9tIFfz1ZIR8jL-SQ4rOOh_lQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45RTA1QUExQTlEOUIxRjM4",
+    "snippet": {
+        "publishedAt": "2022-06-15T14:05:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "As It Was - Harry Styles / Japanese Cover",
+        "description": "\u3164\nyou know it's not the same as it was. i hope you like this one. \n\n\u3010 CREDITS \u3011\n\nSong: As It Was\nArtist: Harry Styles @Harry Styles \nLink: https://youtu.be/H5v3kku4y6Q\n\nVocals, Movie\n\u2022 Lime @Lime \n\nInst. Arrangement\n\u2022 ERASED https://www.erasedrecords.com/\n\nTranslyrics\n\u2022 R Rif https://www.facebook.com/hyrorif\n(Translated exclusively for this cover only)\n\nMix\n\u2022 Kenka https://www.youtube.com/c/KenkaCh\n\nIllustration\n\u2022 Marynn https://www.facebook.com/Marynn221003\n\n\u3010 SOCIALS \u3011\n\nTwitter https://twitter.com/limedayo\nSpotify https://spoti.fi/39WcwOI\nTiktok https://tiktok.com/@limedayo\nInstagram https://instagram.com/limedayo\n\n_____\n\nRe-upload is allowed with condition: put ALL proper credits and link to the original cover.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mgUrG9mCcUk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mgUrG9mCcUk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mgUrG9mCcUk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mgUrG9mCcUk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mgUrG9mCcUk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 113,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mgUrG9mCcUk"
+        },
+        "videoOwnerChannelTitle": "Lime",
+        "videoOwnerChannelId": "UCMdOcvasHUF_tImKhaXurEg"
+    },
+    "contentDetails": {
+        "videoId": "mgUrG9mCcUk",
+        "videoPublishedAt": "2022-06-15T14:00:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

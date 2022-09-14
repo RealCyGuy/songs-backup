@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "S7bnZsAfIUhMKfW7StXxBP_YmG0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EQzY3OTQyMTc2ODlCOEM3",
+    "snippet": {
+        "publishedAt": "2021-08-05T01:06:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Baka mitai / Dame Da Ne (Camellia Eurobeat Remix)",
+        "description": "mp3 : https://www.mediafire.com/file/w4y6cpc8vl8mxm4/DAMEDANE_(Baka_Mitai)_Camellia_Eurobeat_Remix.mp3/file\nzip(wav+mp3) : https://www.mediafire.com/file/zsx6erzmkmlpr1y/DAMEDANE_(Baka_Mitai)_Camellia_Eurobeat_Remix.zip/file\nBPM : 160.00\nGenre : Eurobeat\n\n---\n\n\u30a2\u30a4\u30c7\u30a2\u304c\u964d\u3063\u3066\u304d\u305f\u306e\u3067\u4f5c\u308a\u307e\u3057\u305f\u3002\u6d77\u5916\u306eMeme\u30cd\u30bf\u3067\u3059\u3002\nDAMEDANE DAMEYO DAME NANOYO...\nSo I've just made the remix of DAMEDANE (Bakamitai) from YAKUZA 5 into Eurobeat!\nEnjoy!\n\n#DAMEDANE #Deepfake #Yakuza\n\n---\n\nOriginal game : \u9f8d\u304c\u5982\u304f 5 (YAKUZA 5) http://ryu-ga-gotoku.com/five/\nOriginal vocal : Kazuma Kiryu (CV. Takaya Kuroda)\nOriginal composition : \u9f8d\u304c\u5982\u304f\u30b9\u30bf\u30b8\u30aa(YAKUZA Game Studio)\n\nDeepfake Video (of my face) : https://twitter.com/AurosVR/status/1288310818426236928\nCover vocal : me\nRemix : me\n\n---\n\n\u25a0 http://cametek.jp\n\u25a0 https://twitter.com/cametek\n\u25a0 https://discord.gg/xrzAse6\n\u25a0 https://www.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA\n\u25a0 https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M\n\u25a0 https://itunes.apple.com/jp/artist/%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82/566485174\n\u25a0 https://cametek.bandcamp.com/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/VWlk6yMscsg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/VWlk6yMscsg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/VWlk6yMscsg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/VWlk6yMscsg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/VWlk6yMscsg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 982,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "VWlk6yMscsg"
+        },
+        "videoOwnerChannelTitle": "Camellia Official",
+        "videoOwnerChannelId": "UCV4ggxLd_Vz-I-ePGSKfFog"
+    },
+    "contentDetails": {
+        "videoId": "VWlk6yMscsg",
+        "videoPublishedAt": "2020-07-29T14:10:07Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

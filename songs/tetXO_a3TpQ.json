@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Ic3qwhabD2lXofwk_nEAOAQw4uc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRTRFRTNDMjRFQjYzMDk4",
+    "snippet": {
+        "publishedAt": "2022-05-21T05:35:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "AJR - Way Less Sad (Cash Cash Remix) [Official Audio]",
+        "description": "Way Less Sad Remix by Cash Cash out now https://ajr.lnk.to/WLSRemix\n\n\"WAY LESS SAD\" FROM OK ORCHESTRA OUT NOW: https://AJR.lnk.to/okorchestraID",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/tetXO_a3TpQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/tetXO_a3TpQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/tetXO_a3TpQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/tetXO_a3TpQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/tetXO_a3TpQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 210,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "tetXO_a3TpQ"
+        },
+        "videoOwnerChannelTitle": "AJR",
+        "videoOwnerChannelId": "UCQ5w3fSomzziZfO7neK7eAg"
+    },
+    "contentDetails": {
+        "videoId": "tetXO_a3TpQ",
+        "videoPublishedAt": "2021-06-29T15:01:06Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

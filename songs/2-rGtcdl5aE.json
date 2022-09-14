@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Fjn4CJfAMJ-oPkvM33JVUXXKDEo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMzFEMDEwMUVCMjExN0M5",
+    "snippet": {
+        "publishedAt": "2022-04-27T05:57:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u674e\u514b\u52e4 - \u7d05\u65e5 (\u7cb5)",
+        "description": "\u7d05\u65e5 (\u7cb5)\n\n\u66f2\uff1a\u7acb\u5ddd\u4fca\u4e4b\n\u8a5e\uff1a\u674e\u514b\u52e4\n\u7de8\uff1a\u65b9\u6a39\u6a11\n\u5531\uff1a\u674e\u514b\u52e4\n\u789f\uff1a\u7d05\u65e5 (1992)\n\n* \u547d\u904b\u5c31\u7b97\u985b\u6c9b\u6d41\u96e2 \u547d\u904b\u5c31\u7b97\u66f2\u6298\u96e2\u5947\n\u547d\u904b\u5c31\u7b97\u6050\u5687\u8457\u4f60\u505a\u4eba\u6c92\u8da3\u5473\n\u5225\u6d41\u6dda \u5fc3\u9178 \u66f4\u4e0d\u61c9\u6368\u68c4\n\u6211\u9858\u80fd \u4e00\u751f\u6c38\u9060\u966a\u4f34\u4f60\n\nRepeat *\n\n# \u4e00\u751f\u4e4b\u4e2d\u515c\u515c\u8f49\u8f49 \u90a3\u6703\u770b\u6e05\u695a\n\u5fac\u5fa8\u6642\u6211\u4e5f\u8a66\u904e\u7368\u5750\u4e00\u89d2\u50cf\u662f\u6c92\u5354\u52a9\n\u5728\u67d0\u5e74 \u90a3\u5e7c\u5c0f\u7684\u6211\n\u8dcc\u5012\u904e\u5e7e\u591a\u5e7e\u591a\u843d\u6dda\u5728\u96e8\u591c\u6ec2\u6cb1\n\n^ \u4e00\u751f\u4e4b\u4e2d\u5f4e\u5f4e\u66f2\u66f2\u6211\u4e5f\u8981\u8d70\u904e\n\u5f9e\u4f55\u6642\u6709\u4f60\u6709\u4f60\u4f34\u6211\u7d66\u6211\u71b1\u70c8\u5730\u62cd\u548c\n\u50cf\u7d05\u65e5\u4e4b\u706b \u71c3\u9ede\u771f\u7684\u6211\n\u7d50\u4f34\u884c \u5343\u5c71\u4e5f\u5b9a\u80fd\u8e0f\u904e\n\n@ \u8b93\u665a\u98a8 \u8f15\u8f15\u5439\u904e\n\u4f34\u9001\u8457\u6e05\u5e7d\u82b1\u9999\u50cf\u662f\u5728\u795d\u798f\u4f60\u6211\n\u8b93\u665a\u661f \u8f15\u8f15\u9583\u904e\n\u9583\u51fa\u4f60\u6bcf\u500b\u5e0c\u5180\u5982\u6d6a\u82b1 \u5feb\u8981\u6cbe\u6fd5\u6211 wo...\n\nRepeat * # ^ @ * * * * *",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2-rGtcdl5aE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2-rGtcdl5aE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2-rGtcdl5aE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/2-rGtcdl5aE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 250,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2-rGtcdl5aE"
+        },
+        "videoOwnerChannelTitle": "hackenkelvin",
+        "videoOwnerChannelId": "UC0JXy_oks2R9YlFZSxxNPhg"
+    },
+    "contentDetails": {
+        "videoId": "2-rGtcdl5aE",
+        "videoPublishedAt": "2011-07-29T12:55:20Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

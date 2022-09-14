@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "-zaJ7ec1l9ehTQY3vDOybB0xKIA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MjUwREU3MjgyNjI1ODZC",
+    "snippet": {
+        "publishedAt": "2021-08-06T02:58:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Clean Bandit - Solo (feat. Demi Lovato) [Official Video]",
+        "description": "Download or stream our new single Tick Tock with Mabel ft. 24kGoldn: https://cleanbandit.lnk.to/TickTock\n\nDownload or stream our new album \"What Is Love?\" - out now: http://atlanti.cr/WhatIsLove\n\nWARNING: THIS VIDEO CONTAINS FLASHING LIGHTS WHICH MAY NOT BE SUITABLE FOR PHOTOSENSITIVE EPILEPSY. \n\nClick here to subscribe: http://bit.ly/SubscribeToCleanBandit\n\nFollow us:\nWebsite: http://cleanbandit.co.uk/\nFacebook: http://www.facebook.com/cleanbandit \nTwitter: http://www.twitter.com/cleanbandit \nInstagram: http://instagram.com/cleanbandit\nSoundcloud: http://www.soundcloud.com/cleanbandit\nSpotify: http://www.atlre.co.uk/CleanBanditSpotify\n\n___\n\nDirected by Grace Chatto\nCo-directed by Jack Patterson\nDirector of Photography - Anna Patarakina\n\nProduction Co. - Purple Squirrel Agency\nProducer - Lex Lewter\nProject Manager - Joseph Babalaco\nProduction Intern - Mackenzie Lawren\n\nCast:\nLead Male - George Todd Mclachlan\nLongboarders - Hyojoo Ko (Instagram @hyo_joo ), Amanda Caloia\nDog - Pablo Picasso\n\nPost Production:\nEditor - Josh Cooper\nVFX -  Max Colt at Gloria FX\nGrade - MPC Philip Hambi\nUS CREW (all scenes except potions laboratory):\n1st AC - Karla Wilson, Darren Kho\n2nd AC- Joe Chueng, Badra Haidra\nDIT - Sarah Greenwald\n1st AD - Big Riff\nStedicam - Lian Clark\nGaffer - Garrett Williams\nBBE - Jason Booth\nElectric - Rob Wright\nKey Grip - Stephen Chang\nBBG - Josh Smith\nGrip - Matt Garza\nSwing - Nick Bodkin\nDrone Operator - Jon Chou, Jack Patterson\nProduction Designer - Juan Mabson\nSet Dresser - Larry Rosales\nSet Dresser - Steve Lopez\nProduction Assistant - Jarret Woo\nCrafty - Lisa Love\n\nClean Bandit Grace Chatto Hair - Andreas Reece\nClean Bandit Grace Chatto Make Up - Amy Chance\nClean Bandit Styling - Erik Ziemba\nClean Bandit Styling Assistant -\nDemi Lovato Hair - Clyde Haywood\nDemi Lovato Make up - Jill Powell\nDemi Lovato Styling - Law Roach\n\nUK CREW (Laboratory Potions Scenes):\nProduction Manager - Meghan Wilcox\n1st AC - Thomas Nicholson  \n2nd AC - Chris Richard\nGaffer - Noah Furrer\nElectrician - Nick Leish\nElectrician- Kai Blamey  \nArt Director - Maz Staruch\nArt Assistant - Hannah Sharp\nClean Bandit Hair -  Narad Kutawaroo\nClean Bandit makeup - Elaine Lynskey\nRunners - Daniel Thornton\n                 Nichole Heller\n                 Fewa Williams\nBTS Photography - Darrin Bush\nBTS Photography - Alex Harper\nBTS Videography - Roxanna Baldwin\n\nCommissioners: Nicola Sheppard, Dan Curwin, Head of Video @ Atlantic Records UK\n\nIf anyone has been left of the credits, please contact Nicola or JB or Lex or Grace. Thank you!! \ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8JnfIa84TnU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8JnfIa84TnU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8JnfIa84TnU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8JnfIa84TnU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8JnfIa84TnU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 977,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8JnfIa84TnU"
+        },
+        "videoOwnerChannelTitle": "Clean Bandit",
+        "videoOwnerChannelId": "UCvhQPdeTHzIRneScV8MIocg"
+    },
+    "contentDetails": {
+        "videoId": "8JnfIa84TnU",
+        "videoPublishedAt": "2018-05-31T09:00:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

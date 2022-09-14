@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "92IaYTTwAaB1SFpG_xePAv0LV2U",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40NzRCQ0UxQTU5MDk2RUYy",
+    "snippet": {
+        "publishedAt": "2022-02-20T07:49:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I Wish You Love - Laufey (Cover)",
+        "description": "My arrangement of I wish you love for cello and voice!\n\nFollow my socials for more! \u2764\ufe0f\n\nSpotify: https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO?si=mffOFx5BRjy_FYOSZYASPw\nInstagram: https://www.instagram.com/laufey/\nTwitter: https://twitter.com/laufeylin",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/issStxOM5kw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/issStxOM5kw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/issStxOM5kw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/issStxOM5kw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/issStxOM5kw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 361,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "issStxOM5kw"
+        },
+        "videoOwnerChannelTitle": "Laufey",
+        "videoOwnerChannelId": "UChpKl3waLmccNeYH9LGYjUQ"
+    },
+    "contentDetails": {
+        "videoId": "issStxOM5kw",
+        "videoPublishedAt": "2020-05-17T15:28:35Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

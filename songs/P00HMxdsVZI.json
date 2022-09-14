@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "bVIT0TqpB7qJg3aqd5vqODuCPKY",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMEJCMkQxQ0ExNjJEOTYy",
+    "snippet": {
+        "publishedAt": "2022-02-20T07:13:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Lizzo - Truth Hurts (Official Video)",
+        "description": "The official video of \"Truth Hurts\" by Lizzo. \nDownload/Stream:  https://Atlantic.lnk.to/TruthHurtsAY\nListen to Lizzo\u2019s new album \u2018Cuz I Love You\u2019 out now!\nhttps://Lizzo.lnk.to/CuzILoveYouAY\n\nSubscribe for more content from Lizzo: \nhttps://lnk.to/SubscribeToLizzo\n\nFollow Lizzo\nhttps://instagram.com/f/lizzobeeating\nhttps://facebook.com/LizzoMusic\nhttps://twitter.com/lizzo\nhttps://soundcloud.com/lizzomusic\nhttp://lizzomusic.com\n\nThe official YouTube channel of Atlantic Records and Nice Life artist Lizzo. Subscribe for the latest music videos, performances, and more.\n\nBorn in Houston and raised in Detroit, Lizzo adopted her moniker in 2011 and fronted Lizzo & the Larva Ink after moving to Minneapolis. Her work began to intertwine with the city's indie scene, allowing her to work with artists like Gayngs and Doomtree.\n\nSince then, Lizzo has collaborated with a variety of creatives--Clean Bandit, Bastille, and Big Freedia, to name a few--and was named one of Forbes Magazine's 2018 \"30 Under 30\". Her top singles \"Good As Hell\" and \"Truth Hurts\" have gained over 34.5 million Spotify streams combined. In addition to headlining her own Good As Hell tour in 2017, Lizzo joined Haim on the Sister Sister Sister tour in 2018.\n\nSubscribe for the latest official music videos, official audio videos, performances, bts and more from Lizzo: https://lnk.to/SubscribeToLizzo\n\n#Lizzo #TruthHurts #OfficialVideo #AtlanticRecords #Atlantic\n\nListen to Best of Lizzo playlist \u27a4 https://bit.ly/3afMdhW\r\nWatch Lizzo\u2019s Official Music Videos \u27a4 https://bit.ly/3bgDQ5y\n\nDance At Home Music from Lizzo \u27a4 https://bit.ly/LizzoDanceAtHome",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/P00HMxdsVZI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/P00HMxdsVZI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/P00HMxdsVZI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/P00HMxdsVZI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 367,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "P00HMxdsVZI"
+        },
+        "videoOwnerChannelTitle": "Lizzo Music",
+        "videoOwnerChannelId": "UCXVMHu5xDH1oOfUGvaLyjGg"
+    },
+    "contentDetails": {
+        "videoId": "P00HMxdsVZI",
+        "videoPublishedAt": "2017-09-25T20:44:36Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

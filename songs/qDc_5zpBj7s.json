@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "52W3o8pcqN6zESzYvAN61J2iIm4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EQUIyNDM1MzU2NTU0MjlE",
+    "snippet": {
+        "publishedAt": "2021-10-31T22:33:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Meghan Trainor - Lips Are Movin (Official Music Video)",
+        "description": "\u201cLips Are Movin\u201d by Meghan Trainor\nListen to Meghan Trainor: https://MeghanTrainor.lnk.to/listenYD\nWatch more Meghan Trainor videos: https://MeghanTrainor.lnk.to/listenYD/youtube\n \nSubscribe to the official Meghan Trainor YouTube channel: https://MeghanTrainor.lnk.to/subscribeYD \n \nFollow Meghan Trainor:\nFacebook: https://MeghanTrainor.lnk.to/followFI\nTwitter: https://MeghanTrainor.lnk.to/followTI\nInstagram: https://MeghanTrainor.lnk.to/followII\nWebsite: https://MeghanTrainor.lnk.to/followWI\nSpotify: https://MeghanTrainor.lnk.to/followSI\n \nLyrics\nI know you're lyin' (Lyin')\n'Cause your lips are movin' (Movin')\nTell me, do you think I'm dumb?\nI might be young (Young), but I ain't stupid (Stupid)\nTalking around in circles with your tongue\nI gave you bass (Bass), you gave me sweet talk (Sweet talk)\nSaying how I\u2019m your number one\nBut I know you lie (Lie)\n'Cause your lips are movin (Movin)\nBaby, don't you know I'm done?\n \n#MeghanTrainor #LipsAreMovin #Pop",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qDc_5zpBj7s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qDc_5zpBj7s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qDc_5zpBj7s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qDc_5zpBj7s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qDc_5zpBj7s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 714,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qDc_5zpBj7s"
+        },
+        "videoOwnerChannelTitle": "MeghanTrainorVEVO",
+        "videoOwnerChannelId": "UCf3cbfAXgPFL6OywH7JwOzA"
+    },
+    "contentDetails": {
+        "videoId": "qDc_5zpBj7s",
+        "videoPublishedAt": "2014-11-19T14:00:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

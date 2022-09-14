@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "YbWOGXAQObtmlbHSB91hMeStA1g",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QzRDRDAyQTFFQzhENzMz",
+    "snippet": {
+        "publishedAt": "2021-08-14T00:59:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "elijah woods - lights (official music video)",
+        "description": "elijah woods - lights OUT NOW: https://elijahwoods.lnk.to/lights\n\ntik tok: https://vm.tiktok.com/ZMJcfS6h6/\ninstagram: https://www.instagram.com/elijahwoodsmusic/\nwebsite: https://elijahwoods.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5Grm3Uxeu8k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5Grm3Uxeu8k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5Grm3Uxeu8k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5Grm3Uxeu8k/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5Grm3Uxeu8k/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 960,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5Grm3Uxeu8k"
+        },
+        "videoOwnerChannelTitle": "elijah woods",
+        "videoOwnerChannelId": "UCqJ0zSk0fF_C4b_n9DkzOnA"
+    },
+    "contentDetails": {
+        "videoId": "5Grm3Uxeu8k",
+        "videoPublishedAt": "2021-01-16T00:00:11Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

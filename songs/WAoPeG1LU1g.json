@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "eYjW2fzjy2vYGl9y3ZsRhAWdels",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNEYyNTVBNDdGMDI1MDNC",
+    "snippet": {
+        "publishedAt": "2021-04-26T04:41:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Linked Horizon - Shinzou wo Sasageyo! [Shingeki no Kyojin S2 OP] Lyrics",
+        "description": "Thanks for watching :)\n\nSong: Shinzou wo Sasageyo!\nArtist: Linked Horizon\n@Linked Horizon \nhttps://www.youtube.com/watch?v=8QPyFlJNmus\n\nAnime:\nShingeki no Kyojin Season 2\nAttack on Titan Season 2\n\nLyrics from: \nhttp://www.kazelyrics.com/2017/04/lirikterjemahan-linked-horizon-shinzou.html\nhttp://www.lyrical-nonsense.com/lyrics/linked-horizon/shinzou-wo-sasageyo/\n\nDISCLAIMER: \nNo copyright infringement intended, song and pics belong to the rightful owners.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WAoPeG1LU1g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WAoPeG1LU1g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WAoPeG1LU1g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WAoPeG1LU1g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WAoPeG1LU1g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1285,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WAoPeG1LU1g"
+        },
+        "videoOwnerChannelTitle": "Cytharia",
+        "videoOwnerChannelId": "UCR44GBWJ8cFcpM1tGDcnUjQ"
+    },
+    "contentDetails": {
+        "videoId": "WAoPeG1LU1g",
+        "videoPublishedAt": "2017-08-11T04:20:41Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

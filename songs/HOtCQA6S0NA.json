@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "EOqI0B3NonwGu-647PNioaNWeMw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FODYwN0IxNjMwMjQ2RUYy",
+    "snippet": {
+        "publishedAt": "2022-04-13T05:50:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix)",
+        "description": "Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix)\n\u27a5https://soundcloud.com/absencemusik/wiz-khalifa-charlie-puth-see-you-again-absence-remix\n\n\u266b Buy The Original \u266b\n\u27a5https://smarturl.it/furious7\nClick \"Show more\" to see important details!\n\n\u266b Watch The Original Here \u266b\n\u27a5https://www.youtube.com/watch?v=RgKAFK5djSk\n\n\u266b Support House Nation \u266b\n\u2666https://alltrapnation.com/\n\u2666https://twitter.com/allhousenation\n\u2666https://facebook.com/allhousenation\n\u2666https://soundcloud.com/allhousenation\n\n\u266b Support The Remixer \u266b\n\u25cfhttps://twitter.com/absencemusik\n\u25cfhttps://facebook.com/absencemusik\n\u25cfhttps://soundcloud.com/absencemusik\n\n\u266b Support Wiz Khalifa \u266b\n\u25cfhttps://goo.gl/y3Bnno\n\u25cfhttps://wizkhalifa.com\n\u25cfhttps://taylorgangent.com\n\u25cfhttps://twitter.com/wizkhalifa\n\u25cfhttps://facebook.com/wizkhalifa\n\u25cfhttps://instagram.com/mistercap\n\u25cfhttps://soundcloud.com/wizkhalifa\n\n\u266b Support Charlie Puth \u266b\n\u25cfhttps://charlieputh.com\n\u25cfhttps://twitter.com/charlieputh\n\u25cfhttps://instagram.com/charlieputh\n\u25cfhttps://soundcloud.com/charlieputh\n\u25cfhttps://www.youtube.com/charlieputh\n\u25cfhttps://www.facebook.com/charlieputh\n\n\u266b Background Link \u266b\n\u27a5http://alpha.wallhaven.cc/wallpaper/78693\n\nIf you need a song removed on my channel, please e-mail me.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 294,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HOtCQA6S0NA"
+        },
+        "videoOwnerChannelTitle": "House Nation",
+        "videoOwnerChannelId": "UCj_Y-xJ2DRDGP4ilfzplCOQ"
+    },
+    "contentDetails": {
+        "videoId": "HOtCQA6S0NA",
+        "videoPublishedAt": "2015-05-27T15:11:07Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

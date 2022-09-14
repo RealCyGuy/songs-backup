@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "N3lIZ8Ga0Ve2CRfp6ICf6-Doa9g",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zRDkyMjc5NEFBNjEzNTk5",
+    "snippet": {
+        "publishedAt": "2022-05-15T00:05:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Latto - Big Energy (Official Lyric Video)",
+        "description": "Latto - Big Energy (Lyric Video)\nStream/Download: https://latto.lnk.to/BigEnergyID\n \nSubscribe for more official content from Latto:\nhttps://latto.lnk.to/YouTubeSubscribe \n \nFollow Latto\nhttps://www.biglatto.com/\nhttps://www.instagram.com/latto777   \nhttps://twitter.com/Latto\nhttps://soundcloud.com/latto777\nhttps://www.tiktok.com/@latto777 \n \nThe official YouTube channel of Latto. Subscribe for the latest music videos, performances, and more.\n \n#Latto #BigEnergy #BigLatto #LyricVideo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IpHPBIdrak4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IpHPBIdrak4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IpHPBIdrak4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/IpHPBIdrak4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/IpHPBIdrak4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 226,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "IpHPBIdrak4"
+        },
+        "videoOwnerChannelTitle": "LattoVEVO",
+        "videoOwnerChannelId": "UCGm22n-02oom5R_1lITZyAw"
+    },
+    "contentDetails": {
+        "videoId": "IpHPBIdrak4",
+        "videoPublishedAt": "2021-10-15T19:00:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

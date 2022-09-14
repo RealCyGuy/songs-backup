@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "9Tt6JO9Logt3mcvSI29aiDIUVEM",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45MDgzMzhDRDVDMzYwNDZE",
+    "snippet": {
+        "publishedAt": "2022-04-14T22:40:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "DNCE - Cake By The Ocean",
+        "description": "Cake By The Ocean (Official Lyric Video)\nSong taken from the SWAAY EP\nDownload: http://republicrec.co/DNCESwaayEx \n\nStream/Share \u201cCake By The Ocean\u201d on Spotify: https://open.spotify.com/track/42ftjU4cTN5UTRksyqBKZJ\n\nFollow DNCE\nInstagram: http://www.instagram.com/DNCE\nTwitter: http://www.twitter.com/DNCE\nFacebook: http://www.facebook.com/DNCEmusic\nSnapchat: DNCEmusic\n\nMusic video by DNCE performing Cake By The Ocean. \u00a9 2015 Republic Records a division of UMG Recordings Inc.\n\nhttp://vevo.ly/EF9dgx\nBest of DNCE: https://goo.gl/haNe6F\nSubscribe here: https://goo.gl/SfnZbH",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PAzH-YAlFYc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PAzH-YAlFYc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PAzH-YAlFYc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/PAzH-YAlFYc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/PAzH-YAlFYc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 291,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PAzH-YAlFYc"
+        },
+        "videoOwnerChannelTitle": "DNCEVEVO",
+        "videoOwnerChannelId": "UCEQ8hxWHFmfJVXibt3veDgQ"
+    },
+    "contentDetails": {
+        "videoId": "PAzH-YAlFYc",
+        "videoPublishedAt": "2015-09-29T17:00:01Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

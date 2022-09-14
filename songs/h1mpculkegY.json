@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "iQJK_CuTUBQKDPaDmqWXckWWKVc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44NEZGQ0U1RTA1NjgxM0RF",
+    "snippet": {
+        "publishedAt": "2022-07-05T01:03:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Chainsmokers, Bob Moses - Why Can't You Wait (Official Lyric Video)",
+        "description": "Official Lyric Video for \"Why Can't You Wait\" by The Chainsmokers and Bob Moses.\n \nThe Chainsmokers' new album \"So Far So Good\" is out now.\nListen to \"So Far So Good\" here: https://thechainsmokers.lnk.to/SFSG\nListen to \"So Far So Good (+ Why Can't You Wait)\" here: https://thechainsmokers.lnk.to/WCYW\n \nFollow The Chainsmokers\nTikTok: https://www.tiktok.com/@thechainsmokers\nInstagram: https://www.instagram.com/thechainsmokers/\nFacebook: https://www.facebook.com/thechainsmokers\nTwitter: https://twitter.com/thechainsmokers\nSnap: https://www.snapchat.com/add/thechainsmokers\nDiscord: https://discord.com/invite/thechainsmokers\nReddit: https://www.reddit.com/r/The_Chainsmokers/\nWebsite: https://thechainsmokers.com\n \n#TheChainsmokers #WhyCantYouWait #BobMoses",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/h1mpculkegY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/h1mpculkegY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/h1mpculkegY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 70,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "h1mpculkegY"
+        },
+        "videoOwnerChannelTitle": "ChainsmokersVEVO",
+        "videoOwnerChannelId": "UCRzzwLpLiUNIs6YOPe33eMg"
+    },
+    "contentDetails": {
+        "videoId": "h1mpculkegY",
+        "videoPublishedAt": "2022-07-01T04:00:15Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

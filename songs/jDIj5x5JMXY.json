@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "rScYRHT4TA4yvny_fihMbu1iWXQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43REM1N0E3MTA0RTY2N0U3",
+    "snippet": {
+        "publishedAt": "2022-05-03T05:49:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Memories - Maroon5 (female cover)",
+        "description": "#Memories  #Maroon5 \n\nxooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jDIj5x5JMXY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jDIj5x5JMXY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jDIj5x5JMXY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/jDIj5x5JMXY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 235,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jDIj5x5JMXY"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "jDIj5x5JMXY",
+        "videoPublishedAt": "2020-06-13T21:21:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

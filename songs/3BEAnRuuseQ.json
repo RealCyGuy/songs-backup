@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "gOBvB_UjVsew-T7fFPFZ-CcaaIc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44MDhCNUUzNjc2NTUwQzdG",
+    "snippet": {
+        "publishedAt": "2021-10-13T06:07:53Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "GRAVITY FALLS THEME - INSANE Piano Tutorial",
+        "description": "\u25b6 SHEET MUSIC: http://bit.ly/2U0p6Qi SUBSCRIBE for more!\nLearn piano with flowkey! https://go.flowkey.com/sheetmusic \n\nImpossible Piano Tutorials from Sheet Music Boss  \u27a4 https://bit.ly/SMBimpossible\nHard Piano Tutorials from Sheet Music Boss  \u27a4 https://bit.ly/SMBhard\nMedium Piano Tutorials from Sheet Music Boss  \u27a4 https://bit.ly/SMBmedium\nEasy Piano Tutorials from Sheet Music Boss  \u27a4 https://bit.ly/SMBeasy\n\n\u25b6 Join the Discord: https://discord.gg/MJbY7YE\n\nLearn the Gravity Falls Theme by Brad Breek on piano with this tutorial! Please enjoy!\n\nThe theme song to Gravity Falls was written by Brad Breek and is used in all episodes in season 1 and most episodes in season 2. A shortened version can be found in longer episodes such as Northwest Mansion Mystery and Not What He Seems.\n\nThis piano tutorial for the Gravity Falls Main Title Theme is arranged for advanced level pianists who want a challenge! It is difficult to play, but rewarding for any Gravity Falls fan! You can find the link to our official sheet music at the top of the description. Enjoy!\n\nArranged by Andrew Wrangell\nEdited by Samuel Dickenson\n\nGet the newest sheets:\n\u25b6 Musicnotes: https://tinyurl.com/smb-musicnotes\n\u25b6 Gumroad: https://gumroad.com/sheetmusicboss\n#GRAVITYFALLSTHEME #PianoTutorial #SheetMusicBoss",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3BEAnRuuseQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3BEAnRuuseQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3BEAnRuuseQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3BEAnRuuseQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3BEAnRuuseQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 759,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3BEAnRuuseQ"
+        },
+        "videoOwnerChannelTitle": "Sheet Music Boss",
+        "videoOwnerChannelId": "UCzTR9iSH-TFC4-ocDS_ll4A"
+    },
+    "contentDetails": {
+        "videoId": "3BEAnRuuseQ",
+        "videoPublishedAt": "2019-03-05T22:00:00Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

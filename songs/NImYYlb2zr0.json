@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "rGN45nchTEEg6T7is0QTrrb8SP0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wQzZFNDlFNkI3MDBBMDcx",
+    "snippet": {
+        "publishedAt": "2021-07-31T23:36:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "(8-bit Remix) Bakamitai - Yakuza 0",
+        "description": "2a03 + MMC5 cover of Bakamitai from the Yakuza series.\n\nA few days ago I made this as a birthday gift for Gabe Fern, an amazing pixel artist and dear friend. He got me into the Yakuza games, and it's been a blast playing through 0 and Kiwami! \n\nI tried making this a 2a03-only cover, but I struggled to make the chorus stand out, so I decided to add the MMC5 to power it up.\n\nI hope you've enjoyed it :D\n\nNSF: https://www.dropbox.com/s/56uae5858kt8as0/BAKAMITAI.nsf?dl=1\n\nBakamitai is composed by Mitsuharu Fukuyama, and is (C) Sega\nChiptune Arrangement by Saria Lemes a.k.a. pedipanol, using j0cc Famitracker.\nThumbnail Art by Gabe Fern.\nOscilloscope Visualization generated with Corrscope.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NImYYlb2zr0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NImYYlb2zr0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NImYYlb2zr0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1017,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NImYYlb2zr0"
+        },
+        "videoOwnerChannelTitle": "pedipanol / Saria Lemes",
+        "videoOwnerChannelId": "UCRcvjNhtJBtZoPjXPhtBamA"
+    },
+    "contentDetails": {
+        "videoId": "NImYYlb2zr0",
+        "videoPublishedAt": "2020-07-25T21:15:39Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

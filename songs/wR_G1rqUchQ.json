@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "TwG__qvfCjupqYeUjGcv9GMWg2Y",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43OEE4Mjg3QUM3N0IxMUYy",
+    "snippet": {
+        "publishedAt": "2022-05-29T22:59:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "SPY x FAMILY ED - Kigeki\u300c\u559c\u5287\u300d\u661f\u91ce\u6e90 - Fingerstyle Guitar Cover",
+        "description": "SPY x FAMILY ED - Kigeki\u300c\u559c\u5287\u300d\u661f\u91ce\u6e90 - Fingerstyle Guitar Cover\n\n\ud83c\udfb8Gears\n- St. Matthew GA-2E\n- 2 Rode M5\n- Focusrite Scarlett 2i2\n\n\ud83d\udcccGuitar tabs: somewhere in the comment section\nIf there is any problem with the purchase, please contact me.\n \u2192 kooonpe@gmail.com    \n \nTuning: BG\u266dBG\u266dBE\u266d\nCapo:  5th fret\n\n\u266b  Thank you for watching.\n#kigeki #spyxfamily",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wR_G1rqUchQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wR_G1rqUchQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wR_G1rqUchQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/wR_G1rqUchQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/wR_G1rqUchQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 174,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wR_G1rqUchQ"
+        },
+        "videoOwnerChannelTitle": "Pae Thanakrit",
+        "videoOwnerChannelId": "UCzx17e-qX96a2E1xfLq4GDw"
+    },
+    "contentDetails": {
+        "videoId": "wR_G1rqUchQ",
+        "videoPublishedAt": "2022-04-15T07:32:50Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

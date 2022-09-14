@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "GAIeGTEa2zZnBFGK06yrKJC92hU",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45ODY0RDA1N0ZBMkE1M0E1",
+    "snippet": {
+        "publishedAt": "2022-06-21T06:30:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Halsey - Without Me (Audio) ft. Juice WRLD",
+        "description": "Listen to the newest album \u201cIf I Can\u2019t Have Love, I Want Power\u201d out now: https://halsey.lnk.to/IICHLIWPID\n\n\"Without Me\" (ft. Juice WRLD) available now: https://halsey.lnk.to/WMJuiceWRLDYD\nget the single: https://halsey.lnk.to/WithoutMeYD\nlisten on Spotify: \nhttps://halsey.lnk.to/WMJuiceWRLDYD/spotify\nlisten on Apple Music: \nhttps://halsey.lnk.to/WMJuiceWRLDYD/applemusic\nbuy on iTunes: \nhttps://halsey.lnk.to/WMJuiceWRLDYD/iTunes\nget it on Amazon Music: \nhttps://halsey.lnk.to/WMJuiceWRLDYD/amazon\nget it on Google Play: \nhttps://halsey.lnk.to/WMJuiceWRLDYD/google-play\nwatch more Halsey videos: \nhttps://halsey.lnk.to/officialvideosYD\n\nFollow Halsey\nhttp://iamhalsey.com\nhttp://twitter.com/halsey\nhttps://www.facebook.com/HalseyMusic\nhttp://instagram.com/iamhalsey\n\n#halsey #withoutme #juicewrld",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sPPsOmQh76A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sPPsOmQh76A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sPPsOmQh76A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sPPsOmQh76A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/sPPsOmQh76A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 92,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "sPPsOmQh76A"
+        },
+        "videoOwnerChannelTitle": "HalseyVEVO",
+        "videoOwnerChannelId": "UCm3FgJ2Hqm7tb70T-GfwXVA"
+    },
+    "contentDetails": {
+        "videoId": "sPPsOmQh76A",
+        "videoPublishedAt": "2019-01-09T05:00:07Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

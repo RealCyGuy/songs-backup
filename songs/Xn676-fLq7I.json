@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "eIPWl7dtf3LZWoW-jlWTwFzqCwc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GMEY2NENBMDdBNTI1Nzkz",
+    "snippet": {
+        "publishedAt": "2022-03-16T18:23:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kelly Clarkson - Stronger (What Doesn't Kill You) [Official Video]",
+        "description": "Kelly Clarkson's official music video for 'Stronger (What Doesn't Kill You)'. Click to listen to Kelly Clarkson on Spotify: http://smarturl.it/KClarkSpot?IQid=KClarkStrong\n\nAs featured on Greatest Hits - Chapter 1. Click to buy the track or album via iTunes: http://smarturl.it/KClarkGHiTunes?IQid=KClarkStrong\nGoogle Play: http://smarturl.it/KClarkStrongPlay?IQid=KClarkStrong\nAmazon: http://smarturl.it/KClarkGHAmz?IQid=KClarkStrong\n\nMore from Kelly Clarkson\nSince U Been Gone: https://youtu.be/R7UrFYvl5TE\nBecause Of You: https://youtu.be/Ra-Om7UMSJc\nBreakaway: https://youtu.be/c-3vPxKdj6o\n\nMore great 00s videos here: http://smarturl.it/Ultimate00?IQid=KClarkStrong\n\nFollow Kelly Clarkson\nWebsite: http://www.kellyclarkson.com\nFacebook: https://www.facebook.com/kellyclarkson\nTwitter: http://www.twitter.com/kelly_clarkson\nInstagram: http://www.instagram.com/kellyclarkson\n\nSubscribe to Kelly Clarkson on YouTube: http://smarturl.it/KClarkSub?IQid=KClarkStrong\n\n---------\n\nLyrics:\n\nYou know the bed feels warmer\nSleeping here alone\nYou know I dream in colour\nAnd do the things I want\n\nWhat doesn't kill you makes you stronger\nStand a little taller\nDoesn't mean I'm lonely when I'm alone\nWhat doesn't kill you makes a fighter\nFootsteps even lighter\nDoesn't mean I'm over cause you're gone\nPlaylist Best of Kelly Clarkson https://goo.gl/W1ZeaH\nSubscribe for more https://goo.gl/gxka6r\n\n#KellyClarkson #Stronger #Vevo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Xn676-fLq7I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Xn676-fLq7I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Xn676-fLq7I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Xn676-fLq7I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Xn676-fLq7I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 324,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Xn676-fLq7I"
+        },
+        "videoOwnerChannelTitle": "kellyclarksonVEVO",
+        "videoOwnerChannelId": "UC6QdZ-5j9t_836_xJPAaRSw"
+    },
+    "contentDetails": {
+        "videoId": "Xn676-fLq7I",
+        "videoPublishedAt": "2011-12-14T08:00:00Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "MjypZMDiiAYpfmIlQILM6oGyoRA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GQkU0MzAwMzE4NDRDRkVB",
+    "snippet": {
+        "publishedAt": "2022-05-29T06:53:57Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u559c\u5287 [Kigeki] - \u661f\u91ce\u6e90 TV\u30a2\u30cb\u30e1 ED\u300cSPY\u00d7FAMILY\u300dCovered by Karen Orline",
+        "description": "Thank you so much  for watching my new cover \u559c\u5287 [Kigeki]  by \u661f\u91ce\u6e90 [Gen Hoshino]\n\n\n~ CREDITS\nVocal : Karen Orline\nPiano : Karen Orline\nPiano arr : Karen Orline\nMix & Master : Karen Orline\nEditing video : Karen Orline\n\nThank you for watching! \ud83d\udc95\nSubscribe, Like, Comment, and Share my video too.\nAnd click the bell icon to be notified when I go upload new video \ud83d\udd14\nThank you \ud83d\udc95\ud83d\udc95\n\nMy Social Medias:\nEmail\nkaren20digitalclass@gmail.com\nInstagram\nhttps://www.instagram.com/karen_orline/\nTwitter\nhttps://twitter.com/Karen_orline?s=09",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oUwpSG4vOwA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oUwpSG4vOwA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oUwpSG4vOwA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/oUwpSG4vOwA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/oUwpSG4vOwA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 175,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "oUwpSG4vOwA"
+        },
+        "videoOwnerChannelTitle": "Karen Orline",
+        "videoOwnerChannelId": "UCQgBhSjI7C7hwTnRwkGmMFQ"
+    },
+    "contentDetails": {
+        "videoId": "oUwpSG4vOwA",
+        "videoPublishedAt": "2022-04-11T09:17:15Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

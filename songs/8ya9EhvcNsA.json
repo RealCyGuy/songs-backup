@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "j0zfjXGACiNb6a0xYcNutmJthlo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMjY5ODU0NEU2NENGMkE1",
+    "snippet": {
+        "publishedAt": "2022-04-30T05:11:15Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "OMORI - Final Duet",
+        "description": "EDIT: Ayyyy, 3 million OMORI fans all coming here after finishing the game to reminisce on their sorrow once again!\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nThe \"Good\" Ending... (\u25e1\ufe4f\u25e1\u273f)\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nMan, even the so called \"good ending\" was utterly depressing and made me want to bawl my eyes out.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nOMORI OST - 172 DUET: https://www.youtube.com/watch?v=ACon4txJiDA\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nBuy Omori on Steam: https://store.steampowered.com/app/1150690/OMORI/\n---------------------------------------------------------------------------------------------------------------------------------------------------------------",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8ya9EhvcNsA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8ya9EhvcNsA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8ya9EhvcNsA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8ya9EhvcNsA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8ya9EhvcNsA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 248,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8ya9EhvcNsA"
+        },
+        "videoOwnerChannelTitle": "meteoraPOW",
+        "videoOwnerChannelId": "UC4Vi6UHVenWx0vQcYBf8BeA"
+    },
+    "contentDetails": {
+        "videoId": "8ya9EhvcNsA",
+        "videoPublishedAt": "2020-12-30T12:43:35Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

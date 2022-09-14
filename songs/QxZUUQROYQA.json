@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "VxeUYzOkt9SDXdAe_UXRMMYuK7w",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5COTBCMTlDNDZDOTExNTc5",
+    "snippet": {
+        "publishedAt": "2022-05-29T23:12:54Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "lagtrain but its a garageband remix",
+        "description": "inabakumori - Lagtrain (RZFR remix)\n\nThe Usual Lagtrain Remix\n\nIllustration: NoraeSei\nhttps://twitter.com/seiron_rae\nhttps://www.youtube.com/channel/UCTc4uB07Ai6rx9e_JuxJRhg\n\nOriginal: https://www.youtube.com/watch?v=UnIhRpIT7nc\n\nSoftware: Garageband\n\n-Friends-\n\nRyandere\nhttps://www.youtube.com/channel/UCfoo...\n\nNoraeSei\nhttps://www.youtube.com/channel/UCTc4...\n\nProuble\nhttps://www.youtube.com/channel/UCTa8...\n\nCK Vigilla\nhttps://www.youtube.com/channel/UCgT-...\n\n#lagtrainremix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/QxZUUQROYQA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/QxZUUQROYQA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/QxZUUQROYQA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 173,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QxZUUQROYQA"
+        },
+        "videoOwnerChannelTitle": "RennZero",
+        "videoOwnerChannelId": "UCeOlfWAXHMskSthTJNMONsg"
+    },
+    "contentDetails": {
+        "videoId": "QxZUUQROYQA",
+        "videoPublishedAt": "2021-12-26T06:13:04Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

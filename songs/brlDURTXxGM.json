@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "6Sf2Y5e1Dm0ZiTADBIIo2etJwZ8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMzAxRjk1ODhEN0ZBMDQ3",
+    "snippet": {
+        "publishedAt": "2022-02-11T14:41:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Snail's House - Hot Milk (Lone Alpha Remix)",
+        "description": "Subscribe for more music!\n\nPersonally, I like it better cold.\nBut I like this song so much i just had to remix it\n\nContact me: atlmusic41@gmail.com\n\nCheck me out on:\nTwitter: https://twitter.com/lonealphamusic\nSpotify: https://open.spotify.com/artist/0o8IQYc0GIBfoSeRAQYOX5?si=2yYZctq8Roit55DW_VDNQg\nSoundcloud: https://soundcloud.com/lonealphamusic\n\nSupport Snail's House:\nBandcamp Albums: https://0101.bandcamp.com\nTwitter: https://twitter.com/loudnessfete\nSoundcloud: https://soundcloud.com/ujico\nSpotify: https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY?si=qxeHXsviR9S55YuNvKwU-A",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/brlDURTXxGM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/brlDURTXxGM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/brlDURTXxGM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/brlDURTXxGM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/brlDURTXxGM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 400,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "brlDURTXxGM"
+        },
+        "videoOwnerChannelTitle": "Lone Alpha",
+        "videoOwnerChannelId": "UCv7cX2hDhEVtCEBvssHofFA"
+    },
+    "contentDetails": {
+        "videoId": "brlDURTXxGM",
+        "videoPublishedAt": "2019-05-30T19:02:44Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

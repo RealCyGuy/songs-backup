@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "wDL0P8DblX2_iupSn4JyO22_xVg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44NEE4MTNBOUY2MDRFRUU4",
+    "snippet": {
+        "publishedAt": "2021-07-18T18:30:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YuruYuri \u2605 Opening Yuriyurarararayuruyuri Daijiken",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/t3Kg7qQOzIY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/t3Kg7qQOzIY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/t3Kg7qQOzIY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/t3Kg7qQOzIY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/t3Kg7qQOzIY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1063,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "t3Kg7qQOzIY"
+        },
+        "videoOwnerChannelTitle": "Natsumi",
+        "videoOwnerChannelId": "UCY69bX2Bnt0aW-zDzGbM6DQ"
+    },
+    "contentDetails": {
+        "videoId": "t3Kg7qQOzIY",
+        "videoPublishedAt": "2019-03-30T16:50:15Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

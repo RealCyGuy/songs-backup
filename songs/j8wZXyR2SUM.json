@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "QYJJ-2924JUgjeuqiAT8m2QSdd4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNkUzNjgxRThDREVBQkY5",
+    "snippet": {
+        "publishedAt": "2021-09-30T18:04:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Bad Apple!! [Electro Swing Remix (ft. OR3O & adrisaurus)] (English/Japanese)",
+        "description": "Yooo! It's finally here. We've been wanting to upload this for a while now. I'm so happy with this project. It's my first time making a Touhou remix and first remix that has Japanese in it. Big thanks to OR3O and adrisaurus for the awesome vocals. Please check their channels out! Also, watch out for the music video of this song on OR3O's channel.\n\nOR3O: https://www.youtube.com/channel/UCTAyRNwgMv_vvM8Z9UvKKEg\nadrisaurus: https://www.youtube.com/user/adrisaurus\n\nAmazing artwork by: https://twitter.com/Burfabutt\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - \n\nMUSIC VIDEO: https://www.youtube.com/watch?v=EYXR5DT2IbY\niTunes/Spotify: https://spoti.fi/30HjyNo\nInstrumental version: https://youtu.be/VJx2d40kT78\n\nFree download/Listen on Soundcloud: https://soundcloud.com/the-musical-ghost/bad-apple-electro-swing-ft-or3o-adrisaurus\n\nTempo: 128 BPM\nGenre: Electro Swing\n\nSample used: Sidney Bechet - Polka Dot Rag \n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - \n\nSpecial thanks to my lovely patrons! \u2665\n\nBrandon Chevalier \nEbonpyre \nFinn Cyriax \nHenning (silversparker) \nJake McGee \nLaurin \nNatalie Ng \nofek oren \nRussell Heal \nSamuel Page \nSirKit \nVoid2.0\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - \n\nDiscord server: https://discord.gg/u2jyjtE\nInstagram: https://www.instagram.com/the.musical.ghost/\nSpotify: https://open.spotify.com/artist/5NCTflTCAp9FUqwYRz6N9n\nPatreon: https://www.patreon.com/TheMusicalGhost\nSoundcloud: https://soundcloud.com/the-ghost-that-haunts-your-house\nTwitch: https://www.twitch.tv/themusicaldevil (Gaming)\nTwitter: https://twitter.com/TheMusicalGhost",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/j8wZXyR2SUM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/j8wZXyR2SUM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/j8wZXyR2SUM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/j8wZXyR2SUM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/j8wZXyR2SUM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 797,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "j8wZXyR2SUM"
+        },
+        "videoOwnerChannelTitle": "The Musical Ghost",
+        "videoOwnerChannelId": "UCqeHbI0rfexnHhhEgrg8Exg"
+    },
+    "contentDetails": {
+        "videoId": "j8wZXyR2SUM",
+        "videoPublishedAt": "2019-02-02T00:33:25Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

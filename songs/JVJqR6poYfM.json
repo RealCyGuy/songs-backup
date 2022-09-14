@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "kS0_6n8Z9CdT5EOsEAQLK-UC0j4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ERjEyQ0FBMUY3OUVBNTQ1",
+    "snippet": {
+        "publishedAt": "2022-01-04T17:15:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "MEGALOVANIA, but the entire song is a perfect fifth",
+        "description": "I'm sure you can guess what the inspiration was here.\nLooks like someone lit a spark under this video and caused it to get hella views all of a sudden. The algorithm is truly a magical thing. Y'know... when it's *not* harassing and ruining the lives of small creators, of course.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JVJqR6poYfM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JVJqR6poYfM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JVJqR6poYfM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/JVJqR6poYfM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/JVJqR6poYfM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 501,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "JVJqR6poYfM"
+        },
+        "videoOwnerChannelTitle": "Underscore",
+        "videoOwnerChannelId": "UC7UVoeen2TCuQ7_yZH6ShsA"
+    },
+    "contentDetails": {
+        "videoId": "JVJqR6poYfM",
+        "videoPublishedAt": "2020-12-27T08:03:32Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

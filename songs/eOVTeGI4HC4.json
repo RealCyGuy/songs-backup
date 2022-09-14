@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "d6TQK0ZJ_ngX8I0GMWsWmkNVZRI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DQ0NEMjhGODBDMzAyRTUz",
+    "snippet": {
+        "publishedAt": "2021-07-19T23:45:50Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "luvbird - parting words",
+        "description": "luvbird - parting words (lofi beat)\n\nZelda Great Fairy Fountain (remix)\n\n\u25baFollow luvbird\nhttps://soundcloud.com/luvbirdbeats\nhttps://twitter.com/luvbirdbeats\nhttps://luvbird.bandcamp.com/releases\nhttps://open.spotify.com/artist/2vmQ4q3IQKzvHaHTJAh3Ph\n\n\u25b6\ufe0fArtwork by Xuan Loc Xuan\nhttps://www.behance.net/xuanlocxuan\n\nFor music submissions and business inquiries e-mail to: chilledcheesemusic@gmail.com\n\n\u25b6\ufe0fDisclaimer\nThis video was uploaded for promotional purposes. If you own any of the content in the video and would like this video removed please contact me at: chilledcheesemusic@gmail.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/eOVTeGI4HC4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/eOVTeGI4HC4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/eOVTeGI4HC4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/eOVTeGI4HC4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/eOVTeGI4HC4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1041,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eOVTeGI4HC4"
+        },
+        "videoOwnerChannelTitle": "ChilledCheese",
+        "videoOwnerChannelId": "UCIh3HnX9NdwI3b7wZgxzYww"
+    },
+    "contentDetails": {
+        "videoId": "eOVTeGI4HC4",
+        "videoPublishedAt": "2018-08-21T13:01:29Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

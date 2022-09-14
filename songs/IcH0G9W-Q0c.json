@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "MGyA2h1RcXfFOizgR345uVDTzZU",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRTc1MTUyMTJBMzRERTVE",
+    "snippet": {
+        "publishedAt": "2021-07-07T22:16:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YOASOBI | Racing into the Night | ENGLISH X JAPANESE MASHUP |  \u591c\u306b\u99c6\u3051\u308b | Yoru Ni Kakeru",
+        "description": "Yoasobi mashup of 'Racing Into The Night' \n\nEnglish Version: https://www.youtube.com/watch?v=b3K61cQ8_fg\nJapanese Version: https://www.youtube.com/watch?v=x8VYWazR5mE",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IcH0G9W-Q0c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IcH0G9W-Q0c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IcH0G9W-Q0c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/IcH0G9W-Q0c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1094,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "IcH0G9W-Q0c"
+        },
+        "videoOwnerChannelTitle": "Yoasobi ENG & JP Mashups",
+        "videoOwnerChannelId": "UCWfV53l5IiAjVHzE91WVUxQ"
+    },
+    "contentDetails": {
+        "videoId": "IcH0G9W-Q0c",
+        "videoPublishedAt": "2021-07-03T08:53:33Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

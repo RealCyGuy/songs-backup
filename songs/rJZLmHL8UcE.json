@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Y-0OewH7n0G1ImmP7foFkkj8Gkk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44RUY2QkYxMUVCMDQ4NjIz",
+    "snippet": {
+        "publishedAt": "2022-02-11T14:43:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "dark cat - Bubble Tea (feat. juu & cinders) (Lone Alpha Remix)",
+        "description": "Subscribe for more music!\n\ndark cat - Bubble Tea (feat. juu & cinders) (Lone Alpha Remix)\n\nContact me: atlmusic41@gmail.com\n\nThis was really fun to make",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rJZLmHL8UcE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rJZLmHL8UcE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rJZLmHL8UcE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rJZLmHL8UcE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rJZLmHL8UcE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 399,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rJZLmHL8UcE"
+        },
+        "videoOwnerChannelTitle": "Lone Alpha",
+        "videoOwnerChannelId": "UCv7cX2hDhEVtCEBvssHofFA"
+    },
+    "contentDetails": {
+        "videoId": "rJZLmHL8UcE",
+        "videoPublishedAt": "2019-08-19T22:55:56Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

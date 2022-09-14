@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "-4DoLSfQ97noMNYVQg0aPmGT1R8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNDY2NDZBMzlEOUIzOEJE",
+    "snippet": {
+        "publishedAt": "2022-03-22T07:04:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO]",
+        "description": "Gym Class Heroes' music video for 'Stereo Hearts' featuring Adam Levine from the album, The Papercut Chronicles II - available now on DCD2 Records / Fueled By Ramen.\n\nGo behind the scenes of this video at http://youtu.be/y3lMx6sfEzs\n\nDirected by Hiro Murai\n\nLYRICS\nMy heart's a stereo\nIt beats for you, so listen close\nHear my thoughts in every no-o-o-te\nMake me your radio\nAnd turn me up when you feel low\nThis melody was meant for you\nJust sing along to my stereo\n\nGym Class Heroes baby!\nIf I was just another dusty record on the shelf\nWould you blow me off and play me like everybody else?\nIf I asked you to scratch my back, could you manage that?\nLike yea [scratched], check it Travie, I can handle that\nFurthermore, I apologize for any skipping tracks\nIt's just the last girl that played me left a couple cracks\nI used to used to used to, now I'm over that\n'Cause holding grudges over love is ancient artifacts\n\nIf I could only find a note to make you understand\nI'd sing it softly in your ear and grab you by the hand\nJust keep it stuck inside your head, like your favorite tune\nAnd know my heart's a stereo that only plays for you\n\nMy heart's a stereo\nIt beats for you, so listen close\nHear my thoughts in every no-o-o-te\nMake me your radio\nAnd turn me up when you feel low\nThis melody was meant for you\nJust sing along to my stereo\n\nOh oh oh oh, oh oh oh oh to my stereo\nOh oh oh oh to sing along to my stereo\n\nLet's go!\nIf I was an old-school fifty pound boombox (remember them?)\nWould you hold me on your shoulder wherever you walk\nWould you turn my volume up in front of the cops (turn it up)\nAnd crank it higher everytime they told you to stop\nAnd all I ask is that you don't get mad at me\nWhen you have to purchase mad D batteries\nAppreciate every mixtape your friends make\nYou never know we come and go like on the interstate\n\nI think I finally found a note to make you understand\nIf you can hit it, sing along and take me by the hand\nJust keep me stuck inside your head, like your favorite tune\nYou know my heart's a stereo that only plays for you\n\nMy heart's a stereo\nIt beats for you, so listen close\nHear my thoughts in every no-o-o-te\nMake me your radio\nTurn me up when you feel low\nThis melody was meant for you\nJust sing along to my stereo\n\nOh oh oh oh, oh oh oh oh to my stereo\nOh oh oh oh to sing along to my stereo\n\nI only pray you'll never leave me behind (never leave me)\nBecause good music can be so hard to find (so hard to find)\nI take your hand and hold it closer to mine\nThought love was dead, but now you're changing my mind\n\nMy heart's a stereo\nIt beats for you, so listen close\nHear my thoughts in every no-o-o-te\nMake me your radio\nTurn me up when you feel low\nThis melody was meant for you\nJust sing along to my stereo\n\nOh oh oh oh, oh oh oh oh to my stereo\nOh oh oh oh (Gym Class Heroes baby!) to sing along to my stereo\n\nYeah",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/T3E9Wjbq44E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/T3E9Wjbq44E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/T3E9Wjbq44E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/T3E9Wjbq44E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/T3E9Wjbq44E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 309,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "T3E9Wjbq44E"
+        },
+        "videoOwnerChannelTitle": "Fueled By Ramen",
+        "videoOwnerChannelId": "UClVrJwcIy7saPcGc1nct80A"
+    },
+    "contentDetails": {
+        "videoId": "T3E9Wjbq44E",
+        "videoPublishedAt": "2011-08-12T20:20:46Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "v6VxuVs48CSTnqLmChJ95bdStFw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45Rjk5OUVEMDNDNzZDRDE0",
+    "snippet": {
+        "publishedAt": "2022-06-03T04:20:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "glass beach - calico",
+        "description": "track 7/15\n\nfrom \"the first glass beach album\" available here:\nhttps://glassbeach.bandcamp.com/album/the-first-glass-beach-album\n\nlyrics:\nsome stray cat came through the backyard \nmust have climbed up some fences \n\nyou'll pick him up off the ground \nand hold him in your arms \nand you kiss on the head \nand you tell him he's a lucky boy \n\nyou'll pick him up off the ground \nand hold him in your arms \nand you kiss on the head \nand you tell him he's a lucky little \ncalico, don't go \n\nyou're not gonna leave him alone \nyou're not gonna leave him alone \nyou're not gonna leave him alone \nyou're not gonna leave him alone, oh oh",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/k-9nmY5-HXE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/k-9nmY5-HXE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/k-9nmY5-HXE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/k-9nmY5-HXE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/k-9nmY5-HXE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 150,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "k-9nmY5-HXE"
+        },
+        "videoOwnerChannelTitle": "glass beach",
+        "videoOwnerChannelId": "UCASeWv0rmNhnHcwqxafCxcw"
+    },
+    "contentDetails": {
+        "videoId": "k-9nmY5-HXE",
+        "videoPublishedAt": "2019-05-18T22:48:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "9MqYzABA_GvEt5XBl9tRE-lWVDk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRTQ1Q0M2QjNFNkU3MDhG",
+    "snippet": {
+        "publishedAt": "2021-09-24T05:55:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Aaron Smith - Dancin (KRONO Remix)",
+        "description": "Aaron Smith - Dancin (KRONO Remix)\n\u2705 Spotify Playlist: http://cldkid.com/spotify\n\u2716\ufe0f Instagram: http://cldkid.com/instagram \u2716\ufe0f Snapchat: cldkid\n\n\ud83d\udcac Quote of the day\n\n\"Dance is the hidden language of the soul of the body.\"\n- Martha Graham\n\nShare your quotes with me in the comments! \n\n\u274c CloudKid Shop: http://cldkid.com/shop\n\n\u25b6\ufe0f KRONO\n\nSoundcloud: https://soundcloud.com/kronopage\nFacebook: https://www.facebook.com/Krono.Music\nTwitter: https://twitter.com/Krono_music\nInstagram: https://www.instagram.com/krono_music/\n\n\u25b6\ufe0f Aaron Smith\n\nSoundcloud: https://soundcloud.com/aaron-smith-official\n\n\ud83c\udfb5Suggested track: https://www.youtube.com/watch?v=4wB4kbtVMhI\n\n\u25b6\ufe0f CloudKid \n\nInstagram: https://instagram.com/cloudkid\nTwitter: https://twitter.com/cloudkidmusic\nSoundcloud: https://soundcloud.com/cloudkid\nFacebook: https://www.facebook.com/cldkid\nSnapchat: @cldkid\n\nSubmit your music here: hello@cldkid.com\n\nCloudKid Spotify Playlists:\n\n\ud83c\udfa7 Main Playlist: http://cldkid.com/spotify\n\ud83d\udcaa\ud83c\udffb Workout Playlist: http://bit.ly/CKWorkout\n\u2600\ufe0f Good Vibes Playlist: http://bit.ly/CKGoodVibes\n\n\u26d4\ufe0f The image used\n\nThe artwork used in this video is an original piece created by CloudKid. All rights reserved. \nFor more information please contact us here: hello@cldkid.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8pm_KoguqPM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8pm_KoguqPM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8pm_KoguqPM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8pm_KoguqPM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8pm_KoguqPM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 829,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8pm_KoguqPM"
+        },
+        "videoOwnerChannelTitle": "CloudKid",
+        "videoOwnerChannelId": "UCSa8IUd1uEjlREMa21I3ZPQ"
+    },
+    "contentDetails": {
+        "videoId": "8pm_KoguqPM",
+        "videoPublishedAt": "2018-09-06T14:36:43Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

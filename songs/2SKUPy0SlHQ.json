@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "Ya8SMWwFl5kGSfe9LMUhnHezb5s",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45OTQ4OEMyNDg3RDJDMjZE",
+    "snippet": {
+        "publishedAt": "2022-06-22T05:52:05Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I Ghosted Kevin Jonas - Official Music Video",
+        "description": "stream the song https://songwhip.com/dannygonzalez/kevin-jonas\n\nmusic video credits\ncrew\ndirector / producer     Patrick Tohill\ndirector of photography     Diego Cacho\ncamera operator     Colin Noel\n1st assistant camera     Athena Kulb\ngaffer     Braden Payne\nkey grip     Jake Moore\nbbg     Hudson curry\nart director     Sophia Lauer\nhair / makeup artist     Stacy Lockhart\nproduction manager     Katie Babbage\nproduction assistant     Jordan Henderson\nproduction assistant     Ryan Russell\nspecial thanks     Matt Hogan\n\ncast\nfriend 1     Jake Williams\nfriend 2     Coleton Moon\nfriend 3     Timothy Krentz\npersonal assistant     Skylan Kimbrell\nmakeup artist     Lindsay Hope\nkevin jonas     Conner Larsen\n\nsong produced by Fantom",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2SKUPy0SlHQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2SKUPy0SlHQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2SKUPy0SlHQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 90,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2SKUPy0SlHQ"
+        },
+        "videoOwnerChannelTitle": "Danny Gonzalez",
+        "videoOwnerChannelId": "UCSUf5_EPEfl4zlBKZHkZdmw"
+    },
+    "contentDetails": {
+        "videoId": "2SKUPy0SlHQ",
+        "videoPublishedAt": "2022-06-11T17:00:02Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

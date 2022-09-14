@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "x3xs5O7i_MMEd-bwETwr_X6sH-g",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DNzQyQkFCQTM3QkU5NDQ4",
+    "snippet": {
+        "publishedAt": "2021-10-05T05:33:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kokomi Theme Music EXTENDED - A Thousand Waves Under the Moon (tnbee mix) | Genshin Impact",
+        "description": "this OST played on Character Demo - \"Sangonomiya Kokomi: A Thousand Waves Under the Moon\"\n\nchillin like a fish~ \ud83d\udc1f ... I think this composition is really mesmerizing!\nhope you guys enjoy my version! use headphones/best speakers for best experience!\n\nA Thousand Waves Under the Moon (tnbee mix)\nComposer: Yu-Peng Chen\nArranger & Producer: tnbee\nAll composition material belongs to HOYO-MiX\n\nsubscribe so I can continue making more music! thank you very much!\n\nYou can also find me here:\n\u27a4 Spotify: https://open.spotify.com/artist/0cJKVhrPAsTbiwKervvVQH?si=S967Bt59T2qGgPRGTC-6ng\n\u27a4 Apple Music: https://music.apple.com/us/artist/tnbee/1558312259\n\u27a4 Twitter: https://twitter.com/tnbeeat\n\nSupport me on Ko-fi:\n\u27a4 https://ko-fi.com/tnbee\u200b\u200b\n\nRepost of my cover anywhere else is strictly prohibited (extending my cover, re-upload, etc).\nHowever, you can use all of my mix for stream or bgm for your content, just leaves the credit! \n\noriginal trailer: https://youtu.be/fVf0RB3nvOU\n\n#GenshinImpact\u200b #Sangonomiya #Kokomi #tnbeemix\u200b",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HdajZO6qnjw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HdajZO6qnjw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HdajZO6qnjw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HdajZO6qnjw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HdajZO6qnjw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 780,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HdajZO6qnjw"
+        },
+        "videoOwnerChannelTitle": "tnbee",
+        "videoOwnerChannelId": "UCwwz34or0IhJMzqEfJBfBkQ"
+    },
+    "contentDetails": {
+        "videoId": "HdajZO6qnjw",
+        "videoPublishedAt": "2021-09-20T20:00:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "wTUm01VJlDAvUdYNDkmr6pe9aa4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43QjhFMjU5MUFBODYyOTg3",
+    "snippet": {
+        "publishedAt": "2022-02-02T01:40:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Coldplay - Yellow (Official Video)",
+        "description": "Coldplay - Yellow is taken from the debut album Parachutes released in 2000\n\nNewly restored 4K version of the video added 10 July 2020.\n\nSubscribe for more content from Coldplay:\nhttps://bit.ly/subscribecoldplay\n\nListen to the album Parachutes on YouTube here:\nhttps://www.youtube.com/playlist?list=OLAK5uy_m4lOn8HJoLfTETxg2d6QouxcQd3nM4Gf0\n\nSee more official videos from Coldplay here:\nhttps://www.youtube.com/playlist?list=PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU\n\nFOLLOW COLDPLAY\nWebsite: http://www.coldplay.com \nInstagram: http://instagram.com/coldplay\nTwitter: https://twitter.com/coldplay\nFacebook: https://www.facebook.com/coldplay\nTiktok: https://www.tiktok.com/@coldplay\nSpotify: https://bit.ly/coldplayspotify\nTumblr: http://coldplay.tumblr.com/\nVK: https://vk.com/coldplay\n\n\ud83c\udf19\u2600\ufe0f\n\nABOUT COLDPLAY\nSince forming at university in London, Coldplay have gone on to become one of the planet\u2019s most popular acts, selling more than 100 million copies of their eight Number One albums, which have spawned a string of hits including Yellow, Clocks, Fix You, Paradise, Viva La Vida, A Sky Full Of Stars, Hymn For The Weekend, Adventure Of A Lifetime, Orphans and, most recently, Higher Power.\n\n#Coldplay #Yellow #Parachutes",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 429,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "yKNxeF4KMsY"
+        },
+        "videoOwnerChannelTitle": "Coldplay",
+        "videoOwnerChannelId": "UCDPM_n1atn2ijUwHd0NNRQw"
+    },
+    "contentDetails": {
+        "videoId": "yKNxeF4KMsY",
+        "videoPublishedAt": "2011-05-30T13:12:47Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

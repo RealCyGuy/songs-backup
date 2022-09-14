@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "1tBV8fSCQE5GDqKSFiynyGxzuaA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMDY2QkUyNDkxMEZBRkRC",
+    "snippet": {
+        "publishedAt": "2022-06-01T05:12:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010 Comedy / Kigeki\u300c\u559c\u5287\u300dJazz Cover \u3011- Spy X Family Ending Song by Hoshino Gen \u661f\u91ce\u6e90",
+        "description": "Full Ver here: https://www.youtube.com/watch?v=kmOLE7AIEHQ\n\nComedy/Kigeki is the ending song of the recently popular anime Spy X Family, written and sung by Hoshino Gen. I really love the chords and arrangement of 'Comedy', giving off a chill yet positive feeling. This started out as a piano cover but developed into Jazz lol. \n\nThank you for watching! Please subscribe for more covers!\n\n\u25bc\u3010Original\u3011\n\n\u661f\u91ce\u6e90\nhttps://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA\n\n\u300c\u559c\u5287 \u300d\nhttps://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV?si=30289478cc5c4d91",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1Aw9-suwS2w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1Aw9-suwS2w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1Aw9-suwS2w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1Aw9-suwS2w/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1Aw9-suwS2w/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 162,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1Aw9-suwS2w"
+        },
+        "videoOwnerChannelTitle": "ThyoneMusic",
+        "videoOwnerChannelId": "UCMrXHkUjEZP7NmuHA0EdhLQ"
+    },
+    "contentDetails": {
+        "videoId": "1Aw9-suwS2w",
+        "videoPublishedAt": "2022-05-01T15:34:16Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

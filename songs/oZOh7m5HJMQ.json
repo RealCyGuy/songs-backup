@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "C75CsXnmpRq3D2O9bmm_Qcd0h9U",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GQUJBODVFNjg5ODc2NTBE",
+    "snippet": {
+        "publishedAt": "2021-10-05T05:18:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Bad Apple!! Windsong Lyre",
+        "description": "some notes are missing lol cuz accidentals\nthe last part was raised by a half step, can't really produce on the lyre so I didn't play it...\nmidi source: https://onlinesequencer.net/57131\n\nTutorial of script: https://youtu.be/I90SzSw28pw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oZOh7m5HJMQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oZOh7m5HJMQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oZOh7m5HJMQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/oZOh7m5HJMQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/oZOh7m5HJMQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 783,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "oZOh7m5HJMQ"
+        },
+        "videoOwnerChannelTitle": "Dualie Ch. \u7121\u6975\u30c7\u30e5\u30a2\u30ea\u30fc",
+        "videoOwnerChannelId": "UCDFwKaNcBH_GxC5U4MMGznQ"
+    },
+    "contentDetails": {
+        "videoId": "oZOh7m5HJMQ",
+        "videoPublishedAt": "2021-03-28T09:03:23Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

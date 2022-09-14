@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "NpVzpWX5j_7hX_QPIALQHhMbfHM",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40Q0JEOUYxQjMwQ0U2RTg5",
+    "snippet": {
+        "publishedAt": "2022-03-07T06:31:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Surfaces - Sunday Best [Official Audio]",
+        "description": "Surfaces - Sunday Best [Official Audio]\n\nstream/download the rest of our album 'where the light is': https://fanlink.to/wherethelightis\n\nmore music/merch: https://www.surfacesmusic.com\n\nlyrics: https://genius.com/Surfaces-sunday-best-lyrics\n\nfollow us:\ninstagram - http://instagram.com/surfacesmusic\nspotify - https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u\nsoundcloud - http://soundcloud.com/surfaces-music\ncolin's twitter - https://twitter.com/colisurf\nforrest's twitter - https://twitter.com/forresure\nalexa's twitter - https://twitter.com/AlexaPadalecki\n\nlyrics\n[Chorus: Forrest]\nFeeling good, like I should\nWent and took a walk around the neighborhood\nFeeling blessed, never stressed\nGot that sunshine on my sunday best\n\n[Verse 1: Forrest]\nEveryday can be a better day despite the challenge\nAll you gotta do is leave it better than you found it\nIt's gonna get difficult to stand but hold your balance\nI just say whatever cause there is no way around it cause\n\n[Pre-Chorus: Forrest]\nEveryone falls down sometimes\nBut you just gotta know it'll all be fine\nIt's ok, uh-huh\nIt's ok, it's ok\n\n[Chorus: Forrest]\nFeeling good, like I should\nWent and took a walk around the neighborhood\nFeeling blessed, never stressed\nGot that sunshine on my sunday best\n\n[Verse 2: Forrest]\nSomedays you wake up and nothing works you feel surrounded\nGotta give your feet some gravity to get you grounded\nKeep good things inside your ears just like the waves and sound did\nAnd just say whatever cause there is no way around it\n\n[Pre-Chorus: Forrest]\nEveryone falls down sometimes\nBut you just gotta know it'll all be fine\nIt's ok, uh-huh\nIt's ok, it's ok\n\n[Chorus: Forrest]\nFeeling good, like I should\nWent and took a walk around the neighborhood\nFeeling blessed, never stressed\nGot that sunshine on my sunday best\n\n[Chorus: Forrest]\nFeeling good, like I should\nWent and took a walk around the neighborhood\nFeeling blessed, never stressed\nGot that sunshine on my sunday best\n\n#surfaces #sundaybest #officialaudio",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Xt3m04Tscc8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Xt3m04Tscc8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Xt3m04Tscc8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Xt3m04Tscc8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Xt3m04Tscc8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 346,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Xt3m04Tscc8"
+        },
+        "videoOwnerChannelTitle": "Surfaces",
+        "videoOwnerChannelId": "UC1B3dGJReX_5F6rmgZS_o7Q"
+    },
+    "contentDetails": {
+        "videoId": "Xt3m04Tscc8",
+        "videoPublishedAt": "2019-01-08T21:00:41Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

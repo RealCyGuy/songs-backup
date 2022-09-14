@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "plZHASQ37VIzRxqzYV4_gJ0miNk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENzZEMzBEREE1MENDMEUw",
+    "snippet": {
+        "publishedAt": "2021-09-30T14:52:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Aloe Blacc - Wake Me Up (Official)",
+        "description": "Brand New: \u201cLift Your Spirit: Higher\u201d bundle http://smarturl.it/LYSHbundle\nAloe Blacc - 'Wake Me Up' EP: http://smarturl.it/WakeMeUpEP\nBuy Aloe Blacc's album \"Lift Your Spirit\" now: http://smarturl.it/LiftYourSpiritAB \n\nhttp://www.aloeblacc.com/\nhttp://instagram.com/aloeblacc/\nhttps://twitter.com/aloeblacc\nhttps://facebook.com/aloeblacc\nDirector: Alex Rivera\nProducer: Jana D\u00edaz Juhl\nProduction Company: La Panda Productions\n\nMusic video by Aloe Blacc performing Wake Me Up (Acoustic). (C) 2013 Aloe Blacc Recording, Inc. under exclusive license to XIX Recordings LLC/Interscope Records\nBest of Aloe Blacc: https://goo.gl/7vLHT1\nSubscribe here: https://goo.gl/m8Co1f\n\n#AloeBlacc #WakeMeUp #Vevo #Pop",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/M_o6axAseak/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/M_o6axAseak/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/M_o6axAseak/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/M_o6axAseak/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/M_o6axAseak/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 798,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "M_o6axAseak"
+        },
+        "videoOwnerChannelTitle": "AloeBlaccVEVO",
+        "videoOwnerChannelId": "UCcFKiA_8CSzamBPw3dPNRbQ"
+    },
+    "contentDetails": {
+        "videoId": "M_o6axAseak",
+        "videoPublishedAt": "2013-10-22T15:40:00Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

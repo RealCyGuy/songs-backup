@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "5Og9NbMyFovQQk6_987grUyoyHI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CODNEOTFERDNCQjU2ODhE",
+    "snippet": {
+        "publishedAt": "2021-05-11T23:04:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30ca\u30a4\u30c8\u30e1\u30a2 Nightmare - \u30a2\u30eb\u30df\u30ca Alumina\uff3bOFFICIAL MUSIC VIDEO\uff3d",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fhgwSyRmAb8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fhgwSyRmAb8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fhgwSyRmAb8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1228,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fhgwSyRmAb8"
+        },
+        "videoOwnerChannelTitle": "VAP OFFICIAL MUSIC CHANNEL",
+        "videoOwnerChannelId": "UCIDd5lVNKs7N0V3dvm1wj2w"
+    },
+    "contentDetails": {
+        "videoId": "fhgwSyRmAb8",
+        "videoPublishedAt": "2011-10-28T06:10:01Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

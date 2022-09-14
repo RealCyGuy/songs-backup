@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "iF1ZxwKhCkt5Yk1XgHwDAoFlV3U",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMkNBN0M4QUJEQzYxMjA3",
+    "snippet": {
+        "publishedAt": "2021-05-21T13:10:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kimi no Sei (\u541b\u306e\u305b\u3044) Instrumental & Vocaloid Cover [ Seishun Buta Yarou OP ] [ FLP ] [ VSQX ]",
+        "description": "An FL Studio instrumental and vocaloid cover of an anime called Rascal Does Not Dream of Bunny Girl Senpai / Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai (\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb\u5148\u8f29\u306e\u5922\u3092\u898b\u306a\u3044). \n\nThe original song title is \"Kimi no Sei (\u541b\u306e\u305b\u3044)\" by the peggies.\n\nhere if you want the MP3, FLP or VSQX\nMP3 (Instrumental): https://drive.google.com/file/d/1z9E6SPj8LPgtp9WIieWNKA2f82hsbKmB/view?usp=sharing\n\nFLP : https://drive.google.com/file/d/1oKWlKMTtfeQjRE3a3-9Ta10D_ohdeb-O/view?usp=sharing\nFL Studio version used 12.4. \nI use FL Slayer for the guitar (fast dist, and hardcore for fx)\nBoobass for the bass.\nfpc for the drums.\nand direct wave for the acoustic guitar.\n\nVSQX : https://drive.google.com/file/d/1f_Y4Ts8GNdXVYLfUKNG4-yL92KkdZxrn/view?usp=sharing\nUsing Vocaloid Editor 4\n\nThank you for passing by! I hope this will be useful.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Hb-t50655NY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Hb-t50655NY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Hb-t50655NY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Hb-t50655NY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Hb-t50655NY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1210,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Hb-t50655NY"
+        },
+        "videoOwnerChannelTitle": "Inulloid",
+        "videoOwnerChannelId": "UCuPDZKO3A7mFpg5iFjTdnCg"
+    },
+    "contentDetails": {
+        "videoId": "Hb-t50655NY",
+        "videoPublishedAt": "2018-11-18T11:45:32Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

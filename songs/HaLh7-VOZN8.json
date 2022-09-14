@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "lEcnhE64p-7XAbWs_AQnX2emU-4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GOUQzNDRBNjE4RjIwQzk0",
+    "snippet": {
+        "publishedAt": "2022-03-15T05:11:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "SHAUN \uc200 - Way Back Home",
+        "description": "#SHAUN #WayBackHome #\uc200\n\n\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0fopen me!!\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\n\n-\n-\n-\nhi huggies \ud83e\udde1\ud83e\udde1\nI'm... super sick, as you can clearly tell from my voice :(\ni wanted to make this cover suuuper amazing since i thought it fit my voice really well,, but i'm disappointed that i couldn't sing my very best.\nI would have delayed a week to make it as perfect as possible, but I didn't wanna make you guys wait since i'm already so behind on this song and I rested last week already :p\nHowever- i'm proud of what I made in the circumstance!\n\nALSO I GOT MY PLAYBUTTON XDDD\nTHANK YOU\n\nCheck out 'Bunny Do'!\nhttps://youtu.be/khO9RG6969o\n\nCheck out 'I Feel Love'!\nhttps://youtu.be/L1ZhqrZ8MPM\n\nSubscribe to H8TERCLUB's YouTube channel for more official releases!\nhttps://www.youtube.com/channel/UCShCmKvtVyh6kjvL5EJyjQQ\n\nListen to my EP \"get off your phone\"\nYouTube : https://www.youtube.com/playlist?list=PLsM-SLhptJVrRnq4_turLAbsOoFxSkLE1\nSpotify: https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS\n\nJoin My Discord server and talk to me! https://discord.gg/arDXEEY\n\nTwitter: www.twitter.com/xuggi_\nFacebook: https://www.facebook.com/xuggi\nSoundcloud: www.soundcloud.com/xuggi\nInstagram: @xuggi\nSpotify:  https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HaLh7-VOZN8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HaLh7-VOZN8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HaLh7-VOZN8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HaLh7-VOZN8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HaLh7-VOZN8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 332,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HaLh7-VOZN8"
+        },
+        "videoOwnerChannelTitle": "suggi",
+        "videoOwnerChannelId": "UCXVxQahGwGx34ORq2h_JSmQ"
+    },
+    "contentDetails": {
+        "videoId": "HaLh7-VOZN8",
+        "videoPublishedAt": "2018-08-19T11:42:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

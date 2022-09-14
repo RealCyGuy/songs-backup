@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "tWNCQudylEuXd76s923sEPu_67c",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41NEM3RjdGQ0FDRjkwNUQ5",
+    "snippet": {
+        "publishedAt": "2021-06-04T23:36:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u9ea6\u5409_Maggie x \u76d6\u76d6Nyan - Summertime (Your Imouto & Miyuri Remix) \u266a",
+        "description": "\u2606 Cinnamons \u00d7 Evening Cinema - Summertime (\u9ea6\u5409_Maggie x \u76d6\u76d6Nyan Cover) [Your Imouto & Miyuri Remix]\n\u2606 Listen on SoundCloud: https://soundcloud.com/itsmiyuridesu/maggie-x-nyan-summertime-your-imouto-miyuri-remix\n\u25cf Official MV: https://www.youtube.com/watch?v=KMTo2LmixqQ\n\n\u2606 Follow \u9ea6\u5409_Maggie\n\u25cf Weibo: http://weibo.com/u/2355332793\n\u25cf NetEase: https://music.163.com/#/artist?id=31004642\n\n\u2606 Follow \u76d6\u76d6Nyan\n\u25cf Weibo: http://weibo.com/u/2711277967\n\u25cf NetEase: https://music.163.com/#/artist?id=12627262\n\n\u2606 Follow Miyuri \n\u25cf Facebook: https://www.facebook.com/itsmiyuri2k3\n\u25cf Youtube: https://www.youtube.com/Miyuridesu/\n\u25cf Instagram: https://www.instagram.com/itsmiyuridesu/\n\u25cf Soundclound: https://soundcloud.com/itsmiyuridesu\n\n\u2606 Follow your imouto\n\u25cf Twitter: https://twitter.com/yr_imto\n\u25cf Instagram: https://instagram.com/lil.imo/\n\u25cf SoundCloud: https://soundcloud.com/yr_imto\n\u25cf Youtube: https://www.youtube.com/c/yourimouto\n\u25cf Spotify: https://open.spotify.com/artist/5ro91Lth1fMkwcTICpt6li\n\n\u2606 Background: https://www.pixiv.net/en/artworks/69339211\n\u25cf By: \u4e0d\u7f81\n\u2192 https://www.pixiv.net/en/users/5088043\n\n\u2606 Follow Starling\n\u25cf Spotify: https://sptfy.com/StarlingEDMx\n\u25cf SoundCloud: https://soundcloud.com/StarlingEDM\n\u25cf Fanpage : https://www.facebook.com/StarlingEDM\n\u25cf Youtube: https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w\n\u25cf Ask: https://ask.fm/jodiestarling\n\n\n\u2606 Support Me\n\u25cf https://ko-fi.com/StarlingYT\n\u25cf https://www.paypal.me/JodieStarlingVN\n \n\n\u2606 Watch More Videos:\n\u25cf https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w/videos\n\n\n\u270f\ufe0f Copyright/Claims/Issues: info@starlingedm.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/u9ZKhURWhCg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/u9ZKhURWhCg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/u9ZKhURWhCg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/u9ZKhURWhCg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/u9ZKhURWhCg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1171,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "u9ZKhURWhCg"
+        },
+        "videoOwnerChannelTitle": "StarlingEDM",
+        "videoOwnerChannelId": "UCd7AuGqhXpOf-m5YBH4HM7w"
+    },
+    "contentDetails": {
+        "videoId": "u9ZKhURWhCg",
+        "videoPublishedAt": "2020-01-24T18:02:41Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "0dV-E1nGIWxRaLIDGAScP8Ibmb0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EMzNDODE0QjM5MTNBNDZE",
+    "snippet": {
+        "publishedAt": "2022-06-20T23:01:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\uc2a4\ud154\ub77c\uc7a5(Stella Jang) - Colors Official MV",
+        "description": "\uc724\ub3d9\uaddc(Instagram @negutive) \ub2d8\uaed8\uc11c 'Colors'\ub97c \ub108\ubb34 \uc798 \ub4e4\uc5c8\ub2e4\uba74\uc11c\nM/V\ub97c \ub9cc\ub4e4\uc5b4\uc8fc\uc168\uc2b5\ub2c8\ub2e4.  \n\uac10\uc0ac\ud569\ub2c8\ub2e4.\n\n\uac10\ub3c5 \uc724\ub3d9\uaddc (@negutive)\nD.O.P \uc7a5\uc9c0\ubbf8 (@jimmyjimmyvoice)\n\ucd9c\uc5f0 \ubc15\uc218\uc5f0 (@bagubagu91), \uc11c\uc6d0(@seoyangwon)\n\uc2a4\ud0c0\uc77c \ubc31\uc9c0\ud61c (@100.92)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CRHPclhtlN0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CRHPclhtlN0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CRHPclhtlN0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/CRHPclhtlN0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/CRHPclhtlN0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 98,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CRHPclhtlN0"
+        },
+        "videoOwnerChannelTitle": "GRDL\u5192\u96aa\ubaa8\ud5d8",
+        "videoOwnerChannelId": "UCCnIy5ujalDMNgwBszSmoFQ"
+    },
+    "contentDetails": {
+        "videoId": "CRHPclhtlN0",
+        "videoPublishedAt": "2017-03-06T07:11:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

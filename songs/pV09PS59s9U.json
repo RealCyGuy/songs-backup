@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "v9TKkglfFbpYMpM3yQd97aZayfI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CMkVDNkFDMTNFQjdGRjYw",
+    "snippet": {
+        "publishedAt": "2022-03-15T05:09:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shaun (\uc200) - Way Back Home (English Cover)",
+        "description": "*PLEASE READ*\nHi you! :) Thanks for watching! This song has been on loop for weeks now. I finally got the chance to work on it. It took forever to make the instrumental coz yo girl had to learn how to make beats lol. I prerecorded the audio. I recorded the video on a moving train on my WAY BACK HOME (hehe, see what I did there). I hope you enjoy my english cover! Of course, the usual disclaimers. This is not a suuuuper direct translation. I read over different english translation on youtube and google to try and understand it. I tried to stick to the overall meaning of the song while attempting to create a better flow of words. \n\nListen to my originals! :) \nhttps://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8?si=U7Qgm-bKRH60fe1bXtrCFQ\n\nsocial media: \nIG: @itsysabellecuevas\nTwitter: @YsabelleCuevas\nFacebook: https://www.facebook.com/YsabelleCuevas/\n\nLyrics:\nReaching out to you in the dead of the night\nNo matter where I go, always end up by your side\nAt the end of this journey, time has led me back\nBack to my home, now I found the way back home\n\nno matter how I shut it out,\nlike a drawer it opens again\nand when you fly up to the sky\nsomehow you always end up with me and all the times I let you go,\nI know they're all the same oh no oh \nThe countless roads that led me away, it's you I found on the way\nAlthough I empty out the heart, afraid that this would be the last\nthe steps my feet would take, would always lead to you\nSo stop, just stop. \n\nReaching out to you in the dead of the night\nNo matter where I go, always end up by your side\nAt the end of this journey, time has led me back\nBack to my home, now I found the way back home\n\nQuietly open up the door\nAnd take your memories out \nthrough the broken shattered times\nhow are you're shining bright\nYou live entrapped in this \nAstray and lonely heart\nSo stop, just stop.\n\nReaching out to you in the dead of the night\nNo matter where I go, always end up by your side\nAt the end of this long journey, time has led me back\nBack to my home, now I found the way back home\n\ntrying to search the world for all of me\nto write this story that only you complete\nI'd lose it all my love, coz you're all that I need\n\nall the lights are turned out, please could you hold me close?\n\nClose your eyes, hold them tight, silently I'll make my way,\nCloser to you, \nIn my heart, there you will stay\nI don't need just anybody, you're the only one\nwait until you're home,  til that day then I'm not done.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pV09PS59s9U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pV09PS59s9U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pV09PS59s9U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/pV09PS59s9U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/pV09PS59s9U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 333,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "pV09PS59s9U"
+        },
+        "videoOwnerChannelTitle": "Ysabelle",
+        "videoOwnerChannelId": "UCLsy9ruQ3qHxmLOnJQmO5KQ"
+    },
+    "contentDetails": {
+        "videoId": "pV09PS59s9U",
+        "videoPublishedAt": "2018-08-11T01:49:51Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

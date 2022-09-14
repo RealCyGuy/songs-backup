@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "2PAfrzbo21fDq0apSTkLQ_yjQX0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNUY3QTdGNUU3NjlGMjYz",
+    "snippet": {
+        "publishedAt": "2021-09-11T15:39:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[MV] \uad6d\uce74\uc2a4\ud150 - \uc801 \uac19\uc740 \ub79c\ub364 (We Won't Cooperate) | \ube0c\ub864\uc2a4\ud0c0\uc988 (Brawl Stars)",
+        "description": "\uad6d\uce74\uc2a4\ud150 - \uc801 \uac19\uc740 \ub79c\ub364\n(Original by Bad Randoms - We Won't Cooperate)\n\n\n\n\ud83e\udd1f EVENT : \ud0ac\ub9c1 \ud30c\ud2b8\ub97c \ucc3e\uc544\ub77c!\n\u3008\uc801 \uac19\uc740 \ub79c\ub364\u3009 \uc18d \uacf5\uac10\ub418\ub294 \uac00\uc0ac\ub97c \ud0c0\uc784\uc2a4\ud0ec\ud504, \uc774\uc720\uc640 \ud568\uaed8 \ub313\uae00\ub85c \ub0a8\uaca8\uc8fc\uc138\uc694.\n\ub9ce\uc740 \uacf5\uac10\uc744 \uc5bb\uc740 \ub313\uae00 \uc911 \ucd94\ucca8\ud558\uc5ec, \ucd1d 10\ubd84\uaed8 \uc2e0\uaddc \uc2a4\ud0a8 '\ud391\ud06c \ub77d \ud3ec\ucf54' \ub97c \ub4dc\ub9bd\ub2c8\ub2e4!\n\n* 2021\ub144 8\uc6d4 29\uc77c\uae4c\uc9c0 \uc791\uc131\ub41c \ub313\uae00\uc5d0 \ud55c\ud574 \ucc38\uc5ec \uac00\ub2a5\ud558\uba70, \ub2f9\ucca8\uc790 \ubc1c\ud45c\ub294 8\uc6d4 30\uc77c \uc911 \ub300\ub313\uae00\uc744 \ud1b5\ud574 \uac1c\ubcc4 \uc548\ub0b4 \uc608\uc815\uc785\ub2c8\ub2e4.\n* \uacbd\ud488 \uc9c0\uae09\uc744 \uc704\ud574 \uac1c\uc778 \uc815\ubcf4(\ube0c\ub864\uc2a4\ud0c0\uc988 \ud50c\ub808\uc774\uc5b4 \ud0dc\uadf8)\ub97c \uc218\uc9d1\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.\n\n#BadRandoms #\ube0c\ub864\uc2a4\ud0c0\uc988 #\uc801\uac19\uc740\ub79c\ub364 #\uad6d\uce74\uc2a4\ud150 #WeWontCooperate",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Beg_6hIjZso/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Beg_6hIjZso/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Beg_6hIjZso/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 870,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Beg_6hIjZso"
+        },
+        "videoOwnerChannelTitle": "\ube0c\ub864\uc2a4\ud0c0\uc988",
+        "videoOwnerChannelId": "UClJspSpzADMROqOW9HLHaoA"
+    },
+    "contentDetails": {
+        "videoId": "Beg_6hIjZso",
+        "videoPublishedAt": "2021-08-20T06:44:43Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

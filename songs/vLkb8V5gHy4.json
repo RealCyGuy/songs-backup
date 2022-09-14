@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "MvhPnjNB-Wlobk8EK-PuPZsT6PI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43NUVCRUMxQjU0MkM5QjI2",
+    "snippet": {
+        "publishedAt": "2022-06-26T03:23:07Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Cloudy June - Mommy Issues (Official Music Video)",
+        "description": "Stream 'Mommy Issues' here: https://sng.to/cloudyjune/mommy-issues\n\nSupported by Initiative Musik GmbH with project funds from the Federal Government Commissioner for Culture and Media.\n\nEditor: Niko Gindler, Cloudy June\n\nDirector/DOP: Niko Gindler\nhttps://www.instagram.com/nik_motionstills/\n\nMake-Up: Antina Christ \nhttps://www.instagram.com/antina_christ/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vLkb8V5gHy4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vLkb8V5gHy4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vLkb8V5gHy4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/vLkb8V5gHy4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/vLkb8V5gHy4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 80,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vLkb8V5gHy4"
+        },
+        "videoOwnerChannelTitle": "Cloudy June",
+        "videoOwnerChannelId": "UCa6U7jauahu2nPdI54j_9wA"
+    },
+    "contentDetails": {
+        "videoId": "vLkb8V5gHy4",
+        "videoPublishedAt": "2022-03-21T09:00:58Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

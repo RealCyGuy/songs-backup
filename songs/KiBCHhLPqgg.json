@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "AH--PHquCTymmLL1w6K7B1a1BQw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43QzAwQzY2Q0M0MTU1QkIz",
+    "snippet": {
+        "publishedAt": "2021-07-12T23:07:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "DCappella - Pow! Pow! Pow! - Mr. Incredible's Theme (From \"Incredibles 2\"/Audio Only)",
+        "description": "DCappella debut self-titled album available now!\nDownload: http://disneymusic.co/DCappellaAlbumDL\nStreaming: http://disneymusic.co/DCappellaAlbum\n\nDCappella's first ever North American tour is set to launch January 22nd, 2019 at the Florida Theatre in Jacksonville, FL. The multi-city trek is set to hit 40-US markets including Nashville, Brooklyn, Philadelphia, Chicago and the Los Angeles area. The tour features a contemporary production of new Deke Sharon arrangements of Disney classic and modern hits, bringing to life a truly unique a cappella experience. Skincare company, H2O+ Beauty is the co-sponsor of the national tour. Get your tickets now: http://dcappellalive.com/tour/\n\n\u2018Friend Like Me\u2019 Meet & Greet Experiences: https://www.cidentertainment.com/events/dcappella-tour/\n\nFollow DCappella:\nInstagram: http://instagram.com/dcappellamusic\nFacebook: http://facebook.com/dcappellamusic\nTwitter: http://twitter.com/dcappellamusic\nOfficial Website: http://dcappellalive.com\n\nDCappella is Disney Music Group\u2019s new a cappella singing sensation consisting of 7 members: Sojourner Brown (alto), Orlando Dixon (baritone), Antonio Fernandez (vocal percussion), Morgan Keene (soprano), Shelley Regner (mezzo), Joe Santoni (bass), and RJ Woessner (tenor).\n\nMusic video by DCappella performing Pow! Pow! Pow! - Mr. Incredible's Theme. \u00a9 2018 Walt Disney Records/Pixar\n\nhttp://vevo.ly/35UCY4",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/KiBCHhLPqgg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/KiBCHhLPqgg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/KiBCHhLPqgg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/KiBCHhLPqgg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/KiBCHhLPqgg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1078,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "KiBCHhLPqgg"
+        },
+        "videoOwnerChannelTitle": "DisneyMusicVEVO",
+        "videoOwnerChannelId": "UCgwv23FVv3lqh567yagXfNg"
+    },
+    "contentDetails": {
+        "videoId": "KiBCHhLPqgg",
+        "videoPublishedAt": "2018-06-15T04:00:03Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

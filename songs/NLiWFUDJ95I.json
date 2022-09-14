@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "lZLJ8wONaQsqyHVBryE-Wbjw7SE",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RjgyQ0E1RjFBNkIyMkY0",
+    "snippet": {
+        "publishedAt": "2021-08-21T05:01:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pentatonix - Imagine (Official Video)",
+        "description": "Official Music Video for \u201cImagine\u201d by Pentatonix\nListen to Pentatonix: https://Pentatonix.lnk.to/listenYD\nWatch More Videos by Pentatonix: https://pentatonix.lnk.to/listenYD/youtube \n\nSubscribe to the Official PTX YouTube channel: https://Pentatonix.lnk.to/subscribeYD\n\nJoin Our Patreon Fan Page! http://www.patreon.com/pentatonix\n\nFOLLOW PTX: \nhttp://www.ptxofficial.com \nhttp://www.facebook.com/Pentatonix \nhttps://www.instagram.com/ptxofficial\nhttps://www.tiktok.com/@pentatonix\nhttp://www.twitter.com/ptxofficial  \nhttp://www.snapchat.com/add/PTXsnap\n\nLyrics: \nYou may say I'm a dreamer \nBut I'm not the only one \nI hope some day you'll join us \nAnd the world will live as one\n\n#Pentatonix #Imagine\ufeff",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NLiWFUDJ95I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NLiWFUDJ95I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NLiWFUDJ95I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/NLiWFUDJ95I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/NLiWFUDJ95I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 947,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NLiWFUDJ95I"
+        },
+        "videoOwnerChannelTitle": "PentatonixVEVO",
+        "videoOwnerChannelId": "UCIE6_c6qPrHzuVRssQ5B0lQ"
+    },
+    "contentDetails": {
+        "videoId": "NLiWFUDJ95I",
+        "videoPublishedAt": "2017-03-10T14:56:36Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

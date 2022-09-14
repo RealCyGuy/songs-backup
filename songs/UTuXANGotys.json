@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "XvJbyEIQRgM-rJkDPNBc9Sn42xw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FN0IyODJCNzIzRTRCQzVB",
+    "snippet": {
+        "publishedAt": "2021-07-11T00:56:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Yorushika - Hana Ni Bourei (Uruha Rushia Cover & Miyuri Remix)",
+        "description": "I fell in love with Rushia's beautiful cover so I did a remix on that ^ \n \nUruha Rushia Cover:\nhttps://www.youtube.com/watch?v=UBSx4qqeikY\n\nOriginal by Yorushika:\nhttps://www.youtube.com/watch?v=9lVPAWLWtWc\n\nFollow me:\nSoundcloud: https://soundcloud.com/itsmiyuridesu\nTwitter: https://twitter.com/itsmiyuridesu\nYoutube: https://www.youtube.com/channel/UCX1ISZVr8Damf78phKasD1w\nInstagram: https://www.instagram.com/itsmiyuridesu\n\n\nFollow Uruha Rushia:\nYoutube: https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ\nTwitter: https://twitter.com/uruharushia\n\nFollow Yorushika:\nWebsite: https://yorushika.com/\nTwitter: https://twitter.com/nbuna_staff",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UTuXANGotys/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UTuXANGotys/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UTuXANGotys/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UTuXANGotys/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1084,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UTuXANGotys"
+        },
+        "videoOwnerChannelTitle": "Miyuri",
+        "videoOwnerChannelId": "UCX1ISZVr8Damf78phKasD1w"
+    },
+    "contentDetails": {
+        "videoId": "UTuXANGotys",
+        "videoPublishedAt": "2020-09-13T19:07:54Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

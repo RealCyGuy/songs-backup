@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "2Z260JEpr04JKPutn2ae2qUlPgU",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RDlFMjYxQkY0QzNERjAy",
+    "snippet": {
+        "publishedAt": "2022-01-03T04:23:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "R\u016eDE - Eternal Youth",
+        "description": "My EP's out, so I made a track to celebrate it!\n\nFree: https://rudemn.bandcamp.com/album/duality-ep\n\nA track to celebrate Youth and Life.\n\nFree Download: http://www.theartistunion.com/tracks/369375\n\nBandcamp: https://rudemn.bandcamp.com/track/eternal-youth\n\nThank you for listening. I love you all.\n\nArtwork by \"J. Fria\u00e7a\"\n\nJ. Fria\u00e7a: http://www.imgur.com/a/wbJjN \n\nFollow: https://soundcloud.com/itsrudeboy\n\nFollow: https://twitter.com/_imrude_\n\nSample: Endless Love",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3uXHaVENo6E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3uXHaVENo6E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3uXHaVENo6E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3uXHaVENo6E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3uXHaVENo6E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 517,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3uXHaVENo6E"
+        },
+        "videoOwnerChannelTitle": "R\u016eDE",
+        "videoOwnerChannelId": "UC3rcrZxH9VW73L2gZtHlU2g"
+    },
+    "contentDetails": {
+        "videoId": "3uXHaVENo6E",
+        "videoPublishedAt": "2016-06-10T12:50:09Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

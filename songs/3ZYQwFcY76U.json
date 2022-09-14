@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "4X56TJ7UAdk01Cy_aM_8fuRJiI4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNTMwQkY4NjQwMEJCMEE3",
+    "snippet": {
+        "publishedAt": "2021-12-30T19:51:50Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "M2U - Marigold ( VIP Remix ) [ Korean , English lyrics ]",
+        "description": "\u266a Music : Marigold ( VIP Remix )\n\n\u266a Artist : M2U\n\n\u266a Album : D I V E R S I T Y\n\n\u266a M2U SOUNDCLOUD : https://soundcloud.com/m2ustudio\n\n\u266a Illustration : [ shiro ]\nMail : hayoring@naver.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3ZYQwFcY76U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3ZYQwFcY76U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3ZYQwFcY76U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3ZYQwFcY76U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3ZYQwFcY76U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 539,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3ZYQwFcY76U"
+        },
+        "videoOwnerChannelTitle": "BEAR MUDI",
+        "videoOwnerChannelId": "UCWNRWS8iFL-fkXtcE2mwaiw"
+    },
+    "contentDetails": {
+        "videoId": "3ZYQwFcY76U",
+        "videoPublishedAt": "2020-06-08T06:46:13Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

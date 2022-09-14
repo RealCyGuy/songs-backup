@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "onzY3nxun0uaTKg-HSGnQm6vCck",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42RTRBNTlERjQ1NTFBRTE5",
+    "snippet": {
+        "publishedAt": "2022-02-06T07:21:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Jake Chudnow - \"Atlas\" (Theme from Mind Field)",
+        "description": "Theme music from Vsauce's excellent Mind Field show\nWatch it here: https://goo.gl/An5FRX\n\nhttp://twitter.com/jakechudnow\n\nSong: Jake Chudnow - \"Atlas\"\n\nVideo edited by me using the following original rights-free / public domain footage (or with permission of the rights-holder - a big thanks again to Bruce Cornwell):\n\nBruce and Katharine Cornwell - \"Congruent Triangles\" (1977)\nhttps://archive.org/details/afana_congruent_triangles\n\nHandy (Jam) Organization - \"Detroit: City on the Move\" (1965)\nhttps://archive.org/details/DetroitC1965\n\nDeFrenes Company - \"Form, Design and the City\" (1962)\nhttps://archive.org/details/LivingSt1958\n\nDuMont Television Network - \"'You Asked For It' #3\" (1951)\nhttps://archive.org/details/Asked_For_It_3\n\nIf you liked this song/video and want to be notified as more come out, click the \"subscribe\" button. Most of my other songs are free to download if they haven't reached the download max: http://soundcloud.com/jakechudnow",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/g_UMoi_EVqg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/g_UMoi_EVqg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/g_UMoi_EVqg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/g_UMoi_EVqg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/g_UMoi_EVqg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 409,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "g_UMoi_EVqg"
+        },
+        "videoOwnerChannelTitle": "Jake Chudnow",
+        "videoOwnerChannelId": "UC1UIj7Y9SphX5GuoG2e94XQ"
+    },
+    "contentDetails": {
+        "videoId": "g_UMoi_EVqg",
+        "videoPublishedAt": "2017-02-22T22:13:41Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

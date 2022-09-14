@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "h53lFdS5B1iK2r55bagR1KD3dNY",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RTJCRTMyNDU2RkI4MDYy",
+    "snippet": {
+        "publishedAt": "2022-05-22T03:37:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Wii Sports - Title",
+        "description": "Main Theme from Wii Sports (Nintendo) composed by Kazumi Totaka",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2qvAxPqy2wA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2qvAxPqy2wA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2qvAxPqy2wA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/2qvAxPqy2wA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/2qvAxPqy2wA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 209,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2qvAxPqy2wA"
+        },
+        "videoOwnerChannelTitle": "Whatever Dude",
+        "videoOwnerChannelId": "UCWx1YbupdMrX9qxg-d8RK0g"
+    },
+    "contentDetails": {
+        "videoId": "2qvAxPqy2wA",
+        "videoPublishedAt": "2019-01-27T05:39:52Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

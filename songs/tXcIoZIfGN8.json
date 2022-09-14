@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "mp039ugL8GZYcVFs5nQ0BpyqBpg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QTA1QTQyRTc3M0VGQzYx",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:31:33Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Coconut Mall but you have even more anxiety",
+        "description": "wait until the end for the good part trust me",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/tXcIoZIfGN8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/tXcIoZIfGN8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/tXcIoZIfGN8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/tXcIoZIfGN8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/tXcIoZIfGN8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1296,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "tXcIoZIfGN8"
+        },
+        "videoOwnerChannelTitle": "///Ari",
+        "videoOwnerChannelId": "UCWCPBOyNU3WHo8V-RRbtvVw"
+    },
+    "contentDetails": {
+        "videoId": "tXcIoZIfGN8",
+        "videoPublishedAt": "2020-12-29T00:15:26Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

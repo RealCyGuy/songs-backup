@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "GzbV9eYpyBjuof7wNlYF39BoQNE",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRUQwODMxQzUyRTlGRkY3",
+    "snippet": {
+        "publishedAt": "2021-04-25T04:14:13Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Giorno's Theme - Otamatone Cover",
+        "description": "Is this a JoJo reference?\n\nConsider supporting me on patreon: https://www.patreon.com/TheRealSullyG\n\nCheck out my merch: https://teespring.com/stores/therealsullyg\n\n*Affiliate Links*\nBrowse all Otamatones: https://hamee.com/collections/otamatone?ref=TheRealSullyG\nRegular Otamatone (White): https://hamee.com/collections/otamatone/products/otamatone-from-maywa-denki-white?ref=TheRealSullyG\nOtamatone Neo (White): https://hamee.com/collections/otamatone/products/otamatone-neo-musical-toy-white-from-maywa-denki?ref=TheRealSullyG\nOtamatone Deluxe (White): https://hamee.com/collections/otamatone/products/otamatone-deluxe-from-meiwa-denki-white?ref=TheRealSullyG\nOtamatone Melody (White): https://hamee.com/collections/otamatone/products/otamatone-melody-from-meiwa-denki-white?ref=TheRealSullyG\n\nFollow me on social media:\nTwitter: https://www.twitter.com/TheRealSullyG\nInstagram: https://www.instagram.com/TheRealSullyG\nFacebook: https://www.facebook.com/TheRealSullyG",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/16K3EZ-1H_w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/16K3EZ-1H_w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/16K3EZ-1H_w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/16K3EZ-1H_w/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/16K3EZ-1H_w/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1332,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "16K3EZ-1H_w"
+        },
+        "videoOwnerChannelTitle": "TheRealSullyG",
+        "videoOwnerChannelId": "UCk-PPUZtKgj-GuyVaXSrhVQ"
+    },
+    "contentDetails": {
+        "videoId": "16K3EZ-1H_w",
+        "videoPublishedAt": "2019-11-05T20:39:23Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "iiUynDtCmcB7PgGc854TV0zLicw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENjEzODgyQTFBNzcxMDY5",
+    "snippet": {
+        "publishedAt": "2022-02-05T01:26:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "salem ilese - hey siri (official lyric video)",
+        "description": "salem ilese - hey siri (official lyric video)\n\nlisten to hey siri: https://salemilese.lnk.to/heysiri\n\nsubscribe to my youtube for more music and videos!! http://hyperurl.co/salemYT\n\nFollow salem ilese:\nTikTok: https://www.tiktok.com/@salemilese\nInstagram: https://www.instagram.com/salemilese\nTwitter: https://twitter.com/salemilese\nFacebook: https://www.facebook.com/Salemilese\nYouTube: http://hyperurl.co/salemYT\n\nCredits:\nIllustrated by Aaliya Luthra\n\nLyrics:\nhey Siri\nCould you teach me how to cook an apple pie\nsay thanks in japanese\nmake a paper plane that flies\n\nHey Siri\ncould you cancel my alarm at 8:05\ncause lately i can\u2019t sleep\ni\u2019ve been spending all my time\n\nJust trying to find\nAll of the answers to the questions that you\nCan\u2019t look up online\nCuz I can\u2019t shake the feeling that we\u2019re only born to die\nHey Siri what\u2019s the meaning of life?\n\nHey Siri,\u00a0\nCould you tell me how to fix my broken heart\nNo one made it stop\nI just can\u2019t get it to start\n\nhey siri\nAre you happy, do you wish that you could cry\nAre you as lost as me\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nAre you spending all your time\n\nJust trying to find\nAll of the answers to the questions that you\nCan\u2019t look up online\nCuz I can\u2019t shake the feeling that we\u2019re only born to die\nHey Siri what\u2019s the meaning of life?\n\n#SalemIlese\n#HeySiri",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2OXgMj6NF08/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2OXgMj6NF08/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2OXgMj6NF08/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/2OXgMj6NF08/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/2OXgMj6NF08/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 412,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2OXgMj6NF08"
+        },
+        "videoOwnerChannelTitle": "salem ilese",
+        "videoOwnerChannelId": "UC3Z4xMcKKKhdRWLNIVHuOnw"
+    },
+    "contentDetails": {
+        "videoId": "2OXgMj6NF08",
+        "videoPublishedAt": "2021-11-17T05:00:18Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "wl8VkQWFhdMOOMhYX8L9a78GVAo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GODMwQjlBMkMxMTlBRDQx",
+    "snippet": {
+        "publishedAt": "2022-04-13T03:15:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Rush E But Played on Clarinet",
+        "description": "Joining the Rush E train with a Clarinet Cover",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kNMMS_WknOk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kNMMS_WknOk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kNMMS_WknOk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kNMMS_WknOk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kNMMS_WknOk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 295,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kNMMS_WknOk"
+        },
+        "videoOwnerChannelTitle": "HD Tang",
+        "videoOwnerChannelId": "UCWdkLusshPalQBfth9qUKLw"
+    },
+    "contentDetails": {
+        "videoId": "kNMMS_WknOk",
+        "videoPublishedAt": "2021-09-18T12:47:28Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

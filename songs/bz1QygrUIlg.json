@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "J2WoFEwEUJmoo-JAxDgHfhf493c",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wNzE1RkVBNkQ4OTAzOUI0",
+    "snippet": {
+        "publishedAt": "2022-05-22T06:06:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "spring gang feat. Vincent Vega - Forget Your Name (Royalty Free Music)",
+        "description": "Enjoy the Epidemic Funk playlist: https://youtube.com/playlist?list=PL58ZBbhgRZjJCVRdabE_gJY7KpzDSauVG\nSubscribe to be part of our community: https://www.youtube.com/channel/UC5cKfj6zeSJ_BYrXyx75pyw?sub_confirmation=1\n\nWe upload the best funk music used across the creator community. Subscribe and hit the notification bell to get updated when we publish new songs and music mixes! \ud83c\udfb5\n\nEpidemic Soul: https://www.youtube.com/channel/UCuIYXHQDrshoYcbFttrvAjw?sub_confirmation=1\nEpidemic R&B: https://www.youtube.com/channel/UCZ9raN0WbEYZ7vTjjUth49Q?sub_confirmation=1\nEpidemic Retro: https://www.youtube.com/channel/UC68a8Tpca1ujC_U0IpqwnCw?sub_confirmation=1\nMore channels from Epidemic Sound: https://www.youtube.com/channel/UC_sOjEnngNB2y_AEaDd2cSA/channels\n\nRoyalty free music and sound effects (30-day free trial): https://www.epidemicsound.com/music/genres/funk/?utm_source=youtube_music&utm_medium=social&utm_campaign=youtubeepidemicfunk\n\nWe believe in a world where music can flow freely and fairly across timezones, borders, audiences and channels. Thank you for being a part of our community! \u266b\n\n\u2022 Instagram: https://instagram.com/epidemicsound/\n\u2022 Twitter: https://twitter.com/epidemicsound/\n\u2022 Facebook: https://facebook.com/EpidemicSound/\n\n#epidemicfunk #epidemicsound",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bz1QygrUIlg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bz1QygrUIlg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bz1QygrUIlg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/bz1QygrUIlg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/bz1QygrUIlg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 199,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bz1QygrUIlg"
+        },
+        "videoOwnerChannelTitle": "Epidemic Funk",
+        "videoOwnerChannelId": "UC5cKfj6zeSJ_BYrXyx75pyw"
+    },
+    "contentDetails": {
+        "videoId": "bz1QygrUIlg",
+        "videoPublishedAt": "2020-06-14T16:00:26Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "lwSJWVoRFn_ZrFtLzPyq1TQKhsg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MkM2QkVFRDVBNDk1NDdB",
+    "snippet": {
+        "publishedAt": "2022-06-14T23:49:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "iKON - \u2018\uc0ac\ub791\uc744 \ud588\ub2e4(LOVE SCENARIO)\u2019 M/V",
+        "description": "#iKON #\uc544\uc774\ucf58 #\uc0ac\ub791\uc744\ud588\ub2e4  #2ndALBUM #Return #LOVESCENARIO #YG\n\nAvailable on iTunes & Apple Music @  http://smarturl.it/iKON_LS\n\nAvailable on Spotify @ http://smarturl.it/iKON_LS/spotify\n\nAlbums Available @ \nYG E-SHOP: https://goo.gl/LE4wqr\nAmazon US: https://goo.gl/W7BFSX \nAmazon JP: https://goo.gl/MunRjP\n\nMore about iKON @\nhttp://www.yg-ikon.com/\nhttp://www.facebook.com/OfficialYGiKON\nhttp://www.youtube.com/OfficialYGiKON\nhttp://www.sptfy.com/iKON\nhttp://www.weibo.com/iKONOFFICIAL\nhttp://www.twitter.com/ygent_official\nhttps://itunes.apple.com/artist/ikon/id1044506362",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 114,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vecSVX1QYbQ"
+        },
+        "videoOwnerChannelTitle": "iKON",
+        "videoOwnerChannelId": "UCWxCyZibDIWIrGIgP25mbfw"
+    },
+    "contentDetails": {
+        "videoId": "vecSVX1QYbQ",
+        "videoPublishedAt": "2018-01-25T09:00:03Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

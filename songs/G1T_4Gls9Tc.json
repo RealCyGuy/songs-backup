@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "YPZUgpzbRVUTEC-9_6zqOn0Il3M",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yODBDNjFEMDg1MDY2Mzc5",
+    "snippet": {
+        "publishedAt": "2022-02-15T06:53:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Fukashigi No Carte Band Cover",
+        "description": "Hi! It's me! And I'm back with new cover after being inactive for quite a long time. This time, I invited some of my friends to do some cover. And finally, we did a cover of a song from an anime called Bunny Girl Senpai. This song is called Fukashigi No Carte. I don't know why every time I listen to this song it feels so calming and depressing(?) at the same time. Anyway, here's a credit to my friends who joined me for a collaboration :\n\nVo. Rina (https://www.youtube.com/c/RinaHime)\nVo. Shuri (https://www.youtube.com/channel/UC-08TaKbuYzPWkpqIZGMVnQ)\nVo. Hima (https://www.youtube.com/c/HimaHimouto)\nDr. Radit (https://www.instagram.com/radityaalif)\nKey. Gerald (https://www.instagram.com/jeremiasgrld)\nGt. Ba. Me\n\nOkay, that's all from me! Hope you enjoy listening to our cover. Please leave a like, comment, subscribe, and share this video if you like it :D\n\n#FukashigiNoCarte #BunnyGirlSenpai #BandCover #\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6 #\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u3086\u3081\u307f\u308b\u5c11\u5973\u306e\u5922\u3092\u898b\u306a\u3044",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/G1T_4Gls9Tc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/G1T_4Gls9Tc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/G1T_4Gls9Tc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/G1T_4Gls9Tc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/G1T_4Gls9Tc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 374,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "G1T_4Gls9Tc"
+        },
+        "videoOwnerChannelTitle": "Kiki Desu",
+        "videoOwnerChannelId": "UCn0rc681mKYX4sYaDCk-SBg"
+    },
+    "contentDetails": {
+        "videoId": "G1T_4Gls9Tc",
+        "videoPublishedAt": "2021-09-25T10:00:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

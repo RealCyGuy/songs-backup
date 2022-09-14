@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "MOTVTuzLymhpV_ffL9fj9I6TPb8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yQUIyMERDQzgzQkE0NTVG",
+    "snippet": {
+        "publishedAt": "2022-07-25T22:28:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ViVid Strike! OST - Shiny Sky Memories",
+        "description": "\u266b Song/Track\n\u261b Title: Shiny Sky Memories\n\u261b Anime: ViVid Strike!, \u30f4\u30a3\u30f4\u30a3\u30c3\u30c9 \u30b9\u30c8\u30e9\u30a4\u30af\n\nNo copyright intended. This video is for entertainment purposes only. All rights belong to the original owner of the image and music used.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0wAEZouvlj8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0wAEZouvlj8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0wAEZouvlj8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/0wAEZouvlj8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 29,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0wAEZouvlj8"
+        },
+        "videoOwnerChannelTitle": "Coreanissimo OST",
+        "videoOwnerChannelId": "UCDHpDfk9l7o-w1TcynO1y8g"
+    },
+    "contentDetails": {
+        "videoId": "0wAEZouvlj8",
+        "videoPublishedAt": "2021-05-23T18:02:07Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

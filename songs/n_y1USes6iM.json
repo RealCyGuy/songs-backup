@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "vyVisXRY3eHlR7xF99vGryVMRH4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43NTMzMjMxOTJEREYyMTYz",
+    "snippet": {
+        "publishedAt": "2022-05-20T03:33:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Just the Two of Us - Bill Withers/Grover Washington Jr. (cover)",
+        "description": "so many people on tik tok were requesting this!!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/n_y1USes6iM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/n_y1USes6iM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/n_y1USes6iM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 212,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "n_y1USes6iM"
+        },
+        "videoOwnerChannelTitle": "Stacey Ryan",
+        "videoOwnerChannelId": "UCDKI45mlLlHcdqSrStjg2Sg"
+    },
+    "contentDetails": {
+        "videoId": "n_y1USes6iM",
+        "videoPublishedAt": "2020-11-19T01:56:43Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "2XdLibwSOpmY18wSMl0GbW9gdj4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DODY2Qzc5Mzc1QkZEQ0NF",
+    "snippet": {
+        "publishedAt": "2021-05-08T21:24:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Canon in D ( Remix by Arielfz )",
+        "description": "Spek Laptop Asus X441U Ram 4 GB HDD 1Tb CPU Intel Core 13 6006U. 2.0GHz Camera : SmartPhone Samsung A5 2017 instagram : www.instagram.com/arielfz_ Subscribe Ya gais komen jika mau request aja atau ngasi saran Like kalo gasuka Like juga kalo Suka",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9Zt9jPPUnKM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9Zt9jPPUnKM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9Zt9jPPUnKM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/9Zt9jPPUnKM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/9Zt9jPPUnKM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1250,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9Zt9jPPUnKM"
+        },
+        "videoOwnerChannelTitle": "Ariel Fz",
+        "videoOwnerChannelId": "UCJ3GRbiqeZRz-01XtJQCIiA"
+    },
+    "contentDetails": {
+        "videoId": "9Zt9jPPUnKM",
+        "videoPublishedAt": "2018-12-27T04:01:56Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

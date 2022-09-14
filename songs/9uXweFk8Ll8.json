@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "fOK6svZa0AcJBaoEmG5pHtVYus4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FN0Y4Q0RBOTE2RTQ2MTk0",
+    "snippet": {
+        "publishedAt": "2022-06-27T04:15:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010Yowamushi Pedal\u3011 Love \u2606 Hime \uff62eng + romaji sub\uff63",
+        "description": "Alternate Title:\n\u604b\u306e\u30d2\u30e1\u30d2\u30e1\u307a\u3063\u305f\u3093\u3053\nKoi no Hime Hime Pettanko\nLove Hime, Pettanko-chan\nLove Princess, Pancake-chan\n\nNote:\nI just noticed this song is not subbed here on YT so I made one\nIt's really an inspiration for biking on yowadepa XD\nIf you're wondering, the term \"pettanko\" is used in Japan to describe girls with flat chests and what is a pancake?..\n\nLyrics: http://otomelody.blogspot.com/2014/07/yowamushi-pedal-lovehime-theme-song-koi.html\nOrig. Video: http://www.nicovideo.jp/watch/sm23363222\nI just put up the English subtitle\n\nAn Anime in Anime: \nYowamushi Pedal\n\u5f31\u866b\u30da\u30c0\u30eb",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9uXweFk8Ll8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9uXweFk8Ll8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9uXweFk8Ll8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/9uXweFk8Ll8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/9uXweFk8Ll8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 77,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9uXweFk8Ll8"
+        },
+        "videoOwnerChannelTitle": "Frances b",
+        "videoOwnerChannelId": "UCEfW6udk0HNNE50__KrtIlg"
+    },
+    "contentDetails": {
+        "videoId": "9uXweFk8Ll8",
+        "videoPublishedAt": "2015-10-12T07:10:32Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "X86t4jrjwDsCeB4lsSMq-DEPYN4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45MkQ0ODBDNzk1RTE4MjFG",
+    "snippet": {
+        "publishedAt": "2022-06-01T22:26:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Spy x Family Main Theme ELECTRO SWING VERSION ft. James Bond and Mission Impossible | tnbee mix",
+        "description": "This OST played on Spy x Family, usually when Loid doing something related to his spy works.\n\nPlease use headphones or you are missing out a lot! \nFinally, anime covers are back on my channel! Feel free to listen to my other anime covers as well! Spy x Family is really wholesome and funny! Been really enjoying this anime lately! Also, leave a comment below if you have any anime cover requests!\n\nSpy x Family Main Theme by (K)NoW_NAME\nJames Bond Theme by Monty Norman\nMission Impossible Theme by Lalo Schifrin\nMusic Cover by tnbee\nAll copyright belongs to their respective owners.\n\nSubscribe so I can continue making more music! thank you very much!\n\nYou can also find me here:\n\u27a4 Spotify: https://open.spotify.com/artist/0cJKV...\n\u27a4 Apple Music: https://music.apple.com/us/artist/tnb...\n\u27a4 Twitter: https://twitter.com/tnbeeat\n\nSupport me on Ko-fi:\n\u27a4 https://ko-fi.com/tnbee\n\nRepost of my cover anywhere else is strictly prohibited (extending my cover, re-upload, etc).\n\n#SpyxFamily #ThemeMusic #tnbeemix\u200b",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/If5OQOwAbLQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/If5OQOwAbLQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/If5OQOwAbLQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/If5OQOwAbLQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/If5OQOwAbLQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 159,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "If5OQOwAbLQ"
+        },
+        "videoOwnerChannelTitle": "tnbee",
+        "videoOwnerChannelId": "UCwwz34or0IhJMzqEfJBfBkQ"
+    },
+    "contentDetails": {
+        "videoId": "If5OQOwAbLQ",
+        "videoPublishedAt": "2022-05-18T02:15:00Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

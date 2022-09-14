@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "w5E8eG1rzcgA7q065VCDQ5rEH8k",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMzJBNTREM0I1Njg1NEE2",
+    "snippet": {
+        "publishedAt": "2021-10-15T22:41:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Station Earth - Cold Green Eyes (ft. Roos Denayer)",
+        "description": "OUT NOW on Galaxy of Dreams 2!\nListen on Spotify: https://goo.gl/QddJUy\nBuy Galaxy of Dreams 2 on CD: https://goo.gl/0tidh4\n\nFollow Station Earth\nhttps://www.facebook.com/StationEarth\nhttp://soundcloud.com/station-earth\n\nFollow Roos Denayer\n\n\nFollow Liquicity\nGoogle+ https://plus.google.com/+Liquicity\nFacebook http://www.facebook.com/Liquicity\nLiquicity Events http://www.facebook.com/LiquicityEvents\nTwitter http://www.twitter.com/liquicity\nSoundcloud http://soundcloud.com/liquicityrecords\nBeatport http://beatport.com/label/liquicity-r...\n\nLiquicity Merchandise\nEU: http://liquicity.spreadshirt.nl/\nUSA http://liquicity.spreadshirt.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PtD6N9TDFAk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PtD6N9TDFAk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PtD6N9TDFAk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/PtD6N9TDFAk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/PtD6N9TDFAk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 751,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PtD6N9TDFAk"
+        },
+        "videoOwnerChannelTitle": "Liquicity",
+        "videoOwnerChannelId": "UCSXm6c-n6lsjtyjvdD0bFVw"
+    },
+    "contentDetails": {
+        "videoId": "PtD6N9TDFAk",
+        "videoPublishedAt": "2014-06-03T12:00:06Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

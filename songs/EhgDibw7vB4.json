@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "9mKL6NfZTri3pgsBOFIDimGwtvc",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNzIzMTUyNUY5MUQyM0U1",
+    "snippet": {
+        "publishedAt": "2021-10-06T03:12:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Super Smash Bros. Ultimate Main Theme - Lifelight",
+        "description": "https://www.smashbros.com/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EhgDibw7vB4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EhgDibw7vB4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EhgDibw7vB4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EhgDibw7vB4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EhgDibw7vB4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 772,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EhgDibw7vB4"
+        },
+        "videoOwnerChannelTitle": "Super Smash Bros.",
+        "videoOwnerChannelId": "UCwVVpHQ2Cs9iGJfpdFngePQ"
+    },
+    "contentDetails": {
+        "videoId": "EhgDibw7vB4",
+        "videoPublishedAt": "2018-11-01T14:41:38Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

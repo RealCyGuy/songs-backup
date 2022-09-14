@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "yW85TvBfKnocd2tc9zBvVYxtlNw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQTE5RDlFRDA4MkEyMkI2",
+    "snippet": {
+        "publishedAt": "2022-03-01T07:44:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "JVKE, chillpill - CHARGER (Visualizer)",
+        "description": "STREAM \"CHARGER\" out now: https://jvke.ffm.to/charger\n\nSTREAM \"this is what falling in love feels like\": https://jvke.ffm.to/fallinginlove\n\n-CHARGER LYRICS-\n\n\nCHORUS:\nCan I get your charger\u00a0\nLow battery\nWanna plug my heart in\nI\u2019m at like 3 (ayy)\nCan I get your charger\nI need that green\nGotta plug my heart in\nThat\u2019s all I need (ayy)\nThat\u2019s all I need\n\nVERSE 1:\nGirl it ain\u2019t too Siri don\u2019t you get confused\u00a0\nI don\u2019t need a soulmate I need some juice\nBluetooth like connection we could disconnect it\nOr I could show up in your phone one morning, U2\n\nPREHOOK:\u00a0\nHeart got hacked, ain\u2019t past it, think I need a full restart\nScreen got cracked, like last week, didn\u2019t mean to fall too hard\nBut I fell too hard\nNow I\u2019m seeing stars\n\nCHORUS 2:\nCan I get your charger\nLow battery\nWanna plug my heart in\nI\u2019m at like 3 (ayy)\nCan I get your charger\nI need that green\nGotta plug my heart in\nThat\u2019s all I need (ayy)\nThat\u2019s all I need\n\nVERSE 2:\nI been in the cold, yea I been feeling drained\nYou been on low power mode like every day\nI ain\u2019t got the energy for all these games\nBrightness so damn low can\u2019t even my screen\n\nPREHOOK 2:\u00a0\nHeart got hacked, ain\u2019t past it, think I need a full restart\nScreen got cracked, like last week, didn\u2019t mean to fall too hard\nBut I fell too hard\nNow I\u2019m seeing stars\n\nCHORUS 3:\nCan I get your charger\nLow battery\nWanna plug my heart in\nI\u2019m at like 3 (ayy)\nCan I get your charger\nI need that green\nGotta plug my heart in\nThat\u2019s all I need (ayy)\nThat\u2019s all I need\n\n#JVKE #chillpill #CHARGER",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oarpds66Pw4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oarpds66Pw4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oarpds66Pw4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/oarpds66Pw4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/oarpds66Pw4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 352,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "oarpds66Pw4"
+        },
+        "videoOwnerChannelTitle": "JVKE",
+        "videoOwnerChannelId": "UCSOfUqPoqpp5aWDDnAyv94g"
+    },
+    "contentDetails": {
+        "videoId": "oarpds66Pw4",
+        "videoPublishedAt": "2022-02-25T05:00:39Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

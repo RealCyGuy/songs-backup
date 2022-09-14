@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "S6ZlZODvud1GeUfjq-IMJ35cuVk",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44M0YwNkI0MUFDMzZBMEZC",
+    "snippet": {
+        "publishedAt": "2022-04-05T00:21:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Muski Remix Squidward's Tiki Land by (NeptunusMusik)",
+        "description": "Follow My Instagram\nhttps://instagram.com/rifkyje_\n\nDj spongebob\nDj\nRemix\nSquidward\nSpongebob film Dj Remix Dj Aveeplayer",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 301,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BvdzUhBSl-Q"
+        },
+        "videoOwnerChannelTitle": "NeptunusTeam",
+        "videoOwnerChannelId": "UCjyaTl1hHpL5DiDe-51gpsA"
+    },
+    "contentDetails": {
+        "videoId": "BvdzUhBSl-Q",
+        "videoPublishedAt": "2020-07-01T09:25:06Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

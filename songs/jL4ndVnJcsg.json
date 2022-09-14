@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "9_a8U7rZ2RG45t_xDkO3DxQ-OL4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EN0E0MjMyMEY5RjIxNDc4",
+    "snippet": {
+        "publishedAt": "2021-10-06T03:16:31Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Lifelight Remix (ft. Jenn Sakura) - Super Smash Bros. Ultimate Theme",
+        "description": "My remix of the Super Smash Bros. Ultimate theme song, Lifelight.\nLISTEN ON SOUNDCLOUD: https://soundcloud.com/leviniha/lifelight\n\nThanks to Jenn Sakura for the vocals!\nCheck her stuff out here: https://www.youtube.com/watch?v=sgdktww6dRY\n\nTwitch \u25ba https://www.twitch.tv/jennsakura\nInstagram \u25ba http://instagram.com/JennSakura\nTwitter \u25ba http://twitter.com/J3nnSakura\n\n- FOLLOW ME ON SOCIAL STUFF -\n\nINSTAGRAM \u25ba https://www.instagram.com/leviniha/\nTWITTER \u25ba https://twitter.com/LeviNiha\nSOUNDCLOUD \u25ba https://soundcloud.com/leviniha\nSPOTIFY \u25ba https://open.spotify.com/artist/5hiUhkqI7yxHcrcadSsqU2",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jL4ndVnJcsg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jL4ndVnJcsg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jL4ndVnJcsg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/jL4ndVnJcsg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/jL4ndVnJcsg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 769,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jL4ndVnJcsg"
+        },
+        "videoOwnerChannelTitle": "Levi Niha",
+        "videoOwnerChannelId": "UC1A_Hq-N1dHhAvwg0QWC7Sw"
+    },
+    "contentDetails": {
+        "videoId": "jL4ndVnJcsg",
+        "videoPublishedAt": "2018-12-02T14:04:14Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

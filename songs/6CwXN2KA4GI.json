@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "WP-Lp7Qb8962aQjNrPa2yr9pbBQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FRDFCMTA5MkQzRkIwOUQ3",
+    "snippet": {
+        "publishedAt": "2022-01-03T14:54:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pastel\uff0aPalettes\u00d7ClariS\u300e\u30d2\u30c8\u30ea\u30b4\u30c8\u300f\u3010\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2PV\u3011",
+        "description": "2021\u5e7412\u670831\u65e515\u6642\u3088\u308a\u3001\u30b2\u30fc\u30e0\u5185\u306bPastel\uff0aPalettes\uff08Vo.\u4e38\u5c71\u5f69/CV.\u524d\u5cf6\u4e9c\u7f8e\uff09\u3068ClariS\u3055\u3093\u304c\u6b4c\u3046\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2\u300e\u30d2\u30c8\u30ea\u30b4\u30c8\u300f\u304c\u8ffd\u52a0\u3055\u308c\u308b\u3053\u3068\u3092\u8a18\u5ff5\u3057\u3066\u3001\u30a8\u30af\u30b9\u30c8\u30e9\u697d\u66f2PV\u3092\u516c\u958b\uff01\n\n\u51fa\u6f14\uff1aPastel\uff0aPalettes\uff08Vo.\u4e38\u5c71\u5f69/CV.\u524d\u5cf6\u4e9c\u7f8e\uff09\u3001ClariS\n\n\u307e\u305f2021\u5e7412\u670830\u65e515\u6642\u304b\u3089\u30012022\u5e741\u670829\u65e514\u664259\u5206\u307e\u3067\u306e\u671f\u9593\u9650\u5b9a\u3067\u3001ClariS\u3055\u3093\u3068Pastel\uff0aPalettes\u306e\u4e38\u5c71\u5f69\u304c\u6b4c\u3046\u3001\u7279\u5225\u306a\u300c\u3082\u3046\u3044\u3061\u3069 \u30eb\u30df\u30ca\u30b9\u300d\u3082\u30b2\u30fc\u30e0\u5185\u3067\u904a\u3079\u307e\u3059\uff01\n\n\u300e\u30d0\u30f3\u30c9\u30ea\uff01 \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01\u300f\niOS: https://bit.ly/3cFJkZx\nAndroid: https://bit.ly/2FVLs3D\n\u516c\u5f0f\u30b5\u30a4\u30c8URL\uff1ahttps://bang-dream.bushimo.jp/\n\u516c\u5f0fTwitter\uff1ahttps://twitter.com/bang_dream_gbp\n\n#\u30d1\u30b9\u30d1\u30ec #ClariS #\u30d0\u30f3\u30c9\u30ea #\u30ac\u30eb\u30d1",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6CwXN2KA4GI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6CwXN2KA4GI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6CwXN2KA4GI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/6CwXN2KA4GI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/6CwXN2KA4GI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 511,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6CwXN2KA4GI"
+        },
+        "videoOwnerChannelTitle": "\u30d0\u30f3\u30c9\u30ea\u3061\u3083\u3093\u306d\u308b\u2606",
+        "videoOwnerChannelId": "UCN-bFIdJM0gQlgX7h6LKcZA"
+    },
+    "contentDetails": {
+        "videoId": "6CwXN2KA4GI",
+        "videoPublishedAt": "2021-12-30T11:00:12Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

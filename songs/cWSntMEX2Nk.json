@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "OLeogK0RubtfHy5bCHE3WuDquM0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42OUU4OTNBNTQzOTA1OUEx",
+    "snippet": {
+        "publishedAt": "2021-10-16T06:28:14Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pink Soldiers but it's Among Us Drip | Squid Game",
+        "description": "Pink Soldiers Drip (Squid Game OST Remix)\nAmogus Game\n___________\nAmong Us Drip Theme Song (Trap Remix) - https://youtu.be/grd-K33tOSM\n\nListen on SoundCloud \u25ba https://soundcloud.com/memnicus/pink-soldiers-among-us-drip\n\n\u0d9e\n\n#memnicus #netflix #squidgame",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cWSntMEX2Nk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cWSntMEX2Nk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cWSntMEX2Nk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/cWSntMEX2Nk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/cWSntMEX2Nk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 747,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "cWSntMEX2Nk"
+        },
+        "videoOwnerChannelTitle": "Memnicus",
+        "videoOwnerChannelId": "UC70Gov_qr1CF_euitGoWY7g"
+    },
+    "contentDetails": {
+        "videoId": "cWSntMEX2Nk",
+        "videoPublishedAt": "2021-10-10T17:00:18Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

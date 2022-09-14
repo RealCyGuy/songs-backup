@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "RlgEAvprLhABK6WfLqCiU6LTOb8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMzcxQjk5QUEwMUZDMTI4",
+    "snippet": {
+        "publishedAt": "2021-12-31T07:42:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010Deadman \u6b7b\u4eba\u3011Omae wa mou - Already Dead \u2740 (Tiny Little Adiantum Remix ver) Cover\u3010Himechin\u3011",
+        "description": "Yay I did it\nPeople requested this song ages ago and I finally covered it\nHope you enjoy! ouo\nMix : Laplace\n\u2727https://www.youtube.com/channel/UCnKOdgsYAcrFswzarTf6rvw\n\u2727 https://twitter.com/AnguishedAlcor\n\nOriginal song(remix ver that I covered): https://www.youtube.com/watch?v=Ejv0Gk-mGko\nOriginal song: https://youtu.be/rB7XFQgJHBI\n__________________________________________________________________\n\u265dhttps://www.twitch.tv/himechin\n\n\u2657Facebook page: https://www.facebook.com/himechindesu\n\n\u265dTwitter: https://twitter.com/himechin77\n\n\u2657Instagram: https://www.instagram.com/_.himechin._/\n\n\u265dPatreon: https://www.patreon.com/himechin\n\n\u2657Discord https://discord.gg/CwN5z3y5wW\n\n\u265dMerch https://teespring.com/stores/himegoods\n_________________________________________________________________ \nLeave a like and comment your thoughts~ \nand please be kind enough to subscribe ovo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GXFlILWExSY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GXFlILWExSY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GXFlILWExSY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GXFlILWExSY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GXFlILWExSY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 535,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GXFlILWExSY"
+        },
+        "videoOwnerChannelTitle": "Himechin",
+        "videoOwnerChannelId": "UChGFiHo7QMZEEdW0VSKX40w"
+    },
+    "contentDetails": {
+        "videoId": "GXFlILWExSY",
+        "videoPublishedAt": "2020-05-06T06:08:36Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

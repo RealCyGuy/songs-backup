@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "_5JW8pKyh3opqnsTbCECbcKqPRQ",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNEMzQ0FDREY1MkE1RkQ1",
+    "snippet": {
+        "publishedAt": "2021-05-01T04:01:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "KANA-BOON - Silhouette",
+        "description": "Music video by Kana-Boon performing Silhouette. (C) 2014 Ki/oon Music, a division of Sony Music Labels Inc.\n\nhttp://vevo.ly/nok32i",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dlFA0Zq1k2A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dlFA0Zq1k2A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dlFA0Zq1k2A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/dlFA0Zq1k2A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/dlFA0Zq1k2A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1258,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "dlFA0Zq1k2A"
+        },
+        "videoOwnerChannelTitle": "KANABOONVEVO",
+        "videoOwnerChannelId": "UC5UQaWSW7AizXnW8xrYL-vw"
+    },
+    "contentDetails": {
+        "videoId": "dlFA0Zq1k2A",
+        "videoPublishedAt": "2016-07-04T07:00:01Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "EmxsqgXEOMHnpJQzMvb_PuG--wo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RDU5MEE3QTZGRDM5MjVC",
+    "snippet": {
+        "publishedAt": "2022-07-28T23:04:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Walters -- I Love You So",
+        "description": "vinyl and t-shirts available at\nhttp://www.yourwalters.com\n\nThe Walters 2014\nSongs for Dads EP\n\nWatch the official music video: \nhttps://youtu.be/5zfrnme2nJ4 \n\nLyrics:\n\nI just need someone in my life to give it structure\nTo handle all the selfish ways I\u2019d spend my time without her\nYou\u2019re everything I want but I can\u2019t deal with all your lovers\nYou\u2019re saying I\u2019m the one but it\u2019s your actions that speak louder\nGiving me love when you are down and need another\nI\u2019ve got to get away and let you go, I\u2019ve got to get over\n\nBut I love you so\nI love you so\nI love you so\nI love you so\n\nI\u2019m gonna pack my things and leave you behind\nThis feeling\u2019s old and I know that I\u2019ve made up my mind\nI hope you feel what I felt when you shattered my soul\nCuz you were cruel and I\u2019m a fool so please let me go\n\nBut I love you so (please let me go)\nI love you so (please let me go)\nI love you so (please let me go)\nI love you so",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NwFVSclD_uc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NwFVSclD_uc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NwFVSclD_uc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/NwFVSclD_uc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/NwFVSclD_uc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 22,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NwFVSclD_uc"
+        },
+        "videoOwnerChannelTitle": "The Walters",
+        "videoOwnerChannelId": "UCm54E8Hlf_z1GIpVUChBTQA"
+    },
+    "contentDetails": {
+        "videoId": "NwFVSclD_uc",
+        "videoPublishedAt": "2014-11-29T05:37:07Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "bRkd9ou-P3iMKYKHcMCFcs6DzWw",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DOTNDNjAwMzFFNUY5NzYy",
+    "snippet": {
+        "publishedAt": "2021-07-19T23:15:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Imagine Dragons - Whatever It Takes (Official Music Video)",
+        "description": "Listen to Mercury \u2013 Act 1: https://ImagineDragons.lnk.to/Mercury \n\nListen to Evolve, ft. Believer, Thunder, Whatever It Takes and Walking The Wire: http://smarturl.it/EvolveID \n\nShop Imagine Dragons: http://smarturl.it/ImagineDragonsShop\nCatch Imagine Dragons on tour: http://imaginedragonsmusic.com/tour \nFollow Imagine Dragons:\nFacebook: https://www.facebook.com/ImagineDragons/\nTwitter: https://twitter.com/Imaginedragons\nInstagram: https://www.instagram.com/imaginedragons\n\nDirected by Matt Eastin and Aaron Hymes. Special thanks to the Bellagio Las Vegas and Cirque Du Soleil.\n\nMusic video by Imagine Dragons performing Whatever It Takes. (C) 2017 KIDinaKORNER/Interscope Records\n\nhttp://vevo.ly/o0b1jA",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gOsM-DYAEhY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gOsM-DYAEhY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gOsM-DYAEhY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gOsM-DYAEhY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gOsM-DYAEhY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1044,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gOsM-DYAEhY"
+        },
+        "videoOwnerChannelTitle": "ImagineDragonsVEVO",
+        "videoOwnerChannelId": "UCpx_k19S2vUutWUUM9qmXEg"
+    },
+    "contentDetails": {
+        "videoId": "gOsM-DYAEhY",
+        "videoPublishedAt": "2017-10-12T16:00:06Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

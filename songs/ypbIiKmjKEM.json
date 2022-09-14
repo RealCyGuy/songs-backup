@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "-nRgSufhC5q0GcHpQWVOgzIG6Bg",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMTdGNzg0NjM1RjQ5OEM3",
+    "snippet": {
+        "publishedAt": "2021-09-05T03:17:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "You Genshin'd in the Wrong Impact",
+        "description": "re-upload bc of sound error\n\nFor anyone who doesn't know the song, it's an instrumental version of the classic \"you reposted in the wrong neighborhood\" meme, which is taken from Casin by Glue70! \n\nCredits to the cast of Genshin Impact and to hoyoverse for the voicelines, I took them from the fandom wiki page.\nBackground image is a wallpaper for the game.\nEverything else, I did myself! (sound editing, etc)\n\nEnjoy!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ypbIiKmjKEM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ypbIiKmjKEM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ypbIiKmjKEM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ypbIiKmjKEM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ypbIiKmjKEM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 903,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ypbIiKmjKEM"
+        },
+        "videoOwnerChannelTitle": "heyInvi",
+        "videoOwnerChannelId": "UCpdjtijhIkhxl9pL4GgRlBQ"
+    },
+    "contentDetails": {
+        "videoId": "ypbIiKmjKEM",
+        "videoPublishedAt": "2021-01-16T12:20:59Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

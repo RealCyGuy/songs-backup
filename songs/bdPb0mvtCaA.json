@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "i12rouIhvPcIbItkOIElDHFUXGA",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43OTM1MjZEOThFQjBBNTg4",
+    "snippet": {
+        "publishedAt": "2022-06-02T15:10:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4 / Official\u9aed\u7537dism - \u30af\u30e9\u30ea\u30cd\u30c3\u30c8\u56db\u91cd\u594f -\u300eSPY\u00d7FAMILY OP\u300fMIXED NUTS / Official HIGE DANdism",
+        "description": "\u56db\u91cd\u594f\u306b\u7de8\u66f2\u3057\u307e\u3057\u305f\ud83e\udd5c\n\u697d\u8b5c\u306f\u3053\u3061\u3089\uff01\nhttps://store.piascore.com/scores/149707\n\n\u672c\u65e5MISSION:7 \u6bce\u9031\u306e\u305f\u306e\u3057\u307f\u3067\u3059\n\n\n\u25bd\u4f7f\u7528\u697d\u5668\u3068\u30bb\u30c3\u30c6\u30a3\u30f3\u30b0\nClarinet\uff1aBackun MoBa Grenadilla GP\nMouthpiece\uff1aPlaynick Nommos B2\nLigature\uff1aMOMO Special NS GP\nReeds\uff1aVandoren Traditional 3\n\nBass Clarinet\uff1aH.SELMER Rosewood\nMouthpiece\uff1aH.SERMER Concept\nLigature\uff1aD.BONADE GP\nReeds\uff1aVandoren V12 3\n\n\u25bdSNS\nTwitter\uff1ahttps://twitter.com/chikane2525/media?lang=ja\nInstagram\uff1ahttps://www.instagram.com/chikane2525_/\nHP\uff1ahttps://www.chikanemiura.com/\nPiascore\uff1ahttps://store.piascore.com/search?c=297\n\n\n\u304a\u624b\u7d19\u7b49\u306e\u5b9b\u5148\u2709\ufe0f\n\u3012107-0062\n\u6771\u4eac\u90fd\u6e2f\u533a\u5357\u9752\u5c713-1-30\n\u30a8\u30a4\u30d9\u30c3\u30af\u30b9\u30fb\u30a8\u30f3\u30bf\u30c6\u30a4\u30e1\u30f3\u30c8\u682a\u5f0f\u4f1a\u793e\n\u30ec\u30fc\u30d9\u30eb\u4e8b\u696d\u672c\u90e8  \u30c7\u30b8\u30bf\u30eb\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u30b0\u30eb\u30fc\u30d7\n\u30bd\u30fc\u30b7\u30e3\u30eb\u30e1\u30c7\u30a3\u30a2\u6226\u7565\u30e6\u30cb\u30c3\u30c8\nmuchoo \u5343\u82b1\u97f3\u5b9b",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bdPb0mvtCaA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bdPb0mvtCaA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bdPb0mvtCaA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/bdPb0mvtCaA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/bdPb0mvtCaA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 153,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bdPb0mvtCaA"
+        },
+        "videoOwnerChannelTitle": "\u5343\u82b1\u97f3 / chikane",
+        "videoOwnerChannelId": "UCGU0pPdSALhFIvAfsR8NeEw"
+    },
+    "contentDetails": {
+        "videoId": "bdPb0mvtCaA",
+        "videoPublishedAt": "2022-05-21T11:00:31Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

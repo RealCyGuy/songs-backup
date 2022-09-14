@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "C0WNQrrD2570GH2417TMgcRHr3w",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNTUwM0UxODZBOTUwOTYy",
+    "snippet": {
+        "publishedAt": "2021-12-20T02:18:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ava Max - So Am I [Official Music Video]",
+        "description": "So Am I Available Now\nDownload/Stream: https://AvaMax.lnk.to/SoAmIID\nListen to my debut album \"Heaven & Hell\" now: https://AvaMax.lnk.to/HeavenandHellID\nSubscribe for more official content from Ava Max: https://Atlantic.lnk.to/AvaMaxSubscribe\n\nJoin Ava's mailing list to be the first to know about tour dates, video premieres, special announcements & more: https://AvaMax.lnk.to/JoinAY\n\nFollow Ava Max\nFacebook - https://www.facebook.com/avamaxofficial\nInstagram - https://www.instagram.com/avamax\nTwitter - https://twitter.com/avamax\nhttp://avamax.com\n\n#AvaMax #SoAmI #OfficialMusicVideo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SxGLPVvNjvY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SxGLPVvNjvY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SxGLPVvNjvY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/SxGLPVvNjvY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/SxGLPVvNjvY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 572,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SxGLPVvNjvY"
+        },
+        "videoOwnerChannelTitle": "Ava Max",
+        "videoOwnerChannelId": "UCOwgc8DswjoBMuuUU2ScPvQ"
+    },
+    "contentDetails": {
+        "videoId": "SxGLPVvNjvY",
+        "videoPublishedAt": "2019-03-07T17:58:41Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

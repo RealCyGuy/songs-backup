@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "e8yoSCSIb8I3oHp-zM2MMd4gLi0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNEMzREYwQzc3REUwNDY0",
+    "snippet": {
+        "publishedAt": "2021-07-31T23:37:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Snow Halation but it's Bakamitai",
+        "description": "Is it a creative title? No. Will it get clicks? Hopefully.\n\n\u25c4 All Mashed Up\u25ba\n\nSpotify: https://open.spotify.com/album/60yKG74DNEIyibF7MsgjTN\n\nTwitter: https://twitter.com/pluffaduff\nDiscord: http://discord.gg/Q4ZvPUe",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Z2NXAk-XkoQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Z2NXAk-XkoQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Z2NXAk-XkoQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Z2NXAk-XkoQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Z2NXAk-XkoQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1015,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Z2NXAk-XkoQ"
+        },
+        "videoOwnerChannelTitle": "pluffaduff",
+        "videoOwnerChannelId": "UCF080GGiPwEoZBVSvXDMg5A"
+    },
+    "contentDetails": {
+        "videoId": "Z2NXAk-XkoQ",
+        "videoPublishedAt": "2020-08-20T16:01:48Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

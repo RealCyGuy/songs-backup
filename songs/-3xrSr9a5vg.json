@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "fAiZSkIfiMfeKdrNtG7JjgUNfhs",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ERDEyMkM5ODFFQTQxRDBE",
+    "snippet": {
+        "publishedAt": "2022-06-25T14:33:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Power Style & Electrocore - Axel F (REM\u0130X)",
+        "description": "electro freestyle music.\n\nPower Style & Electrocore - Axel F (REM\u0130X)\nhttps://youtu.be/-3xrSr9a5vg\n\n\u041c\u0443\u0437\u044b\u043a\u0430 \u0438\u0437 \u044d\u0442\u043e\u0433\u043e \u0432\u0438\u0434\u0435\u043e\nhttps://support.google.com/youtube/answer/7680188\n\u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f\nAxel F\n\u0418\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\nCrazy Frog\n\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u0430\u0440\n\"Voodoo_Music, Create Music Group, Inc. (\u043e\u0442 \u043b\u0438\u0446\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \"Music India  (MIL)\"); Sony ATV Publishing, LatinAutor - SonyATV, LatinAutor\" \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 (12)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-3xrSr9a5vg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-3xrSr9a5vg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-3xrSr9a5vg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-3xrSr9a5vg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-3xrSr9a5vg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 86,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-3xrSr9a5vg"
+        },
+        "videoOwnerChannelTitle": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f _",
+        "videoOwnerChannelId": "UCEiU8Cyp6RpDrAqgj9xbPuw"
+    },
+    "contentDetails": {
+        "videoId": "-3xrSr9a5vg",
+        "videoPublishedAt": "2019-04-15T16:04:56Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

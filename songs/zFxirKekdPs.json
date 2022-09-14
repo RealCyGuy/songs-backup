@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "L951-_9vidKl0E5Rw10iWPOfKLU",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNTRCQzEzRUU4Mzc4OUIw",
+    "snippet": {
+        "publishedAt": "2021-07-31T23:36:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "lofi baka mitai ... [Yakuza]",
+        "description": "More like baka miFI \n\nNo \n\nOkay Idk \n\nSorry I haven't been posting as much, I got a job and well there's a lot less time to do this now :( \n\nStay tuned to the end ;) \n\n#yakuza #bakamitai #lofi",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zFxirKekdPs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zFxirKekdPs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zFxirKekdPs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zFxirKekdPs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "position": 1016,
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zFxirKekdPs"
+        },
+        "videoOwnerChannelTitle": "Seventh Sage",
+        "videoOwnerChannelId": "UCfrutwMA-_qC8B6vmVBR86w"
+    },
+    "contentDetails": {
+        "videoId": "zFxirKekdPs",
+        "videoPublishedAt": "2019-11-05T19:00:10Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
