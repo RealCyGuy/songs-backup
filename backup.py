@@ -15,4 +15,5 @@ data = api.get_playlist_items(
 for item in data["items"]:
     with open(f"songs/{item['snippet']['resourceId']['videoId']}.json", "w") as file:
         del item["snippet"]["position"]
+        del item["etag"]
         json.dump(item, file, indent=4)
