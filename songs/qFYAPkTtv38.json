@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "G8mfmUfMGt-oQJNh8bg6agOpLKI",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDAzRDE0REE1M0JGMjhG",
+    "snippet": {
+        "publishedAt": "2022-09-13T04:49:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Post Malone ft. Doja Cat - I Like You (A Happier Song) (Even More)",
+        "description": "Music video by Post Malone performing I Like You (A Happier Song) ((Even More)). \u00a9 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/Tu5OHr",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qFYAPkTtv38/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qFYAPkTtv38/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qFYAPkTtv38/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qFYAPkTtv38"
+        },
+        "videoOwnerChannelTitle": "PostMaloneVEVO",
+        "videoOwnerChannelId": "UCOhtMAg7xh8wv_wUHMgFc-Q"
+    },
+    "contentDetails": {
+        "videoId": "qFYAPkTtv38",
+        "videoPublishedAt": "2022-09-08T18:36:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "bpgEhC3087ajptE8aNbC9OR4cg8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRTEzOTFCQzBFMkY0QTA4",
+    "snippet": {
+        "publishedAt": "2022-08-16T22:31:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Claire Rosinkranz - Frankenstein (Official Music Video)",
+        "description": "\"Frankenstein\" out now \ud83d\udc7d : https://ClaireRosinkranz.lnk.to/frankenstein\n\nFollow me!!\nInstagram: https://www.instagram.com/clairerosinkranz\nFacebook: https://www.facebook.com/clairerosinkraz\nTwitter: https://twitter.com/clairerosinkraz\nTikTok: http://clairerosinkranz.lnk.to/tiktok\n\nDirector: Ambar Navarro\nProducer: Laura Burhenn\nProduction Company: Our Secret Handshake\nEditor: Tee Vaden\nDP: Max Flick\nColorist: Xi Shen\n1st AC: Jonathan Na\nGaffer: Rapha Bola\nKey Grip: Michael Rosner-Hyman\nSwing: Mauricio Aguilar\nProduction Designer: Lauren Tayler Dunn\nArt PA: Ronnie Burress\nProduction Coordinator: Brianna Liebling\nVFX: Max Flick\nStylist: Lindsey Hartman\nHair & Make-Up: Chloe Schlossmann\nFeaturing: Jackson Passaglia, Michael Tyrone Delaney, Misha Lindes, Staz Lindes, Canyon Wilson\nLyrics:\n\nI\u2019m so sick of all these pretty boys tryna act like the shit \nI just wish they wouldn\u2019t fall in love then leave me so quick \n\nI been searching don\u2019t think it\u2019s out there \nTalks for hours walks in with flowers \nDirty converse 6\u20192 and brown hair \nEvery little thing that I want \n\nGuess I gotta build my Frankenstein \nDraw the picture\nColor all the lines \nAnd when it\u2019s right \nI\u2019ll take a test drive \nEvery little thing that I want \n\nWhen I\u2019m mad he\u2019ll kiss me till I\u2019m numb and not treat me so bad \nHe makes me laugh he\u2019s never on my nerves\ngets along with my dad\n\nI been searching don\u2019t think it\u2019s out there \nOh so loyal makes me feel spoiled \nHe\u2019s my daydream never a nightmare \nEvery little thing that I want \n\nGuess I gotta build my Frankenstein \nDraw the picture\nColor all the lines \nAnd when it\u2019s right \nI\u2019ll take a test drive \nEvery little thing that I want \n\nEvery little thing that I want \nEvery little thing that I want \n\nGuess I gotta build my Frankenstein \nDraw the picture\nColor all the lines \nAnd when it\u2019s right \nI\u2019ll take a test drive \nEvery little thing that I want",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/eARMd9UI5iA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/eARMd9UI5iA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/eARMd9UI5iA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/eARMd9UI5iA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eARMd9UI5iA"
+        },
+        "videoOwnerChannelTitle": "Claire Rosinkranz",
+        "videoOwnerChannelId": "UCOH2hji6sHRCliqnCNcMOOw"
+    },
+    "contentDetails": {
+        "videoId": "eARMd9UI5iA",
+        "videoPublishedAt": "2021-05-14T16:00:17Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

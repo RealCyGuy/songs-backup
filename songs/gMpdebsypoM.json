@@ -1,0 +1,53 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "OFp2-7QOqmFS_7jmedlqyMog_94",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RTgzRjc4NEQwNTU0NUM4",
+    "snippet": {
+        "publishedAt": "2022-09-13T04:48:53Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Stairway To Heaven on FRETLESS bass sounds BREATHTAKING",
+        "description": "I played Stairway to Heaven on my six-string fretless! Remember to TAP like and subscribe if you enjoyed this!\n\nTabs/Backing Tracks: https://www.patreon.com/CharlesBerthoud\nMy Tapping Course on SBL: https://scottsbasslessons.com/sign-up?pr=affcb50&ref=charlesberthoud\nMy Tapping Book: https://bit.ly/2OPjXNq\nMerch: https://crowdmade.com/collections/charlesberthoud/\nMy new EP (Spotify): https://spoti.fi/2Qq8WTp\nSubscribe for PRO bass videos every week: https://bit.ly/3x0eNPS\nIG: @charles_berthoud\nOriginal CDs/Downloads: http://www.charlesberthoud.com/store/c1/Featured_Products.html\n\nOriginal Song: Stairway to Heaven by Led Zeppelin\n\nSpecial thanks to Zachary Brunetti, AhLun, Sugabeat, Colin Heberling, Timothy Gabrielson, Colter Fike, Cpt. Marley, Sid Stenersen, Turpid, DebisU, David Geschke, Dario Cimmino, Edward Quinn, James Oldfield, Cody Pecot, Marc Forand, Sebasti\u00e1n Labb\u00e9, James Ansell, Rob Nack, Michael Forrester, 949 Designs, slatibartfast24, Cpt. Marley, Nil N, Kelly Henderson, \u6e38\u93b0\u99ff, Zachary Gidwitz, Vladi Mun, Joe Norsworthy, \u0160t\u011bp\u00e1n Emmer, Michele Marletta and all my other Patrons and members!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gMpdebsypoM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gMpdebsypoM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gMpdebsypoM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gMpdebsypoM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gMpdebsypoM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gMpdebsypoM"
+        },
+        "videoOwnerChannelTitle": "CharlesBerthoud",
+        "videoOwnerChannelId": "UCAi_uNeDWRXj8C8yw358gWw"
+    },
+    "contentDetails": {
+        "videoId": "gMpdebsypoM",
+        "videoPublishedAt": "2022-08-29T18:18:22Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "VepX1-NWC1GyIa5Jsa6bLJ2B7Y0",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNzYwQUVFNTc4QjYyRjhF",
+    "snippet": {
+        "publishedAt": "2022-08-15T06:44:14Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Beabadoobee - Coffee",
+        "description": "Beabadoobee - Coffee\n\nListen on Spotify - http://dirtyh.it/beacompletesp\n\nDirected by Thomas Davies",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/C6CeA6vRtW4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/C6CeA6vRtW4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/C6CeA6vRtW4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/C6CeA6vRtW4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/C6CeA6vRtW4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "C6CeA6vRtW4"
+        },
+        "videoOwnerChannelTitle": "Beabadoobee",
+        "videoOwnerChannelId": "UCOf6pX571cKC0rhOZqv2y7Q"
+    },
+    "contentDetails": {
+        "videoId": "C6CeA6vRtW4",
+        "videoPublishedAt": "2020-03-26T17:00:05Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

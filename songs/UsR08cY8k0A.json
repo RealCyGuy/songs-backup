@@ -1,0 +1,48 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "2u_PBxEj7HGLY_DAI-IHFLEQo_4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xOTIzQTNBRTRGNDQ5NTk5",
+    "snippet": {
+        "publishedAt": "2022-09-13T04:51:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "JVKE - golden hour (Official Lyric Video)",
+        "description": "STREAM \"golden hour\": https://jvke.ffm.to/goldenhour\n\nSUBSCRIBE: https://www.youtube.com/channel/UCSOfUqPoqpp5aWDDnAyv94g?sub_confirmation=1\n\nJOIN MY DISCORD:\nhttps://discord.gg/GGBCptu7\n\nFOLLOW ME ON INSTAGRAM @ITSJVKE: https://www.instagram.com/itsjvke\u200b\n\nFOLLOW ME ON TIKTOK @JVKE: https://www.tiktok.com/@jvke\u200b\n\nFOLLOW ME ON TWITTER @JVKESONGS: https://twitter.com/jvkesongs\u200b\n\nSNAP ME: https://www.snapchat.com/add/imjakela\u200b...\n\n*NEW* MERCH: http://itsjvke.com/#shop\u200b\n\n#JVKE #goldenhour",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UsR08cY8k0A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UsR08cY8k0A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UsR08cY8k0A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UsR08cY8k0A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UsR08cY8k0A"
+        },
+        "videoOwnerChannelTitle": "JVKE",
+        "videoOwnerChannelId": "UCSOfUqPoqpp5aWDDnAyv94g"
+    },
+    "contentDetails": {
+        "videoId": "UsR08cY8k0A",
+        "videoPublishedAt": "2022-07-22T16:19:37Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

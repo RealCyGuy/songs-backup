@@ -1,0 +1,53 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "TGlCMDTLsUqNNuzjIi7kIdSwLQ8",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NTk3RDg3NUMwMDkyNjA0",
+    "snippet": {
+        "publishedAt": "2022-08-12T23:01:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Beabadoobee - Sunny Day (Official Video)",
+        "description": "Beabadoobee - Sunny Day \nBeatopia - Out Now -http://www.beabadoobee.com \n\nDirectors - Luke Casey & Alexandra Leese \n\nLyrics\n\nKnow it\u2019s been raining\nI swear I\u2019m not lonely \nAlways complaining that you never see me \nCall in the morning when you wake \nMaybe tomorrow we\u2019re ok \nWhen it\u2019s a sunny day \n\nI\u2019ll keep you posted \nI promise I\u2019m better \nWith the sun we\u2019ll leave my house \nI\u2019m sorry for yesterday \nYou know I don\u2019t mean it \nI promise I\u2019m better\nWith the sun we\u2019ll leave my house \nI\u2019m sorry for yesterday \n\nKeep me here \nWith your skin\nOn mine again \nWhile you\u2019re there\nIt\u2019s easy if I pretend \n\nDon\u2019t know why I feel this way\nTreating all my friends the same\nHaven\u2019t had enough to do \nBut I\u2019m not ignoring you \nCall in the morning when you wake \nMaybe tomorrow we\u2019re ok \nWhen it\u2019s a sunny day \n\nI\u2019ll keep you posted \nI promise I\u2019m better \nWith the sun we\u2019ll leave my house \nI\u2019m sorry for yesterday \nYou know I don\u2019t mean it \nI promise I\u2019m better\nWith the sun we\u2019ll leave my house \nI\u2019m sorry for yesterday \n\nKeep me here \nWith your skin\nOn mine again \nWhile you\u2019re there\nIt\u2019s easy if I pretend\n\nMarketing Manager - Jon Moore \nManagement - Chris Melian \nMarketing Assistant - Erin Taylor \n\nProducer - Mel Giles \nExecutive Producer - Aaron Z. Willson \nProduction Manager - Tara Sadeghi \nProduction Assistant - Iman Loudii \nProduction Company - Ground Work \n\nDirector of Photography - Jake Hunter \nFocus Puller - Eve Carre\u00f1o\n2nd AC - Anastasiya Cherkasyuk \nCamera Trainee - George Power \n\nProduction Designer - Danny Hyland \nArt Department Assistant - Oliver Lee Shipton \nArt Department Assistant - Nia Samuel Johnson \n\nWire Rigger - Will Collins @ Blue Chilli Flying \n\n1st AD - Dan Gibling \nRunner - Eli Parkinson \nRunner - Brandon Young \n\nPlayback Operator - Jack Lilywhite \n\nKey Grip - Steve Morgan \n2nd Grip - Tony Shults \nCrane Op - Dan Huddy \nCrane Tech - Stove Hideg\nCrane Assistant - Karl Morgan \n\nGaffer - Simona Pranulyte \nSpark - Conor Adam \nSpark - Joey Rogers \nSpark - Pete Kehoe \n\nLighting Rigger - Mitchell Williams \nLighting Rigger - Shaun Beach \n\nStylist - Patricia Villirillo \nStyling Assistant - Nelima Odhiambo \nStyling Assistant - Rafaela Roncete \n\n\nHair Stylist - Moe Mukai \nMake-up Artist - Joey Choy \n\nSecurity - Magenta Security \nParamedic - Mike Wright \n\nEditor - Luke Casey \n\n3D, VFX & Character Artist -  Maurice Andresen \nVFX Clean Up Artist - Mikko Ruostila \n2D Animations  - Alix Bortoli \n\nColourist - Tim Smith \nColour Producer - Charlie Morris \nColour House: No.8 \n\nStudio - London Film Studios \nStudio Manager - Anna Lowry \nEquipment supplied by Panavision \nLighting Supplied by SHL \n\nSpecial thanks to Panavision and SHL",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bgr4sGq2ba0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bgr4sGq2ba0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bgr4sGq2ba0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/bgr4sGq2ba0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/bgr4sGq2ba0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bgr4sGq2ba0"
+        },
+        "videoOwnerChannelTitle": "beabadoobeeVEVO",
+        "videoOwnerChannelId": "UCBJn8qy6bI82Oh34kzHViPQ"
+    },
+    "contentDetails": {
+        "videoId": "bgr4sGq2ba0",
+        "videoPublishedAt": "2022-07-15T09:00:24Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

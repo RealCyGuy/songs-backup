@@ -1,0 +1,53 @@
+{
+    "kind": "youtube#playlistItem",
+    "etag": "tXc2tMiO8PnxdpEd827OB5mAwoo",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MTUxRkI0ODkzNTY5MkEw",
+    "snippet": {
+        "publishedAt": "2022-08-09T22:24:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Mia Rodriguez - I LUV U [Official Music Video]",
+        "description": "The official video for Mia Rodriguez's \"I LUV U\".\nStream: https://Mia-Rodriguez.lnk.to/ILUVUID\n\nSubscribe: https://Mia-Rodriguez.lnk.to/SubscribeID\n\nLyrics:\nI saw a puppy in the park\nReminded me of you\nTried to hug it really hard\nI think I left a bruise \nAlways hurt the things I love\nBut I\u2019m never meaning to\nNever meaning to\n\nKissing isn\u2019t quite enough\n\nI love you so much I wanna punch you in the face\nI love you so much I wonder how your blood tastes\nI love you so much that it could even be mistaken\nFor hate\nWhen I say\nThat I love you \nOh I love you \nI love you so much I wanna punch you in the face\n\nThink i\u2019m coming on too strong\nWith my hands around your neck\nOnly wanna love you wrong \nCause at least you won\u2019t forget \nIf you find another one\nShe\u2019s a patch of nicorette\nAnd i\u2019m the cigarette\n\nKissing isn\u2019t quite enough\n\nI love you so much I wanna punch you in the face\nI love you so much I wonder how your blood tastes\nI love you so much that it could even be mistaken\nFor hate\nWhen I say\nThat I love you \nOh I love you \nI love you so much I wanna punch you in the face\n\nDoes my love scare you?\nCause it scares me too\nNothing I wouldn\u2019t do\nDoes my love scare you?\nCause it\u2019s true\n\nI love you so much I wanna punch you in the face\nI love you so much I wonder how your blood tastes\nI love you so much that it could even be mistaken\nFor hate\nWhen I say\nThat I love you \nOh I love you \nI love you so much I wanna punch you in the face\n\nProduced and Directed by Josh Harris\nProduction Company: Welcome The Machines\n1st AD: Alix Petah\nDOP: David McKinnar\nAC: Agatha Lee\nGaffer: James Thompson\nBest boy: Daniel Faizan\nSteadicam: Ed Bellamy\nProduction Design: Joseph Gaines\nHair & Makeup: Kat Margarita\nStylist: Jana Bartolo\nStylist Assistant: Luna Waters\nTitles: Steve Lees\nEditor: Josh Harris\nVFX: Dmitriy Molokovskikh\nColour Grade: Matt Campbell\nBTS Photographer: Cameron Grant\n\nCast: Patrick Cain, Jayden Fisher, William Schofield, Robert Pham, Frankie Jeffery, Ameile Piccinin, Angelica Low, Elly Howell, Cameron Grant, and Alix Petah\n\n\nFollow Mia:\nhttps://www.instagram.com/miaaarodriguezzz\nhttps://twitter.com/miarodriguezxxx\u200b\nhttps://www.tiktok.com/@mia.rodriguez.z.z\nhttps://triller.co/@miarodriguezofficial\nhttps://soundcloud.com/miarodriguezofficial\nhttps://www.facebook.com/MiaRodriguezOfficial\nhttps://www.miarodriguezofficial.com/\n\n#MiaRodriguez #ILUVU",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YmfUJpiJ1kM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YmfUJpiJ1kM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YmfUJpiJ1kM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/YmfUJpiJ1kM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/YmfUJpiJ1kM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "YmfUJpiJ1kM"
+        },
+        "videoOwnerChannelTitle": "mia rodriguez",
+        "videoOwnerChannelId": "UCzNWpUljIasg6dyvQH1TCrQ"
+    },
+    "contentDetails": {
+        "videoId": "YmfUJpiJ1kM",
+        "videoPublishedAt": "2022-08-09T22:10:08Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
