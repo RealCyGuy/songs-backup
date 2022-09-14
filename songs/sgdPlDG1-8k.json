@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "WJI14RGV_sjlsUsRcw6dBElKYBY",
+    "etag": "HpNfHlDY5K69UHhaRpSPTtEvt3s",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EQ0IwOUEyNUI5QUY1NzRB",
     "snippet": {
         "publishedAt": "2021-11-04T20:17:51Z",
@@ -36,7 +36,7 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 698,
+        "position": 741,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "sgdPlDG1-8k"

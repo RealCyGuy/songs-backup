@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "XMMX9YIHqrN5pRZnOlVoHoU1UYo",
+    "etag": "HecMU5MSukmldSQRkiaegD-xCkM",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45RkI1OEFEMDYzNTJFRThF",
     "snippet": {
         "publishedAt": "2022-05-24T01:37:38Z",
@@ -22,11 +22,21 @@
                 "url": "https://i.ytimg.com/vi/kHNCHjmFSck/hqdefault.jpg",
                 "width": 480,
                 "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kHNCHjmFSck/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kHNCHjmFSck/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
             }
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 194,
+        "position": 238,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "kHNCHjmFSck"

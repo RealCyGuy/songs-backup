@@ -1,12 +1,12 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "hmQ_6NRA-2gYSWeYLr2U19vssKQ",
+    "etag": "9b9r6DCmwJmvxXdrMp-gbPo3VjQ",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41QzgzQTNDMjYxMzc1MTgy",
     "snippet": {
         "publishedAt": "2022-07-26T05:29:08Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "My Brothe: An Email Funk Opera",
-        "description": "I never imagined strangers on the internet could be so generous.\n\nBLESS MY PATREON? \nhttps://link.jazzemu.com/mb/patreon\n\nFor Spotify, Socials, Merch and all other sluicable delectations: \nhttps://linktr.ee/jazzemu_\n\nJazz Emu Loves u xx",
+        "description": "MY NEW ALBUM DIGITAL SPOOL IS OUT NOW - GO FORTH AND BEHOLD IT: https://open.spotify.com/track/11TIgTxPaqqhyvR0kacaQr?si=67006337cdd74da8 I never imagined strangers on the internet could be so generous.\n\nBLESS MY PATREON? \nhttps://link.jazzemu.com/mb/patreon\n\nFor Spotify, Socials, Merch and all other sluicable delectations: \nhttps://linktr.ee/jazzemu_\n\nJazz Emu Loves u xx",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/dmss2dJ__cI/default.jpg",
@@ -31,7 +31,7 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 27,
+        "position": 71,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "dmss2dJ__cI"

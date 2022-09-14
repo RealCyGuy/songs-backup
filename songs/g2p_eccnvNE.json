@@ -1,12 +1,12 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "eMT_s1C-z9eGkFfY_MHCkAlRnDM",
+    "etag": "iBUUwS-WqHmdn3tBY-skADZayf8",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DM0I4OUE4MzY0NzUyMkY5",
     "snippet": {
         "publishedAt": "2022-06-02T05:08:16Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "(8bit) SPY\u00d7FAMILY - Opening Theme / \"Mixed Nuts\" - Official HIGE DANdism (Chiptune Cover/SPY FAMILY)",
-        "description": "SPY\u00d7FAMILY - Ending Theme / \"Kigeki (Comedy)\" - Gen Hoshino (8bit / Chiptune Cover)\nhttps://youtu.be/YYH5deUxof8\n\nTwitter : https://twitter.com/GearRabbit\n\n\n\u201cSPY \u00d7 FAMILY\u201d Opening theme song animation\nhttps://youtu.be/U_rWZK_8vUY\n\nSPY x FAMILY\nOP Song",
+        "title": "[8bit] SPY\u00d7FAMILY - Opening / \"Mixed Nuts\" - Official HIGE DANdism [Chiptune Cover / SPY FAMILY]",
+        "description": "SPY\u00d7FAMILY - Ending Theme / \"Kigeki (Comedy)\" - Gen Hoshino [8bit / Chiptune Cover] : \nhttps://youtu.be/YYH5deUxof8\n\nTwitter : https://twitter.com/GearRabbit\n\n\n\u201cSPY \u00d7 FAMILY\u201d Opening theme song animation\nhttps://youtu.be/U_rWZK_8vUY\n\nSPY x FAMILY\nOP Song",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/g2p_eccnvNE/default.jpg",
@@ -36,7 +36,7 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 158,
+        "position": 202,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "g2p_eccnvNE"

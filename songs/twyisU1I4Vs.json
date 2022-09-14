@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "fApJJ9eP_oQpt_Ky1M0pvaMQGEs",
+    "etag": "KtwEONIwXx73-RyeV--yZ7DU4J0",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xREM3MzQyN0U1NEIwOTNG",
     "snippet": {
         "publishedAt": "2021-07-08T04:13:47Z",
@@ -36,12 +36,12 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 1089,
+        "position": 1131,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "twyisU1I4Vs"
         },
-        "videoOwnerChannelTitle": "SpoontaneousWolf",
+        "videoOwnerChannelTitle": "SP8NN",
         "videoOwnerChannelId": "UCrmOVJAd7f53Anhk17AP3dA"
     },
     "contentDetails": {

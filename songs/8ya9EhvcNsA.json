@@ -1,12 +1,12 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "j0zfjXGACiNb6a0xYcNutmJthlo",
+    "etag": "M-11UVigTIlaJmPN-YckPA3jmZc",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMjY5ODU0NEU2NENGMkE1",
     "snippet": {
         "publishedAt": "2022-04-30T05:11:15Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "OMORI - Final Duet",
-        "description": "EDIT: Ayyyy, 3 million OMORI fans all coming here after finishing the game to reminisce on their sorrow once again!\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nThe \"Good\" Ending... (\u25e1\ufe4f\u25e1\u273f)\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nMan, even the so called \"good ending\" was utterly depressing and made me want to bawl my eyes out.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nOMORI OST - 172 DUET: https://www.youtube.com/watch?v=ACon4txJiDA\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nBuy Omori on Steam: https://store.steampowered.com/app/1150690/OMORI/\n---------------------------------------------------------------------------------------------------------------------------------------------------------------",
+        "description": "EDIT: Ayyyy, 4 million OMORI fans all coming here after finishing the game to reminisce on their sorrow once again!\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nThe \"Good\" Ending... (\u25e1\ufe4f\u25e1\u273f)\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nMan, even the so called \"good ending\" was utterly depressing and made me want to bawl my eyes out.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nOMORI OST - 172 DUET: https://www.youtube.com/watch?v=ACon4txJiDA\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nBuy Omori on Steam: https://store.steampowered.com/app/1150690/OMORI/\n---------------------------------------------------------------------------------------------------------------------------------------------------------------",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/8ya9EhvcNsA/default.jpg",
@@ -36,7 +36,7 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 248,
+        "position": 292,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "8ya9EhvcNsA"

@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "zGwNg0jNgwKgaDGB3UyRni6Pa2s",
+    "etag": "_ZMuBcMEVRMgNBtuvCHAzaFl5dE",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNEM4OThENjlGNTBCMTlG",
     "snippet": {
         "publishedAt": "2021-09-25T01:40:17Z",
@@ -31,12 +31,12 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 820,
+        "position": 862,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "7jZqKn18eqg"
         },
-        "videoOwnerChannelTitle": "Extrix",
+        "videoOwnerChannelTitle": "Syckktoons Stream Safe Records",
         "videoOwnerChannelId": "UCf1_YtUKp8nGN9fz9PYURWw"
     },
     "contentDetails": {

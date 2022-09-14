@@ -1,12 +1,12 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "vBAxHAPHt-VJsD7apt07UOJwQBw",
+    "etag": "DsOk3Xo_uDiq95vEatcPyEVMVoY",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45QjI3NkI0NzZGNTk2Qjc5",
     "snippet": {
         "publishedAt": "2022-07-25T23:25:19Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Still Waiting - Jazz Emu",
-        "description": "Support the Patreon! https://www.patreon.com/thejazzemu\n\nSee me live! https://tickets.edfringe.com/whats-on/jazz-emu-you-shouldn-t-have\n\nBuy my music! https://jazzemu.bandcamp.com/\n\nLive your life! http://liveyourlife.com/\n\nDirected by Hunter Allen\nStarring Eleanor Coleville\nAnd Fresh Moves by Asha Verma\nHearty thanks to Joe Winters and the Master Shipwright's House",
+        "description": "MY NEW ALBUM DIGITAL SPOOL IS OUT NOW - GO FORTH AND BEHOLD IT: https://open.spotify.com/track/11TIgTxPaqqhyvR0kacaQr?si=67006337cdd74da8 Support the Patreon! https://www.patreon.com/thejazzemu\n\nSee me live! https://tickets.edfringe.com/whats-on/jazz-emu-you-shouldn-t-have\n\nBuy my music! https://jazzemu.bandcamp.com/\n\nLive your life! http://liveyourlife.com/\n\nDirected by Hunter Allen\nStarring Eleanor Coleville\nAnd Fresh Moves by Asha Verma\nHearty thanks to Joe Winters and the Master Shipwright's House",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/_ws0QtAiiXQ/default.jpg",
@@ -22,11 +22,21 @@
                 "url": "https://i.ytimg.com/vi/_ws0QtAiiXQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_ws0QtAiiXQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_ws0QtAiiXQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
             }
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 28,
+        "position": 72,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "_ws0QtAiiXQ"

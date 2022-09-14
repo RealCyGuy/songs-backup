@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "jUuRUzPqPp_VvrMGClhtdrb0Zi4",
+    "etag": "eriRSkJLbrkTXVh7VnaEQ-ZLEKM",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42QjkxQzlGNTZERTRFODZE",
     "snippet": {
         "publishedAt": "2021-09-14T05:30:46Z",
@@ -31,12 +31,12 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 859,
+        "position": 901,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "vxlK_YMRiZE"
         },
-        "videoOwnerChannelTitle": "Hoang Phuc",
+        "videoOwnerChannelTitle": "Zu",
         "videoOwnerChannelId": "UCrLQXgjqJd0sJriAW25jh1w"
     },
     "contentDetails": {

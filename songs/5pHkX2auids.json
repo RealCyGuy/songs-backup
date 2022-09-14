@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "85umPo9ftCg7hSWxkJplKvwMoBA",
+    "etag": "TVnBpEGF5Z-lurglNbXSmnsARgE",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zOENBNjA4M0FBRDg3REY1",
     "snippet": {
         "publishedAt": "2022-06-05T18:30:32Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Rainbow Road - Mario Kart 64 (Restored)",
+        "title": "Rainbow Road - Mario Kart 64 (Restored) (old version)",
         "description": "Playlist: https://www.youtube.com/playlist?list=PLjgYLlBR8GBW5wRRuXleh7oIuiEMPDR_l\n\nThis song was restored using the original source samples from:\n\u2022 Digidesign Samplecell II\n\u2022 Roland JD-990\n\u2022 Roland JV-1080\n\u2022 Roland SoundCanvas SC-88\n\nI used N64 Soundbank Tool for ripping the sequence data, FL Studio for rendering the audio with the original samples, and Audacity for mixing everything together. I've tried to make it sound as close to the original as I can, though there could be some mistakes here or there.\n\nYou can find a lossless download for this song (and others) here:\nhttps://drive.google.com/drive/folders/1NVosjdPUMo0VyRltcYnlRDkr13PSiCIQ?usp=sharing\n\nIf you want to use this in a video you're free to do so, though credit would be greatly appreciated! However, please don't just re-upload the songs yourself and claim them as your own.\n\nI used the VGM Sound Sources Spreadsheet as a guide for finding which samples were which. If you're interested in this kind of thing, I'd highly recommend checking it out as it has information for hundreds of different games:\nhttps://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o/",
         "thumbnails": {
             "default": {
@@ -36,7 +36,7 @@
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
-        "position": 137,
+        "position": 181,
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "5pHkX2auids"
