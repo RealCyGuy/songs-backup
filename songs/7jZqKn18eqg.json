@@ -1,6 +1,5 @@
 {
     "kind": "youtube#playlistItem",
-    "etag": "_ZMuBcMEVRMgNBtuvCHAzaFl5dE",
     "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNEM4OThENjlGNTBCMTlG",
     "snippet": {
         "publishedAt": "2021-09-25T01:40:17Z",
@@ -35,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "7jZqKn18eqg"
         },
-        "videoOwnerChannelTitle": "Syckktoons Stream Safe Records",
+        "videoOwnerChannelTitle": "BACK SOON",
         "videoOwnerChannelId": "UCf1_YtUKp8nGN9fz9PYURWw"
     },
     "contentDetails": {
