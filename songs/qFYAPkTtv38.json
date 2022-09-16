@@ -4,7 +4,7 @@
     "snippet": {
         "publishedAt": "2022-09-13T04:49:47Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Post Malone ft. Doja Cat - I Like You (A Happier Song) (Even More)",
+        "title": "Post Malone - I Like You (A Happier Song) ((Even More)) ft. Doja Cat",
         "description": "Music video by Post Malone performing I Like You (A Happier Song) ((Even More)). \u00a9 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/Tu5OHr",
         "thumbnails": {
             "default": {
@@ -26,6 +26,11 @@
                 "url": "https://i.ytimg.com/vi/qFYAPkTtv38/sddefault.jpg",
                 "width": 640,
                 "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qFYAPkTtv38/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
             }
         },
         "channelTitle": "Cyrus Yip",
