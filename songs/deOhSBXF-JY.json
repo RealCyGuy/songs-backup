@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MDk2OUM1NUVCQjEzQkZD",
+    "snippet": {
+        "publishedAt": "2022-09-16T14:23:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Dori Theme - Thank You for Your Generous Purchase! - (Chiptune cover) Genshin Impact",
+        "description": "Dori has wares, if you have coin.\n\nOriginal: https://youtu.be/P08q5Y7r9Z4\n\nLinkaroonies: \nTwitter: https://twitter.com/natnat244\u200b\nSoundCloud: https://soundcloud.com/mis_til\u200b\nSpotify: https://open.spotify.com/artist/0yzSKWkdZjErKLgMoz9GEj?si=qTKfSt-TQWaOWP75ikIkIg\nBandcamp: https://mistil.bandcamp.com\n\n#genshinimpact #sumeru #dori",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/deOhSBXF-JY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/deOhSBXF-JY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/deOhSBXF-JY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/deOhSBXF-JY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/deOhSBXF-JY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "deOhSBXF-JY"
+        },
+        "videoOwnerChannelTitle": "Mistil",
+        "videoOwnerChannelId": "UCNq4pLU8pQ9qp2z3GnH1UJA"
+    },
+    "contentDetails": {
+        "videoId": "deOhSBXF-JY",
+        "videoPublishedAt": "2022-09-04T01:41:47Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
