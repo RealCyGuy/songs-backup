@@ -1,0 +1,47 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRjVEQzE1NkNEQkM4NTc5",
+    "snippet": {
+        "publishedAt": "2022-09-23T00:44:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Death Note Opening 1 completo full HD",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RvIx-SJvlNY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RvIx-SJvlNY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RvIx-SJvlNY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/RvIx-SJvlNY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "RvIx-SJvlNY"
+        },
+        "videoOwnerChannelTitle": "dead ghost",
+        "videoOwnerChannelId": "UCfEiQULk5VOveMXaBzuM4FA"
+    },
+    "contentDetails": {
+        "videoId": "RvIx-SJvlNY",
+        "videoPublishedAt": "2017-05-28T01:24:14Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
