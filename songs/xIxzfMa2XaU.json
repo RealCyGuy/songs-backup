@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNzhBNzdCNjFERDIyRERE",
+    "snippet": {
+        "publishedAt": "2022-09-24T05:15:57Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "TWICE 'Talk That Talk' ( RINGTONE )",
+        "description": "TWICE 'TALK THAT TALK' RINGTONE\nDOWNLOAD LINK: https://drive.google.com/file/d/1aj3amc2k6Iu40DFkVXCSIYK5fc6a1kyM/view?usp=drivesdk\nhope you like it!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xIxzfMa2XaU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xIxzfMa2XaU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xIxzfMa2XaU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xIxzfMa2XaU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xIxzfMa2XaU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xIxzfMa2XaU"
+        },
+        "videoOwnerChannelTitle": "baekmixes",
+        "videoOwnerChannelId": "UCetNS-zUW_jEv6Kyf-xzw3w"
+    },
+    "contentDetails": {
+        "videoId": "xIxzfMa2XaU",
+        "videoPublishedAt": "2022-08-30T20:53:19Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

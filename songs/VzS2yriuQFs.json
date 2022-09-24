@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMzk4NDhENTQ2RDJGRDM0",
+    "snippet": {
+        "publishedAt": "2022-09-24T05:18:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u771f\u591c\u4e2d\u306e\u30c9\u30a2 (Stay With Me) - \u677e\u539f\u307f\u304d (Miki Matsubara) | Cover by Chris Andrian Yang",
+        "description": "This was highly requested on tiktok so here you go! I love this song so much but yooo the lyrics are so sad :(\n.\nChords: https://tabs.ultimate-guitar.com/tab/3384071\n\u771f\u591c\u4e2d\u306e\u30c9\u30a2 (Stay With Me) by \u677e\u539f\u307f\u304d (Miki Matsubara)\n.\r\ninstagram: @chrisandriann (instagram.com/chrisandriann)\r\nsoundcloud: Chris Andrian (soundcloud.com/chris-andrian)\ntiktok: @chrisandrian (tiktok.com/@chrisandrian?lang=en)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/VzS2yriuQFs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/VzS2yriuQFs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/VzS2yriuQFs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/VzS2yriuQFs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/VzS2yriuQFs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "VzS2yriuQFs"
+        },
+        "videoOwnerChannelTitle": "Chris Andrian",
+        "videoOwnerChannelId": "UCFv_YbQaCsy8-w8hVdk06qA"
+    },
+    "contentDetails": {
+        "videoId": "VzS2yriuQFs",
+        "videoPublishedAt": "2021-02-05T06:00:05Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
