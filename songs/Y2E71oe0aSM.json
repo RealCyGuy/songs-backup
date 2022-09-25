@@ -26,6 +26,11 @@
                 "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/sddefault.jpg",
                 "width": 640,
                 "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
             }
         },
         "channelTitle": "Cyrus Yip",
