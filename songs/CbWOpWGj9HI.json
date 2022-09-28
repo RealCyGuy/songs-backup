@@ -4,49 +4,20 @@
     "snippet": {
         "publishedAt": "2021-09-27T05:36:49Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "\u6628\u65e5\u306b\u594f\u3067\u308b\u660e\u65e5\u306e\u6b4c X FREEDOM DiVE Mashup",
-        "description": "",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/CbWOpWGj9HI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/CbWOpWGj9HI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/CbWOpWGj9HI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            },
-            "standard": {
-                "url": "https://i.ytimg.com/vi/CbWOpWGj9HI/sddefault.jpg",
-                "width": 640,
-                "height": 480
-            },
-            "maxres": {
-                "url": "https://i.ytimg.com/vi/CbWOpWGj9HI/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-            }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "CbWOpWGj9HI"
-        },
-        "videoOwnerChannelTitle": "Rhythm Slayer",
-        "videoOwnerChannelId": "UCuH_sIDQ1eLQGjPj8Okb59A"
+        }
     },
     "contentDetails": {
-        "videoId": "CbWOpWGj9HI",
-        "videoPublishedAt": "2021-05-22T05:52:00Z"
+        "videoId": "CbWOpWGj9HI"
     },
     "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
     }
 }
