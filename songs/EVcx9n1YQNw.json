@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRTcxMjgxQzY2NEJCQkNB",
+    "snippet": {
+        "publishedAt": "2022-10-10T23:29:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Virginia To Vegas - Just Friends (Audio)",
+        "description": "Music video by Virginia To Vegas performing Just Friends (Audio). \u00a9 2019 Wax Records\n\nhttp://vevo.ly/07IOjf",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EVcx9n1YQNw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EVcx9n1YQNw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EVcx9n1YQNw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EVcx9n1YQNw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EVcx9n1YQNw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EVcx9n1YQNw"
+        },
+        "videoOwnerChannelTitle": "VirginiaToVegasVEVO",
+        "videoOwnerChannelId": "UCh1npJQUp9RgaGfMUOyDmhQ"
+    },
+    "contentDetails": {
+        "videoId": "EVcx9n1YQNw",
+        "videoPublishedAt": "2019-05-24T04:00:00Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
