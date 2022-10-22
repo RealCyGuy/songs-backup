@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ERUFEM0QyQkM5NEI0ODRF",
+    "snippet": {
+        "publishedAt": "2022-10-22T04:40:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BANNERS - Someone To You (Acoustic)",
+        "description": "Debut album \"Where the Shadow Ends\" Available Now:\nhttps://IslandRecs.lnk.to/WhereTheShadowEnds\n\nEmpires on Fire EP ft. \u201cSomeone To You\u201d Available Now!\nGet it here: https://IslandRecs.lnk.to/EmpiresOnFire \n\nFollow BANNERS\nInstagram: https://www.instagram.com/bannersmusic/\nFacebook: https://www.facebook.com/BANNERSmusic/\nTwitter: https://twitter.com/BANNERSMUSIC",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Sm72hbk4E0c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Sm72hbk4E0c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Sm72hbk4E0c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Sm72hbk4E0c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Sm72hbk4E0c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Sm72hbk4E0c"
+        },
+        "videoOwnerChannelTitle": "BannersVEVO",
+        "videoOwnerChannelId": "UCrHuAEBS0odJ_P_Xtl-mN4w"
+    },
+    "contentDetails": {
+        "videoId": "Sm72hbk4E0c",
+        "videoPublishedAt": "2017-06-29T04:00:01Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
