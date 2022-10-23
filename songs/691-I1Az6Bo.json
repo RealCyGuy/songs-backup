@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43NUI4OUZGMEMxNzJDNEM3",
+    "snippet": {
+        "publishedAt": "2022-10-23T02:57:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "twice x bruno mars - [moonlight] x [treasure]",
+        "description": "requested vid . had the Motivation to finally make it :D\nhope you guys like it!\n.\n.\n.\n.\n.\n.\n.\n.\n.\nSONGS:\nTWICE - MOONLIGHT\nhttps://www.youtube.com/watch?v=Q8nCjQCvWD4&ab_channel=TWICE-Topic \nBruno Mars - Treasure\nhttps://www.youtube.com/watch?v=nPvuNsRccVw&ab_channel=BrunoMars",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/691-I1Az6Bo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/691-I1Az6Bo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/691-I1Az6Bo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/691-I1Az6Bo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/691-I1Az6Bo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "691-I1Az6Bo"
+        },
+        "videoOwnerChannelTitle": "mark",
+        "videoOwnerChannelId": "UC8FxU3ozUgJZZ2dFovOuKxw"
+    },
+    "contentDetails": {
+        "videoId": "691-I1Az6Bo",
+        "videoPublishedAt": "2022-07-04T11:48:28Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
