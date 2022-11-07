@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NTlFRUU0NTU2QzUyNkND",
+    "snippet": {
+        "publishedAt": "2022-11-07T08:01:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ATARASHII GAKKO! - HANAKO (Official Music Video)",
+        "description": "Buy/Download/Stream HANAKO now!\nhttp://atarashiigakko.lnk.to/HANAKO\n\n\nSubscribe to ATARASHII GAKKO!\nhttp://88rising.lnk.to/ATARASHIIGAKKO-subscribe \n\n\nFollow ATARASHII GAKKO!\nhttps://www.instagram.com/japan_leaders \nhttps://twitter.com/japanleaders \nhttps://www.facebook.com/japanleaders \nhttps://www.tiktok.com/@japanleaders \n\nSubscribe to 88rising\nhttp://88rising.lnk.to/subscribe \n\nFollow 88rising\nhttp://instagram.com/88rising \nhttp://twitter.com/88rising \nhttp://facebook.com/88rising\n\nDirector: Sayaka Nakane\n1st AD: Taito Hiroshima\nDirector of Photography: Koya Yokoyama\n1st AC: Masashi Oike\n2nd AC Masanori Miyano\nTrainee: Kotaro Hasegawa\nGaffer: Akihiro Numata\nKey Grip: Ren Jialin\nBest Boy: Nobuto Kamiya\nBest Boy: Miki Yamasaki\n\nExecutive Producer: Tamayu Takayama\nProduction Coordinator: Risa Nakatomi\nManager: Masato Ota\nManager/Coordinator: Miho Tsuchiya\nPA: Erika Hiyama (MAEDAYA)\nPA: Yui Kobayashi (MAEDAYA)\nPA: Kaoru Shinotsuka (MAEDAYA)\nEditor: Sayaka Nakane\nColorist: Yoshiyuki \"Yossy\" Nishida\nDriver: Hiroaki Genma\nSubtitles by: Sherlock\nChoreography: ATARASHII GAKKO!\n\nStudio Bell Dancers:\nMio Morikubo\nMirai Yamaoka\nMaori Hashimoto\nAyami Yasukouchi\nMifuyu Yamashita\nUtako Ishibashi\nRinako Akimoto\n\nStudio Bell Dancer Support:\nRieko Araki (ODORIBA)\nOrie Nagata (ODORIBA)\n\n#HANAKO #\u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba #ATARASHIIGAKKO #AdobeDANCEVIDEOFES\n#\u30a2\u30c9\u30d3\u3067\u30c0\u30f3\u30b9\u30d3\u30c7\u30aa",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IXfnrInr4xQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IXfnrInr4xQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IXfnrInr4xQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/IXfnrInr4xQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/IXfnrInr4xQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "IXfnrInr4xQ"
+        },
+        "videoOwnerChannelTitle": "88rising",
+        "videoOwnerChannelId": "UCZW5lIUz93q_aZIkJPAC0IQ"
+    },
+    "contentDetails": {
+        "videoId": "IXfnrInr4xQ",
+        "videoPublishedAt": "2022-10-31T04:00:09Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}

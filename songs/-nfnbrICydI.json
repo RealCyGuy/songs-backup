@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FOENDM0VCNjlGRjBCQUZF",
+    "snippet": {
+        "publishedAt": "2022-11-07T07:29:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BOYS LIKE YOU \u00d7 LOVE STORY [MASHUP] ITZY & TAYLOR SWIFT",
+        "description": "#itzy #taylorswift #fyp #kpop_infinity_9795 #mashup #kpop #kpopmashup #pop \n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-nfnbrICydI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-nfnbrICydI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-nfnbrICydI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-nfnbrICydI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-nfnbrICydI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-nfnbrICydI"
+        },
+        "videoOwnerChannelTitle": "KPOP_INFINITY_9795",
+        "videoOwnerChannelId": "UCVLnEBVyDl0rNUJSEVr5NkQ"
+    },
+    "contentDetails": {
+        "videoId": "-nfnbrICydI",
+        "videoPublishedAt": "2022-10-22T01:48:30Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
