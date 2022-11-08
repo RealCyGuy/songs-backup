@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41Qzc2Qzk0NzY4Njk4MTg1",
+    "snippet": {
+        "publishedAt": "2022-07-04T04:57:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Gravity Falls (acapella)",
+        "description": "Would you follow Maytree? :)\nwww.instagram.com/maytree_music\nwww.facebook.com/maytreemusic\nwww.youtube.com/maytreeofficial\n\n#gravityfalls #disney #tvshow",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/nc2w8azwBmE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nc2w8azwBmE"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+    },
+    "contentDetails": {
+        "videoId": "nc2w8azwBmE",
+        "videoPublishedAt": "2022-03-04T12:00:22Z",
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2128927",
+        "likeCount": "178993",
+        "favoriteCount": "0",
+        "commentCount": "2599"
+    }
+}

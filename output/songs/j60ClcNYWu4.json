@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FMTRBMDgyN0ZFQjY4Mzkw",
+    "snippet": {
+        "publishedAt": "2021-07-19T23:15:33Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Imagine Dragons - Zero (From the Original Motion Picture \"Ralph Breaks The Internet\")",
+        "description": "Listen to Mercury \u2013 Act 1: https://ImagineDragons.lnk.to/Mercury \n \nListen to Origins, ft. Natural, Zero, Machine and Bad Liar: http://smarturl.it/OriginsID \n\nShop Imagine Dragons: http://smarturl.it/ImagineDragonsShop\nSign up for email updates: http://smarturl.it/ID_Email\nListen to Imagine Dragons on Spotify: http://smarturl.it/ID_Discography\nCatch Imagine Dragons on tour: http://imaginedragonsmusic.com/tour\n\nFollow Imagine Dragons:\nFacebook: https://www.facebook.com/ImagineDragons\nTwitter: https://twitter.com/Imaginedragons\nInstagram: https://www.instagram.com/imaginedragons\n\nLYRICS\n\nI find it hard to say the things I want to say the most\nFind a little bit of steady as I get close\nFind a balance in the middle of the chaos\nSend me low, send me high, send me never demigod\nI remember walking in the cold of November\nHoping that I make it to the end of December\n27 years and the end on my mind\nBut holding to the thought of another time\nBut looking to the ways of the ones before me\nLooking for the path of the young and lonely\nI don't want to hear about what to do\nI don't want to do it just to do it for you\n\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to always feel, feel\nLike I'm empty and there's nothing really real, real\nI'm looking for a way out\n\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to never feel, feel\nLike I'm good enough for anything that's real, real\nI'm looking for a way out\n\nI find it hard to tell you how I want to run away\nI understand it always makes you feel a certain way\nI find a balance in the middle of the chaos\nSend me up, send me down\nSend me never demigod\n\nI remember walking in the heat of the summer\nWide eyed one with a mind full of wonder\n27 years and I've nothing to show\nFalling from the dove to the dark of the crow\nLooking to the ways of the ones before me\nLooking for a path of the young and lonely\nI don't want to hear about what to do, no\nI don't want to do it just to do it for you\n\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to always feel, feel\nLike I'm empty and there's nothing really real, real\nI'm looking for a way out\n\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to never feel, feel\nLike I'm good enough for anything that's real, real\nI'm looking for a way out\n\nLet me tell you bout it\nLet me tell you bout it\nMaybe you're the same as me\n\nLet me tell you bout it\nLet me tell you bout it\nThey say the truth will set you free\n\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to always feel, feel\nLike I'm empty and there's nothing really real, real\nI'm looking for a way out\n\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to never feel, feel\nLike I'm good enough for anything that's real, real\nI'm looking for a way out\n\nMusic video by Imagine Dragons performing Zero (Vertical Video/From the Original Motion Picture \"Ralph Breaks The Internet\"). \u00a9 2018 KIDinaKORNER/Interscope Records/Disney Enterprises, Inc.\n\nhttp://vevo.ly/iBUo9Z",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/j60ClcNYWu4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/j60ClcNYWu4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/j60ClcNYWu4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/j60ClcNYWu4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/j60ClcNYWu4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "j60ClcNYWu4"
+        },
+        "videoOwnerChannelTitle": "ImagineDragonsVEVO",
+        "videoOwnerChannelId": "UCpx_k19S2vUutWUUM9qmXEg"
+    },
+    "contentDetails": {
+        "videoId": "j60ClcNYWu4",
+        "videoPublishedAt": "2018-10-23T11:00:10Z",
+        "duration": "PT3M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "84069643",
+        "likeCount": "1017012",
+        "favoriteCount": "0",
+        "commentCount": "32173"
+    }
+}

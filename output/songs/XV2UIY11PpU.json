@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FQjMwRUZGOTIyODI4MTlC",
+    "snippet": {
+        "publishedAt": "2022-04-22T03:56:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Feint ft. Laura Brehm - Words",
+        "description": "Feint ft. Laura Brehm - Words\n\nWe're saying more than words...\n\nInstrumental composed/produced by Feint\nVocal written by Laura Brehm and Paul Aiden\nReleased on Monstercat\n\nSupport on iTunes: https://itunes.apple.com/us/album/words-feat.-laura-brehm-single/id1167301404\nSupport on Bandcamp: http://music.monstercat.com/track/words-feat-laura-brehm\nSupport on Beatport: https://www.beatport.com/track/word-feat-laura-brehm-original-mix/8542151\nListen on Spotify: https://open.spotify.com/album/430DKFRcSv3aGf92gWoh18\n\nLyrics: https://www.facebook.com/notes/laura-brehm/words-lyrics/10154810255687147\n\nFollow Feint:\nhttps://www.youtube.com/user/FeintDnB\nhttps://www.facebook.com/feintDnB\nhttps://soundcloud.com/feintdnb\nhttps://twitter.com/feintMusic\n\nFollow Paul Aiden:\nhttps://www.facebook.com/thepaulaiden\nhttps://soundcloud.com/paulaiden\nhttps://twitter.com/paulaiden\nhttps://www.instagram.com/paulaiden\n\nFollow my social media networks:\nhttp://tinyurl.com/laurabrehmspotify\nhttp://www.facebook.com/laurabrehmmusic\nhttp://www.soundcloud.com/laurabrehm\nhttp://www.twitter.com/laurakbrehm\nhttp://www.instagram.com/laurabrehmmusic\n\nhttp://www.laurabrehm.com\nMailing list: http://laurabrehm.fanbridge.com\nMerch: http://www.districtlines.com/Laura-Brehm\nSolo Discography: http://laurabrehm.bandcamp.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XV2UIY11PpU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XV2UIY11PpU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XV2UIY11PpU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XV2UIY11PpU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XV2UIY11PpU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "XV2UIY11PpU"
+        },
+        "videoOwnerChannelTitle": "Laura Brehm",
+        "videoOwnerChannelId": "UCYRPOp9upjrNlqBzQnuj6dA"
+    },
+    "contentDetails": {
+        "videoId": "XV2UIY11PpU",
+        "videoPublishedAt": "2016-10-26T22:42:49Z",
+        "duration": "PT4M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6150980",
+        "likeCount": "68810",
+        "favoriteCount": "0",
+        "commentCount": "1594"
+    }
+}

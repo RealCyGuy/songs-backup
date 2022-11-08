@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43QzdDMkUyRTE2NEYzMjRD",
+    "snippet": {
+        "publishedAt": "2022-04-17T00:16:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Welcome to the Internet - Bo Burnham (from \"Inside\" -- ALBUM OUT NOW)",
+        "description": "merch: https://boburnham.store/\nvinyl/cd/cassette: https://boburnham.lnk.to/Shop\nlisten to the album: https://boburnham.lnk.to/INSIDE\n\ninside now streaming on netflix.\n\nthank you for watching.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/k1BneeJTDcU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/k1BneeJTDcU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/k1BneeJTDcU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/k1BneeJTDcU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/k1BneeJTDcU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "k1BneeJTDcU"
+        },
+        "videoOwnerChannelTitle": "boburnham",
+        "videoOwnerChannelId": "UC81hVmI5eEBIt3s3HQpJd_w"
+    },
+    "contentDetails": {
+        "videoId": "k1BneeJTDcU",
+        "videoPublishedAt": "2021-06-04T15:00:32Z",
+        "duration": "PT4M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "94540661",
+        "likeCount": "2299482",
+        "favoriteCount": "0",
+        "commentCount": "93138"
+    }
+}

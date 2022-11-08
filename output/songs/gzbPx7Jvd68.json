@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RDYzRkY0RjZGQTg5QTJG",
+    "snippet": {
+        "publishedAt": "2021-12-21T00:09:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30d2\u30c8\u30ea\u30b4\u30c8 - ClariS  /\u3010\u30a8\u30ed\u30de\u30f3\u30ac\u5148\u751f OP\u3011(\u60c5\u8272\u6f2b\u756b\u8001\u5e2b / Eromanga-sensei) OP Hitorigoto",
+        "description": "#\u30d2\u30c8\u30ea\u30b4\u30c8 #Hitorigoto #Eromangasensei\n\n\u30a8\u30ed\u30de\u30f3\u30ac\u5148\u751f\u306e\u4e3b\u984c\u6b4c\u300cClariS - Hitorigoto\u300d\u5b8c\u5168\u7248\n\n\u96fb\u8996\u52d5\u756b\"\u60c5\u8272\u6f2b\u756b\u8001\u5e2b\"\u7684\u4e3b\u984c\u66f2\u300cClariS - Hitorigoto\u300d\u5b8c\u6574\u7248\n\nEromanga-sensei Opening \u300cClariS - Hitorigoto\u300dFULL\n\n\n\u6b4c\u624b: ClariS\n\u4f5c\u66f2: \u91ce\u6751\u967d\u4e00\u90ce\n\u7de8\u66f2: \u91ce\u6751\u967d\u4e00\u90ce\n\u4f5c\u8a5e: \u30b1\u30ea\u30fc",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gzbPx7Jvd68/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gzbPx7Jvd68/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gzbPx7Jvd68/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gzbPx7Jvd68/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gzbPx7Jvd68/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gzbPx7Jvd68"
+        },
+        "videoOwnerChannelTitle": "\u534a\u7cd6",
+        "videoOwnerChannelId": "UC43FunCNNYvlzRqZoR-LIkA"
+    },
+    "contentDetails": {
+        "videoId": "gzbPx7Jvd68",
+        "videoPublishedAt": "2017-05-02T14:47:04Z",
+        "duration": "PT3M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6000831",
+        "likeCount": "67968",
+        "favoriteCount": "0",
+        "commentCount": "2626"
+    }
+}

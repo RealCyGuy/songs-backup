@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45Q0Q0MkJGMkY0NTEwQTVE",
+    "snippet": {
+        "publishedAt": "2022-07-16T05:34:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Harry Styles - As It Was (Official Video)",
+        "description": "Official Video for \"As It Was\" by Harry Styles.\nHarry's new album \"Harry's House\" out now. Listen here:  https://hstyles.lnk.to/HarrysHouse\n \nAmazon Music: https://hstyles.lnk.to/HarrysHouse/AmazonMusic\nApple Music: https://hstyles.lnk.to/HarrysHouse/AppleMusic\nDeezer: https://hstyles.lnk.to/HarrysHouse/Deezer \niTunes: https://hstyles.lnk.to/HarrysHouse/iTunes\nPandora: https://hstyles.lnk.to/HarrysHouse/Pandora\nSoundcloud: https://hstyles.lnk.to/HarrysHouse/Soundcloud\nSpotify: https://hstyles.lnk.to/HarrysHouse/Spotify\nYouTube Music: https://hstyles.lnk.to/HarrysHouse/YouTubeMusic\n \nFollow Harry Styles:\nFacebook: https://HarryStyles.lnk.to/followFI\nInstagram: https://HarryStyles.lnk.to/followII\nTwitter: https://HarryStyles.lnk.to/followTI\nWebsite: https://HarryStyles.lnk.to/followWI\nSpotify: https://HarryStyles.lnk.to/followSI\nYouTube: https://HarryStyles.lnk.to/subscribeYD\n \nCredits\nMade with love by a creative team from Ukraine.\nDirector: Tanu Muino\nCreative Director: Molly Hawkins\nProducer: Bryan Younce, Frank Borin, Ivanna Borin, Fred Bonham Carter, Alexa Haywood\nLine Producer: Andrew Rawson\nProduction Company: UnderWonder Content\nService Production Company: Just Fred\nChoreographer: Yoann Bourgeois\nDirector of Photography: Nikita Kuzmenko\nProduction Designer: Spencer Graves\nEditor: Carlos Font Clos\nColorist: Joseph Bicknell @ Company3\nVFX: Max Colt @ The Frender\n \n \nLyrics\nHolding me back,\nGravity\u2019s holding me back,\nI want you to hold out the palm of your hand,\nWhy don\u2019t we leave it at that?,\nNothing to say,\nWhen everything gets in the way,\nSeems you cannot be replaced,\nAnd I\u2019m the one who will stay,\nOoh,\n \nIn this world,\nIt\u2019s just us,\nYou know it\u2019s not the same as it was,\nIn this world,\nIt\u2019s just us,\nYou know it\u2019s not the same as it was,\nAs it was,\nAs it was,\nYou know it\u2019s not the same,\n \nAnswer the phone,\n\u201cHarry, you\u2019re no good alone,\nWhy are you sitting at home on the floor?,\nWhat kind of pills are you on?\u201d,\nRinging the bell,\nAnd nobody\u2019s coming to help,\nYour daddy lives by himself,\nHe just wants to know that you\u2019re well,\nOoh,\n \nIn this world,\nIt\u2019s just us,\nYou know it\u2019s not the same as it was,\nIn this world,\nIt\u2019s just us,\nYou know it\u2019s not the same as it was,\nAs it was,\nAs it was,\nYou know it\u2019s not the same,\n \nGo home,\nGet ahead, \nLight speed internet,\nI don\u2019t want to talk about the way that it was,\nLeave America, \nTwo kids follow her,\nI don\u2019t want to talk about who\u2019s doing it first,\n(Hey!),\n \nAs it was,\nYou know it\u2019s not the same as it was,\nAs it was,\nAs it was,\n \n#HarryStyles #HarrysHouse #AsItWas",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/H5v3kku4y6Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/H5v3kku4y6Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/H5v3kku4y6Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/H5v3kku4y6Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "H5v3kku4y6Q"
+        },
+        "videoOwnerChannelTitle": "HarryStylesVEVO",
+        "videoOwnerChannelId": "UCbOCbp5gXL8jigIBZLqMPrw"
+    },
+    "contentDetails": {
+        "videoId": "H5v3kku4y6Q",
+        "videoPublishedAt": "2022-03-31T23:00:10Z",
+        "duration": "PT2M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "354991464",
+        "likeCount": "6304504",
+        "favoriteCount": "0",
+        "commentCount": "178522"
+    }
+}

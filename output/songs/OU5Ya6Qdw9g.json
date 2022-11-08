@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44MjlEMzMwNUQ1OTJFNTFE",
+    "snippet": {
+        "publishedAt": "2021-09-22T23:57:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Rush E, but each note spawns an E",
+        "description": "I built this MIDI visualizer in Unity. This is my first time working with spline meshes, which allow me to curve the notes through multiple nodes before hitting the keys. GPUs were harmed in the 4k 60fps making of this video.\n\nMerch: https://doodlechaos-official.creator-spring.com/\n(My family has been nagging me to do this for years and I've finally given in. I'm lucky they are so supportive!)\n\nCheck out Sheet Music Boss: https://youtu.be/Qskm9MTz2V4 \n\nThis video was not sponsored, but if you would like to support me so I can continue using non-public domain music, here is a link to my Patreon page:\nhttps://www.patreon.com/doodlechaos\n\nThank you everyone on the discord who helped brainstorm the thumbnail! Sushi went above and beyond in making drafts. (Sushi's website: https://sushipython.us/). If you want to hang out with us here is a link to the discord: https://discord.com/invite/7FCrWAzDY7\n\nhttps://twitter.com/DoodleChaos\nhttps://www.twitch.tv/doodlechaos\ncontact@doodlechaos.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OU5Ya6Qdw9g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OU5Ya6Qdw9g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OU5Ya6Qdw9g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/OU5Ya6Qdw9g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/OU5Ya6Qdw9g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "OU5Ya6Qdw9g"
+        },
+        "videoOwnerChannelTitle": "DoodleChaos",
+        "videoOwnerChannelId": "UCnVimh35ecf46P_Bt-2AArg"
+    },
+    "contentDetails": {
+        "videoId": "OU5Ya6Qdw9g",
+        "videoPublishedAt": "2021-08-11T15:29:42Z",
+        "duration": "PT3M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "18157344",
+        "likeCount": "351001",
+        "favoriteCount": "0",
+        "commentCount": "49249"
+    }
+}

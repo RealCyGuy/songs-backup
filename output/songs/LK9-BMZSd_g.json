@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GMUM0MTUwRjlFRDdBRDA0",
+    "snippet": {
+        "publishedAt": "2022-07-24T04:45:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "DUET [8 bit; VRC6] - OMORI",
+        "description": "I saved the best song for the end xd\nThis cover marks the end of my omori series so i worked really hard to make it as faithful as possible, recreating the slowdowns and the violin's dynamics are some examples of that, thank you sooooooo much for supporting my channel, it was a pleasure to arrange many bops that were made by the omori team! even if this is my last cover, i don't discard making some more omori remixes in the future... and again, THANK YOU! \n\n*Main pixel art by my good friend Jon: https://www.youtube.com/channel/UC7t3KD7patIDgAkSyMU3jXg\n(the other small one at the beginning was made by me)\n\n*Song made on Famitracker 0cc\n\nfun fact: i had to make this song twice, because the first file got corrupted xd",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LK9-BMZSd_g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LK9-BMZSd_g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LK9-BMZSd_g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/LK9-BMZSd_g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/LK9-BMZSd_g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "LK9-BMZSd_g"
+        },
+        "videoOwnerChannelTitle": "MegaBaz",
+        "videoOwnerChannelId": "UCgdmPMH0a-pdiKgvsfpwsRQ"
+    },
+    "contentDetails": {
+        "videoId": "LK9-BMZSd_g",
+        "videoPublishedAt": "2021-06-10T20:00:42Z",
+        "duration": "PT2M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "165405",
+        "likeCount": "12965",
+        "favoriteCount": "0",
+        "commentCount": "519"
+    }
+}

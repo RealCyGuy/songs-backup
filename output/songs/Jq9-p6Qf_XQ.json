@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMjI4MjYxNTBCRDNFOTY5",
+    "snippet": {
+        "publishedAt": "2021-10-06T02:55:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pachelbel Canon - Stringspace - Solo Violin",
+        "description": "Pachelbel Canon - Stringspace - Solo Violin version\n\nOur 1st Album \"Quiet Nights: Jazz & Bossa Nova\" is now on Spotify, Apple Music & iHeartRadio.\n\nhttps://open.spotify.com/album/5HwPKYgnchNfgixKpXiYEc\nhttps://music.apple.com/us/album/quiet-nights-jazz-bossa-nova/1478918631?app=music&ign-mpt=uo%3D4\nhttps://www.iheart.com/artist/stringspace-33341707/albums/quiet-nights-jazz-bossa-nova-79598280/\n\n\u2764\ufe0fSUBSCRIBE to the StringspaceLive channel for free music videos every week, and to support making high-quality music available for everyone! \u2764\ufe0f\n\nIf you are a fan of Stringspace please SHARE our clips on Facebook, YouTube, Spotify, Twitter and as many different ways as you can! Thank You!\n\nStringspace Booking Agency -- String quartets, string orchestras & jazz bands - weddings, events, recordings, concerts & TV/film.\n\n-- Find us at:\n\nhttp://www.stringspace.com.au\nhttp://www.facebook.com/stringspace\nhttp://www.youtube.com/StringspaceLive\nhttp://instagram.com/stringspace\n\nStringspace is also now available on Spotify, Apple Music, and iHeartRadio.\n\nProduction: Stringspace\n\n\nSorry, we don't distribute or sell our sheet music arrangements. \n\nPlease contact us if you are interested in hiring Stringspace for an event in Australia OR for mp3 recordings: \n\nlucie@stringspace.com.au.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Jq9-p6Qf_XQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Jq9-p6Qf_XQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Jq9-p6Qf_XQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Jq9-p6Qf_XQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Jq9-p6Qf_XQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Jq9-p6Qf_XQ"
+        },
+        "videoOwnerChannelTitle": "StringspaceLive",
+        "videoOwnerChannelId": "UCaEuVVDsLp3AZlrioUCSQ8g"
+    },
+    "contentDetails": {
+        "videoId": "Jq9-p6Qf_XQ",
+        "videoPublishedAt": "2019-10-01T03:08:07Z",
+        "duration": "PT4M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "514061",
+        "likeCount": "10648",
+        "favoriteCount": "0",
+        "commentCount": "189"
+    }
+}

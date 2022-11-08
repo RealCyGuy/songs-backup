@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wNkE1RkRERjkzMDRFRkMy",
+    "snippet": {
+        "publishedAt": "2022-05-03T04:41:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "credits song for my death",
+        "description": "original song by me\n\nsong 2 of 11 from \"IN MY HEAD\"\n\nhttps://soundcloud.com/wrathconsumingdegenerate/credits-music-for-my-death soundcloud link\n\nbandcamp link: https://tech-noir1.bandcamp.com/\n\n(also thank yuo for 3k subs)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/urxeNbBc1nk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/urxeNbBc1nk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/urxeNbBc1nk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/urxeNbBc1nk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/urxeNbBc1nk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "urxeNbBc1nk"
+        },
+        "videoOwnerChannelTitle": "vivivivivi",
+        "videoOwnerChannelId": "UCUd0DGXsiCIVqvOci94lnkQ"
+    },
+    "contentDetails": {
+        "videoId": "urxeNbBc1nk",
+        "videoPublishedAt": "2021-04-02T03:38:42Z",
+        "duration": "PT2M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "5784162",
+        "likeCount": "276505",
+        "favoriteCount": "0",
+        "commentCount": "11156"
+    }
+}

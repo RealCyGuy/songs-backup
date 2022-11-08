@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5COEJEMzU5MEFFMjZFQ0Qx",
+    "snippet": {
+        "publishedAt": "2022-08-27T17:28:06Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Lil Pitchy, Roomie - Until I Have You (Official Lyric Video)",
+        "description": "Available wherever you like to stream music: http://li.sten.to/LilPitchy\n\nTwitch (NEW!!): https://www.twitch.tv/roomieofficial\nPatreon: https://www.patreon.com/RoomieOfficial\nDiscord server: http://discord.gg/roomie\nInstagram: http://instagram.com/RoomieOfficial\nTwitter: http://twitter.com/RoomieOfficial\nMerch: http://bit.ly/2SiCqDz\nReddit: http://reddit.com/r/RoomieOfficial\nMy video & music gear: https://kit.co/RoomieOfficial\n\nBusiness contact (Sponsorships etc): roomiebusiness@gmail.com\nLyric video by Jonas Frisk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/t_EQWlkyRCs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/t_EQWlkyRCs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/t_EQWlkyRCs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/t_EQWlkyRCs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/t_EQWlkyRCs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "t_EQWlkyRCs"
+        },
+        "videoOwnerChannelTitle": "RoomieOfficial",
+        "videoOwnerChannelId": "UC9SVhrnsGxWwiBRWT9c7Ozw"
+    },
+    "contentDetails": {
+        "videoId": "t_EQWlkyRCs",
+        "videoPublishedAt": "2022-08-27T17:00:12Z",
+        "duration": "PT3M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "167670",
+        "likeCount": "13665",
+        "favoriteCount": "0",
+        "commentCount": "937"
+    }
+}

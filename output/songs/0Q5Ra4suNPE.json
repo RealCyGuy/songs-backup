@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNTYzQUI0RjNCMjEyOUMz",
+    "snippet": {
+        "publishedAt": "2021-10-05T05:19:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010kinsen&\u9e7f\u5591kana\u3011\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011",
+        "description": "\u672c\u5bb6\u69d8\uff1a\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\n\u5504\uff1a\u82b1\u6fa4\u9999\u83dc\n\u4f5c\u8a5e\uff1ameg rock\n\u4f5c\u66f2/\u7de8\u66f2\uff1a\u795e\u524d\u6681\uff08MONACA\uff09\n\nvocal\uff1akinsen&\u9e7f\u5591kana\nMix\uff1a\u5c0b&Muize\nMovie\uff1a\u5c0b\nIllust\uff1a\u77e5\u590f",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0Q5Ra4suNPE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0Q5Ra4suNPE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0Q5Ra4suNPE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/0Q5Ra4suNPE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/0Q5Ra4suNPE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0Q5Ra4suNPE"
+        },
+        "videoOwnerChannelTitle": "kin sen",
+        "videoOwnerChannelId": "UCQOBW8capoti3Cd93ogruLQ"
+    },
+    "contentDetails": {
+        "videoId": "0Q5Ra4suNPE",
+        "videoPublishedAt": "2020-11-29T04:34:56Z",
+        "duration": "PT4M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "141447",
+        "likeCount": "10703",
+        "favoriteCount": "0",
+        "commentCount": "274"
+    }
+}

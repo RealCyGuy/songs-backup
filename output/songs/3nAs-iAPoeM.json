@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yRUFBQTFGQjcxN0FCOTlC",
+    "snippet": {
+        "publishedAt": "2021-11-16T15:22:41Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[\ube14\ub8e8 \uc544\uce74\uc774\ube0c] \uba54\uc778 OST 'Target for love' Full ver.",
+        "description": "[\ube14\ub8e8 \uc544\uce74\uc774\ube0c \uacf5\uc2dd OST \uc815\ubcf4 \ud83c\udfb5]\nOST \ud480\ubc84\uc804 \ub2e4\uc6b4\ubc1b\uae30 : https://nexon.link/9H3\n\n\u25a0 Target for Love \u25a0\n\n\uac00\ucc3d : \uc774\uc9c4\uc544\n\uc791\uace1 : mitsukiyo, \uc774\uc9c4\uc544\n\uc791\uc0ac : DANI\n\n\u25b6\ube14\ub8e8 \uc544\uce74\uc774\ube0c \ub2e4\uc6b4\ub85c\ub4dc : https://nexon.link/9mv\n\u25b6\uacf5\uc2dd \ud398\uc774\uc9c0 : https://bluearchive.nexon.com/\n\u25b6\uacf5\uc2dd \ucee4\ubba4\ub2c8\ud2f0 : https://forum.nexon.com/bluearchive\n\u25b6\uacf5\uc2dd \ud2b8\uc704\ud130 : https://twitter.com/KR_BlueArchive",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3nAs-iAPoeM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3nAs-iAPoeM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3nAs-iAPoeM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3nAs-iAPoeM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3nAs-iAPoeM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3nAs-iAPoeM"
+        },
+        "videoOwnerChannelTitle": "\ube14\ub8e8 \uc544\uce74\uc774\ube0c",
+        "videoOwnerChannelId": "UCj0iColXMAjPA92rH-AXVGQ"
+    },
+    "contentDetails": {
+        "videoId": "3nAs-iAPoeM",
+        "videoPublishedAt": "2021-11-09T04:29:07Z",
+        "duration": "PT3M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "162384040",
+        "likeCount": "1816543",
+        "favoriteCount": "0",
+        "commentCount": "45794"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MTY0Q0JCQUM3Q0Q5ODJG",
+    "snippet": {
+        "publishedAt": "2021-12-05T22:45:14Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BABY! - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Episode 10 Insert Song [Synthesia]",
+        "description": "BABY! from Seishun Buta Yarou, Episode 10! The scene was so cute~\n\nAs soon as I saw the full version (props to NattoChan \u30cd\u30eb for releasing it so fast) I knew I had to arrange the song. And so I did. \n\nYou know, anime doesn't get much better than this. \n\nP.S. I have started trying Soundcloud for audio, tell me what you think! \nP.P.S I have a Discord server now! Feel free to join!\n\n--------------------\n\nSubscribe to my channel for more content!\n\nChannel/\u30c1\u30e3\u30f3\u30cd\u30eb: https://www.youtube.com/c/zzzAnimeonPiano\nTwitter/\u30c4\u30a4\u30c3\u30bf\u30fc: https://twitter.com/zzzanimeonpiano\nSheets/\u697d\u8b5c: https://sheet.host/user/zzzanimeonpiano\nSoundCloud: https://soundcloud.com/zzz_animeonpiano\nDiscord Server: http://discord.gg/2dGFq6z\n\n--------------------\n\nSheets/\u697d\u8b5c:\nhttps://sheet.host/sheet/jYahkS\n\n--------------------\n\nSong/\u66f2\u540d: BABY!\nAnime/\u30a2\u30cb\u30e1: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\n\nOriginal Artist/\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8: the peggies\nArranged by/\u30a2\u30ec\u30f3\u30b8: Yuichi Murata\nSinger/\u6b4c\u624b: SWEET BULLET (CV: Uchida Maaya, Amamiya Sora \"TrySail\")\nPiano Arrangement by/\u30d4\u30a2\u30ce\u30a2\u30ec\u30f3\u30b8: zzz",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8fvVrqCA7BE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8fvVrqCA7BE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8fvVrqCA7BE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8fvVrqCA7BE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8fvVrqCA7BE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8fvVrqCA7BE"
+        },
+        "videoOwnerChannelTitle": "zzz - Anime on Piano",
+        "videoOwnerChannelId": "UCXbCo1dYKNceoxUC7rKMjZw"
+    },
+    "contentDetails": {
+        "videoId": "8fvVrqCA7BE",
+        "videoPublishedAt": "2018-12-12T04:45:00Z",
+        "duration": "PT3M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "54279",
+        "likeCount": "1347",
+        "favoriteCount": "0",
+        "commentCount": "62"
+    }
+}

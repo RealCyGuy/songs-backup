@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RDFFNUM4NkUwRDhEMjRD",
+    "snippet": {
+        "publishedAt": "2021-07-02T23:38:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u8b8a\u6210\u65e5\u6f2b\u7247\u5c3e\u66f2\u7684Never Gonna Give You Up",
+        "description": "\u539f\u66f2bpm115\u6539\u65e5\u6416\u5c6c\u5be6\u5f46\u626d\uff0c\u4e0d\u5feb\u4e0d\u6162\u7684\u3002 \u4f86\u56de\u91cd\u5beb\u4e86\u56db\u6b21\uff0c\u6700\u5f8c\u807d\u5230\u62ff\u4e0d\u62ff\u7684\u66f2\u5b50\u624d\u6709\u4e86\u601d\u8def\n\n\n\nFrom BiliBili: http://b23.tv/6kQRfH\n\nAnime(?) version: https://youtu.be/LsqFoKwIJqw\nREAL Japanese Ver.: https://youtu.be/YoU3r6ZK8xQ\n#RickAstley #RickRoll #meme",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/v1POP-m76ac/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/v1POP-m76ac/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/v1POP-m76ac/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/v1POP-m76ac/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/v1POP-m76ac/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "v1POP-m76ac"
+        },
+        "videoOwnerChannelTitle": "\u9ed1\u8f2a",
+        "videoOwnerChannelId": "UCxFW89aSeZHMzx-LCM2BwCg"
+    },
+    "contentDetails": {
+        "videoId": "v1POP-m76ac",
+        "videoPublishedAt": "2021-05-16T05:04:55Z",
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3323691",
+        "likeCount": "189170",
+        "favoriteCount": "0",
+        "commentCount": "7870"
+    }
+}

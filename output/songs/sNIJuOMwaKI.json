@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40ODFCQzYxMDA3OTlGMjQw",
+    "snippet": {
+        "publishedAt": "2022-01-02T07:51:54Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u80e1\u9d3b\u921e Hubert Wu - \u660e\u77e5\u6545\u72af Official MV",
+        "description": "Single available on:\n\niTunes: http://apple.co/1hrfppo\nKKBOX: http://kkbox.fm/dA03pv\nSpotify: http://spoti.fi/1M1v6QR\nMoov: http://bit.ly/1NA11ad\nJOOX: http://bit.ly/1GI7f8c\nSoliton: http://bit.ly/1RAR9Oc\n\n\n\u4f5c\u66f2\uff1a\u9673\u4f73\u660e\n\u539f\u570b\u8a5e\uff1a\u9673\u4f73\u660e/\u8a31\u7f8e\u975c\n\u5ee3\u6771\u8a5e\uff1a\u6797\u5915\n\u7de8\u66f2/\u76e3\u88fd\uff1aJohnny Yim\n\n\n\u70ba\u4f55\u8981\u843d\u6dda\u3000\u843d\u6dda\u4ecd\u8981\u4e00\u500b\u9762\u5c0d\u3000\u7121\u8b02\u7684\u8ca0\u7d2f\n\u600e\u9ebc\u4e0d\u5fcd\u5931\u53bb\u3000\u5176\u5be6\u6211\u4e0d\u602a\u8ab0\u3000\u5728\u4f60\u638c\u5fc3\u88e1\n\u504f\u504f\u6211\u8981\u5b64\u55ae\u7684\u5bc4\u5c45\n\n* \u70ba\u4f55\u8981\u6050\u61fc\u3000\u5bc2\u5bde\u6642\u6b20\u4e00\u500b\u4f34\u4fb6\u3000\u751c\u871c\u4e2d\u53d7\u7f6a\n  \u600e\u9ebc\u8b1b\u90fd\u4e0d\u5c0d\u3000\u7121\u8ad6\u4f60\u60f3\u611b\u8ab0\u3000\u5728\u4f60\u638c\u63e1\u88e1\n  \u6211\u71b1\u60c5\u96a8\u6642\u5728\u624b\u88cf\n \n# \u8ab0\u4e5f\u77e5\u3000\u591c\u591c\u8207\u5979\u90a3\u5167\u60c5\u3000\u53ef\u60dc\u6211\u778e\u4e86\u773c\u775b\n  \u771f\u76f8\u3000\u90a3\u9808\u8aaa\u660e\u3000\u800c\u6211\u537b\u54fc\u4e0d\u51fa\u534a\u8072\n  \u8ab0\u4e5f\u77e5\u3000\u591c\u591c\u8207\u5979\u90a3\u5167\u60c5\u3000\u7518\u5fc3\u53bb\u505a\u4f60\u4f48\u666f\n  \u5f97\u5230\u3000\u4f60\u7684\u611b\u60c5\u3000\u9084\u8981\u518d\u5f97\u5230\u4f60\u4efb\u6027\n\nRepeat * # #\n\n\u4e00\u5207\u3000\u539f\u662f\u6ce8\u5b9a\u3000\u56e0\u6211\u8ddf\u4f60\u90fd\u4efb\u6027\n\u4e00\u5207\u3000\u539f\u662f\u6ce8\u5b9a\u3000\u56e0\u6211\u8ddf\u4f60\u90fd\u4efb\u6027\n\n#\u80e1\u9d3b\u921e #HubertWu #\u660e\u77e5\u6545\u72af\n\n\nConnect with Hubert:\nIG: https://www.instagram.com/hubertwu/\nFacebook: https://www.facebook.com/wuhungkwan/\nYouTube Channel: https://www.youtube.com/user/hubertwumusicchannel",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sNIJuOMwaKI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sNIJuOMwaKI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sNIJuOMwaKI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sNIJuOMwaKI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/sNIJuOMwaKI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "sNIJuOMwaKI"
+        },
+        "videoOwnerChannelTitle": "TVB Music Group",
+        "videoOwnerChannelId": "UCNPKstTCsULpoFdBea4SLtw"
+    },
+    "contentDetails": {
+        "videoId": "sNIJuOMwaKI",
+        "videoPublishedAt": "2015-11-19T16:00:01Z",
+        "duration": "PT4M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "5214414",
+        "likeCount": "16228",
+        "favoriteCount": "0",
+        "commentCount": "568"
+    }
+}

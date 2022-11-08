@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FRUY4QTUyNzFCODYwRDU2",
+    "snippet": {
+        "publishedAt": "2022-03-07T06:27:05Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[STATION] aespa \uc5d0\uc2a4\ud30c 'Dreams Come True' MV",
+        "description": "aespa's new single \"Dreams Come True\" is out!\nListen and download on your favorite platform: https://smarturl.it/aespa_DreamsComeTrue\n\n\ud83c\udf9f\ufe0f aespa Showcase SYNK in LA! Tickets now on sale: https://www.ticketmaster.com/event/0A005CCD9E871F6E\n\n\ud83d\ude82 SM STATION Playlist\nSpotify: https://smarturl.it/SMSTATION_Spotify\nApple Music: https://smarturl.it/SMSTATION_Apple\nYouTube Music: https://smarturl.it/SMSTATION_YTMusic \n\nSM STATION Official\nhttp://www.youtube.com/smstation\nhttp://www.instagram.com/smtownstation\nhttp://www.facebook.com/station.smtown\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://www.vlive.tv/channel/97CCED\nhttps://weibo.com/aespa\n\n#aespa #\uc5d0\uc2a4\ud30c #DreamsComeTrue\n#STATION #\uc2a4\ud14c\uc774\uc158 #SMSTATION #ReMASTERPIECE #RemasteringProject\n[STATION] aespa \uc5d0\uc2a4\ud30c 'Dreams Come True' MV \u2117 SM Entertainment",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/H69tJmsgd9I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/H69tJmsgd9I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/H69tJmsgd9I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/H69tJmsgd9I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/H69tJmsgd9I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "H69tJmsgd9I"
+        },
+        "videoOwnerChannelTitle": "SMTOWN",
+        "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+    },
+    "contentDetails": {
+        "videoId": "H69tJmsgd9I",
+        "videoPublishedAt": "2021-12-20T09:00:08Z",
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "90623304",
+        "likeCount": "1765701",
+        "favoriteCount": "0",
+        "commentCount": "80282"
+    }
+}

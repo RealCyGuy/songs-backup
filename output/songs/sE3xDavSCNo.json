@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNzAxMUIyOTA3QjNGMjhF",
+    "snippet": {
+        "publishedAt": "2021-12-08T05:25:24Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Seishun Buta Yarou - Bunny Girl Senpai OST - Piano Arrangement [Synthesia]",
+        "description": "The most memorable soundtrack from Bunny Girl Senpai, Seishun Buta Yarou! It's quite simple, but really beautiful. The MIDI really doesn't capture the full emotion behind the song, but I tried my best to make it sound as good as possible!\n\nBy the way, if you were wondering why my upload is less than 24 hours apart from Theishter's... is because I delayed my upload too long (lol)\nI had planned this upload for about a week now, but the current season stuff kept getting scheduled ahead of this one and in the end, it got pushed back. It was supposed to be uploaded tomorrow, actually, but when Theishter uploaded his arrangement I decided to hurry up with mine.\n\nI have to say, although my arrangement is closer to the original, Theishter's arrangement is much more emotion invoking. I've still got a lot to learn...\n\nI may be uploading more of Seishun Buta Yarou's soundtrack, so look forward to that!\nAnd enjoy this simple arrangement for once!\n\n--------------------\n\nSubscribe to my channel for more content!\n\nChannel/\u30c1\u30e3\u30f3\u30cd\u30eb: https://www.youtube.com/c/zzzAnimeonPiano\nTwitter/\u30c4\u30a4\u30c3\u30bf\u30fc: https://twitter.com/zzzanimeonpiano\nSheets/\u697d\u8b5c: https://sheet.host/user/zzzanimeonpiano\nSoundcloud: https://soundcloud.com/zzz_animeonpiano\nDiscord Server: http://discord.gg/2dGFq6z\n\n--------------------\n\nSheets/\u697d\u8b5c:\nhttps://sheet.host/sheet/y04OC8\n\n--------------------\n\nSong/\u66f2\u540d: Seishun Buta Yarou\nAnime/\u30a2\u30cb\u30e1: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\n\nOriginal Composer/\u4f5c\u66f2\u8005: fox capture plan\nArranged by/\u30a2\u30ec\u30f3\u30b8: zzz",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sE3xDavSCNo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sE3xDavSCNo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sE3xDavSCNo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sE3xDavSCNo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/sE3xDavSCNo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "sE3xDavSCNo"
+        },
+        "videoOwnerChannelTitle": "zzz - Anime on Piano",
+        "videoOwnerChannelId": "UCXbCo1dYKNceoxUC7rKMjZw"
+    },
+    "contentDetails": {
+        "videoId": "sE3xDavSCNo",
+        "videoPublishedAt": "2019-02-19T05:00:03Z",
+        "duration": "PT2M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "78725",
+        "likeCount": "2265",
+        "favoriteCount": "0",
+        "commentCount": "134"
+    }
+}

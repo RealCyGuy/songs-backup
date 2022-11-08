@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRUE3MkE2QzM5M0M3RUMx",
+    "snippet": {
+        "publishedAt": "2021-08-05T02:54:57Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Psychic Lover - Duet\u2661 Shite Kudasai (Full version)",
+        "description": "Psychic Lover - Duet\u2661\u3057\u3066\u304f\u3060\u03a8\n\nThe second ending song of season 2 of \"The Disastrous Life of Saiki K.\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4dB9fpLWyac/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4dB9fpLWyac/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4dB9fpLWyac/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/4dB9fpLWyac/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/4dB9fpLWyac/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "4dB9fpLWyac"
+        },
+        "videoOwnerChannelTitle": "Animusics",
+        "videoOwnerChannelId": "UCedwrLS8jLpmQH30X_zvRiw"
+    },
+    "contentDetails": {
+        "videoId": "4dB9fpLWyac",
+        "videoPublishedAt": "2020-04-10T18:49:10Z",
+        "duration": "PT5M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "567731",
+        "likeCount": "11343",
+        "favoriteCount": "0",
+        "commentCount": "576"
+    }
+}

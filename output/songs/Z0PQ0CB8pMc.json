@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45QTUzMUJCM0I4RDEzRkI2",
+    "snippet": {
+        "publishedAt": "2022-08-08T18:22:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Blue Reflection: Second Light / TIE OST Opening - GLITTER by Chata (\u8336\u592a) [FULL]",
+        "description": "We noticed this song wasn't available on YouTube, and we want to promote Magical Girl products/media, so we uploaded it. :) If you're interested in our upcoming TTRPG where you can play Magical Girls/Boys, follow our channel for future gameplay videos, and subscribe to our website for updates on our progress! https://www.subscribepage.com/magiknights\n\nFull-length Opening Song, GLITTER by Chata (\u8336\u592a) from the Blue Reflection:  Second Light / TIE (\u5e1d) OST.\n\nOST: BLUE REFLECTION: Second Light Official Soundtrack, Disc 1, Track 1\nArtist: Chata (\u8336\u592a)\nComposer: Watanabe Toshihiko (\u6e21\u9089\u4fca\u5f66)\n\n**We Do Not Own The Music or Art In This Video**\n**All Credits Goes To The Rightful Owners**\n**No Copyright Infringement Intended**\n(C) GUST\n(C) Koei Tecmo\n(C) \u8336\u592a",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Z0PQ0CB8pMc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Z0PQ0CB8pMc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Z0PQ0CB8pMc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Z0PQ0CB8pMc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Z0PQ0CB8pMc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Z0PQ0CB8pMc"
+        },
+        "videoOwnerChannelTitle": "Magi-Knights Project",
+        "videoOwnerChannelId": "UCBwSqVzQ62vW9DTHqbKUgWA"
+    },
+    "contentDetails": {
+        "videoId": "Z0PQ0CB8pMc",
+        "videoPublishedAt": "2021-11-10T20:00:18Z",
+        "duration": "PT4M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "11429",
+        "likeCount": "161",
+        "favoriteCount": "0",
+        "commentCount": "15"
+    }
+}

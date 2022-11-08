@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yRjFEQzg0OTlBMkEyMENE",
+    "snippet": {
+        "publishedAt": "2022-05-29T06:48:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Your Lie in April OST - Watashi no Uso (Piano)",
+        "description": "This is my piano arrangement of soundtrack \"Watashi no Uso\" from Shigatsu wa Kimi no Uso (Your Lie in April).\n\u25ba Learn piano songs step by step: https://go.flowkey.com/pianodeuss *\n\n* Affiliate Link\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  \n\nMidi:\nFor patrons only (https://www.patreon.com/pianodeuss)\n\nSheet Music (transcribed by Mediadra): \nhttps://www.musicnotes.com/l/KGLMq\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nFacebook: https://tinyurl.com/yypttt5h\nInstagram: https://www.instagram.com/pianodeuss\nSheet Music: https://tinyurl.com/wm6dcwzv\nPatreon: https://www.patreon.com/pianodeuss\nSpotify: https://tinyurl.com/4herefys\niTunes: https://tinyurl.com/wa6p9ru3\nDeezer: https://www.deezer.com/pl/artist/86409002\nNapster: https://us.napster.com/artist/pianodeuss\nTidal: https://tidal.com/browse/artist/18429899\nAmazon: https://tinyurl.com/t25rd86h\n\nBusiness inquiries:\npianodeuss@gmail.com\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  \n\nIf you want to use my music in your projects - feel free with it. Of course, credits to my channel would be nice ; )\n\nBut also, you must to know that my covers are in Content ID, so If you will use them in your videos - you won't be able to monetize these productions (you will get copyright claims).\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  \n\nPiano Arrangement by PianoDeuss (2022)\n\nAnime: Shigatsu wa Kimi no Uso\nStudio: A-1 Pictures\nOriginal song: Watashi no Uso\nComposer: Masaru Yokoyama (2014)\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  \n\n                                               \u2646 \ud835\udc0f\ud835\udc22\ud835\udc1a\ud835\udc27\ud835\udc28\ud835\udd6f\ud835\udd8a\ud835\udd9a\ud835\udd98\ud835\udd98 \u2646                                           \n\u2502\u258c\u2502\u258c\u258c\u2502\u258c\u258c\u258c\u2502\u258c\u258c\u2502\u258c\u258c\u258c\u2502\u258c\u258c\u2502\u258c\u258c\u258c\u2502\u258c\u258c\u2502\u258c\u258c\u258c\u00ad\u2502\u258c\u258c\u2502\u258c\u258c\u258c\u2502\u258c\u258c\u2502\u258c\u258c\u258c\u2502",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/u3XvfbCcSnc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/u3XvfbCcSnc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/u3XvfbCcSnc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/u3XvfbCcSnc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/u3XvfbCcSnc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "u3XvfbCcSnc"
+        },
+        "videoOwnerChannelTitle": "PianoDeuss",
+        "videoOwnerChannelId": "UCgMvjHTX7jn4iIKNHjIUJiw"
+    },
+    "contentDetails": {
+        "videoId": "u3XvfbCcSnc",
+        "videoPublishedAt": "2022-05-07T16:38:20Z",
+        "duration": "PT4M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "120801",
+        "likeCount": "5519",
+        "favoriteCount": "0",
+        "commentCount": "171"
+    }
+}

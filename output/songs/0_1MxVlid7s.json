@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wNDgxRUU2MUJGNENGOTcy",
+    "snippet": {
+        "publishedAt": "2022-07-28T23:11:12Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shawn Wasabi - LEMONS feat. kennedi [Official Audio]",
+        "description": "new album MANGOTALE out now! explore the world of MANGOTALE here \u2013 https://mangotale.shawnwasabi.com/\n\nConnect with Shawn:\nTikTok: https://www.tiktok.com/@shawnwasabi\nInstagram: https://www.instagram.com/shawnwasabi\nTwitter: https://twitter.com/shawnwasabi\nFacebook: https://www.facebook.com/ShawnWasabi/\n\nCredits:\nDirector: Pavel Suslov\nProducer: Pavel Suslov\nProduction Company: Warner Records\n\nLyrics:\nI just gotta be honest (haha)\n\nI don't like the way she dresses\nOr the way that she pronounce her s's\nI'm just saying what they're thinking\nCuz they don't they don't know you no like I know you no\n \nI\u2019m not tryna be pretentious\nBut we know what we had was the bestest\nNow you're hiding behind white picket fences\nAnd she know she don't know you no like I know you no\n \nKnow that I'm supposed to be\nNice and everything\nOn some feminism shit\nya\nKnow that it's low of me\nMaybe it's jealousy\nMaybe it's not\n \nI just think she's kinda ugly\nI'm not trying to be cruel\nbut the way she calls you hubby\nBefore the alter alters you\n \nAnd you know I'm not tryna waste your time\nBut I know if I had some \nI would change your mind\n \nI just think she's kinda ugly\nAnd that she's not the one for you\n \nLet not get this confused\nLook at her and look at you\nShe'll mess up your genetic pool\nI would never do that I would just improve that\n\nKnow that I'm supposed to be\nNice and everything\nOn some feminism shit\nya\nKnow that it's low of me\nMaybe it's jealousy\nMaybe it's not\n \nI just think she's kinda ugly\nI'm not trying to be cruel\nbut the way she calls you hubby\nBefore the alter alters you\n \nAnd you know I'm not tryna waste your time\nBut I know if I had some \nI would change your mind\n \nI just think she's kinda ugly\nAnd that she's not the one for you \nfor you\n\nI don\u2019t know If I\u2019m more like concerned or confused\nThat\u2019s the thing\nIt just doesn\u2019t make any sense\nBut why (haha), why would do that tho like\nI just think she's kinda ugly\nI'm not trying to be cruel\nDon\u2019t need to, why?\nbut the way she calls you hubby\nIt just seems unnecessary to me that\u2019s all\nBefore the alter alters you\nI\u2019m not even mad about it\nNot mad\n I\u2019m not even mad about it\n \nAnd you know I'm not tryna waste your time\nBut I know if I had some \nI would change your mind\n \nI just think she's kinda ugly\nAnd that she's not the one for you \n\n\n#ShawnWasabi #kennedi #LEMONS\nShawn Wasabi - LEMONS feat. kennedi [Official Audio]",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0_1MxVlid7s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0_1MxVlid7s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0_1MxVlid7s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/0_1MxVlid7s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/0_1MxVlid7s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0_1MxVlid7s"
+        },
+        "videoOwnerChannelTitle": "Shawn Wasabi",
+        "videoOwnerChannelId": "UCXLrdG_ZVt4US1iV40ytiQQ"
+    },
+    "contentDetails": {
+        "videoId": "0_1MxVlid7s",
+        "videoPublishedAt": "2020-04-24T04:00:00Z",
+        "duration": "PT2M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1074774",
+        "likeCount": "30720",
+        "favoriteCount": "0",
+        "commentCount": "1080"
+    }
+}

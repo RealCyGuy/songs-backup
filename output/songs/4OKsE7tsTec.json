@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43OUYyMjk3OEQwRjlBODVG",
+    "snippet": {
+        "publishedAt": "2022-06-21T06:01:12Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "K.K. INTERNET (\"Welcome to the Internet\" by Bo Burnham)",
+        "description": "CONTENT WARNING: This is total whiplash from what I usually post. Just wanna let you know, there are some crude words and some heavy topics in this song.\n\nBo has now officially been sung on this channel. Here's a K.K. Slider cover of Welcome to the Internet from Bo Burnham's special \"Inside\", in honor of the Inside Outtakes releasing a couple days ago. The whole song is remade with Animal Crossing instruments, and I found that there was also a fart in the soundfont for some reason. You're welcome.\n\nWe also hit 1k subs, which is absolutely stupid crazy. Thanks a ton for each and every one of you for watching and sticking around over the years, and I apologize if this video is a bit too weird for a lot of you new viewers out there. Nonetheless, I hope you like it. This song, along with the whole album, has been looping in my head ever since it released a year or two ago.\n\nDOWNLOAD LINKS to all my songs!\nhttps://drive.google.com/drive/folders/1XZOH0X_4vr_qrATFvRwT85Of1gKETrj1?usp=sharing\n\n\u2615 Feel free to tip me on Kofi, but only a little bit!\nhttps://ko-fi.com/waddoop\n\n\ud83c\udfb5 Follow me on Twitter!\nhttps://twitter.com/waddoop\n\n\ud83c\udfb5 Check out my SoundCloud!\nhttps://soundcloud.com/waddoop\n\n\ud83c\udfb5 Here's my BandCamp!\nhttps://waddoop.bandcamp.com\n\nCommissions and business inquiries: \nwaddoopmusic@gmail.com \nor message me at \nhttps://twitter.com/waddoop",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4OKsE7tsTec/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4OKsE7tsTec/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4OKsE7tsTec/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/4OKsE7tsTec/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/4OKsE7tsTec/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "4OKsE7tsTec"
+        },
+        "videoOwnerChannelTitle": "Waddoop",
+        "videoOwnerChannelId": "UCppHMISJVCkztHIzDIUsqbA"
+    },
+    "contentDetails": {
+        "videoId": "4OKsE7tsTec",
+        "videoPublishedAt": "2022-06-15T14:06:12Z",
+        "duration": "PT4M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4790",
+        "likeCount": "554",
+        "favoriteCount": "0",
+        "commentCount": "53"
+    }
+}

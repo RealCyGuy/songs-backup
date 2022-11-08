@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMzI1MzRGNURGODI4MkVC",
+    "snippet": {
+        "publishedAt": "2021-07-22T03:16:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BgA - Dong Saya Dae (\ub625\uc2f8\uc57c\ub3fc) DANCE VERSION",
+        "description": "Final Music Video: https://youtu.be/beZFLT0Ixag\nOfficial Making Of Video: https://youtu.be/3EWIAr_HXi4\nDance Practice Video: https://youtu.be/JIyiRyh8Suc\nDance Making Of Video: https://youtu.be/dCND9aEfXIE\nComments in Cars! https://youtu.be/GZkObqz_6qs\n\nSubscribe for more short films and sketches: http://youtube.com/wongfuproductions\nOur New Store: http://crowdmade.com/wongfuproductions \n\nDirected and Produced by Wong Fu Productions: http://youtube.com/wongfuproductions\nMusic Produced by David Choi & Beatpusher\nMusic Written by Ryan Higa & David Choi\n\nBgA\nRyan Higa http://instagram.com/notryanhiga\nDavid Choi http://instagram.com/davidchoimusic\nPhilip Wang http://instagram.com/wongfuphil\nJustin Chon http://instagram.com/justinchon\nJun Sung Ahn http://instagram.com/juncurryahn\n\nKINJAZ http://instagram.com/kinjaz\nBen Chung, Chad Mayate, Darren Wong, Carles Nguyen, Jawn Ha\n\nFAN GIRLS\nNeka Stephens, Shelby Eiford, Brittany Martinez, Victoria \"Vi\" Loi\n\nDirected by Wesley Chan, Philip Wang\nProduced by Ashley Matsunami\nAssociate Producer Dan Matthews\nAssistant Director Benson Quach\nEdited by Benson Quach\n\nChoreography by Jun Sung Ahn, Lisa Rhee\n\n1st Asst Camera Rommel Andaya\n2nd Asst Camera Chris Yang\nGaffer Jesse Lee\nKey Grip Jared Malone\nProduction Assistants Andrew Yi, Alan Chung, Joyce Chen\n\nStill Photographer Melly Lee\n\nWardrobe Stylist Rosalyn Isidro\nWardrobe Assistant Adrian De Ausen\nHair & Make Up Artist Anna Lee\nProp Master Jennifer Le\n\nSpecial Thanks\nJames Prohgress \nKenny Yim\nGreg Saniatan\nSean Fujiyoshi\nDerrick Dereleek\nMatthew Hoan\nArden Cho\nKinjaz Dojo\nFeria Night Club\nBase Gray\n\nSUBSCRIBE: \u202ahttps://www.youtube.com/user/WongFuProductions/featured\nFACEBOOK: \u202ahttps://facebook.com/wongfuproductions\nINSTAGRAM OFFICIAL: \u202ahttps://www.instagram.com/wongfupro/\nSNAPCHAT OFFICIAL: @wongfupro\u202c\nTWITTER OFFICIAL: \u202ahttps://twitter.com/wongfupro\nSTORE: \u202ahttps://www.gianthugs.com/collections/wong-fu-productions\nOFFICIAL WEBSITE: \u202ahttps://wongfuproductions.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/E69rZIKTPqk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/E69rZIKTPqk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/E69rZIKTPqk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/E69rZIKTPqk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/E69rZIKTPqk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "E69rZIKTPqk"
+        },
+        "videoOwnerChannelTitle": "Wong Fu Productions",
+        "videoOwnerChannelId": "UCutXfzLC5wrV3SInT_tdY0w"
+    },
+    "contentDetails": {
+        "videoId": "E69rZIKTPqk",
+        "videoPublishedAt": "2016-05-14T17:08:15Z",
+        "duration": "PT3M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1681426",
+        "likeCount": "55250",
+        "favoriteCount": "0",
+        "commentCount": "4286"
+    }
+}

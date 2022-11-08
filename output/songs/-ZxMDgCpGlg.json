@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FRDQyQTg2Q0I3NjQwNjA4",
+    "snippet": {
+        "publishedAt": "2021-10-14T23:41:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Squid Game(\uc624\uc9d5\uc5b4 \uac8c\uc784) OST Calculator Cover (Way Back then + Pink Soldiers)",
+        "description": "\uc624\uc9d5\uc5b4\uac8c\uc784(Squid Game) OST \uacc4\uc0b0\uae30 \ucee4\ubc84(Calculator Cover)\n0:00 Way Back then\n1:46 Pink Soldiers",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-ZxMDgCpGlg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-ZxMDgCpGlg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-ZxMDgCpGlg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-ZxMDgCpGlg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-ZxMDgCpGlg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-ZxMDgCpGlg"
+        },
+        "videoOwnerChannelTitle": "\ucc28\ucee4 Chaco",
+        "videoOwnerChannelId": "UCMogCSEyT2n92V8uDJa1Pcg"
+    },
+    "contentDetails": {
+        "videoId": "-ZxMDgCpGlg",
+        "videoPublishedAt": "2021-09-28T09:35:06Z",
+        "duration": "PT2M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2077142",
+        "likeCount": "42701",
+        "favoriteCount": "0",
+        "commentCount": "1528"
+    }
+}

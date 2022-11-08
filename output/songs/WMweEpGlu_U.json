@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RUI0MTU4MTc3MTY3RUZC",
+    "snippet": {
+        "publishedAt": "2022-02-13T07:17:54Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'Butter' Official MV",
+        "description": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'Butter' Official MV \n\n\nCredits: \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\nPA: Soeyoung Park, Minsu Kim\n\nDirector of Photography: Hyunwoo Nam (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Sangwoo Yun, Youngwoo Lee\n2nd AC: Eunki Kim, Eunil Lee\n3rd AC: Youngseo Park\nDIT: Yuntae Go\nTechno Crane: Service Vision\n\nGaffer: Song Hyunsuk (Real Lighting)\nLighting Crew: Choi Jung Hyun, Hwang Uigyu, Park Gyutae, Park Yeonghwan, Park Cheonil, Lee Harim, Park Nojun, Lee Jaeheung, Lee Seonggyun, Lim Seokgyu\n\nArt Director: Bona Kim, Jinsil Park (MU:E)\nAssistant Art team: Yeri Kang, Jieun Yoon(MU:E)\nArt-team Manager: ilho Heo (MU:E)\n\nShow Light: Sung Kang Jun (Jshow Company)\nMinseok Choi, Minseok Choi, Yebum Bang, Junho Jeong, Jiwoong Han, Yerim Kwon, Haeyoung Kang\n\nProducer: Emma Sungeun Kim (GE PRODUCTION)\nProduction assistant: An Ju Young, Han Ji Hoon\n\nVFX: PLASTIC BEACH\nVFX Supervisor: OHZEON\nVFX Assistant Supervisor: JOJEEM\nVFX Project Manager: Song Chanyoung, Jeong Jieun\nVFX Producer: Jang Kyutae, Ahn Sohyun\n3D Artist: Lee Kwangwon, Kim Doyeon, Lee Jeonghwa, Jeon Jiwon, Kim Hyeji\n2D Artist: Jang Gihoon, Lee Hyunjun, Shin Hyeonsung\nFX Artist: We Jungin\n\nDI: LUCID COLOUR\nColorist: Wonseok Ko\nDI Crew: Dain Kim, Hwa Dong Jeon, Jaeyeon Baek, Somi Na, Seonyoung Lee\nDI Producer: Sooyun Hyun\n\nVisual Creative: Nu Kim, Lee Sun Kyoung, Kang Ju Eun, Kim Ga Eun, Hyo Kim, Cha Yeon Hwa\nPerformance Directing: Son Sung Deuk, Lee Byung Eun, Yoon Seong Eun, Woo Hyunwoo, Hyewon Park\nArtist Management: Jang Jin Gu, Kim Su Bin, An Da Sol, Park Jun Tae, Yun Taewoong, Lee Seung Byung, Lee Jung Min, Lee Hyeon Ki\n\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n\n#BTS #\ubc29\ud0c4\uc18c\ub144\ub2e8 #BTS_Butter #MV",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WMweEpGlu_U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WMweEpGlu_U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WMweEpGlu_U"
+        },
+        "videoOwnerChannelTitle": "HYBE LABELS",
+        "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+    },
+    "contentDetails": {
+        "videoId": "WMweEpGlu_U",
+        "videoPublishedAt": "2021-05-21T03:46:13Z",
+        "duration": "PT3M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "825618192",
+        "likeCount": "22547909",
+        "favoriteCount": "0",
+        "commentCount": "9154729"
+    }
+}

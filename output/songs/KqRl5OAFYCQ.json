@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xODU1NDkyNDA5M0U1QjZF",
+    "snippet": {
+        "publishedAt": "2021-11-13T23:23:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Gurenge - Demon Slayer (Opening) | Band Cover",
+        "description": "Demon Slayer's opening song \"Gurenge\" covered by MattyyyM, Rainych, Shayne Orok, Fonzi M, \u687f\u5b50 Drumstick & Rufus Mann!\n\n\ud83c\udfa7 Download this cover:\n\u25ba iTunes: https://apple.co/2TnMGYR\n\u25ba Spotify: https://spoti.fi/2Zk68ti\n\nCheck out everybody's channel!\n\ud83c\udfa4@Rainych Ran\n\ud83c\udfa4@Shayne Orok - Anime Covers \n\ud83e\udd41@\u687f\u5b50 Drumstick \n\ud83c\udfb9@Fonzi M - Melodies on Piano \n\ud83c\udfb8@Rufus Mann (bass)\n\ud83c\udfb8@MattyyyM (guitar, mixing, mastering)\n\n\ud83d\udd14 Subscribe for weekly anime guitar covers: \u279c https://bit.ly/2LvSUQU\n\n\ud83c\udfb5 Support my channel on Patreon for tabs, backing tracks and MP3's!\n\u25ba Patreon: https://www.patreon.com/MattyyyM\n\n\ud83d\udde8\ufe0f Leave more anime opening suggestions below, and I hope you choose to like and share it!\n\n\ud83d\udcdd Credits: \nOriginally written by LiSA\n\nMore Band Covers!\n\u279c Naruto Shippuden - \"Silhouette\":\nhttps://bit.ly/2xe7DKt\n\u279c Tokyo Ghoul - \"Unravel\":\nhttps://bit.ly/2zxSA2j",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/KqRl5OAFYCQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/KqRl5OAFYCQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/KqRl5OAFYCQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/KqRl5OAFYCQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/KqRl5OAFYCQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "KqRl5OAFYCQ"
+        },
+        "videoOwnerChannelTitle": "MattyyyM",
+        "videoOwnerChannelId": "UCAYP3fJ8zYa5ieaekR8cjOg"
+    },
+    "contentDetails": {
+        "videoId": "KqRl5OAFYCQ",
+        "videoPublishedAt": "2020-05-20T19:00:11Z",
+        "duration": "PT3M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6718677",
+        "likeCount": "190023",
+        "favoriteCount": "0",
+        "commentCount": "4429"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EOEFDOTRENEE0NDIzMTVB",
+    "snippet": {
+        "publishedAt": "2022-04-22T05:15:44Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Jerobeam Fenderson - Reconstruct",
+        "description": "Track 10 of the audiovisual album Oscilloscope Music\navailable at http://oscilloscopemusic.com\n\nWhat you see is what you hear: The audio signal is fed directly into the oscilloscope, where vector graphics are drawn with sound.\nFilmed from an analog Tektronix 5103N scope.\n\nleft audio channel: horizontal deflection\nright audio channel: vertical deflection\n\nsoftware used: OsciStudio & blender (circuit diagram, robot scene), SketchyScope (walking scene), Max MSP (bicycle & mountains), Capella (scorewriting), Ableton Live\n\ncircuit diagram: Ultra-Simple Oscilloscope (Tube Version) by Jon Stanley: http://www.electronixandmore.com/projects/simplescope",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5WBWIKnr0Os/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5WBWIKnr0Os/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5WBWIKnr0Os/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5WBWIKnr0Os/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5WBWIKnr0Os/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5WBWIKnr0Os"
+        },
+        "videoOwnerChannelTitle": "Jerobeam Fenderson",
+        "videoOwnerChannelId": "UCECl4aNz5hvuRzW5fgCOHKQ"
+    },
+    "contentDetails": {
+        "videoId": "5WBWIKnr0Os",
+        "videoPublishedAt": "2016-10-03T22:57:43Z",
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "405576",
+        "likeCount": "12632",
+        "favoriteCount": "0",
+        "commentCount": "762"
+    }
+}

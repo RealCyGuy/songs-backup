@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQkMyMTUxODFGRTQ0RTVC",
+    "snippet": {
+        "publishedAt": "2022-01-06T07:52:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Summertime (Kimi no Toriko) - Cinnamons x Evening Cinema - TicaLG Cover (Kan/Rom/Indo Lyric)",
+        "description": "Cinnamons x Evening Cinema - Summertime  Tica Cover (Kan/Rom/Indo Lyric)   \n\nhallo, kali ini Tica duet looh.. sama siapa coba tebak...\nkarena belum mendapat temen buat kolab akhirnya Tica membelah diri nihh..\n\n#summertime #lagutiktok #trending #kiminotoriko\n\n\nVocal Tica \nIG :https://instagram.com/ticalunagravity...\n\nInstrument & Mixing Delta Muncar \nIG: https://instagram.com/muncart?igshid=...\n\nVideo Editing Agustinus & Photro.Pictures: \nhttps://instagram.com/idasunitsuga?ig...\nhttps://instagram.com/photro.pictures...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/v-xQjdnbL5A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/v-xQjdnbL5A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/v-xQjdnbL5A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/v-xQjdnbL5A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/v-xQjdnbL5A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "v-xQjdnbL5A"
+        },
+        "videoOwnerChannelTitle": "TicaLG",
+        "videoOwnerChannelId": "UCy-HLWcyUMMdgP-OUxPKS0g"
+    },
+    "contentDetails": {
+        "videoId": "v-xQjdnbL5A",
+        "videoPublishedAt": "2020-06-21T04:04:48Z",
+        "duration": "PT4M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2613",
+        "likeCount": "186",
+        "favoriteCount": "0",
+        "commentCount": "116"
+    }
+}

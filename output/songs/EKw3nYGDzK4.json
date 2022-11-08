@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RUU4OTkwQjRBQkRBNjc0",
+    "snippet": {
+        "publishedAt": "2022-10-01T05:04:06Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Left and Right - Charlie Puth ft. Jungkook / Japanese Cover",
+        "description": "\u3164\nyou take up every corner of my mind! \ud83e\udde0\n\n\u3010 CREDITS \u3011\n\nSong: Left and Right\nArtist: Charlie Puth ft. Jungkook @Charlie Puth \nLink: https://youtu.be/a7GITgqwDVg\n\nVocals, Movie\n\u2022 Lime @Lime \n\nInst. Arrangement\n\u2022 ERASED https://www.erasedrecords.com/\n\nTranslyrics\n\u2022 R Rif https://www.facebook.com/hyrorif\n(Translated exclusively for this cover only)\n\nMix\n\u2022 Kenka https://www.youtube.com/c/KenkaCh\n\nIllustration\n\u2022 Yesa https://www.facebook.com/yesa.leilani.3\n\n\u3010 SOCIALS \u3011\n\nTwitter https://twitter.com/limedayo\nSpotify https://spoti.fi/39WcwOI\nTiktok https://tiktok.com/@limedayo\nInstagram https://instagram.com/limedayo\n\n_____\n\nRe-upload is allowed with condition: put ALL proper credits and link to the original cover.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EKw3nYGDzK4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EKw3nYGDzK4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EKw3nYGDzK4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EKw3nYGDzK4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EKw3nYGDzK4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EKw3nYGDzK4"
+        },
+        "videoOwnerChannelTitle": "Lime",
+        "videoOwnerChannelId": "UCMdOcvasHUF_tImKhaXurEg"
+    },
+    "contentDetails": {
+        "videoId": "EKw3nYGDzK4",
+        "videoPublishedAt": "2022-10-01T04:00:12Z",
+        "duration": "PT2M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "52955",
+        "likeCount": "4117",
+        "favoriteCount": "0",
+        "commentCount": "463"
+    }
+}

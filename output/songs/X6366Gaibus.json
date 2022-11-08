@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CRkY4QkI2MTJCMUUxMzMy",
+    "snippet": {
+        "publishedAt": "2022-01-03T07:29:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I Like You So Much, You\u2019ll Know It (\u6211\u591a\u559c\u6b22\u4f60\uff0c\u4f60\u4f1a\u77e5\u9053) - OST A Love So Beautiful (English Cover by Tereza)",
+        "description": "Tereza & Relasi Project, performing \"I Like You So Much, You\u2019ll Know It (\u6211\u591a\u559c\u6b22\u4f60\uff0c\u4f60\u4f1a\u77e5\u9053)\" in english version\n\nOriginal version of this cover:\n\u3010\u81f4\u6211\u4eec\u5355\u7eaf\u7684\u5c0f\u7f8e\u597d\u3011\u4e3b\u9898\u66f2\uff1a\u6211\u591a\u559c\u6b22\u4f60\uff0c\u4f60\u4f1a\u77e5\u9053 - \u738b\u4fca\u742a | \u8fb0\u5e0c\u544a\u767dMV | A Love So Beautiful: Opening Theme Song (Original Version)\nhttps://www.youtube.com/watch?v=7I1SPKwTXJ0\n\nLyric adaptation of this song (English version):\nI Like You So Much, You\u2019ll Know It (Ysabelle Cuevas Version)\nhttps://www.youtube.com/watch?v=bS9eXS6VucU\n\nFollow my instagram:\n@tereza1969\n\nSubscribe to Relasi Project:\nhttps://www.youtube.com/channel/UCApKHYP_osy2dzWHsF6TQtA\nhttps://www.instagram.com/relasiproject/\n\nVideo shot by @mr_ja\n\nAudio produced by Tereza using:\nStudio One 3 (Software)\nAKG P220 Microphone\nFocusrite Scarlett 2i2\nTaylor 114CE acoustic guitar\nSquier Jazz bass guitar\n\nVideo produced by Tereza using:\nSony A6000\nSony Vegas Pro 13 (Software)\n\nFollow Tereza:\nTwitter : https://twitter.com/Tereza_1969\nInstagram : https://www.instagram.com/tereza1969/ \nFacebook : https://www.facebook.com/terezafahlevi/ \n\nFont I'm using on my thumbnail:\nRaphtalia by Nurf Designs\nhttps://nurfdesigns.com/raphtalia/\n\nLirik :\n\nI like your eyes, you look away when you pretend not to care\nI like the dimples on the corners of the smile that you wear\nI like you more, the world may know but don't be scared\n'Cause I'm falling deeper, baby be prepared\n\nI like your shirt, I like your fingers, love the way that you smell\nTo be your favorite jacket, just so I could always be near\nI loved you for so long, sometimes it's hard to bear\nBut after all this time, I hope you wait and see\n\nLove you every minute, every second\nLove you everywhere and any moment\nAlways and forever I know I can't quit you\n'Cause baby you're the one, I don't know how\nI love you 'til the last of snow disappears\nLove you 'til a rainy day becomes clear\nNever knew a love like this, now I can't let go\nI'm in love with you, and now you know\n\nI like the way you try so hard when you play ball with your friends\nI like the way you hit the notes, in every song you're shining\nI love the little things, like when you're unaware\nI catch you steal a glance and smile so perfectly\n\nThough sometimes when life brings me down\nYou're the cure my love\nIn a bad rainy day\nYou take all the worries away\n\nLove you every minute, every second\nLove you everywhere and any moment\nAlways and forever I know I can't quit you\n'Cause baby you're the one, I don't know how\nIn a world devoid of life, you bring color\nIn your eyes I see the light, my future\nAlways and forever I know, I can't let you go\nI'm in love with you, and now you know\nI'm in love with you, and now you know\n\n#ILikeYouSoMuchYouWillKnowIt #TerezaCover #RelasiProject",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/X6366Gaibus/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/X6366Gaibus/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/X6366Gaibus/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/X6366Gaibus/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/X6366Gaibus/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "X6366Gaibus"
+        },
+        "videoOwnerChannelTitle": "Tereza Fahlevi",
+        "videoOwnerChannelId": "UCHMfYFbkFPcCbcWpPjT_RyA"
+    },
+    "contentDetails": {
+        "videoId": "X6366Gaibus",
+        "videoPublishedAt": "2020-06-06T12:21:53Z",
+        "duration": "PT3M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "11947316",
+        "likeCount": "205530",
+        "favoriteCount": "0",
+        "commentCount": "6048"
+    }
+}

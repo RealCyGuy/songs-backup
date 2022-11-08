@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EMTRDQ0Q0MTYyRTM1N0I4",
+    "snippet": {
+        "publishedAt": "2021-09-03T06:19:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Frolic from Curb Your Enthusiasm (arr. by Sheet Music Boss), piano cover",
+        "description": "\u266b Learn the songs you love on piano: https://tinyurl.com/flaming-flowkey\n\nLuciano Michelini - Frolic from Curb Your Enthusiasm (aka Directed by Robert B. Weide). Arranged by Sheet Music Boss, played by me on honky-tonk.\n\n\u266b Patreon: https://www.patreon.com/theflamingpiano\n\u266b PayPal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MFM2W8QVWAFPS\n\u266b Buy Me a Coffee: https://www.buymeacoffee.com/xkOJugYfc\n\nSpecial thanks to my Patrons: Zen and the Art of Piano and Pico Pianist\n\n\u266b Covers playlist: https://www.youtube.com/playlist?list=PL0Tqrmn-u-cQTfGJ_xpMF8Ii3L7JJgBkQ\n\n\u266b FB: https://www.facebook.com/theflamingpiano\n\u266b Twitter: https://twitter.com/theflamingpiano\n\nPlease like, share and subscribe!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3ozGuW4Yoiw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3ozGuW4Yoiw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3ozGuW4Yoiw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3ozGuW4Yoiw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3ozGuW4Yoiw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3ozGuW4Yoiw"
+        },
+        "videoOwnerChannelTitle": "The Flaming Piano",
+        "videoOwnerChannelId": "UCdQTky6j3rRsDI8URr25l7A"
+    },
+    "contentDetails": {
+        "videoId": "3ozGuW4Yoiw",
+        "videoPublishedAt": "2019-11-14T13:00:10Z",
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "199553",
+        "likeCount": "7412",
+        "favoriteCount": "0",
+        "commentCount": "343"
+    }
+}

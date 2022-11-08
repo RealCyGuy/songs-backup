@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMkJCMTRDNzMwOTNCRjUy",
+    "snippet": {
+        "publishedAt": "2021-11-21T21:00:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "TWICE\u300cI WANT YOU BACK\u300dMusic Video",
+        "description": "TWICE\u300cI WANT YOU BACK\u300dMusic Video   \n2018.06.15 Digital Release\uff01\n\n2018.06.15 Digital Release\uff01 \nhttps://twicejapan.lnk.to/XfeNA\n\n2018\u5e748\u67081\u65e5\u516c\u958b\u6620\u753b\u300c\u30bb\u30f3\u30bb\u30a4\u541b\u4e3b\u300d\u4e3b\u984c\u6b4c\n\u300cThe Jackson 5\u300d\u306e\u540d\u66f2\u300cI WANT YOU BACK\u300d\u3092\u30ab\u30d0\u30fc\nhttp://www.twicejapan.com/  \n\n---------------------------------\nTWICE OFFICIAL FANCLUB ONCE JAPAN\nhttp://oncejapan.com\n\nTWICE JAPAN OFFICIAL SITE\nhttp://www.twicejapan.com\n\nTWICE JAPAN OFFICIAL TWITTER\nhttps://twitter.com/jypetwice_japan\n\nTWICE JAPAN OFFICIAL INSTAGRAM\nhttps://www.instagram.com/jypetwice_japan/\n\nTWICE JAPAN OFFICIAL YouTube Channel\nhttps://www.youtube.com/c/twicejapanofficial\n---------------------------------",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/X3H-4crGD6k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/X3H-4crGD6k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/X3H-4crGD6k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/X3H-4crGD6k/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "X3H-4crGD6k"
+        },
+        "videoOwnerChannelTitle": "TWICE JAPAN OFFICIAL YouTube Channel",
+        "videoOwnerChannelId": "UCCRb6nYKaT8tzLA8CwDdUtw"
+    },
+    "contentDetails": {
+        "videoId": "X3H-4crGD6k",
+        "videoPublishedAt": "2018-06-14T15:00:08Z",
+        "duration": "PT3M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "53632577",
+        "likeCount": "852010",
+        "favoriteCount": "0",
+        "commentCount": "58693"
+    }
+}

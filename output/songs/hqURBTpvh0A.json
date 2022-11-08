@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QzA1MTlDRDBERERGNDhG",
+    "snippet": {
+        "publishedAt": "2021-07-06T23:27:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "i got blitzed and sang country road",
+        "description": "shrieking banshee discovers cowboy hat\n\n\u2606twitter - https://twitter.com/sensenzawa\ncover of the classic, country road! here is the karaoke I used: https://www.youtube.com/watch?v=XEgiQVSPfbE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n*no  drun k jus tirerd",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hqURBTpvh0A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hqURBTpvh0A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hqURBTpvh0A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/hqURBTpvh0A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/hqURBTpvh0A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hqURBTpvh0A"
+        },
+        "videoOwnerChannelTitle": "senzawa",
+        "videoOwnerChannelId": "UCTUHzVzRwN_2x13IWQ9QVNg"
+    },
+    "contentDetails": {
+        "videoId": "hqURBTpvh0A",
+        "videoPublishedAt": "2018-11-25T03:49:41Z",
+        "duration": "PT3M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8067499",
+        "likeCount": "255302",
+        "favoriteCount": "0",
+        "commentCount": "21476"
+    }
+}

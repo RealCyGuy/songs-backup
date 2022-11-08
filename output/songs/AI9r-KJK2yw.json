@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMUZGOEVGNUQ0RUI4Mzg4",
+    "snippet": {
+        "publishedAt": "2021-11-02T14:05:41Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "super idol \u7684\u7b11\u5bb9\u90fd\u6ca1\u4f60\u7684\u751c Blend S",
+        "description": "#china #Meme #superidol\u7684\u7b11\u5bb9\u90fd\u6ca1\u4f60\u7684\u751c\n#creditscore",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/AI9r-KJK2yw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/AI9r-KJK2yw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/AI9r-KJK2yw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "AI9r-KJK2yw"
+        },
+        "videoOwnerChannelTitle": "Hacker\u2022Pro\u2206Max\u2022Tzy",
+        "videoOwnerChannelId": "UCbK4ziOLirLy5Z339Ke7sbw"
+    },
+    "contentDetails": {
+        "videoId": "AI9r-KJK2yw",
+        "videoPublishedAt": "2021-10-16T05:17:26Z",
+        "duration": "PT2M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "245825",
+        "likeCount": "3235",
+        "favoriteCount": "0",
+        "commentCount": "71"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQzVBQUY2NDAwQTgxODcz",
+    "snippet": {
+        "publishedAt": "2022-06-15T14:09:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\ud83d\udc99Blue Archive OST - Target for love\u2503Live ver.",
+        "description": "\u203b The advertising is supported by \u300cBlue Archive\u300d.\n\n\n\u25b6 You can stream and download RAON's song right here!\n* Spotify :: https://spoti.fi/2XNCAom\n* iTunes :: https://apple.co/2M2pfRN\n* YouTube Music :: https://bit.ly/2FbYAky\n* Amazon mp3: :: https://amzn.to/2Y2e2mG\n\n\nRaon's Youtube :: https://youtube.com/c/raonlee\nRaon's Twitter :: https://twitter.com/raon_leee\nRaon's Instagram :: https://instagram.com/raon_lee/\nRaon's Fan cafe :: https://cafe.naver.com/raonofficial\nRaon's Facebook Page :: https://www.facebook.com/RaonLeeOfficial\nRaon's Twitch :: https://www.twitch.tv/raonleetw\n\n\n\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\nSong Title :: Target for love\nOriginal Artist :: \uc774\uc9c4\uc544\nOriginal link :: https://youtu.be/3nAs-iAPoeM\n\ud83c\udfb5 2022 \uc0ac\uc6b4\ub4dc \uc544\uce74\uc774\ube0c \uc74c\uc545\ud68c :: https://youtu.be/JTZukgkKKz4\n\n* Credit *\nVocal by Raon\nArrange,Piano by Mitsukiyo\nGuitar by NezMayo, JuNN\nPiano by Kitiken\nDrum by Lee_Shibalnu\nBass by Kyunghwan Yoo\n\u200b\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\u3013\n\n\n\n**COMMENT**\nCongratulations on the 200th day of Blue Archive!\ud83c\udf89\n\n\n#Raon #BlueArchive #TargetforLove",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hSPwryTGKq4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hSPwryTGKq4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hSPwryTGKq4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/hSPwryTGKq4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/hSPwryTGKq4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hSPwryTGKq4"
+        },
+        "videoOwnerChannelTitle": "Raon",
+        "videoOwnerChannelId": "UCQn1FqrR2OCjSe6Nl4GlVHw"
+    },
+    "contentDetails": {
+        "videoId": "hSPwryTGKq4",
+        "videoPublishedAt": "2022-05-27T11:00:10Z",
+        "duration": "PT3M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "356388",
+        "likeCount": "10580",
+        "favoriteCount": "0",
+        "commentCount": "378"
+    }
+}

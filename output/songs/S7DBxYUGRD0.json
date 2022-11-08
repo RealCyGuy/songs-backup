@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GQUE0QUYyMTU3RDIzRDkx",
+    "snippet": {
+        "publishedAt": "2021-12-04T08:00:54Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Samsung Notification Sound (Synthwave Remix)",
+        "description": "Listen on SoundCloud \u25ba https://soundcloud.com/memnicus/samsung-synthwave\n\n___________\nCredits:\nSamsung Skyline Notification Sound - https://youtu.be/8kJZFzgMN2E\n\nGenre: synthwave / retrowave / 80s remix\n\n#memnicus",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/S7DBxYUGRD0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/S7DBxYUGRD0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/S7DBxYUGRD0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/S7DBxYUGRD0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/S7DBxYUGRD0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "S7DBxYUGRD0"
+        },
+        "videoOwnerChannelTitle": "Memnicus",
+        "videoOwnerChannelId": "UC70Gov_qr1CF_euitGoWY7g"
+    },
+    "contentDetails": {
+        "videoId": "S7DBxYUGRD0",
+        "videoPublishedAt": "2021-06-10T20:15:15Z",
+        "duration": "PT2M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "16927",
+        "likeCount": "1384",
+        "favoriteCount": "0",
+        "commentCount": "139"
+    }
+}

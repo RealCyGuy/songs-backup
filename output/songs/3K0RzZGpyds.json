@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DOUU4OUMwMEQxMDg5ODBD",
+    "snippet": {
+        "publishedAt": "2022-04-30T05:20:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Taylor Swift - Look What You Made Me Do (Lyric Video)",
+        "description": "\u25baExclusive Merch: https://store.taylorswift.com\n \n\u25baFollow Taylor Swift Online\nInstagram: http://www.instagram.com/taylorswift\nFacebook: http://www.facebook.com/taylorswift\nTumblr: http://taylorswift.tumblr.com\nTwitter: http://www.twitter.com/taylorswift13\nWebsite: http://www.taylorswift.com\n \n\u25baFollow Taylor Nation Online\nInstagram: http://www.instagram.com/taylornation\nTumblr: http://taylornation.tumblr.com\nTwitter: http://www.twitter.com/taylornation13",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3K0RzZGpyds/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3K0RzZGpyds/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3K0RzZGpyds/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3K0RzZGpyds/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3K0RzZGpyds/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3K0RzZGpyds"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+    },
+    "contentDetails": {
+        "videoId": "3K0RzZGpyds",
+        "videoPublishedAt": "2017-08-25T03:44:23Z",
+        "duration": "PT3M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "140846583",
+        "likeCount": "2123621",
+        "favoriteCount": "0",
+        "commentCount": "200177"
+    }
+}

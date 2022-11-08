@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RUUzMEUwQjE4NjE4REZG",
+    "snippet": {
+        "publishedAt": "2021-10-23T18:25:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Dehao Zhang - Ching Chang Hon Chi",
+        "description": "die neue single von dehao zhang aus b\u00fchl!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/VN-DG5MgDy0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/VN-DG5MgDy0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/VN-DG5MgDy0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "VN-DG5MgDy0"
+        },
+        "videoOwnerChannelTitle": "soldner93",
+        "videoOwnerChannelId": "UC_eyCgx3NDSNqx75-K1EtwQ"
+    },
+    "contentDetails": {
+        "videoId": "VN-DG5MgDy0",
+        "videoPublishedAt": "2011-06-18T16:10:27Z",
+        "duration": "PT3M24S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "10771582",
+        "likeCount": "394438",
+        "favoriteCount": "0",
+        "commentCount": "29206"
+    }
+}

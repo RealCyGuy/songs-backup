@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wOThGNzhDMjU3MDA3RTZF",
+    "snippet": {
+        "publishedAt": "2022-05-18T04:09:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "AJR - Way Less Sad (Official Video)",
+        "description": "\"WAY LESS SAD\" FROM OK ORCHESTRA OUT NOW: https://AJR.lnk.to/okorchestraID\n\nDirected by Edoardo Ranaboldo\nLola Newman - Producer \nStefan Nachmann - Director of Photography\nVince Sanchez-Sambrano - Production Designer \nCaleb Natale - VFX Artist \nMichael Francis - Editor\n\nCheck us out everywhere online @AJRBrothers\n\nLyrics:\n\nI should move\nCause New York is getting muddy out\nThere\u2019s LA\nBut it\u2019s always kinda sunny out\nAnd I don\u2019t wanna hurt no more\nSo I set my bar real low\n\nI\u2019m A-okay\nI\u2019m A-okay\nYou say it but you just don\u2019t mean it\nYou\u2019re so insane\nYou\u2019re so insane\nShut up and just enjoy this feeling\n\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\n\nI wake up\nAnd I\u2019m not so mad at twitter now\nLiving sucks\nBut it\u2019s sucking just a little now\nAnd I don\u2019t wanna cry no more\nSo I set my bar real low\nI\u2019m A-okay\nI\u2019m A-okay\nYou say it but you just don\u2019t mean it\nYou\u2019re so insane \nYou\u2019re so insane\nShut up and just enjoy this feeling\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\nI may be wrong\nI may be wrong\nIt\u2019s stupid but it\u2019s all I have\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\n\nWell I can\u2019t fall asleep\nAnd I\u2019m losing my mind\nCause it\u2019s half past three\nAnd my brain\u2019s on fire\nI been counting sheep\nBut the sheep all died\nAnd I\u2019m trying too hard\nBut I can\u2019t not try\n\nWell I can\u2019t fall asleep\nAnd I\u2019m losing my mind\nYeah it\u2019s half past three\nAnd my brain\u2019s on fire\nI been counting sheep\nBut the sheep all died\nAnd I\u2019m not dead yet\nSo I guess I\u2019ll be alright \n\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\nI may be wrong\nI may be wrong\nIt\u2019s stupid but it\u2019s all I have\nDon\u2019t you love it\nDon\u2019t you love it\nNo I ain\u2019t happy yet\nBut I\u2019m way less sad\n\n#AJR #WayLessSad #OKORCHESTRA",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/VlVhUbGa2pg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/VlVhUbGa2pg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/VlVhUbGa2pg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/VlVhUbGa2pg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/VlVhUbGa2pg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "VlVhUbGa2pg"
+        },
+        "videoOwnerChannelTitle": "AJR",
+        "videoOwnerChannelId": "UCQ5w3fSomzziZfO7neK7eAg"
+    },
+    "contentDetails": {
+        "videoId": "VlVhUbGa2pg",
+        "videoPublishedAt": "2021-02-17T15:00:14Z",
+        "duration": "PT3M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "22852576",
+        "likeCount": "333868",
+        "favoriteCount": "0",
+        "commentCount": "14560"
+    }
+}

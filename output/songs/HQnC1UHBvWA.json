@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMTJGNjk0NkI3NDEyNkE1",
+    "snippet": {
+        "publishedAt": "2022-06-10T05:04:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Porter Robinson & Madeon - Shelter (Official Audio)",
+        "description": "Stream Shelter :\nSpotify : http://smarturl.it/shelterspotify\nApple music: http://smarturl.it/shelterapplemusic\nDeezer : http://smarturl.it/shelterdeezer\nGoogle Play : http://smarturl.it/sheltergoogleplay\nSoundcloud : http://smarturl.it/sheltersoundcloud\n\nDownload Shelter :\nitunes: http://smarturl.it/shelterdownload\n\nFollow Madeon :\nWebsite - http://www.madeon.fr\nFacebook - https://www.facebook.com/itsmadeon\nTwitter - https://twitter.com/madeon\nInstagram - https://www.instagram.com/madeon\nYoutube - https://www.youtube.com/itsmadeon\nSoundcloud - https://soundcloud.com/madeon\n\nFollow Porter Robinson :\nWebsite - http://porter.fm/home\nFacebook - http://porter.fm/facebook\nTwitter - http://porter.fm/twitter\nInstagram - http://porter.fm/instagram\nYouTube - http://porter.fm/youtube\nSoundcloud - http://porter.fm/soundcloud\n\nVisualizer created by : Tim Hendrix\n\nLyrics :\n\ni could never find the right way to tell you\nhave you noticed i've been gone?\ncause i left behind the home that you made me\nbut i will carry it along\n\nmm it's a long way forward\nso trust in me\ni'll give them shelter like you've done for me\nand i know i'm not alone\nyou'll be watching over us\nuntil you're gone\n\nwhen i'm older i'll be silent beside you\nI know that words are not enough\nand they won't need to know our names or our faces\nbut they will carry on for us",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HQnC1UHBvWA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HQnC1UHBvWA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HQnC1UHBvWA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HQnC1UHBvWA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HQnC1UHBvWA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HQnC1UHBvWA"
+        },
+        "videoOwnerChannelTitle": "Madeon",
+        "videoOwnerChannelId": "UCqMDNf3Pn5L7pcNkuSEeO3w"
+    },
+    "contentDetails": {
+        "videoId": "HQnC1UHBvWA",
+        "videoPublishedAt": "2016-08-11T18:32:10Z",
+        "duration": "PT3M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "54773319",
+        "likeCount": "532569",
+        "favoriteCount": "0",
+        "commentCount": "105595"
+    }
+}

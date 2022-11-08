@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CRDM5Rjg3MjBENUFEODFC",
+    "snippet": {
+        "publishedAt": "2022-08-07T05:03:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ed Sheeran - Perfect [Official Lyric Video]",
+        "description": "The official lyric video for Ed Sheeran - Perfect \n \nTaken from the studio album \u00f7 (divide) released in 2017, which featured the hit singles 'Castle on the Hill', 'Shape of You', 'Galway Girl', \u2018Perfect\u2019 & 'Happier'. \n \nSubscribe to the Ed Sheeran channel for all the best and latest official music videos, behind the scenes and live performances.\u202f \n\nhttp://bit.ly/SubscribeToEdSheeran \n \nSee more official videos from Ed Sheeran here: \nhttps://www.youtube.com/watch?v=ryJgDL9jzKk&list=PLjp0AEEJ0-fGKG_3skl0e1FQlJfnx-TJz \n\nListen to more from the album \u00f7 (divide): https://www.youtube.com/playlist?list=PLjp0AEEJ0-fGi7bkjrGhBLUF9NMraL9cL \n \nFollow Ed Sheeran on: \nFacebook: http://www.facebook.com/EdSheeranMusic  \nTwitter: http://twitter.com/edsheeran  \nInstagram: http://instagram.com/teddysphotos  \nOfficial Website: http://edsheeran.com  \n  \nVIDEO CREDITS: \nVideo by http://adultartclub.co.uk\nJonny Costello / Charlotte Audrey / Will Lanham / Henry Wong / Callum Barnes\nIllustrations - Steve New Tasty\n \nAbout Ed Sheeran: \nEd Sheeran\u202fmay be the quintessential pop star of the 2010s: an internationally acclaimed, multi-award winning singer/songwriter who seems to acknowledge no boundaries between styles or eras with elements of folk, hip-hop, pop, dance, soul, and rock woven throughout his music. \n\nHis incredible catalogue includes the studio albums \u2018+\u2019 (plus), \u2018x\u2019 (multiply) and \u2018\u00f7\u2019 (divide) which spawned hit singles such as \u2018The A team\u2019 , \u2019Lego House\u2019, \u2018Sing', \u2018Thinking Out Loud\u2019, \u2018Photograph\u2019, \u2018Shape Of You\u2019, \u2018Castle on The Hill\u2019 and \u2018Perfect\u2019. \n \nIn 2019, Ed Sheeran released the genre-spanning \u2018No.6 Collaborations Project\u2019 which featured a wide-range of artists including \u2018Justin Bieber\u2019, \u2018Camilla\u2019 Cabello\u2019, \u2018Travis Scott\u2019, \u2018Eminem\u2019, \u2018Cardi B, \u2018Paulo Londra\u2019, \u2018Bruno Mars\u2019 and \u2018Stormzy\u2019 amongst many others, producing hits such as \u2018I Don\u2019t Care\u2019, \u2018Beautiful People\u2019, \u2018South of The Border\u2019 and \u2018Take Me Back To London\u2019. \n \n#EdSheeran #Perfect #divide",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/iKzRIweSBLA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/iKzRIweSBLA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/iKzRIweSBLA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/iKzRIweSBLA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "iKzRIweSBLA"
+        },
+        "videoOwnerChannelTitle": "Ed Sheeran",
+        "videoOwnerChannelId": "UC0C-w0YjGpqDXGB8IHb662A"
+    },
+    "contentDetails": {
+        "videoId": "iKzRIweSBLA",
+        "videoPublishedAt": "2017-09-22T07:02:24Z",
+        "duration": "PT4M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "279650443",
+        "likeCount": "1998791",
+        "favoriteCount": "0",
+        "commentCount": "51799"
+    }
+}

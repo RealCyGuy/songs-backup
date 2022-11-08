@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NkZBMTA2MzU0NDE4OTY0",
+    "snippet": {
+        "publishedAt": "2022-01-04T16:51:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YunJin: Stage Lucida (YunJin Theme) | Orchestral Remix",
+        "description": "YunJin's theme from the 2.4 \"Fleeting Colors in Flight\" Trailer was so nice that I wondered what an extended version could sound like. \n\n\nArt - https://www.zerochan.net/3517726\n\n\n\n#yunjingenshinimpact #genshinimpact #genshinimpactlivestream",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WH-Po6bEViI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WH-Po6bEViI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WH-Po6bEViI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WH-Po6bEViI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WH-Po6bEViI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WH-Po6bEViI"
+        },
+        "videoOwnerChannelTitle": "MDM",
+        "videoOwnerChannelId": "UCLMnIui-v3LXghWBvJ5oGVQ"
+    },
+    "contentDetails": {
+        "videoId": "WH-Po6bEViI",
+        "videoPublishedAt": "2021-12-27T14:50:35Z",
+        "duration": "PT1M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "172494",
+        "likeCount": "7437",
+        "favoriteCount": "0",
+        "commentCount": "100"
+    }
+}

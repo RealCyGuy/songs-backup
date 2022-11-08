@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNEM4OThENjlGNTBCMTlG",
+    "snippet": {
+        "publishedAt": "2021-09-25T01:40:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "CHRISRGMFB - Pandemic [From the album Neonification]",
+        "description": "Listen to CHRISRGMFB on Spotify, Apple Music, Deezer, iTunes, Youtube Music, Amazon Music and more.\n\nLike, share and subscribe if you like our music and other content \ud83d\udcaa\n\nVisit my official website \ud83d\udc47\nhttps://chrisrgmfb.com\n\nBandcamp \ud83d\udc47\nhttps://chrisrgmfb.bandcamp.com\n\nSocial platforms \ud83d\udc47\nhttps://linktr.ee/CHRISRGMFB\n\n\nComposed & produced by: \nChris Scott\n\nReleased by:\nElectronetic Records\n\n#chrisrgmfb #Synthwave #Neonification",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7jZqKn18eqg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7jZqKn18eqg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7jZqKn18eqg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/7jZqKn18eqg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "7jZqKn18eqg"
+        },
+        "videoOwnerChannelTitle": "BACK SOON",
+        "videoOwnerChannelId": "UCf1_YtUKp8nGN9fz9PYURWw"
+    },
+    "contentDetails": {
+        "videoId": "7jZqKn18eqg",
+        "videoPublishedAt": "2020-09-08T11:51:44Z",
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "305615",
+        "likeCount": "20915",
+        "favoriteCount": "0",
+        "commentCount": "891"
+    }
+}

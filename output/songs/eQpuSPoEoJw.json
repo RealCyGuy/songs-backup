@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yQkM1NjcxRUQ3NjM4MUE0",
+    "snippet": {
+        "publishedAt": "2022-02-20T07:52:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\"\u539f\u4f86\u6709\u611b\"\u5564\u5564+\u8389\u8389\u7248\uff08\u5289\u4f69\u73a5 \u8b5a\u5609\u5100)",
+        "description": "\u964d\u9b54\u76842.0 \u5927\u7d50\u5c40\u4e86\uff5e\n\u5564\u5564\u540c\u8389\u8389\u90fd\u597d\u5514\u6368\u5f97\n\u96d6\u7136\u5564\u5564\u5df2\u53bb\u5de6\u76ee\u7684\u5730\n\u4f46\u4fc2\u5564\u5564\u540c\u8389\u8389\u5605\u611b\u4fc2\u6c38\u9060\u90fd\u6703\u5b58\u7559 \uff5e \n\u56e0\u70ba\u9019\u500b\u4e16\u754c \"\u539f\u4f86\u6709\u611b \"\n\n\u5564\u5564 IG: arryuu\nFacebook\uff1a https://www.facebook.com/MoonLauPuiYuet/\n\u8389\u8389 IG: kayeepo\nFacebook : https://www.facebook.com/kayeetam813/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/eQpuSPoEoJw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/eQpuSPoEoJw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/eQpuSPoEoJw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/eQpuSPoEoJw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/eQpuSPoEoJw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eQpuSPoEoJw"
+        },
+        "videoOwnerChannelTitle": "Kayee Tam",
+        "videoOwnerChannelId": "UCQlcIdc_bHt_QIR6tBOgIiw"
+    },
+    "contentDetails": {
+        "videoId": "eQpuSPoEoJw",
+        "videoPublishedAt": "2020-06-05T13:30:09Z",
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2999498",
+        "likeCount": "35551",
+        "favoriteCount": "0",
+        "commentCount": "2324"
+    }
+}

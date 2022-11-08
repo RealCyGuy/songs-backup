@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRjVCN0Q4MEM3OUZFRjk1",
+    "snippet": {
+        "publishedAt": "2021-11-01T22:48:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ROCKIN' AROUND THE CHRISTMAS TREE (OFFICIAL TRAP REMIX)",
+        "description": "Rockin' Around The Christmas Tree (OFFICIAL TRAP REMIX)\nGet it now: http://bit.ly/2gyrycm\n\ud83d\udc4d SUBSCRIBE: http://smarturl.it/TN\n\ud83d\udc55 TMN MERCH: http://smarturl.it/TMNShop\n\u2728 SPOTIFY: http://smarturl.it/TMNSPOTIFY\n\n\ud83c\udfb5 Buck Rodgers\nhttp://www.djbuckrodgers.com/\nhttps://twitter.com/djbuckrodgers\nhttps://facebook.com/djbuckrodgers\nhttps://soundcloud.com/djbuckrodgers\n\n\u26a1 TRAP MUSIC NOW\nSubscribe: http://smarturl.it/TN\nOfficial: http://smarturl.it/TMNOFFICIAL\nMerch: http://smarturl.it/TMNShop\nSpotify: http://smarturl.it/TMNSPOTIFY\nTwitter: http://smarturl.it/TMNTW\nInstagram: http://smarturl.it/TMNIG\nSoundcloud: http://smarturl.it/TMNSC\nFacebook: http://smarturl.it/TMNFBK\n\nWallpaper published under Creative Commons Zero\n#trap #trapmusic #trapremix #trapremixes #trapmusicnow #bassboost",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "7D4DlJ01M4I"
+        },
+        "videoOwnerChannelTitle": "TrapMusicNow - Trap Remixes & Popular Songs",
+        "videoOwnerChannelId": "UCi2bIyFtz-JdI-ou8kaqsqg"
+    },
+    "contentDetails": {
+        "videoId": "7D4DlJ01M4I",
+        "videoPublishedAt": "2016-12-02T19:00:00Z",
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "9081620",
+        "likeCount": "104696",
+        "favoriteCount": "0",
+        "commentCount": "2948"
+    }
+}

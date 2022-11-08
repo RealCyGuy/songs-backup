@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FRDI4QjBEMTcwNTJEMzZG",
+    "snippet": {
+        "publishedAt": "2021-07-30T23:19:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Caramelldansen / Eurobeat Remix",
+        "description": "U U UWA UWA",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PgHaG-4Op20/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PgHaG-4Op20/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PgHaG-4Op20/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/PgHaG-4Op20/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/PgHaG-4Op20/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PgHaG-4Op20"
+        },
+        "videoOwnerChannelTitle": "Turbo",
+        "videoOwnerChannelId": "UCus8EVJ7Oc9zINhs-fg8l1Q"
+    },
+    "contentDetails": {
+        "videoId": "PgHaG-4Op20",
+        "videoPublishedAt": "2019-04-11T06:17:44Z",
+        "duration": "PT3M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2326609",
+        "likeCount": "52072",
+        "favoriteCount": "0",
+        "commentCount": "2784"
+    }
+}

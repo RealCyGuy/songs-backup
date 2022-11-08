@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRkY0QzQxNDhEODU4QUJE",
+    "snippet": {
+        "publishedAt": "2021-05-25T00:19:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "XI - Freedom Dive \u2193",
+        "description": "Eargasm ~~",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OI3C9qQlb1U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OI3C9qQlb1U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OI3C9qQlb1U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/OI3C9qQlb1U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/OI3C9qQlb1U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "OI3C9qQlb1U"
+        },
+        "videoOwnerChannelTitle": "Raudi",
+        "videoOwnerChannelId": "UCjmGcAckF4M_W5HzngBMYtw"
+    },
+    "contentDetails": {
+        "videoId": "OI3C9qQlb1U",
+        "videoPublishedAt": "2012-05-15T16:14:23Z",
+        "duration": "PT4M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8498857",
+        "likeCount": "100172",
+        "favoriteCount": "0",
+        "commentCount": "14160"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xQUM0MzI0QzhGOEZFMzg3",
+    "snippet": {
+        "publishedAt": "2021-11-01T23:07:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u71b1\u611b105\u2103\u306e\u541b\u3078 (\u70ed\u7231105\u00b0C\u7684\u4f60)\u3010 Sing by \u732b\u96f7\u306b\u3083\u308b & \u65e9\u7a3b\u53fd \u3011",
+        "description": "\u30aa\u30ea\u30b8\u30ca\u30eb\u66f2 : \u70ed\u7231105\u00b0C\u7684\u4f60\n\nTo celebrate this channel 50 Subb\n\n\u826f\u3051\u308c\u3070\u3001\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3057\u3066\u304f\u3060\u3055\u3044\u306d\n\nChannel : \u65e9\u7a3b\u53fd\nhttps://space.bilibili.com/1950658\nChannel : \u732b\u96f7\u306b\u3083\u308b-NecoraNyaru-\nhttps://www.youtube.com/channel/UCbXXdwEVbVbXhosYKn0am6A\nOriginal Video : https://youtu.be/jNEhofjuwLA\n++_____________________________________________________________++\n\n#\u65e9\u7a3b\u53fd\u3000#\u732b\u96f7\u306b\u3083\u308b\u3000#Vtuber\n#cover\u3000#\u6b4c\u3063\u3066\u307f\u305f\u3000#\u70ed\u7231105\u5ea6\u7684\u4f60  #105\u00b0C\u304c\u597d\u304d\u306a\u3042\u306a\u305f",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rDpv-lYFu_g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rDpv-lYFu_g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rDpv-lYFu_g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rDpv-lYFu_g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rDpv-lYFu_g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rDpv-lYFu_g"
+        },
+        "videoOwnerChannelTitle": "CrazyCat\u306eVtuber\u97f3\u6a02\u76d2\u5b50\ud83c\udfb5",
+        "videoOwnerChannelId": "UCDM9ghHXWI1zYjzr-60-nGw"
+    },
+    "contentDetails": {
+        "videoId": "rDpv-lYFu_g",
+        "videoPublishedAt": "2021-06-26T02:30:06Z",
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3502119",
+        "likeCount": "79494",
+        "favoriteCount": "0",
+        "commentCount": "1929"
+    }
+}

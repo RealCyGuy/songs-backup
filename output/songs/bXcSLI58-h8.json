@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40Q0JERDMxNzcwNTk1M0Y0",
+    "snippet": {
+        "publishedAt": "2021-05-11T02:32:33Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Lil Nas X - Panini (Official Video)",
+        "description": "Official video for \"Panini\" by Lil Nas X.\n\nListen & Download '7' the EP by Lil Nas X out now: https://smarturl.it/lilnasx7ep\n\nAmazon -\u00a0https://smarturl.it/lilnasx7ep/az\nApple Music -\u00a0https://smarturl.it/lilnasx7ep/applemusic\niTunes -\u00a0https://smarturl.it/lilnasx7ep/itunes\nSpotify -\u00a0https://smarturl.it/lilnasx7ep/spotify\nYouTube Music - https://smarturl.it/lilnasx7ep/youtubemusic\n\nDirector: Mike Diva\nStory By: Lil Nas X\nStarring: Skai Jackson\n\u00a0\nExecutive Producer: Josh Shadid\u00a0\nAssociate Producer: Marissa Alanis\u00a0\nProducers: Johnny Hernandez & Joseph Barbalaco\u00a0\nCommissioner/Producer: Saul Levitz\n\u00a0\nProduction Company: Lord Danger\n\u00a0\nDirector of Photography: Aaron Grasso\u00a0\n1st AC: Keith Jones\nSteadicam: Ari Robbins\u00a0\n\u00a0\nGaffer: Michael Schilling\nBBE: Ardy Fatehi\u00a0\nKey Grip: Fritz Weber\nBBG: Nico Ortiz\u00a0\n\u00a0\nProduction Designer: Johnny Love\nArt Director: Michelle Hall\u00a0\n\u00a0\nWardrobe Stylist: Justin Lynn\u00a0\nCostume Design/Fabrication: Lucid Studios\n\u00a0\nSkai Jackson's Hair & Make-Up: Alexander Armand & Brandy Allen\u00a0\nLil Nas X Hair & Make-Up: Diana Escamilla & Jennifer Urquizo\n\u00a0\nChoreographer: Phil Wright\u00a0\n\u00a0\nMotion Capture Specialist: Don Allen Stevenson III\u00a0\n\u00a0\nVFX/Post Production Company: Chimney Group\u00a0\nExecutive Producer: Ron Moon\nPost Producers: Alex Ramos\u00a0\nCreative Director: Frederick Ross\nVFX/Post Production Company: Post Lord (Lord Danger)\nExecutive Producer: Josh Shadid\nPost Producer: Shyam Sengupta & Marissa Alanis\nCreative Director: Mike Diva\u00a0\nPost Supervisor: Andrew Henry\nEditors: Mike Diva & Andrew Henry\nSound Design/Mix: Kevin Senzaki\n3D Artist: Cornel Swodoba\n3D Artist: Calvin Serrano\u00a0\nVFX Artist: Octane Jesus (David Ariew)\u00a0\nVFX Artist: Ryan Talbot\u00a0\nGFX Artist: Cody Vondell\u00a0\nGFX Artist: Silica (Eric Castro)\u00a0\nGFX Artist: Olney Atwell\u00a0\nGFX Artist: Tom Arena\nGFX Artist: Felix Gil\nCompositor: Ethan Chancer\nCompositor: Josh Johnson\n\u00a0\nSpecial Thanks: Rokoko Electronics for providing Motion Capture Suit\u00a0\n\nFollow Lil Nas X\nFacebook - https://www.facebook.com/LilNasX/\nInstagram - https://www.instagram.com/lilnasx/\nTwitter - https://twitter.com/LilNasX\n\nhttps://www.lilnasx.com\n\n#LilNasX #7EP #Panini",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bXcSLI58-h8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bXcSLI58-h8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bXcSLI58-h8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/bXcSLI58-h8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/bXcSLI58-h8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bXcSLI58-h8"
+        },
+        "videoOwnerChannelTitle": "LilNasXVEVO",
+        "videoOwnerChannelId": "UCtTfSyci2urfwXXu_eRpNRA"
+    },
+    "contentDetails": {
+        "videoId": "bXcSLI58-h8",
+        "videoPublishedAt": "2019-09-05T14:00:10Z",
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "519680879",
+        "likeCount": "4685218",
+        "favoriteCount": "0",
+        "commentCount": "116620"
+    }
+}

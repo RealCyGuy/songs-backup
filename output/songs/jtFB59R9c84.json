@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xMjA2MDU4QzgxRUI5NDQ5",
+    "snippet": {
+        "publishedAt": "2022-01-06T07:57:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "crystal dolphin (TikTok Meme Song but is it okay if it's lofi hiphop?)",
+        "description": "suggestion?\n\n\u2015\u2015\u2015\u2015\u2015\u2015\u2015\u2015\u2015\u2015\nStream My Music:\nSpotify: https://spoti.fi/3pQa5jD\nApple Music: https://apple.co/2Msx7yY\nSoundcloud: https://bit.ly/3tuiw6I\n[\"Kijugo\" on all Streaming Platforms that are not included here]\n\n\u2015\u2015\u2015\u2015\u2015\u2015\u2015\u2015\u2015\u2015\nFollow Me On:\nInstagram: @kijugo._\nTwitter: @kijugo2\nDeviantArt (where I post my arts): @kijugo\n\n\ud835\udce6 \ud835\udcd4 \ud835\udcd0 \ud835\udce1     \ud835\udcd7 \ud835\udcd4 \ud835\udcd0 \ud835\udcd3 \ud835\udce2 \ud835\udcd4 \ud835\udce3",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jtFB59R9c84/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jtFB59R9c84/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jtFB59R9c84/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/jtFB59R9c84/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/jtFB59R9c84/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jtFB59R9c84"
+        },
+        "videoOwnerChannelTitle": "Kijugo",
+        "videoOwnerChannelId": "UC967kVys_gTWDX04E0smQdw"
+    },
+    "contentDetails": {
+        "videoId": "jtFB59R9c84",
+        "videoPublishedAt": "2020-07-21T14:59:55Z",
+        "duration": "PT2M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "72807",
+        "likeCount": "2012",
+        "favoriteCount": "0",
+        "commentCount": "75"
+    }
+}

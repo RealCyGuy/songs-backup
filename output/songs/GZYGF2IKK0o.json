@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EMTZBMjVGQjEwREZCMDU1",
+    "snippet": {
+        "publishedAt": "2021-12-09T14:56:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Gambare Gambare Senpai - Nagatoro remix (edit song) \u9577\u30c8\u30ed (extended version)",
+        "description": "\ud83d\udc40 Fan of squid game? Check this compilation out: https://youtu.be/6lDYQX3Prbg\n\n\ud83c\udfa5I do not own any music made in this video.\n\n\ud83d\udd25Original: Listen to you can do it! // (nagatoro lofi) by l\u00f8ver b\u00f8y on #SoundCloud\nhttps://soundcloud.app.goo.gl/3d3qo\n\n\ud83d\udc51BACKGROUND VIDEO: https://youtu.be/BsjRuvUq4BI\n\n\ud83c\udfb6BACKGROUND MUSIC: https://youtu.be/vppzsibxJBs\n\n\n#nagatoro #song #gambaregambare",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GZYGF2IKK0o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GZYGF2IKK0o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GZYGF2IKK0o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GZYGF2IKK0o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GZYGF2IKK0o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GZYGF2IKK0o"
+        },
+        "videoOwnerChannelTitle": "Kyen",
+        "videoOwnerChannelId": "UCUiaf4ZsmKnxsJ28biUBbnQ"
+    },
+    "contentDetails": {
+        "videoId": "GZYGF2IKK0o",
+        "videoPublishedAt": "2021-08-11T08:10:39Z",
+        "duration": "PT2M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1711029",
+        "likeCount": "69933",
+        "favoriteCount": "0",
+        "commentCount": "1187"
+    }
+}

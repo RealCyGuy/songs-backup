@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BOUNFQUVFRDg3RDI4NjYx",
+    "snippet": {
+        "publishedAt": "2022-04-26T06:03:35Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "FNAF SISTER LOCATION Song by JT Music - \"Join Us For A Bite\" [SFM]",
+        "description": "Stream/Download (Spotify, iTunes, etc) \u25b6 https://jtmch.co/3kNMZXX\nSubscribe for More Music \u25b6 http://jtmch.co/SubJT\nCheck out our Merch \u25b6 https://jtmch.co/ShopJT\n**Song Download Links Below** \n\nHere's our hype track for FNAF Sister Location! And yes that means there will be another song! Check out our collaborators too!\n\nDownload Links \niTunes \u25b6 http://jtmch.co/2mVw4HJ\nSpotify \u25b6 http://jtmch.co/2DxmQe1\nGooglePlay \u25b6 http://jtmch.co/2FZgiDv\nAmazon \u25b6 http://jtmch.co/2DkRNyV\n\nAnimation by MYSZKA11O \u25b6 http://jtmch.co/2d8vZu4\nIn partnership with Typhoon Cinema \u25b6 http://jtmch.co/2cZklkE\nVocals by Andrea Storm Kaden \u25b6 http://jtmch.co/2a07Hkv\n\n***********************************************\n\nFollow us on Twitter! \u25b6 http://jtmch.co/JTMTwitter\nLike us on Facebook! \u25b6 http://jtmch.co/1rojUWT\nFollow our Instagram \u25b6 http://jtmch.co/JTMInsta\n\nSign up for RT First \u25b6 http://jtmch.co/JTMFirst\nUse Referral Code \"JTM\"\n\nWant to use our music? Read this first: https://jtmch.co/2OybPuA\n\nFNAF SISTER LOCATION Song by JT Machinima - \"Join Us For A Bite\" [SFM]\n\n#joinusforabite #fnaf #sisterlocation",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rLeQSd7R-jU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rLeQSd7R-jU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rLeQSd7R-jU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rLeQSd7R-jU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rLeQSd7R-jU"
+        },
+        "videoOwnerChannelTitle": "JT Music",
+        "videoOwnerChannelId": "UCzTdZz7z2sPRGCImodwOw0g"
+    },
+    "contentDetails": {
+        "videoId": "rLeQSd7R-jU",
+        "videoPublishedAt": "2016-09-18T17:00:03Z",
+        "duration": "PT3M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "205774364",
+        "likeCount": "2396805",
+        "favoriteCount": "0",
+        "commentCount": "205612"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FRUE2NUY1OEM3NkQwMUVE",
+    "snippet": {
+        "publishedAt": "2022-06-19T15:04:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010MV\u3011 \u71b1\u6ce2 Neppa ft. Butter / tephe",
+        "description": "Hello! This is my first completed song ever so I'm really excited to finally put it out! \n\nMusic : Tephe\nLyrics : Itovero\nIllust : SAW\nVocal mix : Hess\nVocals/vocal editing/PV: Butter\n\nNon-commercial covers are welcome!\nOff Vocal + Harmony Track \u2192 https://www.dropbox.com/sh/g2huk2svxqnwbpo/AACLG14tUdV8UZopUZNnWCQNa?dl=0\nLyrics \u2192 https://bit.ly/31L8SAo\n\n\n- Itovero -\n\nInstagram: https://www.instagram.com/itoyuki_/\n\n\n- SAW -\n\nTwitter: https://twitter.com/seesaw_yt\n\n\n- Hess -\n\nTwitter: https://twitter.com/itshessi\nCarrd: https://hessdesu.carrd.co\n\n\nMy Twitter\nhttps://twitter.com/s_tephe",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9UKCoCrWl9M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9UKCoCrWl9M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9UKCoCrWl9M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/9UKCoCrWl9M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/9UKCoCrWl9M/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9UKCoCrWl9M"
+        },
+        "videoOwnerChannelTitle": "tephe",
+        "videoOwnerChannelId": "UCEcKO1-QMCfPEipdJbOHfJw"
+    },
+    "contentDetails": {
+        "videoId": "9UKCoCrWl9M",
+        "videoPublishedAt": "2020-10-29T00:15:27Z",
+        "duration": "PT1M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "79638",
+        "likeCount": "4354",
+        "favoriteCount": "0",
+        "commentCount": "265"
+    }
+}

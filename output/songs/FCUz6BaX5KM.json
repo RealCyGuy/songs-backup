@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GRDVGMERBOEMzQ0FFMzMz",
+    "snippet": {
+        "publishedAt": "2022-06-21T06:10:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Captain Disillusion - Debunk Breakdown (HoriXZ0n Remix)",
+        "description": "Captain Disillusion: https://www.youtube.com/user/CaptainDisillusion\n\nYou can download the track here: https://eventhorixz0n.bandcamp.com/track/captain-disillusion-debunk-breakdown-horixz0n-remix\n\nOne of the most iconic Captain Disillusion tracks, remixed to complextro. \n\nTwitter: https://twitter.com/HoriXZ0n\nDeviantArt: http://silverfinish.deviantart.com\nPatreon: http://patreon.com/eventhoriXZ0n",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FCUz6BaX5KM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FCUz6BaX5KM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FCUz6BaX5KM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/FCUz6BaX5KM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/FCUz6BaX5KM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "FCUz6BaX5KM"
+        },
+        "videoOwnerChannelTitle": "Event HoriXZ0n",
+        "videoOwnerChannelId": "UC7ZQAxM8TJLTRxsas9iDpGg"
+    },
+    "contentDetails": {
+        "videoId": "FCUz6BaX5KM",
+        "videoPublishedAt": "2017-05-08T23:10:32Z",
+        "duration": "PT5M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "9745",
+        "likeCount": "291",
+        "favoriteCount": "0",
+        "commentCount": "33"
+    }
+}

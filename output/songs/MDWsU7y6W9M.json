@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNTU5ODRGREI3MkJBODdD",
+    "snippet": {
+        "publishedAt": "2021-10-05T05:06:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u266a [FULL SONG] MINECRAFT 7 Years by Lukas Graham in Note Blocks (Wireless) \u266a",
+        "description": "GO TO 1080 HD QUALITY FOR THE BEST VIDEO AND AUDIO QUALITY POSSIBLE!!!\n\nHey Everyone!\n\n--------------------------------------------\nSUBSCRIBE TO SEE MORE!\n--------------------------------------------\n\nSubscribe: http://bit.ly/1NGU0rF\n\nFacebook: http://on.fb.me/1YGTKus\n\nTwitter: http://bit.ly/1l6U0F1\n\nSoundCloud: http://bit.ly/1QdoY9u\n\nMerch: http://bit.ly/1O2Qli0\n\nBonus Channel: http://bit.ly/1Q086o5\n\nIntro: http://maclobuzz.wix.com/maclobuzz\n\nMinecraft: https://minecraft.net/\n\nMinecraft Note Block Studio: http://www.stuffbydavid.com/mcnbs\n\nMCEdit: http://www.mcedit.net/\n\nFraps: http://fraps.com/\n\nSony Vegas Pro: http://www.sonycreativesoftware.com/vegaspro\n\nGLSL Shaders Mod: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix\n\nStay tuned for an amazing new video every week!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MDWsU7y6W9M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MDWsU7y6W9M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MDWsU7y6W9M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/MDWsU7y6W9M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/MDWsU7y6W9M/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "MDWsU7y6W9M"
+        },
+        "videoOwnerChannelTitle": "Jachael123",
+        "videoOwnerChannelId": "UC_k82NIddfZzOGWabJX-hlw"
+    },
+    "contentDetails": {
+        "videoId": "MDWsU7y6W9M",
+        "videoPublishedAt": "2016-04-24T09:30:00Z",
+        "duration": "PT4M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3055815",
+        "likeCount": "48062",
+        "favoriteCount": "0",
+        "commentCount": "4712"
+    }
+}

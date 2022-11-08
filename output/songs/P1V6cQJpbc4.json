@@ -1,0 +1,59 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xMjNBNTA2NDBDODU0QTE1",
+    "snippet": {
+        "publishedAt": "2022-01-13T05:53:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I Wish You Love - Laufey (Official Audio)",
+        "description": "my new EP Typical of Me is out now! https://ffm.to/typicalofme\n\nMusic + Lyrics: Albert Beach & Charles Trenet\nProduction: Davin Kingston & Gabr\u00edel \u00d3lafs\n\nSpotify: https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO?si=mffOFx5BRjy_FYOSZYASPw\nInstagram: https://www.instagram.com/laufey/\nTwitter: https://twitter.com/laufey\nTikTok: https://www.tiktok.com/@laufey\nFacebook: https://www.facebook.com/laufeymusic/\nWebsite: https://laufeymusic.com\n\nLyrics:\nI wish you bluebirds in the spring\nTo give your heart a song to sing\nAnd then a kiss, but more than this\nI wish you love\n\nAnd in July a lemonade\nTo cool you in some leafy glade\nI wish you health, and more than wealth,\nI wish you love\n\nMy breaking heart and I agree\nThat you and I could never be\nSo, with my best, my very best\nI set you free\n\nI wish you shelter from the storm\nA cozy fire to keep you warm\nBut most of all, when snowflakes fall\nI wish you love\n\nMy breaking heart and I agree\nThat you and I could never be\nSo, with my best, my very best\nI set you free\n\nI wish you shelter from the storm\nA cozy fire to keep you warm\nBut most of all, when snowflakes fall\nI wish you love\nBut most of all, when snowflakes fall\nI wish you love\n\nVideo: Alici Sol",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/P1V6cQJpbc4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/P1V6cQJpbc4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/P1V6cQJpbc4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/P1V6cQJpbc4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "P1V6cQJpbc4"
+        },
+        "videoOwnerChannelTitle": "Laufey",
+        "videoOwnerChannelId": "UChpKl3waLmccNeYH9LGYjUQ"
+    },
+    "contentDetails": {
+        "videoId": "P1V6cQJpbc4",
+        "videoPublishedAt": "2021-04-30T04:00:50Z",
+        "duration": "PT2M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "919138",
+        "likeCount": "24695",
+        "favoriteCount": "0"
+    }
+}

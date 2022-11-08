@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EREQyMEQ5MzIwMDNGOUM1",
+    "snippet": {
+        "publishedAt": "2022-01-08T06:37:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Heart and Soul Trap Remix",
+        "description": "Free to use as long as you credit me as \"CNXHYPE\"\n\n\nMy Soundcloud: https://soundcloud.com/grawaan-somboon\n\n\nFollow me on Instagram @cnxhype: \nhttps://www.instagram.com/cnxhype/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JKwnp2rEfCg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JKwnp2rEfCg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JKwnp2rEfCg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/JKwnp2rEfCg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/JKwnp2rEfCg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "JKwnp2rEfCg"
+        },
+        "videoOwnerChannelTitle": "Grawaan Channel",
+        "videoOwnerChannelId": "UCFfzAWN5DZbc-wY2EdLk1Hg"
+    },
+    "contentDetails": {
+        "videoId": "JKwnp2rEfCg",
+        "videoPublishedAt": "2018-01-17T19:46:06Z",
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "98761",
+        "likeCount": "2618",
+        "favoriteCount": "0",
+        "commentCount": "160"
+    }
+}

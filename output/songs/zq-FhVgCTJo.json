@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQTc0QzNGRDc2MUQzOTU4",
+    "snippet": {
+        "publishedAt": "2021-10-05T05:11:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Genshin Impact Fansong - Hutao\u3010\u80e1\u53e3\u6843\u751f\u3011",
+        "description": "Lyrics\uff1a\u6e0a\u6e0a\u7684\u5947\u5999\u5192\u9669\nMusic\uff1a\u6e0a\u6e0a\u7684\u5947\u5999\u5192\u9669\nArrangement\uff1aSOULFRESHBEATS\nVocals\uff1aHutao\u2014\u2014Lazybird\u61d2\u9e1f Zhongli\u2014\u2014\u6e0a\u6e0a\u7684\u5947\u5999\u5192\u9669\nVideo\uff1aKurattes\nMix\uff1a\u996d\u56e3\u5b50P\n\nPlease check out the upload over at Bilibili: https://www.bilibili.com/video/BV1ch411Q7Hg/\n\nIf you're looking for any of the art in this video you can find it on my Twitter @/kurattes",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zq-FhVgCTJo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zq-FhVgCTJo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zq-FhVgCTJo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zq-FhVgCTJo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/zq-FhVgCTJo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zq-FhVgCTJo"
+        },
+        "videoOwnerChannelTitle": "Kurattes",
+        "videoOwnerChannelId": "UCJTjFIywU8pmX8df1U2ai-w"
+    },
+    "contentDetails": {
+        "videoId": "zq-FhVgCTJo",
+        "videoPublishedAt": "2021-03-05T05:36:50Z",
+        "duration": "PT3M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4376872",
+        "likeCount": "160172",
+        "favoriteCount": "0",
+        "commentCount": "3530"
+    }
+}

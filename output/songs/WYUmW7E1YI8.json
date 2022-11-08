@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ERkE2ODkwNUZGNjgxRkY3",
+    "snippet": {
+        "publishedAt": "2022-05-03T05:49:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shut Up - Mia Rodriguez (xooos cover)",
+        "description": "xooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/\n\nBusiness contact : sooyeon507@gmail.com\n\nmix by @napkins music \n\n\"\ubcf8 \uc601\uc0c1\uc740 \uc6cc\ub108 \ubba4\uc9c1 \ucf54\ub9ac\uc544\uc5d0\uc11c \uc9c0\uc6d0\uc744 \ubc1b\uc544 \uc81c\uc791\ub418\uc5c8\uc74c\uc744 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4.\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WYUmW7E1YI8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WYUmW7E1YI8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WYUmW7E1YI8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WYUmW7E1YI8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WYUmW7E1YI8"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "WYUmW7E1YI8",
+        "videoPublishedAt": "2022-04-10T13:00:37Z",
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4817999",
+        "likeCount": "116937",
+        "favoriteCount": "0",
+        "commentCount": "3580"
+    }
+}

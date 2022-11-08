@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41QkVBMDkwNjQ1NDA1QTFB",
+    "snippet": {
+        "publishedAt": "2022-08-03T18:39:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "bbno$ - i remember (Official Music Video)",
+        "description": "Official Music Video for \"i remember\" by bbno$\n\nfollow bbno$:\nSpotify - https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz?si=4efR-eRyQiixzlSUqP3OfQ\nInstagram - https://www.instagram.com/bbnomula/\nTwitter - https://twitter.com/bbnomula\nTiktok - https://www.tiktok.com/@bbnotiktok?lang=en\nApple Music - https://music.apple.com/us/artist/bbno%24/1161580951\nSoundcloud - https://soundcloud.com/bbnomula\nDiscord - https://discord.com/invite/bbnomula\nTwitch - https://www.twitch.tv/bbnogames\nSMS: https://laylo.com/bbnomula\nEmail: https://www.getdrip.com/forms/691397084/submissions/new\n\n#bbnomula #iremember #eatyaveggies\n\nProduced by Diamond Pistols\n\nLYRICS:\nYou broke my heart\nOne too many times before, fore\nI remember times on the dance floor\nI remember times when you\u2019d go!\nNow im HAPPY ALONE\nSHE stole my heart\nI cant believe i fell for her tricks\nI cant believe i passed on her life\nI cant believe that times were like oh oh oh so good\n\nNo one to tell how\nNo one to hurt me now\nI thought we said our vows\nI miss your disavow\n\nSaid my feelings you got the best of me\nMotive was lust, you played me basically\nShe told me im quite a masochist\nOh i know\nI cant believe it still hurts to kiss\nSo i wont\nHow could u say you wanted this\nI sure dont\nHow could you ever say you\u2019d rather be alone!\n\nill be honest \nIm so glad that im on my own\nGlad im modest\nFinally gave time to my self\nNow im breaking out of my shell\n\nI told myself i need nobody else\nI was surprised on how the cards were dealt\nI wasnt ever sure of how you felt, but i knew for certain i would take you back any time of day\n\nThank you to the adolescent me for my attitude\nId never tell you ever what to be, i aint mad at chu\nCause roses are red and violets are blue, im missing you\nYou stay in my head, not sure what to do im leaving you",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ppF08KhVXIk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ppF08KhVXIk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ppF08KhVXIk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ppF08KhVXIk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ppF08KhVXIk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ppF08KhVXIk"
+        },
+        "videoOwnerChannelTitle": "bbno$",
+        "videoOwnerChannelId": "UCC8FSfSnbjiZ6vGr68ZLtzg"
+    },
+    "contentDetails": {
+        "videoId": "ppF08KhVXIk",
+        "videoPublishedAt": "2021-09-22T17:00:11Z",
+        "duration": "PT3M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4032356",
+        "likeCount": "125806",
+        "favoriteCount": "0",
+        "commentCount": "5371"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNjNGNkJGMDk2NkRDQ0I0",
+    "snippet": {
+        "publishedAt": "2022-09-13T04:31:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "MIMI - Ai No Sukima | ft. Hatsune Miku \u521d\u97f3\u30df\u30af (Arrange Ver.) Lyrics Romaji",
+        "description": "#hatsunemiku \n#mimi \n#\u54c0\u306e\u9699\u9593\n#\u521d\u97f3\u30df\u30af\n#anime\n#lyrics",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/eyPFvBevOGg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/eyPFvBevOGg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/eyPFvBevOGg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/eyPFvBevOGg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/eyPFvBevOGg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eyPFvBevOGg"
+        },
+        "videoOwnerChannelTitle": "TrapHigher",
+        "videoOwnerChannelId": "UChipvQVuBksbx_3K-cGliAw"
+    },
+    "contentDetails": {
+        "videoId": "eyPFvBevOGg",
+        "videoPublishedAt": "2022-06-06T06:25:51Z",
+        "duration": "PT2M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1399",
+        "likeCount": "41",
+        "favoriteCount": "0",
+        "commentCount": "1"
+    }
+}

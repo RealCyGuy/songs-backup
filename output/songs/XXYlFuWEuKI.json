@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DNzI3QzlGOTEzMzkyQUZD",
+    "snippet": {
+        "publishedAt": "2022-01-02T08:02:15Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Weeknd - Save Your Tears (Official Music Video)",
+        "description": "Official music video by The Weeknd performing \"Save Your Tears\"\u2013 'After Hours' available everywhere now: http://theweeknd.co/afterhoursYD\n \n\u25baSubscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n \n\u25baGet exclusive merch: https://shop.theweeknd.com/\n \n\u25baFollow The Weeknd:\nhttps://twitter.com/theweeknd \nhttps://www.facebook.com/theweeknd \nhttps://www.instagram.com/theweeknd \nhttps://www.theweeknd.com \n\nDirected by Cliqua\nProduced by Rois\u00edn Audrey Moloney\nExecutive Producer: Jerad Anderson\nProduction Company: Florence\nAbel\u2019s Costume Designer: Matt Henson\nProsthetics: Mike Marino, Prosthetic Renaissance\nDirector of Photography: Xiaolong Liu\nProduction Designer: Annie Sperling\n1st AD: Mike Alberts\nProduction Supervisor: Tori Storosh\nProduction Supervisor: Joe Keenan\nAssist. Production Supervisor: Linda Nhem\nCast Costume Designer: Lisa Madonna\nGaffer: Matt Ardine\nKey Grip: Jon Booker\nCamera Operator Nick Muller\nSteadicam Colin MacDonnell\nEditor: Miles Trahan\nColor: Matt Osbourne @ Company 3\nSound Design: Christian Stropko\nVFX: Buralqy + MADNOMAD\nOnline: Sunset Edit\nTitles: Bradley Pinkerton\n\nLyrics:\n\nOoh\nNa na, yeah\nI saw you dancing in a crowded room\nYou look so happy when I'm not with you\nBut then you saw me, caught you by surprise\nA single teardrop falling from your eye\nI don't know why I run away\nI make you cry when I run away\nYou could've asked me why I broke your heart\nYou could've told me that you fell apart\nBut you walked past me like I wasn't there\nAnd just pretended like you didn't care\nI don't know why I run away\nI make you cry when I run away\nTake me back 'cause I wanna stay\nSave your tears for another\nSave your tears for another day\nSave your tears for another day\nSo\nI made you think that I would always stay\nI said some things that I should never say\nYeah, I broke your heart like someone did to mine\nAnd now you won't love me for a second time\nI don't know why I run away, oh, girl\nSaid I make you cry when I run away\nGirl, take me back 'cause I wanna stay\nSave your tears for another\nI realize that I'm much too late\nAnd you deserve someone better\nSave your tears for another day (Ooh, yeah)\nSave your tears for another day (Yeah)\nI don't know why I run away\nI make you cry when I run away\nSave your tears for another day, ooh, girl (Ah)\nI said save your tears for another day (Ah)\nSave your tears for another day (Ah)\nSave your tears for another day (Ah)\n\n#TheWeeknd #SaveYourTears #AfterHours\n\nMusic video by The Weeknd performing Save Your Tears. \u00a9 2021 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/7MOdnq",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XXYlFuWEuKI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XXYlFuWEuKI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XXYlFuWEuKI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XXYlFuWEuKI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XXYlFuWEuKI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "XXYlFuWEuKI"
+        },
+        "videoOwnerChannelTitle": "TheWeekndVEVO",
+        "videoOwnerChannelId": "UCF_fDSgPpBQuh1MsUTgIARQ"
+    },
+    "contentDetails": {
+        "videoId": "XXYlFuWEuKI",
+        "videoPublishedAt": "2021-01-05T17:00:12Z",
+        "duration": "PT4M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "975226122",
+        "likeCount": "7121549",
+        "favoriteCount": "0",
+        "commentCount": "273987"
+    }
+}

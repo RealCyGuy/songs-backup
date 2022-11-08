@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FQ0IyNkUzMDIyRjM5MkFD",
+    "snippet": {
+        "publishedAt": "2022-05-18T04:07:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Bare Necessities - Cover by Nita & Tay",
+        "description": "Bare Necessities - Nita Wiroonsup (Vocal) and Tay, Papanin Kasettratat (Guitar)\nThis song is for those of you who don't take life seriously. Enjoy! :-)\n\nFacebook: www.facebook.com/nita.wir",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Dg-xRD-Xhx4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Dg-xRD-Xhx4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Dg-xRD-Xhx4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Dg-xRD-Xhx4"
+        },
+        "videoOwnerChannelTitle": "Kpapanin",
+        "videoOwnerChannelId": "UCy81eSDUm-hfKQdh9CWrPjg"
+    },
+    "contentDetails": {
+        "videoId": "Dg-xRD-Xhx4",
+        "videoPublishedAt": "2019-03-02T10:34:43Z",
+        "duration": "PT4M19S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "308416",
+        "likeCount": "20839",
+        "favoriteCount": "0",
+        "commentCount": "792"
+    }
+}

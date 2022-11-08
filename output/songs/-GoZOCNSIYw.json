@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CMDU4Mjk2QjA2QTIwODZB",
+    "snippet": {
+        "publishedAt": "2021-06-09T04:08:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u300cThe Peggies\u300d- Kimi No Sei MV  [ Romaji Lyrics ]",
+        "description": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Op / Opening Song Full\u300cKimi no Sei\u300dby the peggies\n\n------------------------------------------------------------------------------------\n\n\u2726Anime Title            :  Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai , \u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb\u5148\u8f29\u306e\u5922\u3092\u898b\u306a\u3044\n\u2726Original Artist        :  the peggies\n\u2726Song Title               :  Kimi no Sei , \u541b\u306e\u305b\u3044\n\n\n\u2726Support This Song : https://goo.gl/dX6o4q",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-GoZOCNSIYw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-GoZOCNSIYw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-GoZOCNSIYw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-GoZOCNSIYw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-GoZOCNSIYw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-GoZOCNSIYw"
+        },
+        "videoOwnerChannelTitle": "Ainz Official",
+        "videoOwnerChannelId": "UCakhYwaB2Biy53RBuKFe4cQ"
+    },
+    "contentDetails": {
+        "videoId": "-GoZOCNSIYw",
+        "videoPublishedAt": "2018-11-10T09:25:45Z",
+        "duration": "PT4M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1379329",
+        "likeCount": "30900",
+        "favoriteCount": "0",
+        "commentCount": "1491"
+    }
+}

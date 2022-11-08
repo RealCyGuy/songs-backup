@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDc2MTU5OTE1QjUwNTk0",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:39:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pentatonix - My Favorite Things (Official Video)",
+        "description": "NEW ALBUM \u201cHOLIDAYS AROUND THE WORLD\u201d OUT NOW! https://pentatonix.lnk.to/HATW\nNEW HOLIDAY SONGS & REIMAGINED CLASSICS WITH 10 GLOBAL SUPERSTARS INCLUDING MEGHAN TRAINOR, LANG LANG, HIKAKIN & SEIKEN, LEA SALONGA & More! \n\nNEW PENTATONIX HOLIDAY SPECIAL \u201cAROUND THE WORLD FOR THE HOLIDAYS\u201d PREMIERES DECEMBER 2ND ON DISNEY+! \n\nPENTATONIX! A CHRISTMAS SPECTACULAR! TOUR. TICKETS ON SALE NOW https://www.ptxofficial.com/ \nNov 17, 2022 Oakland, CA Oakland Arena\nNov 19, 2022 West Valley City, UT Maverik Center\nNov 20, 2022 Denver, CO Ball Arena\nNov 22, 2022 Fort Worth, TX Dickies Arena\nNov 23, 2022 Tulsa, OK BOK Center\nNov 26, 2022 Lincoln, NE Pinnacle Bank Arena\nNov 27, 2022 Sioux Falls, SD Denny Sanford PREMIER Center\nNov 29, 2022 Green Bay, WI Resch Center\nDec 01, 2022 Rosemont, IL Allstate Arena\nDec 03, 2022 Peoria, IL Peoria Civic Center\nDec 04, 2022 Lexington, KY Rupp Arena\nDec 06, 2022 Indianapolis, IN Gainbridge Fieldhouse\nDec 08, 2022 Des Moines, IA Wells Fargo Arena\nDec 10, 2022 Memphis, TN FedExForum\nDec 11, 2022 Nashville, TN Bridgestone Arena \nDec 13, 2022 North Charleston, SC North Charleston Coliseum\nDec 14, 2022 Jacksonville, FL VyStar Veterans Memorial Arena\nDec 15, 2022 Hollywood, FL Seminole Hard Rock Hotel & Casino - Hollywood\nDec 17, 2022 Greensboro, NC Greensboro Coliseum\nDec 19, 2022 Fairfax, VA EagleBank Arena\nDec 20, 2022 Hershey, PA Giant Center\nDec 22, 2022 Uncasville, CT Mohegan Sun Arena\n\nDOWNLOAD, PURCHASE AND STREAM MORE OF OUR MUSIC HERE: https://smarturl.it/PTXCompletePlaylist\n\nSHOP NEW MERCH: https://shop.ptxofficial.com/\n\nSTREAM OUR TOP HOLIDAY VIDEOS: https://smarturl.it/PTXmasClassics \n\nJOIN OUR PATREON FAN PAGE!! https://Pentatonix.lnk.to/PatreonYT \n\nFOLLOW PTX: \nhttp://www.ptxofficial.com \nhttp://www.facebook.com/Pentatonix \nhttp://www.instagram.com/ptxofficial @ptxofficial \nhttps://www.tiktok.com/@pentatonix\nhttp://www.twitter.com/ptxofficial @ptxofficial \nhttp://www.snapchat.com/add/PTXsnap\n\n#Pentatonix #ChristmasMusic #HolidayMusic",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EGOz9f78IjI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EGOz9f78IjI"
+        },
+        "videoOwnerChannelTitle": "PentatonixVEVO",
+        "videoOwnerChannelId": "UCIE6_c6qPrHzuVRssQ5B0lQ"
+    },
+    "contentDetails": {
+        "videoId": "EGOz9f78IjI",
+        "videoPublishedAt": "2020-12-17T20:00:10Z",
+        "duration": "PT3M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6472337",
+        "likeCount": "162606",
+        "favoriteCount": "0",
+        "commentCount": "6240"
+    }
+}

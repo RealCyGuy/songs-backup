@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRTBBRDI2MzVEOThEQjQ3",
+    "snippet": {
+        "publishedAt": "2021-11-10T01:00:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Warriors (ft. Imagine Dragons) | Worlds 2014 - League of Legends",
+        "description": "The battle begins, and sixteen teams across the globe are fighting towards one goal \u2013 to win the League of Legends World Championship. To kick off the start of the action, we set out to craft a war cry to rally behind. Whether you\u2019re a solo queue warrior or fighting off the LCS jitters \u2013 every moment counts.\n\n\"Warriors\" -- a creative collaboration by Imagine Dragons and Riot Games\n\nhttp://www.imaginedragonsmusic.com/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fmI_Ndrxy14"
+        },
+        "videoOwnerChannelTitle": "League of Legends",
+        "videoOwnerChannelId": "UC2t5bjwHdUX4vM2g8TRDq5g"
+    },
+    "contentDetails": {
+        "videoId": "fmI_Ndrxy14",
+        "videoPublishedAt": "2014-09-17T20:57:35Z",
+        "duration": "PT3M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "139374734",
+        "likeCount": "2783099",
+        "favoriteCount": "0",
+        "commentCount": "120326"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNTcxRDM2RDgwNjhDMEE2",
+    "snippet": {
+        "publishedAt": "2021-12-10T23:40:53Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Fukashigi No Carte (Trap Remix)",
+        "description": "I don't usually make this type of music, but I decided to try :)\nHope you all enjoy!\n\nSoundcloud: https://soundcloud.com/kueromusic/\nInstagram: https://www.instagram.com/kueromusic/\nContact: kueromusic@gmail.com\n\n\n\n\n\n#fukashiginocarte #bunnygirlsenpai",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0imk0ByfgoM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0imk0ByfgoM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0imk0ByfgoM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/0imk0ByfgoM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/0imk0ByfgoM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0imk0ByfgoM"
+        },
+        "videoOwnerChannelTitle": "Kuero Music",
+        "videoOwnerChannelId": "UCGUbUYjmUoxNZVfpRheEOFg"
+    },
+    "contentDetails": {
+        "videoId": "0imk0ByfgoM",
+        "videoPublishedAt": "2021-09-14T04:20:34Z",
+        "duration": "PT1M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "111539",
+        "likeCount": "3999",
+        "favoriteCount": "0",
+        "commentCount": "78"
+    }
+}

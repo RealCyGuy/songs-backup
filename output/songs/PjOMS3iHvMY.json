@@ -1,0 +1,74 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xMUQyQzMyQkFBQjk2QTIw",
+    "snippet": {
+        "publishedAt": "2022-01-24T16:57:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NO GAME NO LIFE RAP | \"Lose\" | RUSTAGE ft. LulunaRina",
+        "description": "Spotify: https://open.spotify.com/album/1dztN6xyIWUeLvZMqqQqmY?si=6bf2ac968bd1430e\nItunes: https://music.apple.com/us/album/lose-no-game-no-life-feat-lulunarina-single/1604329332\n\nCredits:\nInstrumental/Production: Rustage\nLyrics: Rustage,\nRap Vocals: Rustage\nSinging Vocals: LulunaRina\nWatch LulunaRina with me on Twitch! https://www.twitch.tv/lulunarina\nVideo: Arita\nhttps://twitter.com/arita_oof?s=20\n\nTranslation: Tamichi\n\nI stream on Twitch: https://www.twitch.tv/rustage_\nFollow me on twitter: https://twitter.com/danielrustage\nJoin The Rustage Crew: https://discord.gg/m6vT9UJ\nGet your Merch: https://teespring.com/stores/rustage  \nSupport me on patreon: https://www.patreon.com/Rustage\nFollow me on Instagram: https://www.instagram.com/rustage_music/\nCheck out my Website: https://www.rustagemusic.com/\n\nSora (\u7a7a\u305d\u3089, Sora) is the main male protagonist of the No Game No Life series and the cunning and manipulative half of the siblings.\n\nAbandoned by his parents, Sora is a brilliant NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamer along with his step-sister, Shiro, with whom he forms \u300e\u3000\u3000\u300f or Blank with. Having gone through a rough childhood, he has lackadaisical hate towards life and pretty much dedicates himself only to gaming. One day, both he and his sister are called into an alternate world after they defeat Tet in an online chess game. Sora's biological father (no relation to Shiro) married Shiro's biological mother (no relation to Sora), thus, making Shiro and Sora step-siblings. He lives with Shiro and was abandoned by his parents at a young age. After that, Sora pledged to be there for his sister no matter what.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PjOMS3iHvMY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PjOMS3iHvMY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PjOMS3iHvMY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/PjOMS3iHvMY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/PjOMS3iHvMY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PjOMS3iHvMY"
+        },
+        "videoOwnerChannelTitle": "RUSTAGE",
+        "videoOwnerChannelId": "UC2jxJHf569ZcA6LHajBZ7rg"
+    },
+    "contentDetails": {
+        "videoId": "PjOMS3iHvMY",
+        "videoPublishedAt": "2022-01-14T22:00:08Z",
+        "duration": "PT3M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "IO",
+                "KP",
+                "RU",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "498296443",
+        "likeCount": "4144433",
+        "favoriteCount": "0",
+        "commentCount": "197059"
+    }
+}

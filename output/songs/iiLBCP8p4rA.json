@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQTQ5NkRBQ0U1MDY1MDg3",
+    "snippet": {
+        "publishedAt": "2022-09-19T20:31:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "JNL - Beausejour",
+        "description": "https://jnl.fm/\n\nJNL (Jon'Nathon Lawrence) is a music artist and producer from Winnipeg, Canada.\n\nJNL on Soundcloud:\nhttp://soundcloud.com/jnlcinemafunk\n\nBUY MY SHITE::\nhttp://jnlcinemafunk.bandcamp.com/\n\nJNL on Facebook:\nhttps://www.facebook.com/jnlcinemafunk\n\nJNL on Twitter:\nhttp://twitter.com/jnlcinemafunk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/iiLBCP8p4rA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/iiLBCP8p4rA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/iiLBCP8p4rA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/iiLBCP8p4rA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/iiLBCP8p4rA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "iiLBCP8p4rA"
+        },
+        "videoOwnerChannelTitle": "JNL",
+        "videoOwnerChannelId": "UCpqGVrg2XUynFNjy3sEO5ew"
+    },
+    "contentDetails": {
+        "videoId": "iiLBCP8p4rA",
+        "videoPublishedAt": "2013-12-29T22:54:32Z",
+        "duration": "PT4M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "135540",
+        "likeCount": "2029",
+        "favoriteCount": "0",
+        "commentCount": "95"
+    }
+}

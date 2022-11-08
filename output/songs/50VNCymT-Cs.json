@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yREMyQThGRjREMUQzQ0Mw",
+    "snippet": {
+        "publishedAt": "2022-04-27T04:26:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Alec Benjamin - Let Me Down Slowly [Official Music Video]",
+        "description": "Shop 'These Two Windows' merch: https://alecbenjamin.store\n\n'Narrated For You' available now: https://lnk.to/NarratedForYouID\n\nDirector: Matt Swinsky\n\nFollow Alec Benjamin\nhttp://alecbenjamin.com\nhttps://www.facebook.com/AlecBenjaminMusic\nhttps://twitter.com/alecbenjamin\nhttps://www.instagram.com/alecbenjamin\nhttps://soundcloud.com/alecbenjamin\n\n#AlecBenjamin #LetMeDownSlowly #OfficialLyricVideo #AlecBenjaminLetMeDownSlowly #TheseTwoWindows\n\nWatch Alec Benjamin's\u00a0quarantine live streams\u00a0\u27a4https://bit.ly/alec_live\nBest Sing Along Songs at Home from Alec Benjamin\u00a0\u27a4https://bit.ly/AlecSingAlong\nWork From Home Music from Alec Benjamin \u27a4 https://bit.ly/AlecWFH",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/50VNCymT-Cs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/50VNCymT-Cs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/50VNCymT-Cs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/50VNCymT-Cs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/50VNCymT-Cs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "50VNCymT-Cs"
+        },
+        "videoOwnerChannelTitle": "Alec Benjamin",
+        "videoOwnerChannelId": "UCtWBCzqucZXq0M8jsqunM0g"
+    },
+    "contentDetails": {
+        "videoId": "50VNCymT-Cs",
+        "videoPublishedAt": "2018-06-04T19:00:23Z",
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "426974774",
+        "likeCount": "6455286",
+        "favoriteCount": "0",
+        "commentCount": "102166"
+    }
+}

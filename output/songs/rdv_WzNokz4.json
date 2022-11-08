@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMTI0Q0Y2N0ZFREI0OTlB",
+    "snippet": {
+        "publishedAt": "2022-06-20T00:30:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010Multilanguage Cover\u3011Touhou: Bad Apple (A Cappella Ver.) \u3008Avl\u00f6nskt\u3009",
+        "description": "here's the a cappella version\nplease do not repost or reuse without explicit permission\n\n\u2605 ORIGINAL CREDITS \u2605\n\u3009Original Song: ZUN\n\u300bbased on the Alstroemeria Records\u2019 arrangement\n\n\u2605 PRODUCTION \u2605\n\u3009Vocals, Mix & Video: Avl\u00f6nskt\n\u300bMain Cover: \u2013 https://youtu.be/HUPiIyz8xuU \u2013\n\n\u2605 LYRICS \u2605\n\u3009Dutch Lyrics: Tsurin & Avl\u00f6nskt\n\u300bwritten for this video\n\u3009English Lyrics: Pat McCarthy\n\u300b\u2013 https://youtu.be/rG-Fs7de_9o \u2013\n\u3009Finnish Lyrics: Ronya\n\u300b\u2013 https://youtu.be/xDUoKk7xP5k \u2013\n\u3009French Lyrics: Akiro\n\u300b\u2013 https://youtu.be/x3Morn6ZXr4 \u2013\n\u3009German Lyrics: StrawbellyCake\n\u300b\u2013 https://youtu.be/qnWDB1vfFhA \u2013\n\u3009Hungarian Lyrics: TouHUN Project\n\u300b\u2013 https://youtu.be/LbKPJMw1gCE \u2013\n\u3009Japanese Lyrics: Haruka\n\u300b\u2013 https://youtu.be/2GIMgD_gShU \u2013\n\u3009Polish Lyrics: Alexis\n\u300b\u2013 https://youtu.be/Blk1dmycFqc \u2013\n\u3009Russian Lyrics: Lord_D, Ray\n\u300b\u2013 https://youtu.be/sxKVflJe0ac \u2013\n\u3009Slovene Lyrics: Ashucky\n\u300bwritten for this video\n\u3009Spanish Lyrics: Avl\u00f6nskt\n\u300bwritten for this video\n\u3009Ukrainian Lyrics: Hoshizora, Kallaider, \u041a\u0430\u0437\u043a\u0430\u0440 \u041c\u043e\u0444\u0456\n\u300b\u2013 https://youtu.be/-5WdPSAwdPY \u2013\n\n\u3009Script: \u2013 https://bit.ly/AvlMultiBadAppleLyrics \u2013\n\n\u2605 DOWNLOAD \u2605\n\u3009MP3: \u2013 http://bit.ly/AvlMultiBadAppleACappella \u2013\n\n\u2605 OTHER MEDIA \u2605\n\u3009Ko-Fi: \u2013 https://ko-fi.com/thenightavl \u2013\n\u3009PayPal: \u2013 https://bit.ly/paypavl \u2013\n\u3009Tumblr: \u2013 https://thenightavl.tumblr.com \u2013\n\u3009Twitter: \u2013 https://twitter.com/thenightavl \u2013\n\n\u2605 DISCLAIMER \u2605\nI own nothing but my voice.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rdv_WzNokz4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rdv_WzNokz4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rdv_WzNokz4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rdv_WzNokz4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rdv_WzNokz4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rdv_WzNokz4"
+        },
+        "videoOwnerChannelTitle": "Avl\u00f6nskt",
+        "videoOwnerChannelId": "UCOxag8oVb70iDjCarWhuzbw"
+    },
+    "contentDetails": {
+        "videoId": "rdv_WzNokz4",
+        "videoPublishedAt": "2021-01-30T13:44:40Z",
+        "duration": "PT4M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "194180",
+        "likeCount": "7966",
+        "favoriteCount": "0",
+        "commentCount": "711"
+    }
+}

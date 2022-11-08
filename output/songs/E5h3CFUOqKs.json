@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wM0I0QUQ0RDU2REQxNjJC",
+    "snippet": {
+        "publishedAt": "2021-05-29T00:23:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YOASOBI - Racing Into The Night (Lone Alpha Remix)",
+        "description": "Listen on Soundcloud/Free Download\nhttps://soundcloud.com/lonealphamusic/yoasobi-racing-into-the-night-lone-alpha-remix\n\n\u25bcYOASOBI\nhttps://twitter.com/YOASOBI_staff\n\nMusic : Ayase (https://twitter.com/ayase_0404)\nVocal : ikura (https://twitter.com/ikutalilas)\n\n\u25bcLone Alpha\nhttps://soundcloud.com/lonealphamusic\nhttps://www.youtube.com/channel/UCv7cX2hDhEVtCEBvssHofFA\nhttps://open.spotify.com/artist/0o8IQYc0GIBfoSeRAQYOX5\n\n\ud83c\udfa8 Artwork by A\u3061\u304d@C97\u65b0\u520a\u59d4\u8a17\u4e2d\nhttps://twitter.com/atikix\nhttps://www.pixiv.net/en/users/1655331\n\u27a5 https://www.pixiv.net/en/artworks/78236548\n\nWant to submit your track?: http://bit.ly/33xhrgE\n\n\u2022 For business inquiries and other issues please contact contact@ryuumusic.moe",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/E5h3CFUOqKs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/E5h3CFUOqKs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/E5h3CFUOqKs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/E5h3CFUOqKs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/E5h3CFUOqKs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "E5h3CFUOqKs"
+        },
+        "videoOwnerChannelTitle": "Ryuu Music",
+        "videoOwnerChannelId": "UC5z8397WvhTsXuyIisPs7CQ"
+    },
+    "contentDetails": {
+        "videoId": "E5h3CFUOqKs",
+        "videoPublishedAt": "2020-08-09T11:34:54Z",
+        "duration": "PT4M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1433183",
+        "likeCount": "31671",
+        "favoriteCount": "0",
+        "commentCount": "479"
+    }
+}

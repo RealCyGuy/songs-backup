@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNzUxQjVFQzIzNkUxNzRF",
+    "snippet": {
+        "publishedAt": "2022-07-16T05:36:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Harry Styles - As It Was (Thnked Remix)",
+        "description": "Listen to my song \"In My Head\" where I sing on: https://spoti.fi/3sl0jsG Download here: https://www.toneden.io/thnked/post/harry-styles-as-it-was-thnked-remix\n\nHeyyyyyya \ud83d\udc97\n\nidk why i did another one but it never gets old, hope you enjoy it \ud83d\ude43\n\nFeel free to join my discord for suggestions & more \ud83d\ude0a\nhttps://discord.gg/dXteRvmC6c\n\n-Thnked\n\n---FAQ (Frequently Asked Questions)---\n\nQ: Can i use this song on my Youtube videos?\nA: Yes. Feel free to use this in your videos as long as you credit me in the description  You will get copyrighted by the original artist most likely, but it just means you're not allowed to monetize it \n\n---FIND ME IN---\n\nSOUNDCLOUD: https://soundcloud.com/thnked/\nINSTAGRAM: https://www.instagram.com/thnkedmusic/\nSPOTIFY: https://spoti.fi/3jaU0EO\n\nBUSINESS INQUIRIES: THNKED@GMAIL.COM",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lYbkHsQ8ZeQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lYbkHsQ8ZeQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lYbkHsQ8ZeQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/lYbkHsQ8ZeQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/lYbkHsQ8ZeQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "lYbkHsQ8ZeQ"
+        },
+        "videoOwnerChannelTitle": "Thnked",
+        "videoOwnerChannelId": "UCaAA9eYP7OKHkLglCT179OQ"
+    },
+    "contentDetails": {
+        "videoId": "lYbkHsQ8ZeQ",
+        "videoPublishedAt": "2022-04-01T12:09:48Z",
+        "duration": "PT2M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "348483",
+        "likeCount": "6449",
+        "favoriteCount": "0",
+        "commentCount": "222"
+    }
+}

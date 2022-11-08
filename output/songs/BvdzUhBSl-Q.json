@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44M0YwNkI0MUFDMzZBMEZC",
+    "snippet": {
+        "publishedAt": "2022-04-05T00:21:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Muski Remix Squidward's Tiki Land by (NeptunusMusik)",
+        "description": "Follow My Instagram\nhttps://instagram.com/rifkyje_\n\nDj spongebob\nDj\nRemix\nSquidward\nSpongebob film Dj Remix Dj Aveeplayer",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/BvdzUhBSl-Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BvdzUhBSl-Q"
+        },
+        "videoOwnerChannelTitle": "NeptunusTeam",
+        "videoOwnerChannelId": "UCjyaTl1hHpL5DiDe-51gpsA"
+    },
+    "contentDetails": {
+        "videoId": "BvdzUhBSl-Q",
+        "videoPublishedAt": "2020-07-01T09:25:06Z",
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "316276",
+        "likeCount": "9203",
+        "favoriteCount": "0",
+        "commentCount": "318"
+    }
+}

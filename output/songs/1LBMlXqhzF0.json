@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RDQ1MjA1Q0JGRUJFQzZF",
+    "snippet": {
+        "publishedAt": "2022-04-17T00:11:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shotgun Willy x MC Virgins x Yun Head - Bumpin' (Lyric Video)",
+        "description": "Prod. Yun Head\n\nShotgun Willy\nInstagram: https://www.instagram.com/shotgunwilly/\nTwitter: https://twitter.com/RaspyBoi\nDiscord: Discord.gg/GFR\nSpotify: https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w?si=6jJamkTlS3usxvX4fj2_xg\nSoundCloud: https://soundcloud.com/shotgunwilly\u200b\n\nYun Head\nhttps://www.instagram.com/yunhead\nhttps://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe?si=0M62R1u3RjKlrrAmx7ThJw\nhttps://soundcloud.com/yunhead\u200b\n\nMC Virgins\nhttps://open.spotify.com/artist/3iNL7\u200b...\nhttps://music.apple.com/us/artist/mc-\u200b...\nhttps://soundcloud.com/mcvirgins\u200b",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1LBMlXqhzF0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1LBMlXqhzF0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1LBMlXqhzF0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1LBMlXqhzF0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1LBMlXqhzF0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1LBMlXqhzF0"
+        },
+        "videoOwnerChannelTitle": "Shotgun Willy",
+        "videoOwnerChannelId": "UCTg6Jny4X_LteWGccXf596Q"
+    },
+    "contentDetails": {
+        "videoId": "1LBMlXqhzF0",
+        "videoPublishedAt": "2021-01-15T19:15:01Z",
+        "duration": "PT2M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4140980",
+        "likeCount": "76044",
+        "favoriteCount": "0",
+        "commentCount": "2636"
+    }
+}

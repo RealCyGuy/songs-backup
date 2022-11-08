@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BREZCNzgxNEQ3MkY5Qzk1",
+    "snippet": {
+        "publishedAt": "2022-01-05T22:36:50Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Fly Me To The Moon || Arataki Itto CN VA (\u5218\u7167\u5764 (Liu ZhaoKun)) || Colour Coded Lyrics",
+        "description": "Original Video : https://www.bilibili.com/video/BV1aD4y1R7vd\nCN VA Channel : https://space.bilibili.com/1875093?spm_id_from=333.788.b_765f7570696e666f.2\n\nOriginal Song : https://youtu.be/ZEcqHA7dbwM",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qo_nSz28ho0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qo_nSz28ho0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qo_nSz28ho0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qo_nSz28ho0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qo_nSz28ho0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qo_nSz28ho0"
+        },
+        "videoOwnerChannelTitle": "Rachii\u8354\u679d",
+        "videoOwnerChannelId": "UC6bb6EI8Mwj5-2ICALaUAvA"
+    },
+    "contentDetails": {
+        "videoId": "qo_nSz28ho0",
+        "videoPublishedAt": "2021-12-07T13:27:58Z",
+        "duration": "PT5M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "499117",
+        "likeCount": "41245",
+        "favoriteCount": "0",
+        "commentCount": "536"
+    }
+}

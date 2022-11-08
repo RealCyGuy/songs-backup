@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMzQ2M0REODUwRjJGN0E2",
+    "snippet": {
+        "publishedAt": "2022-04-14T04:44:05Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "inabakumori vs THE KOXX - Lagtrain On A Fool Moon Night (Vo. Kaai Yuki) (Qrael mashup)",
+        "description": "inabakumori - Lagtrain\nhttps://www.youtube.com/watch?v=UnIhRpIT7nc\n\nThe Koxx - A Fool Moon Night\nhttps://www.youtube.com/watch?v=TgMyRjBdgsg\n\nDownloads: https://drive.google.com/drive/folders/1uEMg6YqsbZX4PQJLEnAQMsrRsEHtqEIg?usp=sharing\n\nTwitter: https://twitter.com/Qraelon\nSoundcloud: https://soundcloud.com/qrael",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TE6ynGYXSuw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TE6ynGYXSuw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TE6ynGYXSuw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/TE6ynGYXSuw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/TE6ynGYXSuw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "TE6ynGYXSuw"
+        },
+        "videoOwnerChannelTitle": "Qrael",
+        "videoOwnerChannelId": "UCByChHw2o3D6pkt9fAp6wVA"
+    },
+    "contentDetails": {
+        "videoId": "TE6ynGYXSuw",
+        "videoPublishedAt": "2022-03-16T11:43:43Z",
+        "duration": "PT4M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "123698",
+        "likeCount": "6982",
+        "favoriteCount": "0",
+        "commentCount": "191"
+    }
+}

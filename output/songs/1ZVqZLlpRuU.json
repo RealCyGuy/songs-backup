@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xMTE0RDU2NTlEMTkxNzZB",
+    "snippet": {
+        "publishedAt": "2021-07-01T23:11:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Sasageyo but it's on a church organ",
+        "description": "Shinzou wo Sasageyo, Attack on Titan / Shingeki no Kyojin opening OP season 2, church organ cover. \nOriginal music by Linked Horizon\n---\nMore AoT music: Vogel im Kafig https://youtu.be/ajJanul_K4k\u200b\n---\n\u2764\ufe0f Join the Grissini Patreon Family: https://www.patreon.com/grissiniproject\n\ud83c\udfbc Score now released!!!: https://www.musicnotes.com/l/575QP\n\ud83c\udfa7 Listen to this song everywhere: http://hyperurl.co/srtldz\n\ud83d\ude04 Discord: https://discord.gg/FSRmxjGs6P\n---\n\u25ba F A C E B O O K : https://www.facebook.com/grissiniproject\n\u25ba I N S T A G R A M : https://instagram.com/grissiniproject\n\u25ba T W I T T E R : https://twitter.com/grissiniproject\n\u2764\ufe0f SUPPORT US ON PATREON : https://www.patreon.com/grissiniproject\n\u25ba W E B S I T E : https://grissiniproject.com/\n\u25ba C O N T A C T : grissiniproject@gmail.com\n\u25ba S U B S C R I B E: http://tiny.cc/subscribeGrissiniProject\u200b\u200b\n\u25ba CLICK THE \ud83d\udd14 TO BE NOTIFIED OF ALL OUR NEW VIDEOS !\n---\n#aot\u200b #attackontitan #sasageyo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1ZVqZLlpRuU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1ZVqZLlpRuU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1ZVqZLlpRuU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1ZVqZLlpRuU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1ZVqZLlpRuU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1ZVqZLlpRuU"
+        },
+        "videoOwnerChannelTitle": "Grissini Project",
+        "videoOwnerChannelId": "UC9eDYJu0NlveLrK64glOAHg"
+    },
+    "contentDetails": {
+        "videoId": "1ZVqZLlpRuU",
+        "videoPublishedAt": "2021-03-29T09:41:17Z",
+        "duration": "PT1M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1661078",
+        "likeCount": "131663",
+        "favoriteCount": "0",
+        "commentCount": "3727"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44Nzk1QzUyMkVCRTdENTVE",
+    "snippet": {
+        "publishedAt": "2022-07-21T20:48:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010Kiichan\u3011\u5b78\u8c93\u53eb / Learn to Meow (CHN/KOR/JPN/ENG) \u6b4c\u3063\u3066\u307f\u305f",
+        "description": "\"You say you love me, I say meow meow meow~\"\n_____________________________________________\n\nHappy Lunar New Year!!\n\nim not a cat\n\nThis cover has been done since..I think around June 2019? LOL\nIt's another of those poor songs that I finished for a long time but never uploaded cuz I was too lazy to make the video...\nAnyway it's finally out now! My pride & joy, the signature song I always sing when prompted in VRChat HAHA\nI first got inspired to sing it after seeing the Raon Lee cover of it, and I recorded & finished that same day. I decided to make it multilingual after finding out there were different language versions that existed, so I mixed em all up & arranged them the way you hear it now!\n\nOriginally I was finally prompted to make the video for this as an entry to the Hololive EN VSinger auditions, but sadly I didn't make it cuz I was too indecisive haha\nSo I'm making it for Lunar New Year instead...which I also didn't make it in time to, damn HAHjgkfdnhkf\nwell whatever, it's out now & that's what matters right? ;; orz\n\nThe art was a whole ass pain to draw haha I haven't drawn seriously in a long time prior to this so I was like..oh no..\nI even had to redo the EN one cuz the first version I drew was just..bleh.\nI just randomly decided to make them (me??) wear modern-ish? versions of China/Korea/Japan's traditional outfits cuz why not\nOnly the JP version was accurate enough in the 3D version tho, cuz I was too lazy to redraw the art to match the models & not knowledgable enough to edit the models to match the art lmao\nSo there was a whole ass modeling(?) process too in addition to drawing, and then there was recording the dancing too--but I think that part was kinda fun o3o\nI choreographed bits & pieces of each dance even tho I know nothing about dancing or choreography AHHAHA\ni think at least the end results look nice, i guess\n\nThe animation was a whole other beast to tackle T_T\nI think I could've done better but again I was on a deadline so this would have to do,,,anyway it's not too bad either, I guess I'm just not too happy with the typography;;\n\nSooo there you have ittt,,the first cover among many to soon follow for this month!\nI hope y'all like this & watch out for the other ones in the next coming days/weeks !!\n\n_____ c r e d i t s _____\n\u2605 Song : \u5b78\u8c93\u53eb (Say Meow Meow, \uace0\uc591\uc774 \uc18c\ub9ac\ub97c \ub530\ub77c\ud574\ubcf4\uc790, \u732b\u306e\u58f0\u3092\u771f\u4f3c\u3057\u3066\u307f\u3088\u3046) by \u5c0f\u6f58\u6f58 & \u5c0f\u5cf0\u5cf0\n\u2605 Vocals \u2022 Mix \u2022 Art \u2022 Video : Kiichan (me)\n\u2605 Bilibili : https://www.bilibili.com/video/BV1yb4y127W9\n\n_____ c o n t a c t _____\n\u2605 Twitch\nhttps://twitch.tv/xKiichan\n\n\u2605 Facebook\nhttps://www.facebook.com/KitsuiAkira (page)\nhttp://www.facebook.com/xKiichan (account)\n\n\u2605 Twitter\nhttp://twitter.com/KitsuiAkira\n\n\u2605 deviantART\nhttp://www.kira-nyan.deviantart.com\n\n\u2605 Soundcloud\nhttp://www.soundcloud.com/xKiichan\n\n\u2605 Instagram\nhttp://www.instagram.com/kitsuillust",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mDUOibsW36w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mDUOibsW36w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mDUOibsW36w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mDUOibsW36w/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mDUOibsW36w/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mDUOibsW36w"
+        },
+        "videoOwnerChannelTitle": "Kiichan Ch. \u72d0\u4e95\u30a2\u30ad\u30e9",
+        "videoOwnerChannelId": "UCcpgDsHDYHO1UyfpwjyNx1g"
+    },
+    "contentDetails": {
+        "videoId": "mDUOibsW36w",
+        "videoPublishedAt": "2021-02-12T17:27:37Z",
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "522536",
+        "likeCount": "14590",
+        "favoriteCount": "0",
+        "commentCount": "779"
+    }
+}

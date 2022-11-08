@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FMjIzQTZBODBCREYwN0Iz",
+    "snippet": {
+        "publishedAt": "2021-07-22T03:16:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BgA - Who's It Gonna Be Lyrics (Color Coded Han|Rom|Eng) || by: K-Poopers",
+        "description": "This song is LIT!\nSorry if I made any mistake (cause I'm not Korean)\nHope you guys like it!\n\nSupport #BgA\u2019s Official Single \u201cWho\u2019s it Gonna Be\u201d on:\n@iTunes: http://bit.ly/SupportBgA\n@Spotify: http://bit.ly/StreamBgA\n\nBgA - Who's It Gonna Be Official M/V: https://youtu.be/Y_MhL8tRbd0\nSee Bloopers and BTS here: https://www.youtube.com/watch?v=mutAQ...\n\nGet your BgA Merch here: https://www.gianthugs.com/collections...\n\nFollow BgA on IG!\nBgA Official http://instagram.com/bga.rhpofficial/\nRyan Higa http://instagram.com/notryanhiga\nDavid Choi http://instagram.com/davidchoimusic\nPhilip Wang http://instagram.com/wongfuphil\nJustin Chon http://instagram.com/justinchon\nJun Sung Ahn http://instagram.com/juncurryahn\n\nWho's It Gonna Be\nBgA (Boys Generally Asian)\nThat Doesn't Exist 2017\nFake Label Production Records",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Y_MhL8tRbd0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Y_MhL8tRbd0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Y_MhL8tRbd0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Y_MhL8tRbd0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Y_MhL8tRbd0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Y_MhL8tRbd0"
+        },
+        "videoOwnerChannelTitle": "K-Poopers",
+        "videoOwnerChannelId": "UCXrH650RPVHGfV6LvspZvVw"
+    },
+    "contentDetails": {
+        "videoId": "Y_MhL8tRbd0",
+        "videoPublishedAt": "2017-03-24T22:04:29Z",
+        "duration": "PT3M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1429214",
+        "likeCount": "28686",
+        "favoriteCount": "0",
+        "commentCount": "2603"
+    }
+}

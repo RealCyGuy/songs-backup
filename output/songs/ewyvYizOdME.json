@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xMTEzMjc0NTk4NzIzODk2",
+    "snippet": {
+        "publishedAt": "2022-02-11T07:46:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Britney Spears x Ginuwine x Alt\u00e9go - Toxic Pony",
+        "description": "STREAM NOW ON ALL DIGITAL PLATFORMS:\nhttps://altegomusic.lnk.to/ToxicPony\n\n\nSOME SAY THE SEXIEST MIX OF ALL TIME\ud83d\ude33\ud83d\udea8\ud83d\ude08\n\nFollow us! \nIG: @altego_music\nTikTok: altegomusic\nSoundcloud.com/altego_music\n\n\n#mashup #britneyspears #toxic #pony #ginuwine",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ewyvYizOdME/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ewyvYizOdME/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ewyvYizOdME/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ewyvYizOdME/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ewyvYizOdME/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ewyvYizOdME"
+        },
+        "videoOwnerChannelTitle": "Alt\u00e9go Music",
+        "videoOwnerChannelId": "UCVL2PfjVYZMUVa_gpQ8zVUA"
+    },
+    "contentDetails": {
+        "videoId": "ewyvYizOdME",
+        "videoPublishedAt": "2021-12-29T20:40:30Z",
+        "duration": "PT3M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1365925",
+        "likeCount": "34106",
+        "favoriteCount": "0",
+        "commentCount": "537"
+    }
+}

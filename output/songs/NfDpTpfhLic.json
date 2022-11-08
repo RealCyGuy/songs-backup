@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45MjU5ODRCNURCRjRCMDA4",
+    "snippet": {
+        "publishedAt": "2021-10-06T03:00:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Canon in D (Epic Piano Version)",
+        "description": "\ud83c\udfa7 Stream/Download \u25ba https://bit.ly/tm_epic_canon\n\ud83d\udd25 Learn Piano THE EASIEST WAY! \u25ba https://bit.ly/easiest_piano_learning\n\ud83c\udf1fInstagram\u25ba https://www.instagram.com/toms.mucenieks/\n\ud83d\udd25Subscribe and click the \ud83d\udd14bell to get notified on new uploads! :)\n\ud83d\udd25Sheet Music + MIDI \u25ba Do we need it?\n\ud83c\udf1fFacebook \u25ba https://fb.me/toms.mucenieks2 \n\ud83c\udf1fTwitter \u25ba https://twitter.com/toms_mucenieks\n\n\ud83c\udf1fComment:\nIn this PIANO TUTORIAL fyou can learn HOW TO PLAY Dark Canon In D by Pahcelbel on piano! :)\n\n\ud83c\udf1fFun fact:\nIt's not fun.\n\n\ud83c\udf1fLyrics:\n(not available)\n\n\ud83c\udf1fGear: \nYamaha P-255\nNikon D5300\nSynthesia\nStereo Audio Cable\nPC\n\n\ud83c\udf1fSong:\nComposed by Pachelbel\nTutorial created by Toms Mucenieks\n\nEnjoy! ;)\n#Piano #PianoCover #Tutorial",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NfDpTpfhLic/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NfDpTpfhLic/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NfDpTpfhLic/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/NfDpTpfhLic/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/NfDpTpfhLic/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NfDpTpfhLic"
+        },
+        "videoOwnerChannelTitle": "Toms Mucenieks",
+        "videoOwnerChannelId": "UCfWXf5EvbPUxrN7vFDspDQQ"
+    },
+    "contentDetails": {
+        "videoId": "NfDpTpfhLic",
+        "videoPublishedAt": "2019-09-29T13:10:49Z",
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1221368",
+        "likeCount": "31524",
+        "favoriteCount": "0",
+        "commentCount": "1298"
+    }
+}

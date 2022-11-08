@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RTQ1MjA1QTlDODdDMEY1",
+    "snippet": {
+        "publishedAt": "2021-09-03T06:19:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Curb Your Enthusiasm Theme (Frolic) [8 Bit Tribute to Curb Your Enthusiasm & Luciano Michelini]",
+        "description": "8 Bit version of Curb Your Enthusiasm Theme, a tribute to Curb Your Enthusiasm & Luciano Michelini\n*DO NOT USE 8BU CONTENT WITHOUT PERMISSION* \nEmail us at 8bituniversemusic@gmail.com and someone can help you out!\nAlso check out 8 Bit Universe on:\niTunes - http://tinyurl.com/iTunes8BIT\nAmazon - http://tinyurl.com/qgfwkav\nSpotify - http://tinyurl.com/8BitIfy\nGooglePlay - http://tinyurl.com/GPLAY8Bit\n \nClick to subscribe - http://ow.ly/uhDIr\n \nAnd remember to follow us on:\nFacebook - http://tinyurl.com/p9pcah8\nTwitter - https://twitter.com/the8bituniverse",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kRkBnSbwvk8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kRkBnSbwvk8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kRkBnSbwvk8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kRkBnSbwvk8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kRkBnSbwvk8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kRkBnSbwvk8"
+        },
+        "videoOwnerChannelTitle": "8 Bit Universe",
+        "videoOwnerChannelId": "UCn4HDI02U4f3VEsghRX7dRw"
+    },
+    "contentDetails": {
+        "videoId": "kRkBnSbwvk8",
+        "videoPublishedAt": "2018-06-06T14:10:40Z",
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "194002",
+        "likeCount": "5787",
+        "favoriteCount": "0",
+        "commentCount": "684"
+    }
+}

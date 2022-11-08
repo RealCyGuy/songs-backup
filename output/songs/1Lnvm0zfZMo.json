@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40MzJBN0MxQzJBQjI3QkRB",
+    "snippet": {
+        "publishedAt": "2021-12-26T07:04:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "C418 - Wet Hands (Minecraft), Played on an Old Piano",
+        "description": "I got to play this slightly out-of-tune upright piano at my grandma's house this Thanksgiving! Thought I'd record a nice video.\n\nSheet music: https://musescore.com/torbybrand/wet-hands-minecraft\n\nJoin the (highly questionable!) community and get a chance to chat directly with me! https://discord.gg/5PR7VRsKxA",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1Lnvm0zfZMo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1Lnvm0zfZMo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1Lnvm0zfZMo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1Lnvm0zfZMo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1Lnvm0zfZMo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1Lnvm0zfZMo"
+        },
+        "videoOwnerChannelTitle": "Yotta",
+        "videoOwnerChannelId": "UCQ1619LYGT-o4S2zzpQ4AaA"
+    },
+    "contentDetails": {
+        "videoId": "1Lnvm0zfZMo",
+        "videoPublishedAt": "2020-11-28T01:15:00Z",
+        "duration": "PT1M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "659874",
+        "likeCount": "59783",
+        "favoriteCount": "0",
+        "commentCount": "1666"
+    }
+}

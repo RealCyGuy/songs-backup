@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41RjA2RTAyRENDRTUyQ0U5",
+    "snippet": {
+        "publishedAt": "2022-06-14T00:03:30Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "kamome sano [HD] \u300cchoux \u00e0 la cr\u00e8me \uff2c\uff2f\uff2e\uff27\u300d",
+        "description": "Disclaimer: All copyrights on this song belong to Konami and the great artists that made it. I, TeirusuFX, have no ownership over this audio; and I will not be using it to make any profit whatsoever.\n\nNow I'm hungry.\n\nFrom kamome sano's beta_20140817 album.\n\n~~~\n\nSong Name: choux \u00e0 la cr\u00e8me (extended edit)\n\nArtist: kamome sano\n\nGame the Song Came From: SOUND VOLTEX II -infinite infection-",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SpI4p55L3tA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SpI4p55L3tA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SpI4p55L3tA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/SpI4p55L3tA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/SpI4p55L3tA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SpI4p55L3tA"
+        },
+        "videoOwnerChannelTitle": "TeirusuFX",
+        "videoOwnerChannelId": "UCDvwUO9msG29_Ak6MpbZxFA"
+    },
+    "contentDetails": {
+        "videoId": "SpI4p55L3tA",
+        "videoPublishedAt": "2015-02-16T17:51:27Z",
+        "duration": "PT4M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "146949",
+        "likeCount": "1714",
+        "favoriteCount": "0",
+        "commentCount": "49"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43NENFRjc0RkJFMjNCMEM1",
+    "snippet": {
+        "publishedAt": "2022-07-28T23:05:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "the new sweet groove",
+        "description": "Download on my soundcloud:\nhttps://soundcloud.com/plexitofer/the-sweetest-groove\n\n*edit july 6th 2019*\nadded an instrumental on my soundcloud\nhttps://soundcloud.com/plexi-two/a-certian-intrumental\n\nSample is 'sweets parade' by kana hanazawa\nGirl is from the anime Inu x Boku ss",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2-mCpRYCM7A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2-mCpRYCM7A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2-mCpRYCM7A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/2-mCpRYCM7A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/2-mCpRYCM7A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2-mCpRYCM7A"
+        },
+        "videoOwnerChannelTitle": "Plexi Music",
+        "videoOwnerChannelId": "UCtNXihv-rXTmOmGm8hmfRlA"
+    },
+    "contentDetails": {
+        "videoId": "2-mCpRYCM7A",
+        "videoPublishedAt": "2016-12-05T00:39:25Z",
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "17753670",
+        "likeCount": "469183",
+        "favoriteCount": "0",
+        "commentCount": "11385"
+    }
+}

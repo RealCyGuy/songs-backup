@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMEJFQkEzQzE3NDc3MzQy",
+    "snippet": {
+        "publishedAt": "2022-07-16T04:22:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Aqua - Barbie Girl (Official Music Video)",
+        "description": "REMASTERED IN HD! CELEBRATING ONE BILLION VIEWS!!\nOfficial Music Video for Barbie Girl performed by Aqua.\nListen to \u201cBarbie Girl \u201d here: https://aqua.lnk.to/BarbieGirl\nDirectors: Peter Stenb\u00e6k & Peder Pedersen\n\nFollow Aqua:\nhttps://www.instagram.com/aqua.dk/\nhttps://www.facebook.com/aquadk/\n\n\nLyrics:\n\n[Intro: Barbie & Ken]\nHiya, Barbie\nHi, Ken\nDo you wanna go for a ride?\nSure, Ken\nJump in\n\n[Chorus: Barbie & Ken]\nI'm a Barbie girl, in the Barbie world\nLife in plastic, it's fantastic\nYou can brush my hair, undress me everywhere\nImagination, life is your creation\nCome on, Barbie, let's go party\n\n[Chorus: Barbie & Ken]\nI'm a Barbie girl, in the Barbie world\nLife in plastic, it's fantastic\nYou can brush my hair, undress me everywhere\nImagination, life is your creation\n\n[Verse 1: Barbie & Ken]\nI'm a blonde bimbo girl in a fantasy world\nDress me up, make me tight, I'm your dolly\nYou're my doll, rock and roll, feel the glamor in pink\nKiss me here, touch me there, hanky-panky\n\n[Bridge: Barbie]\nYou can touch, you can play\nIf you say I'm always yours\nOoh woo\n\n[Chorus: Barbie]\nI'm a Barbie girl, in the Barbie world\nLife in plastic, it's fantastic\nYou can brush my hair, undress me everywhere\nImagination, life is your creation\n\n[Breakdown: Barbie & Ken]\nCome on Barbie, let's go party\nAh, ah, ah, yeah\nCome on Barbie, let's go party\nOoh, ooh\nCome on Barbie, let's go party\nAh, ah, ah, yeah\nCome on Barbie, let's go party\nOoh, ooh\n\n[Verse 2: Barbie & Ken]\nMake me walk, make me talk, do whatever you please\nI can act like a star, I can beg on my knees\nCome jump in, bimbo friend, let us do it again\nHit the town, fool around, let's go party\n\n[Bridge: Barbie]\nYou can touch, you can play\nIf you say I'm always yours\nYou can touch, you can play\nIf you say I'm always yours\n\n[Breakdown: Barbie & Ken]\nCome on Barbie, let's go party\nAh, ah, ah, yeah\nCome on Barbie, let's go party\nOoh, ooh\nCome on Barbie, let's go party\nAh, ah, ah, yeah\nCome on Barbie, let's go party\nOoh, ooh\n\n[Chorus: Barbie]\nI'm a Barbie girl, in the Barbie world\nLife in plastic, it's fantastic\nYou can brush my hair, undress me everywhere\nImagination, life is your creation\nI'm a Barbie girl, in the Barbie world\nLife in plastic, it's fantastic\nYou can brush my hair, undress me everywhere\nImagination, life is your creation\n\n[Breakdown: Barbie & Ken]\nCome on Barbie, let's go party\nAh, ah, ah, yeah\nCome on Barbie, let's go party\nOoh, ooh\nCome on Barbie, let's go party\nAh, ah, ah, yeah\nCome on Barbie, let's go party\nOoh, ooh\n\n[Outro: Barbie & Ken]\nOh, I'm having so much fun\nWell Barbie, we're just getting started\nOh, I love you Ken\n\n#Aqua #BarbieGirl #Remastered",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZyhrYis509A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZyhrYis509A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZyhrYis509A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ZyhrYis509A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ZyhrYis509A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZyhrYis509A"
+        },
+        "videoOwnerChannelTitle": "AquaVEVO",
+        "videoOwnerChannelId": "UCCiijV9YJmUtKSXOcxMqc_g"
+    },
+    "contentDetails": {
+        "videoId": "ZyhrYis509A",
+        "videoPublishedAt": "2010-08-20T16:35:21Z",
+        "duration": "PT3M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1120637170",
+        "likeCount": "6756632",
+        "favoriteCount": "0",
+        "commentCount": "374632"
+    }
+}

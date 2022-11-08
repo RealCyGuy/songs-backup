@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NDRDNzUzM0EyMTNFMEVE",
+    "snippet": {
+        "publishedAt": "2021-11-14T02:17:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3082\u307a\u3082\u307a",
+        "description": "//!--- This movie is NOT for children. ---!//\n\nArtist : LeaF https://soundcloud.com/leaf-7\nMovie : Optie https://twitter.com/Optie_f\n\nBMS\u30a4\u30d9\u30f3\u30c8 \u300cBOFU2017 - LEGENDA EST A MYTH -\u300d \u53c2\u52a0\u4f5c\u54c1\n\u30c1\u30fc\u30e0\u300c\u5b64\u9ad8\u30af\u30ed\u30fc\u30d0\u30fc\u300d\nhttp://www.bmsoffighters.net/bofu2017/\n\nhttp://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nC-bVtpIMd4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nC-bVtpIMd4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nC-bVtpIMd4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/nC-bVtpIMd4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/nC-bVtpIMd4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nC-bVtpIMd4"
+        },
+        "videoOwnerChannelTitle": "Optie Animation",
+        "videoOwnerChannelId": "UC__pB6x64-xQM6lma8lBM6g"
+    },
+    "contentDetails": {
+        "videoId": "nC-bVtpIMd4",
+        "videoPublishedAt": "2017-10-09T12:16:53Z",
+        "duration": "PT1M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "628298",
+        "likeCount": "33657",
+        "favoriteCount": "0",
+        "commentCount": "417"
+    }
+}

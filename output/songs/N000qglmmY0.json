@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRDU2RkY0MUEzQjVBMDg4",
+    "snippet": {
+        "publishedAt": "2022-01-06T00:43:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Dua Lipa - Levitating (Official Animated Music Video)",
+        "description": "The official animated music video for Dua Lipa - Levitating\n\nAnimation: NOSTALOOK\nCreative Director: Yu Tsubaki\nArt Director / Writer: Kenta Orisaka\nProducer: Yuta Ueno (TOKYO)\nSpecial thanks to Hiroyuki Sekiguchi, Sarika Takigawa (Warner Music Japan)\n\nTaken from her second studio album 'Future Nostalgia' released in 2020 which featured the hit singles 'Don't Star Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ?sub_confirmation=1\n\nFollow Dua Lipa:\nInstagram:  https://dualipa.co/instagram\nFacebook: http://dualipa.co/facebook\nTikTok: https://www.tiktok.com/@dualipaofficial\nTwitter: http://dualipa.co/twitter\nYouTube: https://dualipa.co/youtube\n\nAbout Dua Lipa:\nBorn and raised in London to Kosovar-Albanian parents Dua Lipa signed to Warner Records in 2015, releasing her self titled debut in 2017 which featured the hit singles, 'Be The One', 'IDGAF', 'Hotter Than Hell' & her first UK #1 hit 'New Rules'. \n\nCritical success soon followed as Dua Lipa picked up Brit Awards for 'Best Female Solo Artist' and 'Best British Breakthrough Act' as well as Grammy Awards for 'Best New Artist' and 'Best Dance Recording' for the track 'Electricity' in collaboration with Silk City.\n\nHer second internationally acclaimed studio album 'Future Nostalgia' was released in 2020 and included the hit singles 'Don't Start Now, 'Break My Heart', 'Hallucinate' and 'Levitating', with the remix album 'Club Future Nostalgia' following shortly after featuring guest appearances from 'Blackpink', 'Missy Elliott', 'Madonna' and 'Gwen Stefani'.\n\n#DuaLipa #Levitating #FutureNostalgia",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/N000qglmmY0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/N000qglmmY0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/N000qglmmY0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/N000qglmmY0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/N000qglmmY0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "N000qglmmY0"
+        },
+        "videoOwnerChannelTitle": "Dua Lipa",
+        "videoOwnerChannelId": "UC-J-KZfRV8c13fOCkhXdLiQ"
+    },
+    "contentDetails": {
+        "videoId": "N000qglmmY0",
+        "videoPublishedAt": "2021-09-13T13:46:23Z",
+        "duration": "PT3M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "16214742",
+        "likeCount": "535674",
+        "favoriteCount": "0",
+        "commentCount": "16444"
+    }
+}

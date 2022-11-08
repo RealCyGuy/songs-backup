@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44Njk2RTZGMTA3MUVGODc3",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:33:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Death Note - Coda",
+        "description": "Coda from Death Note.\n\nSince a lot of people have been asking for the picture, here it is: http://tinypic.com/r/2m7fdjr/6",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4d9ZWTjMo3Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4d9ZWTjMo3Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4d9ZWTjMo3Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "4d9ZWTjMo3Y"
+        },
+        "videoOwnerChannelTitle": "Bushwackedboy",
+        "videoOwnerChannelId": "UCKovwIhfQcKbFuMkUMuw0_w"
+    },
+    "contentDetails": {
+        "videoId": "4d9ZWTjMo3Y",
+        "videoPublishedAt": "2010-02-19T19:52:19Z",
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "276524",
+        "likeCount": "4669",
+        "favoriteCount": "0",
+        "commentCount": "503"
+    }
+}

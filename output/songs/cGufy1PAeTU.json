@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FMjFERkYxMjI2NjkyMjg5",
+    "snippet": {
+        "publishedAt": "2021-05-10T23:50:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Zelda Main Theme Song",
+        "description": "The Legend of Zelda Main Theme Song\nNintendo\nComposer: K\u014dji Kond\u014d\n (\u8fd1\u85e4 \u6d69\u6cbb Kond\u014d K\u014dji, born August 13, 1960) is a Japanese composer and musician best known for his scores for various Nintendo video games, particularly the Legend of Zelda series. He has worked on countless titles in the series, among them The Legend of Zelda, The Legend of Zelda: A Link to the Past, The Legend of Zelda: Link's Awakening, The Legend of Zelda: Ocarina of Time, The Legend of Zelda: Majora's Mask alongside Toru Minegishi, The Legend of Zelda: The Wind Waker assisted by Kenta Nagata, Hajime Wakai, and Toru Minegishi, and The Legend of Zelda: Twilight Princess with the help of Toru Minegishi and Asuka Ohta.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cGufy1PAeTU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cGufy1PAeTU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cGufy1PAeTU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "cGufy1PAeTU"
+        },
+        "videoOwnerChannelTitle": "hg Hannes-H",
+        "videoOwnerChannelId": "UCs3qTvaHwfBmDNo8pwLIJhA"
+    },
+    "contentDetails": {
+        "videoId": "cGufy1PAeTU",
+        "videoPublishedAt": "2010-02-07T14:02:05Z",
+        "duration": "PT3M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1780551",
+        "likeCount": "40110",
+        "favoriteCount": "0",
+        "commentCount": "2106"
+    }
+}

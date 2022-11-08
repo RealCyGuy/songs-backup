@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QkU3RjBCMjgzQUIzNjg2",
+    "snippet": {
+        "publishedAt": "2021-06-03T22:29:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Isabella's Lullaby - The Promised Neverland OST - Fingerstyle Guitar Cover",
+        "description": "My Fingerstyle Guitar Cover of Isabella's Lullaby from The Promised Neverland OST.\n\ud83c\udfa7 Stream my music: https://goo.gl/SHVkps \ud83c\udfb5 Guitar tabs: https://eddievdmeer.com/tabs\n\ud83c\udfa5 Check out my vlog channel! https://youtube.com/EVDMofficial\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u2714\ufe0f FOLLOW ME ON\n\nTwitter: https://twitter.com/EddievanderMeer\nInstagram: https://instagram.com/EddievanderMeer_\nDiscord: https://discord.gg/ZXKrfB2\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83c\udfb8 MY GEAR\n\nGuitar Gear: https://amzn.to/2Q2s5VN\nCamera Gear: https://amzn.to/2NzOa16\nAudio Gear: https://amzn.to/2O6Z4uV\nGuitars: https://eddievdmeer.com/guitars\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83c\udfa5 CAMERAMAN: Tripod, thank you Tripod!\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83c\udfb5 STREAM MY MUSIC\n\n(FREE) Spotify: https://spoti.fi/2cIWGWh\niTunes & Apple Music: https://apple.co/2dc1I0h\nGoogle Play Music: https://bit.ly/2cRNQIb\nAmazon Music: https://amzn.to/2cROmG4",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zc-zOZ-gBR8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zc-zOZ-gBR8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zc-zOZ-gBR8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zc-zOZ-gBR8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/zc-zOZ-gBR8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zc-zOZ-gBR8"
+        },
+        "videoOwnerChannelTitle": "Eddie van der Meer",
+        "videoOwnerChannelId": "UCCRb9Zn03QoEb8cnfwTOFTg"
+    },
+    "contentDetails": {
+        "videoId": "zc-zOZ-gBR8",
+        "videoPublishedAt": "2020-09-29T12:00:13Z",
+        "duration": "PT2M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "675666",
+        "likeCount": "28107",
+        "favoriteCount": "0",
+        "commentCount": "1674"
+    }
+}

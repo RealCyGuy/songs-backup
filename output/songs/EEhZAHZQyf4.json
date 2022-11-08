@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NEE1NUNFRUEwNzI1Q0Y0",
+    "snippet": {
+        "publishedAt": "2022-06-10T06:13:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ariana Grande - thank u, next (Official Lyric Video)",
+        "description": "https://arianagrande.lnk.to/thankunextYD",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EEhZAHZQyf4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EEhZAHZQyf4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EEhZAHZQyf4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EEhZAHZQyf4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EEhZAHZQyf4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EEhZAHZQyf4"
+        },
+        "videoOwnerChannelTitle": "ArianaGrandeVevo",
+        "videoOwnerChannelId": "UC0VOyT2OCBKdQhF3BAbZ-1g"
+    },
+    "contentDetails": {
+        "videoId": "EEhZAHZQyf4",
+        "videoPublishedAt": "2018-11-06T16:32:41Z",
+        "duration": "PT3M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "208118137",
+        "likeCount": "2291680",
+        "favoriteCount": "0",
+        "commentCount": "48252"
+    }
+}

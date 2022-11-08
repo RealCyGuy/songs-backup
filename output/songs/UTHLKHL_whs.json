@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NTU3MUQxMEE0NTMxREEy",
+    "snippet": {
+        "publishedAt": "2021-09-16T16:20:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video)",
+        "description": "Official video for \u201cIndustry Baby\u201d by Lil Nas X & Jack Harlow\n\nListen & Download \u201cIndustry Baby\u201d out now: https://lilnasx.lnk.to/IndustryBaby\n\nDonate to the Bail X Fund to help with cash bail around the country - http://bailxfund.com/\n\nhttps://freelilnasx.com/\n\nAmazon Music - https://lilnasx.lnk.to/IndustryBaby/amazonmusic\nApple Music - https://lilnasx.lnk.to/IndustryBaby/applemusic\nAudiomack - https://lilnasx.lnk.to/IndustryBaby/audiomack\nDeezer - https://lilnasx.lnk.to/IndustryBaby/deezer\niTunes - https://lilnasx.lnk.to/IndustryBaby/itunes\nSoundCloud - https://lilnasx.lnk.to/IndustryBaby/soundcloud\nSpotify - https://lilnasx.lnk.to/IndustryBaby/spotify\nYouTube Music - https://lilnasx.lnk.to/IndustryBaby/youtubemusic\n\nStory By: Lil Nas X\nDirector: Christian Breslauer\nProducer: Andrew Lerios\nProduction Company: London Alley\nExec Producer: Luga Podesta, Brandon Bonfiglio\nProducer/ Commissioner: Saul Levitz\nCreative Director / Stylist: Hodo Musa\nProduction Manager: Alex Randall\nDP: Elias Talbot\nProduction Design: Alex Delgado\nChoreographer: Sean Bankhead\nPost Producer: Ivan Ovalle\nEditor: Luis Caraza\nColorist: Matt Osborne\nFX: Cameo FX\nActing / Movement Coach (Lil Nas X): KJ Rose\nMakeup Artist (Lil Nas X): Grace Pae\nMakeup Effects Artist (Lil Nas X): Catherine Yuki\nMakeup Effects Artist (Lil Nas X): Sasha Glasser\nHairstylilst (Lil Nas X): Stacey Morris\n\nFollow Lil Nas X\nFacebook - https://www.facebook.com/LilNasX/\nInstagram - https://www.instagram.com/lilnasx/\nTwitter - https://twitter.com/LilNasX \nTikTok - https://www.tiktok.com/@lilnasx\nhttps://www.lilnasx.com/\n\nFollow Jack Harlow\nFacebook - https://www.facebook.com/handsomeharlow/\nInstagram - https://www.instagram.com/jackharlow\nTwitter - https://twitter.com/jackharlow\nTikTok - https://www.tiktok.com/@missionaryjack\n\n#LilNasX #JackHarlow #IndustryBaby",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UTHLKHL_whs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UTHLKHL_whs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UTHLKHL_whs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UTHLKHL_whs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UTHLKHL_whs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UTHLKHL_whs"
+        },
+        "videoOwnerChannelTitle": "LilNasXVEVO",
+        "videoOwnerChannelId": "UCtTfSyci2urfwXXu_eRpNRA"
+    },
+    "contentDetails": {
+        "videoId": "UTHLKHL_whs",
+        "videoPublishedAt": "2021-07-23T04:00:12Z",
+        "duration": "PT2M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "107817",
+        "likeCount": "950",
+        "favoriteCount": "0",
+        "commentCount": "59"
+    }
+}

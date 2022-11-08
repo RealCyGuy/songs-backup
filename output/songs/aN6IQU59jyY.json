@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNEQ3QTZEQzY1M0YwNjQz",
+    "snippet": {
+        "publishedAt": "2021-12-10T06:19:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ginger Root - \"Karaoke\" (Official Music Video)",
+        "description": "\"Karaoke\" is the first single off of Ginger Root's upcoming album, \"Rikki\", out this Fall on Acrophase Records.\n\nSpotify: http://bit.ly/GRkaraoke\nApple Music: https://apple.co/2TGVIkh\nMerch: https://www.gingerrootmusic.com/merch\n\nStarring\nMatthew Carney\nDylan Hovis\nCameron Lew\nMichael Keane\n\nDirector & Editor \u2022 Cameron Lew\nDirector of Cinematography \u2022 Seannie Bryan\nProduction Designer \u2022 Ashley Kron\n1st AC \u2022 Geffen Shichor\nArt Team \u2022 Jimmy Hua, Dylan Hovis, Matthew Carney\nSpecial Thanks to Acrophase Records\n\nhttps://www.instagram.com/gingerrootmusic/\nwww.gingerrootmusic.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aN6IQU59jyY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aN6IQU59jyY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aN6IQU59jyY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/aN6IQU59jyY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "aN6IQU59jyY"
+        },
+        "videoOwnerChannelTitle": "Ginger Root",
+        "videoOwnerChannelId": "UCkel1hn6h7FEtlCQnfcLctg"
+    },
+    "contentDetails": {
+        "videoId": "aN6IQU59jyY",
+        "videoPublishedAt": "2020-03-11T14:34:15Z",
+        "duration": "PT3M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "296247",
+        "likeCount": "9394",
+        "favoriteCount": "0",
+        "commentCount": "179"
+    }
+}

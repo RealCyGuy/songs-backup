@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wQjJBRjE1OTNDQjBDRUU4",
+    "snippet": {
+        "publishedAt": "2021-12-07T06:31:21Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "An Enigmatic Encounter [Remastered!] (Last Breath)",
+        "description": "Official (Kinda/Maybe) remastered version of An Enigmatic Encounter from Undertale: Last Breath\n\nSprites and Editing by me\n\nSong by Benlab Diablo Bohner:\nhttps://soundcloud.com/benlabthesecond/cock-cock-cock-remastered\nBen's Soundcloud:\nhttps://soundcloud.com/benlabthesecond\nPlease support him he really deserves it, give him a follow, a like, everything!\n(Or me and you won't be having a very good encounter)\nBen's Discord:\nhttps://discord.gg/3U56BZgM3e\n\nProof:\nhttps://ibb.co/0V9RPx4\n\nUndertale: Last Breath by Zerjox\n\nUndertale by Toby Fox\n\n#Undertale #Sans #AnEnigmaticEncounter #LastBreath #Megalovania",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GAb7DeG_O3Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GAb7DeG_O3Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GAb7DeG_O3Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GAb7DeG_O3Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GAb7DeG_O3Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GAb7DeG_O3Q"
+        },
+        "videoOwnerChannelTitle": "The Great Memer",
+        "videoOwnerChannelId": "UCZJL9_EXvJbkw7t6tszdbvA"
+    },
+    "contentDetails": {
+        "videoId": "GAb7DeG_O3Q",
+        "videoPublishedAt": "2020-12-15T22:25:38Z",
+        "duration": "PT4M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2465973",
+        "likeCount": "36713",
+        "favoriteCount": "0",
+        "commentCount": "2139"
+    }
+}

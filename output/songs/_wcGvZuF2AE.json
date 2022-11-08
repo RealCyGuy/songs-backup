@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xM0RGRjJEQzIwNDFENERF",
+    "snippet": {
+        "publishedAt": "2021-12-08T05:37:24Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u300cD4DJ First Mix\u300dOPENING (No Credits)",
+        "description": "Check out the Opening Animation for Anime\u300cD4DJ First Mix\u300d!\n\nWatch all episodes of\u300cD4DJ First Mix\u300dhere!\nSubbed: https://bit.ly/3xLnnmj\nEnglish Dubbed: https://bit.ly/38TI9FS\nSpanish Dubbed: https://bit.ly/3tTeBR8\n\n\"D4DJ Groovy Mix\" now available!\nDownload for free: https://app.adjust.com/6jldu3d\n\n\u266aSong Information:\n\"Guru Guru DJ Turn\"\nSong by: Happy Around! feat. KYOKO & SAKI\nComposed by: Kenichi Maeyamada\nLyrics by: Ko Nakamura\nArranged by: PandaBoY\n\n\u30fc \u2715 \u30fc\n\n#D4DJ! Presenting a new and different media mix project where we mix together DJ LIVE \u00d7 ANIME \u00d7 GAME!\n\nOfficial Website: https://en.d4dj-pj.com\nOfficial Twitter: https://twitter.com/D4DJ_pj_EN\nOfficial Facebook: https://www.facebook.com/D4DJProjectEN\nOfficial Instagram: https://www.instagram.com/d4dj_global\n\n\u266a Rhythm App Game\u300cD4DJ Groovy Mix\u300dComing 2021!\n\u266a Anime\u300cD4DJ First Mix\u300d Now on YouTube!\n\nSubscribe to our channel for more \"D4DJ\" contents! \u266a\nFollow us on Facebook, Twitter and Instagram for upcoming news!\n\nStay Tuned \u266a ~\n\n#D4DJ #FirstMix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_wcGvZuF2AE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_wcGvZuF2AE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_wcGvZuF2AE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_wcGvZuF2AE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_wcGvZuF2AE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_wcGvZuF2AE"
+        },
+        "videoOwnerChannelTitle": "D4DJ English Channel",
+        "videoOwnerChannelId": "UCbuCfr-ys8-owEB5gNzOkxA"
+    },
+    "contentDetails": {
+        "videoId": "_wcGvZuF2AE",
+        "videoPublishedAt": "2020-10-19T19:00:04Z",
+        "duration": "PT1M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4421817",
+        "likeCount": "171661",
+        "favoriteCount": "0",
+        "commentCount": "4861"
+    }
+}

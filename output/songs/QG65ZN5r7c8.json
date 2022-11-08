@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RDJENUVBQUYzMjQ5MDJB",
+    "snippet": {
+        "publishedAt": "2021-11-10T02:06:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u9b54\u52d5\u9583\u9738 -\u3010\u5c0d\u624b\u3011x \u592a\u4e00 -\u3010Lutra\u3011x  Corsak -\u3010\u6eaf\u3011x \u4e43\u842c-\u3010\u98a8\u7684\u984f\u8272\u3011| Cover Yun , 7en , \u4e09\u4edf , Ariel  | Pocats Studio",
+        "description": "#\u6bcf\u5468\u4e94\u665a\u4e0a7\u9ede\u767c\u5e03\u65b0\u5f71\u7247 #\u6296\u97f3\u200b #PocatsStudio\u200b\u200b\u200b #\u5c0d\u624b #Lutra #\u6eaf #\u98a8\u7684\u984f\u8272\u200b\n\n\ud83d\udd14 \u8a02\u95b1Pocats Studio\u983b\u9053\ud83d\udd14 :\nhttps://www.youtube.com/channel/UCOAX...\n\n\ud83c\udfa7 Pocats Studio IG  :\nhttps://instagram.com/pocats_studio?i...\n\n\ud83c\udfa4 Yun IG  :\nhttps://instagram.com/kaoyunhsin?igsh...\n\n\ud83c\udfa4 7en IG  :\nhttps://www.instagram.com/7en_mii/\n\n\ud83c\udfa4 \u4e09\u4edf IG  :\nhttps://www.instagram.com/ocy3000/?hl...\n\n\ud83c\udfa4 Ariel IG  :\nhttps://www.instagram.com/arii.iz/\n\n-----------------------------------------------------\n\n\u97f3\u6a02\u88fd\u4f5c : Pocats Studio\n\u5f71\u50cf\u88fd\u4f5c : Pocats Studio\n\n\u273b\u7279\u5225\u611f\u8b1d\uff1a\u70ab\u97f3\u6a02WoodenStudio\n\n\u273b\u5408\u4f5c\u9080\u7d04 \u6216 \u806f\u7d61\u6211\u5011 \u8acb\u6d3demail :\npocatsstudio@gmail.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/QG65ZN5r7c8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/QG65ZN5r7c8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/QG65ZN5r7c8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/QG65ZN5r7c8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/QG65ZN5r7c8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QG65ZN5r7c8"
+        },
+        "videoOwnerChannelTitle": "Pocats Studio",
+        "videoOwnerChannelId": "UCOAX3fXsa30WiG6HHR5Fg_A"
+    },
+    "contentDetails": {
+        "videoId": "QG65ZN5r7c8",
+        "videoPublishedAt": "2021-05-14T11:00:15Z",
+        "duration": "PT3M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "273945",
+        "likeCount": "3269",
+        "favoriteCount": "0",
+        "commentCount": "137"
+    }
+}

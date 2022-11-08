@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CQkIyMUJFOUM2QzJERTlC",
+    "snippet": {
+        "publishedAt": "2022-04-17T04:04:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shotgun Willy x Yung Craka - Respected Man (Official Music Video)",
+        "description": "Made this song 2 years ago, very cool very nice.\nFollow my IG: https://www.instagram.com/shotgunwilly\nEdit by: https://twitter.com/ArchieMcW\n\nYung Craka: https://www.youtube.com/channel/UCQJJKNjy-t_Yqf5w7M2D3PA\n\nProd. Jos\n\nShotgun Willy\nInstagram: https://www.instagram.com/shotgunwilly/\nTwitter: https://twitter.com/RaspyBoi\nDiscord: Discord.gg/GFR\nSpotify: https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w?si=6jJamkTlS3usxvX4fj2_xg\nSoundCloud: https://soundcloud.com/shotgunwilly\u200b",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-u3NXWgQpjY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-u3NXWgQpjY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-u3NXWgQpjY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-u3NXWgQpjY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-u3NXWgQpjY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-u3NXWgQpjY"
+        },
+        "videoOwnerChannelTitle": "Shotgun Willy",
+        "videoOwnerChannelId": "UCTg6Jny4X_LteWGccXf596Q"
+    },
+    "contentDetails": {
+        "videoId": "-u3NXWgQpjY",
+        "videoPublishedAt": "2021-04-02T18:45:01Z",
+        "duration": "PT2M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8944919",
+        "likeCount": "138744",
+        "favoriteCount": "0",
+        "commentCount": "5647"
+    }
+}

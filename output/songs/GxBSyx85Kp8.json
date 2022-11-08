@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RTg2QTYzQzU0QkNFMDdB",
+    "snippet": {
+        "publishedAt": "2021-09-23T05:51:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Usher - Yeah! (Official Video) ft. Lil Jon, Ludacris",
+        "description": "Official HD Video for \"Yeah!\" by Usher feat. Lil Jon & Ludacris\nListen to Usher: https://Usher.lnk.to/listenYD\n\nSubscribe to the official Usher YouTube channel: https://Usher.lnk.to/subscribeYD\n\nWatch more Usher videos: https://Usher.lnk.to/listenYC/youtube\n\nFollow Usher:\nFacebook: https://Usher.lnk.to/followFI\nInstagram: https://Usher.lnk.to/followII\nTwitter: https://Usher.lnk.to/followTI\nWebsite: https://Usher.lnk.to/followWI\nSpotify: https://Usher.lnk.to/followSI\nYouTube: https://Usher.lnk.to/subscribeYD\n\nChorus:\n(Yeah!) Yeah!\nShorty got down low said, come and get me\n(Yeah!) Yeah!\nI got so caught up, I forgot she told me\n(Yeah!) Yeah!\nHer and my girl, they used to be the best of homies\n(Yeah!) Yeah!\nNext thing I knew, she was all up on me screaming\nYeah (Yeah!) yeah (Yeah!) yeah, yeah!\nYeah (Yeah!) yeah (Yeah!) yeah, yeah!\n\n#Usher #Yeah #LilJon #Ludacris #Confessions #HD #Remastered",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GxBSyx85Kp8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GxBSyx85Kp8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GxBSyx85Kp8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GxBSyx85Kp8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GxBSyx85Kp8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GxBSyx85Kp8"
+        },
+        "videoOwnerChannelTitle": "UsherVEVO",
+        "videoOwnerChannelId": "UCU8hEdjK8u27TM7KA8JVIEw"
+    },
+    "contentDetails": {
+        "videoId": "GxBSyx85Kp8",
+        "videoPublishedAt": "2015-04-17T11:13:22Z",
+        "duration": "PT2M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "457116",
+        "likeCount": "17458",
+        "favoriteCount": "0",
+        "commentCount": "1257"
+    }
+}

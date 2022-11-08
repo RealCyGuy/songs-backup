@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43REE1OThCMjdFRjcxREU1",
+    "snippet": {
+        "publishedAt": "2021-12-10T07:05:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Engelwood - Crystal Dolphin (Official Music Video)",
+        "description": "Ayeee we finally made an official music video for crystal dolphin. \n\nhttps://engelwoood.lnk.to/yachtworld\n\nAnimation by: Ardhira Putra\n\nFollow:\nFacebook: https://www.facebook.com/EngelwoodMusic\nInstagram: https://www.instagram.com/engelwood/\nTwitter: https://twitter.com/engelwoood\nBandcamp: https://engelwood.bandcamp.com/\n\nHope you all enjoy this, Ardhira worked on this for 5 months so please give him a follow on his instagram and check him out! Also of course shoutout to the legend Kingo Hamada \ud83d\udc2c \n\nMuch love everyone \ud83d\ude0e \n\n#engelwood #crystaldolphin #yachtworld",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UXiwRmlCZ7E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UXiwRmlCZ7E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UXiwRmlCZ7E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UXiwRmlCZ7E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UXiwRmlCZ7E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UXiwRmlCZ7E"
+        },
+        "videoOwnerChannelTitle": "Engelwood",
+        "videoOwnerChannelId": "UCvMSfEUGzvqv9RsXJYK_BiA"
+    },
+    "contentDetails": {
+        "videoId": "UXiwRmlCZ7E",
+        "videoPublishedAt": "2021-02-24T19:00:14Z",
+        "duration": "PT1M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4209456",
+        "likeCount": "215384",
+        "favoriteCount": "0",
+        "commentCount": "4630"
+    }
+}

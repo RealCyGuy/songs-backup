@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RkREQzUwNTUxQUUwNUEy",
+    "snippet": {
+        "publishedAt": "2022-01-02T07:57:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ed Sheeran - Happier [Official Audio]",
+        "description": "The official audio for Ed Sheeran - Happier\n \nTaken from the studio album \u00f7 (divide) released in 2017, which featured the hit singles 'Castle on the Hill', 'Shape of You', 'Galway Girl', \u2018Perfect\u2019 & 'Happier'. \n \nSubscribe to the Ed Sheeran channel for all the best and latest official music videos, behind the scenes and live performances.\u202f \nhttp://bit.ly/SubscribeToEdSheeran \n \nSee more official videos from Ed Sheeran here: \nhttps://www.youtube.com/watch?v=ryJgDL9jzKk&list=PLjp0AEEJ0-fGKG_3skl0e1FQlJfnx-TJz \n\nListen to more from the album \u00f7 (divide): https://www.youtube.com/playlist?list=PLjp0AEEJ0-fGi7bkjrGhBLUF9NMraL9cL \n \nFollow Ed Sheeran on:\nFacebook: http://www.facebook.com/EdSheeranMusic  \nTwitter: http://twitter.com/edsheeran  \nInstagram: http://instagram.com/teddysphotos  \nOfficial Website: http://edsheeran.com  \n\n-- | LYRICS | --\n\nWalking down 29th and park\nI saw you in another\u2019s arms\nOnly a month we\u2019ve been apart\nYou look happier\n\nSaw you walk inside a bar\nHe said something to make you laugh\nI saw that both your smiles were twice as wide as ours\nYeah you look happier, you do\n\nAin\u2019t nobody hurt you like I hurt you\nBut ain\u2019t nobody love you like I do\nPromise that I will not take it personal baby\nIf you\u2019re moving on with someone new\n\nCause baby you look happier, you do\nMy friends told me one day I\u2019ll feel it too\nAnd until then I\u2019ll smile to hide the truth\nBut I know I was happier with you\n\nSat in the corner of the room\nEverything\u2019s reminding me of you\nNursing an empty bottle and telling myself you\u2019re happier\nAren\u2019t you?\n\nAin\u2019t nobody hurt you like I hurt you\nBut ain\u2019t nobody need you like I do\nI know that there\u2019s others that deserve you\nBut my darling I am still in love with you\n\nBut I guess you look happier, you do\nMy friends told me one day I\u2019ll feel it too\nI could try to smile to hide the truth\nBut I know I was happier with you\n\nBaby you look happier, you do\nI knew one day you\u2019d fall for someone new\nBut if he breaks your heart like lovers do\nJust know that I\u2019ll be waiting here for you \n\nAbout Ed Sheeran: \nEd Sheeran\u202fmay be the quintessential pop star of the 2010s: an internationally acclaimed, multi-award winning singer/songwriter who seems to acknowledge no boundaries between styles or eras with elements of folk, hip-hop, pop, dance, soul, and rock woven throughout his music. \n\nHis incredible catalogue includes the studio albums \u2018+\u2019 (plus), \u2018x\u2019 (multiply) and \u2018\u00f7\u2019 (divide) which spawned hit singles such as \u2018The A team\u2019 , \u2019Lego House\u2019, \u2018Sing', \u2018Thinking Out Loud\u2019, \u2018Photograph\u2019, \u2018Shape Of You\u2019, \u2018Castle on The Hill\u2019 and \u2018Perfect\u2019. \n \nIn 2019, Ed Sheeran released the genre-spanning \u2018No.6 Collaborations Project\u2019 which featured a wide-range of artists including \u2018Justin Bieber\u2019, \u2018Camilla\u2019 Cabello\u2019, \u2018Travis Scott\u2019, \u2018Eminem\u2019, \u2018Cardi B, \u2018Paulo Londra\u2019, \u2018Bruno Mars\u2019 and \u2018Stormzy\u2019 amongst many others, producing hits such as \u2018I Don\u2019t Care\u2019, \u2018Beautiful People\u2019, \u2018South of The Border\u2019 and \u2018Take Me Back To London\u2019. \n \n#EdSheeran #Happier #divide",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8TpcBDJZsJA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8TpcBDJZsJA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8TpcBDJZsJA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8TpcBDJZsJA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8TpcBDJZsJA"
+        },
+        "videoOwnerChannelTitle": "Ed Sheeran",
+        "videoOwnerChannelId": "UC0C-w0YjGpqDXGB8IHb662A"
+    },
+    "contentDetails": {
+        "videoId": "8TpcBDJZsJA",
+        "videoPublishedAt": "2017-03-03T07:10:00Z",
+        "duration": "PT3M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "142913508",
+        "likeCount": "739354",
+        "favoriteCount": "0",
+        "commentCount": "20167"
+    }
+}

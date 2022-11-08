@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zODMyNzgxRTc3QzBBMjJE",
+    "snippet": {
+        "publishedAt": "2021-06-01T05:44:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u602a\u7269\uff08YOASOBI\uff09\uff0f\u307e\u3075\u307e\u3075\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011",
+        "description": "\u3053\u306e\u9593\u9055\u3044\u3060\u3089\u3051\u306e\u4e16\u754c\u306e\u4e2d\n\nYOASOBI\u69d8\u306e\u300e\u602a\u7269\u300f\u3092\u6b4c\u308f\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3057\u305f\u3002\n\n\u672c\u5bb6\u69d8\u3000https://www.youtube.com/watch?v=dy90tA3TT1c\n\n\u7d75\u3000Lyon\u3000https://twitter.com/DeabanNero\n\u6620\u50cf\u3000MONO-Devoid\u3000https://twitter.com/DevoidFire\n\n\u6b4c\uff0fMix\u3000\u307e\u3075\u307e\u3075\u3000https://twitter.com/uni_mafumafu\n\n#\u307e\u3075\u307e\u3075\n#\u6b4c\u3063\u3066\u307f\u305f",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/iCu1ljyO4XA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/iCu1ljyO4XA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/iCu1ljyO4XA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/iCu1ljyO4XA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/iCu1ljyO4XA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "iCu1ljyO4XA"
+        },
+        "videoOwnerChannelTitle": "\u307e\u3075\u307e\u3075\u3061\u3083\u3093\u306d\u308b",
+        "videoOwnerChannelId": "UCOTR1tcOAhjgi6YukrPpZxg"
+    },
+    "contentDetails": {
+        "videoId": "iCu1ljyO4XA",
+        "videoPublishedAt": "2021-05-25T09:00:21Z",
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6040099",
+        "likeCount": "216204",
+        "favoriteCount": "0",
+        "commentCount": "6716"
+    }
+}

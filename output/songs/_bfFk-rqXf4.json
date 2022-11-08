@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRUM3OTg0RjRFRTU5MEVG",
+    "snippet": {
+        "publishedAt": "2021-10-05T05:21:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ENGLISH COVER \u3010Original Genshin Fansong\u3011\u8ba9\u98ce\u544a\u8bc9\u4f60 (Let The Wind Tell You)",
+        "description": "\ud83c\udf87 Happy Lantern Rite! \ud83c\udf87\n\nThank you so much to Eva, PJ, and Shigeru for joining me in this beautiful cover. We all worked really hard on this the past few days, we hope you enjoy! Please check out the original if you haven't already! \n\n\u2661 Klee: Evava https://www.youtube.com/channel/UCjHqysMyVuKS0djTRRiUiGQ\n\u2661 Venti: Strawdere https://www.youtube.com/channel/UCNAFxkzBOt-lnETVIFKvuMg\n\u2661 Qiqi: StrawberrySana\n\u2661 Xiao: ShiSakun https://www.youtube.com/channel/UCEPz7qJRNuQ8EL-lggJXZpQ\n\n\u2661 English lyrics: Sana (Feel free to use my lyrics as long as you provide credit~)\n\u2661 Mix: Shigeru\n\u2661 Original by ChiliChill & Kurattes: https://youtu.be/KrNUrgaOsCc",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_bfFk-rqXf4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_bfFk-rqXf4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_bfFk-rqXf4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_bfFk-rqXf4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_bfFk-rqXf4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_bfFk-rqXf4"
+        },
+        "videoOwnerChannelTitle": "StrawberrySana",
+        "videoOwnerChannelId": "UCkrP4jIbdp5VaL0GCLKdluQ"
+    },
+    "contentDetails": {
+        "videoId": "_bfFk-rqXf4",
+        "videoPublishedAt": "2021-02-20T09:07:17Z",
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2145505",
+        "likeCount": "84285",
+        "favoriteCount": "0",
+        "commentCount": "2883"
+    }
+}

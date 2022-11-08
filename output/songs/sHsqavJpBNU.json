@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NDIzMEVBNjk5NTFGRDZC",
+    "snippet": {
+        "publishedAt": "2021-05-13T04:48:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YOASOBI\u300c\u591c\u306b\u99c6\u3051\u308b(Into The Night)\u300d8bit\u98a8\u30a2\u30ec\u30f3\u30b8",
+        "description": "\u3059\u3063\u304b\u308a\u30cf\u30de\u3063\u3066\u3057\u307e\u3044\u3001\u4e00\u6669\u99c6\u3051\u3066\u4f5c\u308a\u307e\u3057\u305f\u3002\n\n\u25bc\nmamma(\u307e\u3093\u307e)\u3068\u7533\u3057\u307e\u3059\u3002\n\u3044\u3064\u3082\u305f\u304f\u3055\u3093\u306e\u9ad8\u8a55\u4fa1\u3084\u30b3\u30e1\u30f3\u30c8\u3001\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\nYouTube\u3067\u306f\u69d8\u3005\u306a\u66f2\u30928bit\u98a8\u97f3\u6e90\u3067\u30a2\u30ec\u30f3\u30b8\u3057\u305f\u30aa\u30ea\u30b8\u30ca\u30ebMV\u3092\u6295\u7a3f\u3057\u3066\u3044\u307e\u3059\u3002\n\nIllustration & Movie & Music Coverd\n\u3000\u3000\u3000\u3000\u3000by mamma\n\n\u25bc\u9023\u7d61\u5148\nTwitter  \uff1ahttps://twitter.com/_mamma09_\nMail\uff1a\u3000mammatune.biz@gmail.com\n\n\n\u25bc\u30aa\u30b9\u30b9\u30e1\u52d5\u753b\u2460\u300c\u602a\u7269\u300d8bit\u98a8\u30a2\u30ec\u30f3\u30b8\nhttps://youtu.be/ZLpjCphU5cw\n\n\n\u25bc\u30aa\u30b9\u30b9\u30e1\u52d5\u753b\u2461\u300c\u3084\u3055\u3057\u3044\u5f57\u661f\u300d8bit\u98a8\u30a2\u30ec\u30f3\u30b8\nhttps://youtu.be/UywHNBpnNqw\n\n\n#YOASOBI #\u591c\u306b\u99c6\u3051\u308b\u3000#\u30c1\u30c3\u30d7\u30c1\u30e5\u30fc\u30f3",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sHsqavJpBNU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sHsqavJpBNU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sHsqavJpBNU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sHsqavJpBNU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/sHsqavJpBNU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "sHsqavJpBNU"
+        },
+        "videoOwnerChannelTitle": "\u307e\u3093\u307e\u30c1\u30e5\u30fc\u30f3 / mammaTune",
+        "videoOwnerChannelId": "UCAMuDTJHAv0mrIty1lcxkmA"
+    },
+    "contentDetails": {
+        "videoId": "sHsqavJpBNU",
+        "videoPublishedAt": "2020-05-19T04:25:24Z",
+        "duration": "PT5M18S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6797524",
+        "likeCount": "88581",
+        "favoriteCount": "0",
+        "commentCount": "5099"
+    }
+}

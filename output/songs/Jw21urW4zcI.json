@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43NkJFQTEwMkMxOEY2RkEw",
+    "snippet": {
+        "publishedAt": "2022-02-02T07:49:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "We Don't Talk About Bruno - Medieval Cover / Bardcore",
+        "description": "#bardcore #tavernwave #medieval #medievaltiktok\n\nFrom \"Encanto\"\nOriginally perfomed by Adassa, Stephanie Beatriz, Mauro Castillo, Rhenzy Feliz, Carolina Gait\u00e1n and Diane Guerrero\n\nMedieval instrument cover\n\nWant some Stantough bardcore medieval merchandise?\nhttps://bardcorestore.com\n\nYoutube: http://www.youtube.com/stantough",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Jw21urW4zcI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Jw21urW4zcI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Jw21urW4zcI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Jw21urW4zcI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Jw21urW4zcI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Jw21urW4zcI"
+        },
+        "videoOwnerChannelTitle": "stantough",
+        "videoOwnerChannelId": "UCEnoLUrcZRE7vngub68Al-A"
+    },
+    "contentDetails": {
+        "videoId": "Jw21urW4zcI",
+        "videoPublishedAt": "2022-01-22T12:00:21Z",
+        "duration": "PT2M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "83768353",
+        "likeCount": "2288908",
+        "favoriteCount": "0",
+        "commentCount": "54399"
+    }
+}

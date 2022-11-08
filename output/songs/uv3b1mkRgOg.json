@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMkNFMjVBNzFDQTZBM0E4",
+    "snippet": {
+        "publishedAt": "2021-09-10T01:25:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BEAUTIFUL MISTAKES - MAROON 5 | Piano Cover + Sheet Music",
+        "description": "\u266b SHEET MUSIC is Available Here: http://bit.ly/FPM_BeautifulMistakes\n\ud83d\udc4d Thumbs up, SUBSCRIBE and click the \ud83d\udd14 for more contents: https://bit.ly/FPSubscribe\n\ud83c\udfb9 Want to learn the piano? This is the app for you! https://bit.ly/FPM_Skoove\n\nThis brand new single by Maroon 5 feat. Megan Thee Stallion was too catchy not to make a piano cover out of it! Actually it's a flash arrangement because the song was released only a few days ago... Beautiful Mistakes is ready for you guys!\n\n\u25cf Check my TUTORIAL of this arrangement here: https://youtu.be/UnFceVfIi_A\n\nFind me on:\n\ud83c\udfa7 Spotify: https://bit.ly/FPM_Spotify \n\ud83c\udfa7 iTunes: https://bit.ly/FPM_iTunes\n\ud83c\udfa7 Deezer: https://bit.ly/FPM_Deezer\n\ud83c\udfa7 Youtube Music: http://bit.ly/FPM_YoutubeMusic\n\n\u25cf TUTORIALS, Extras, Bloopers, Live: https://bit.ly/FPM_TutorialsExtras\n\u25cf All my SCORES: https://bit.ly/FPM_SheetMusic\n\u25cf Full Discography: https://bit.ly/FPM_Discography\n\u25cf Website: https://bit.ly/FrancescoParrinoMusic\n\u25cf MIDI files: https://bit.ly/FPM_Media\n\u25cf My Piano and tech setup: https://bit.ly/FPM_MyPiano\n\u25cf Check my new Classical Channel: https://bit.ly/FPM_ClassicalSub\n\n\u25cf Let's connect on Facebook: http://bit.ly/FPM-Facebook\n\u25cf Or Instagram: http://bit.ly/FPM-Instagram\n\n#Maroon5 #BeautifulMistakes #SheetMusic",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/uv3b1mkRgOg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/uv3b1mkRgOg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/uv3b1mkRgOg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/uv3b1mkRgOg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/uv3b1mkRgOg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "uv3b1mkRgOg"
+        },
+        "videoOwnerChannelTitle": "Francesco Parrino",
+        "videoOwnerChannelId": "UCQ8THdZnqPVoLN9zuT-pjBg"
+    },
+    "contentDetails": {
+        "videoId": "uv3b1mkRgOg",
+        "videoPublishedAt": "2021-03-19T11:43:01Z",
+        "duration": "PT3M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "93341",
+        "likeCount": "2232",
+        "favoriteCount": "0",
+        "commentCount": "136"
+    }
+}

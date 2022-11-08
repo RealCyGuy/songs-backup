@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43QTJBOUE5QUZDOUExNjI2",
+    "snippet": {
+        "publishedAt": "2022-02-03T04:58:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+        "description": "Download the new Furious 7 Soundtrack Deluxe Version on iTunes here: https://apple.co/3paGCzN\n\nSee Wiz on tour http://wizkhalifa.com/tour\n\nTag \u202a#\u200eSeeYouAgain\u202c on Shazam and get an exclusive behind the scenes look at the music video!\n\nGet official merch here: http://atlr.ec/OfficialWKMerchYT\n\nStream Furious 7 on Spotify: http://smarturl.it/streamFurious7\n\nListen on Apple Music: https://apple.co/3r503MR\n\nDirected by: Marc Klasfeld\n\nFollow Wiz:\n\u25baSubscribe to channel: http://goo.gl/y3Bnno\n\u25baTwitter - https://twitter.com/wizkhalifa\n\u25baFacebook - https://facebook.com/wizkhalifa\n\u25baInstagram - https://instagram.com/mistercap\n\u25baSoundcloud - https://soundcloud.com/wizkhalifa\n\u25baWebsite: http://wizkhalifa.com\n\u25baTaylor Gang: http://taylorgang.com\n\nFollow Charlie Puth:\n\u25baSubscribe to channel: https://www.youtube.com/charlieputh\n\u25baTwitter - https://twitter.com/charlieputh\n\u25baFacebook - https://www.facebook.com/charlieputh\n\u25baInstagram - http://instagram.com/charlieputh\n\u25baSoundcloud - https://soundcloud.com/charlieputh\n\u25baWebsite: http://charlieputh.com/\n\nWiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RgKAFK5djSk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RgKAFK5djSk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RgKAFK5djSk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/RgKAFK5djSk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/RgKAFK5djSk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "RgKAFK5djSk"
+        },
+        "videoOwnerChannelTitle": "Wiz Khalifa Music",
+        "videoOwnerChannelId": "UCLxOm-UQ1gtyQgfz8Rn34iQ"
+    },
+    "contentDetails": {
+        "videoId": "RgKAFK5djSk",
+        "videoPublishedAt": "2015-04-07T03:00:03Z",
+        "duration": "PT3M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "5683374647",
+        "likeCount": "39499918",
+        "favoriteCount": "0",
+        "commentCount": "2116855"
+    }
+}

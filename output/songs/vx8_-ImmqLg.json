@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44NzMxMEU3Nzc2OTJENzgw",
+    "snippet": {
+        "publishedAt": "2021-11-26T07:15:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "L O V E  (Cover)",
+        "description": "After making the clip Fly me to the moon we had so much fun, so we decided to make another one! \n\nHope you guys enjoy this version as much as we do :D\nPring & Tay (Toey)\n\nfollow us at\nPrink: https://www.facebook.com/Prinkclub\nTay: https://www.instagram.com/toey_papanin/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vx8_-ImmqLg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vx8_-ImmqLg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vx8_-ImmqLg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/vx8_-ImmqLg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vx8_-ImmqLg"
+        },
+        "videoOwnerChannelTitle": "Kpapanin",
+        "videoOwnerChannelId": "UCy81eSDUm-hfKQdh9CWrPjg"
+    },
+    "contentDetails": {
+        "videoId": "vx8_-ImmqLg",
+        "videoPublishedAt": "2021-11-20T03:00:32Z",
+        "duration": "PT2M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "230809",
+        "likeCount": "24045",
+        "favoriteCount": "0",
+        "commentCount": "1313"
+    }
+}

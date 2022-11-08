@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40REVDOEEzRkJGMkVBRDQw",
+    "snippet": {
+        "publishedAt": "2022-02-13T07:02:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "We Don't Talk About Havana (mashup) - Encanto Cast + Camila Cabello",
+        "description": "DOWNLOAD: https://drive.google.com/file/d/1vcIesFZDF96NWXCrarF2iLpebzDNXyOG/view?usp=sharing\n\nThis mashup has been done before, but I decided to show my own take on this combination of songs\n\nMashup of:\nWe Don't Talk About Bruno by Carolina Gait\u00e1n, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero & Stephanie Beatriz (instrumental/acapella)\nHavana by Camila Cabello ft. Young Thug (instrumental/acapella)\n\nInstagram: @danielkendallmashups\nTiktok: @daniel_kendall\nJoin my discord server! http://discord.gg/KD8TTqW\nRequest a mashup here: https://forms.gle/3Wq2eYdiPoj6uxdD9\nDownload my mashups here: http://bit.do/dkmashups",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zATGDBTk5xs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zATGDBTk5xs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zATGDBTk5xs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zATGDBTk5xs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/zATGDBTk5xs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zATGDBTk5xs"
+        },
+        "videoOwnerChannelTitle": "Daniel Kendall",
+        "videoOwnerChannelId": "UClTT4Mf-Wh_fu5CKv2vt1eQ"
+    },
+    "contentDetails": {
+        "videoId": "zATGDBTk5xs",
+        "videoPublishedAt": "2022-01-23T03:56:53Z",
+        "duration": "PT3M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3227934",
+        "likeCount": "133076",
+        "favoriteCount": "0",
+        "commentCount": "2957"
+    }
+}

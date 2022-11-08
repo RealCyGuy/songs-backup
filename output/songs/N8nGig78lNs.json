@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QjU5NjAzNDk3M0NBQzky",
+    "snippet": {
+        "publishedAt": "2022-02-24T06:55:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Snail's House - Hot Milk",
+        "description": "Official upload of Snail's House - \"Hot Milk\"\n\nListen to this song on Spotify : https://open.spotify.com/track/4mCwspCTPF1aoWUNxsS5aD?si=lwxsPCogRcOmbRyVhn2q9g\n\nread this policy if you're intending to use my songs on your channel : https://www.facebook.com/ujicosnaily/posts/512900315718340\n\nGet this song on Bandcamp: https://0101.bandcamp.com/album/ordinary-songs-2\n\nArtwork : Koizumihazuki http://twitter.com/koizumihazuki\n\nfollow me on Twitter/Facebook/Soundcloud\n\nhttp://twitter.com/loudnessfete\nhttp://facebook.com/ujicosnaily\nhttp://soundcloud.com/ujico",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/N8nGig78lNs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/N8nGig78lNs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/N8nGig78lNs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/N8nGig78lNs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/N8nGig78lNs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "N8nGig78lNs"
+        },
+        "videoOwnerChannelTitle": "Ujico*/Snail's House",
+        "videoOwnerChannelId": "UCYxBY8mhJ7R2rMIcQ28H_Zw"
+    },
+    "contentDetails": {
+        "videoId": "N8nGig78lNs",
+        "videoPublishedAt": "2017-09-19T22:46:43Z",
+        "duration": "PT4M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "23676131",
+        "likeCount": "576369",
+        "favoriteCount": "0",
+        "commentCount": "26403"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EQTdFNDU3M0Y3MTM1QjlG",
+    "snippet": {
+        "publishedAt": "2021-05-10T23:35:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Deal With the Devil (Kakegurui Op)\u3010ENGLISH COVER\u3011",
+        "description": "oh lordy lord i had to export this so many times and after effects crashed so many times. hopefully i can start pumping these out more regularly, we will see! i do have another cover fully mixed, just needs to be edited~! thank you guys for stopping by! THIS IS FOR THE ONE FELLA WHO REQUESTED THIS SONG! SHOUT OUT TO YOU!\n_____________\naudio mixing: https://www.youtube.com/user/killrapbat \n\nvisual editing/ english lyrics/ vocals: you're here fella :)\n_____________\n Follow me on Twitter!:\nhttps://twitter.com/peachumari\n_____________\n\nif you're reading this, hi :) love you.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/b2NjgShVZ2A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/b2NjgShVZ2A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/b2NjgShVZ2A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/b2NjgShVZ2A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/b2NjgShVZ2A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "b2NjgShVZ2A"
+        },
+        "videoOwnerChannelTitle": "Peachumari",
+        "videoOwnerChannelId": "UCl_4EKcP80dmxYoxZdwGEUw"
+    },
+    "contentDetails": {
+        "videoId": "b2NjgShVZ2A",
+        "videoPublishedAt": "2020-07-17T07:59:19Z",
+        "duration": "PT4M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "164544",
+        "likeCount": "5454",
+        "favoriteCount": "0",
+        "commentCount": "233"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44NjA0NUI5NkNFRDRDM0Iw",
+    "snippet": {
+        "publishedAt": "2021-11-21T17:16:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Beach Boys - Good Vibrations",
+        "description": "Lyrics:\n\nI, I love the colorful clothes she wears\nAnd the way the sunlight plays upon her hair\nI hear the sound of a gentle word\nOn the wind that lifts her perfume through the air\n\nIm pickin up good vibrations\nShes giving me excitations\nIm pickin up good vibrations\n(oom bop bop good vibrations)\nShes giving me excitations\n(oom bop bop excitations)\nGood good good good vibrations\n(oom bop bop)\nShes giving me excitations\n(oom bop bop excitations)\nGood good good good vibrations\n(oom bop bop)\nShes giving me excitations\n(oom bop bop excitations)\n\nClose my eyes\nShes somehow closer now\nSoftly smile, I know she must be kind\nWhen I look in her eyes\nShe goes with me to a blossom world\n\nIm pickin up good vibrations\nShes giving me excitations\nIm pickin up good vibrations\n(oom bop bop good vibrations)\nShes giving me excitations\n(oom bop bop excitations)\nGood good good good vibrations\n(oom bop bop)\nShes giving me excitations\n(oom bop bop excitations)\nGood good good good vibrations\n(oom bop bop)\nShes giving me excitations\n(oom bop bop excitations)\n\n(ahhhhhhh)\n(ah my my what elation)\nI dont know where but she sends me there\n(ah my my what a sensation)\n(ah my my what elations)\n(ah my my what)\n\nGotta keep those lovin good vibrations\nA happenin with her\nGotta keep those lovin good vibrations\nA happenin with her\nGotta keep those lovin good vibrations\nA happenin\n\nAhhhhhhhh\nGood good good good vibrations\n(oom bop bop)\n(Im pickin up good vibrations)\nShes giving me excitations\n(oom bop bop)\n(excitations)\nGood good good good vibrations\n(oom bop bop)\nShes na na...\n\nNa na na na na\nNa na na\nNa na na na na\nNa na na\nDo do do do do\nDo do do\nDo do do do do\nDo do do",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Eab_beh07HU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Eab_beh07HU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Eab_beh07HU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Eab_beh07HU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Eab_beh07HU"
+        },
+        "videoOwnerChannelTitle": "Stephen McElvain",
+        "videoOwnerChannelId": "UCXrX-JOygVDoQgAn-tKo_cQ"
+    },
+    "contentDetails": {
+        "videoId": "Eab_beh07HU",
+        "videoPublishedAt": "2012-07-27T01:01:19Z",
+        "duration": "PT3M38S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "33607957",
+        "likeCount": "221371",
+        "favoriteCount": "0",
+        "commentCount": "10069"
+    }
+}

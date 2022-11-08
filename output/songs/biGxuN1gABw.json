@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41QjQ3MERDODRDRDA0QTE4",
+    "snippet": {
+        "publishedAt": "2021-12-10T06:56:33Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ginger Root - \"B4\" (Official Video)",
+        "description": "Editing films and videos by day and making music under the name Ginger Root by night, Cameron Lew delivers what he describes as \"aggressive elevator soul\". Combining elements from contemporaries like Toro Y Moi, Vulfpeck, Jay Som, and Mocky with the influences of the days of Stax and Philly Soul, Ginger Root offers a fresh take on the ever evolving scene of new wave indie pop.\n\nGinger Root's latest single \"B4\" is out now.\n\n\ud83d\udd17Stream the track on Spotify here:\nhttps://spoti.fi/2r1hC5O\n\n\ud83e\udd54Follow Ginger Root:\nInstagram: https://www.instagram.com/gingerrootmusic/\nFacebook: https://www.facebook.com/gingerrootmusic/\n\nDirector - Cameron Lew\nProducers - David Gutiel & Donald Nguyen\nDirector of Photography - Dave Cortez\nProduction Designer - Ashley Kron\nArt Assistants - Sam Tilden & Eden Hawes\nAssistant Director - David Gutel\nGaffer - Taylor Leach\n2nd AC - Holly Olmos\n2nd AD - Jade Trazo\nG&E - Andrew Gibson & Tanner Kuhn",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/biGxuN1gABw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/biGxuN1gABw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/biGxuN1gABw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/biGxuN1gABw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/biGxuN1gABw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "biGxuN1gABw"
+        },
+        "videoOwnerChannelTitle": "777tv",
+        "videoOwnerChannelId": "UCB23ZWE1iC9oEBtU3J9HqVA"
+    },
+    "contentDetails": {
+        "videoId": "biGxuN1gABw",
+        "videoPublishedAt": "2019-11-20T15:00:07Z",
+        "duration": "PT3M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "416388",
+        "likeCount": "12907",
+        "favoriteCount": "0",
+        "commentCount": "307"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMEU5RUIyMDEyN0JFRkVG",
+    "snippet": {
+        "publishedAt": "2021-08-06T03:04:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u85cd\u6708\u306a\u304f\u308b -\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af\u30b9\u30bf\u30fc | Dramatic Star",
+        "description": "\u300c\u30a2\u30c8\u30e9\u30f3\u30c6\u30a3\u30c3\u30afF.\u300d\n\n\nI just can't stop listen to this , her voice really fits to my ears \nits been a while when A Than_Lily release this album at M3 autumn 2017 but still its one of my fav song of them .\nalso , Merry Christmas guys ~\n\n\n\u25b6 Album              : \u304a\u661f\u3055\u307e\u306b\u604b\u3057\u3066\u308b\u3002\n\u25b6 Release Date : 2017/10/29\n\u25b6 Crossfade       : https://soundcloud.com/athanlily/m3-2017-xfd\n\n\n\u276f Buy here : \n\u25cf Melonbooks    : https://www.melonbooks.co.jp/detail/detail.php?product_id=292989\n\n\n\n\u276f illust :\n\u25cf \u30a2\u30b7\u30de : https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71631884\n\n\n\n\u300cA than_Lily\u300d\n\n\u25cf Soundcloud : https://soundcloud.com/athanlily\n\u25cf Twitter          : https://twitter.com/AthanLily\n\n\n\n\n\u300cAitsuki Nakuru\u300d\n\n\u25cf Twitter          : - https://twitter.com/gelidium_31\n                             - https://twitter.com/endorfin31 ( Endorfin. )\n\u25cf Soundcloud : - https://soundcloud.com/aituki-nakuru\n                             - https://soundcloud.com/endorfin31 ( Endorfin. )\n\u25cf BOOTH site : https://nakuru.booth.pm/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5HFuT3FUPyo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5HFuT3FUPyo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5HFuT3FUPyo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5HFuT3FUPyo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5HFuT3FUPyo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5HFuT3FUPyo"
+        },
+        "videoOwnerChannelTitle": "Paradox Sphere",
+        "videoOwnerChannelId": "UCF9Zmzh_uss_79VVCjNNBTA"
+    },
+    "contentDetails": {
+        "videoId": "5HFuT3FUPyo",
+        "videoPublishedAt": "2018-12-25T16:24:12Z",
+        "duration": "PT3M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "91473",
+        "likeCount": "1379",
+        "favoriteCount": "0",
+        "commentCount": "20"
+    }
+}

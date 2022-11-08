@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42QTdGRDRBMjZFMzFDMDAz",
+    "snippet": {
+        "publishedAt": "2021-12-11T03:01:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Everyday Normal Guy 2",
+        "description": "He's back...  And he's mildly upset.\nwww.jonlajoie.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GmG4X9PGOXs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GmG4X9PGOXs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GmG4X9PGOXs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GmG4X9PGOXs"
+        },
+        "videoOwnerChannelTitle": "JonLajoie",
+        "videoOwnerChannelId": "UC-716wgP94vhil91RVJwaIQ"
+    },
+    "contentDetails": {
+        "videoId": "GmG4X9PGOXs",
+        "videoPublishedAt": "2008-01-16T20:42:50Z",
+        "duration": "PT3M42S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "73590512",
+        "likeCount": "1772128",
+        "favoriteCount": "0",
+        "commentCount": "55534"
+    }
+}

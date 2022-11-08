@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yNUY0QUY0OUI3N0Y0M0ZB",
+    "snippet": {
+        "publishedAt": "2022-03-16T16:51:24Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Mtell (Hardcore Bootleg) - \u4eba\u985e\u307f\u306a\u30bb\u30f3\u30d1\u30a4\uff01",
+        "description": "[ \u4eba\u985e\u307f\u306a\u30bb\u30f3\u30d1\u30a4\uff01]\n     \u2337 \u23ee \u23ef \u23ed \u2337 \n\n\u266b Artist: Mtell (Hardcore Bootleg)\n  \n  \u250c SoundCloud : https://soundcloud.com/mtell\n  \u2502 Facebook : \n  \u2502 Instagram : https://www.instagram.com/mtteeellll/\n  \u2514 Twitter : https://twitter.com/Mtteeellll\n\n \u266a Original Artist : Azuma Lim Channel\n \n  \u250c SoundCloud : \n  \u2502\n  \u2514 YouTube : https://www.youtube.com/watch?v=XtlDHnWgGeM\n\n\u2740 Illustrator : \u514e\u59eb\n  \n  \u250c pixiv : https://www.pixiv.net/member.php?id=266106\n  \u2502\n  \u2514 Illust : https://www.pixiv.net/member_illust.php?mode=medium&illust_id=68346969\n\n\n\u0295\u3000\u00b7\u1d25\u00b7\u0294",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Iqb6EOlZtEg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Iqb6EOlZtEg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Iqb6EOlZtEg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Iqb6EOlZtEg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Iqb6EOlZtEg"
+        },
+        "videoOwnerChannelTitle": "BACK",
+        "videoOwnerChannelId": "UC3NrfN-MeM88MTsfU93Wk_w"
+    },
+    "contentDetails": {
+        "videoId": "Iqb6EOlZtEg",
+        "videoPublishedAt": "2019-08-25T05:57:51Z",
+        "duration": "PT4M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "20161",
+        "likeCount": "404",
+        "favoriteCount": "0",
+        "commentCount": "23"
+    }
+}

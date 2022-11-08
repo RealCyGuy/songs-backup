@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FQTVEQjA2M0RBRkE2NUFD",
+    "snippet": {
+        "publishedAt": "2021-10-29T00:28:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Carl Douglas  Kung Fu Fighting  (Original Music Video)",
+        "description": "KUNG FU FIGHTING - CARL DOUGLAS\n\nEverybody was a kung-fu fighting\nThose cats were fast as lightning\nIn fact it was a little bit frightning\nBut they fought with expert timing\n\nThey were funky China men from funky Chinatown\nThey were chopping them up and they were chopping them down\nIt's an ancient Chineese art and everybody knew their part\nFrom a fainting to a slip and kicking from the hip\n\nEverybody was a kung-fu fighting\nThose cats were fast as lightning\nIn fact it was a little bit frightning\nBut they fought with expert timing\n\nThere was funky Billy Chin and little Sammy Chung\nHe said here comes the big boss, lets get it on\nWe took a bow and made a stand, started swinging with the hand\nThe sudden motion made me skip now we're into a brand knew trip\n\nEverybody was a kung-fu fighting\nThose cats were fast as lightning\nIn fact it was a little bit frightning\nBut they did it with expert timing\ufeff",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bmfudW7rbG0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bmfudW7rbG0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bmfudW7rbG0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bmfudW7rbG0"
+        },
+        "videoOwnerChannelTitle": "mmtfb",
+        "videoOwnerChannelId": "UC3TfZoKNDKLzOdtns7vPDHw"
+    },
+    "contentDetails": {
+        "videoId": "bmfudW7rbG0",
+        "videoPublishedAt": "2014-04-03T17:13:25Z",
+        "duration": "PT3M11S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "13970212",
+        "likeCount": "236048",
+        "favoriteCount": "0",
+        "commentCount": "11962"
+    }
+}

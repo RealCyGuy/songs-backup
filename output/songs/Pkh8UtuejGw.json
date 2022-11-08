@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42RDJDRURCRDcxMzgxRDM0",
+    "snippet": {
+        "publishedAt": "2021-10-31T22:44:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shawn Mendes, Camila Cabello - Se\u00f1orita (Official Music Video)",
+        "description": "Se\u00f1orita: https://Senorita.lnk.to/OutNow \n\nCatch Shawn on tour this year: https://www.shawnmendesthetour.com/ \n\nStream/buy Shawn Mendes: The Album now: https://IslandRecs.lnk.to/ShawnMendes \n\nFollow Shawn Mendes: Twitter: https://twitter.com/shawnmendes Instagram: https://www.instagram.com/shawnmendes Facebook: https://www.facebook.com/ShawnMendesO... Website: https://www.shawnmendesofficial.com \n\nFollow Camila Cabello: Twitter: https://twitter.com/Camila_Cabello Instagram: https://www.instagram.com/camila_cabe... Facebook: https://www.facebook.com/camilacabello/ Website: https://www.camilacabello.com/ \n\nLyrics:\nI love it when you call me se\u00f1orita\nI wish I could pretend I didn't need ya\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you keep me coming for you\n\nLand in Miami\nThe air was hot from summer rain\nSweat dripping off me\nBefore I even knew her name, la la la\nIt felt like ooh la la la\nYeah no\nSapphire moonlight\nWe danced for hours in the sand\nTequila sunrise\nHer body fit right in my hands, la la la\nIt felt like ooh la la la, yeah\n\nI love it when you call me se\u00f1orita\nI wish I could pretend I didn't need you\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you know I love it when you call me se\u00f1orita\nI wish it wasn't so damn hard to leave you\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you keep me coming for ya\n\nLocked in the hotel\nThere's just some things that never change\nYou say we're just friends\nBut friends don't know the way you taste, la la la\n'Cause you know it's been a long time coming\nDon't you let me fall\n\nOoh, when your lips undress me\nHooked on your tongue\nOoh love, your kiss is deadly\nDon't stop\n\nI love it when you call me se\u00f1orita\nI wish I could pretend I didn't need you\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you know I love it when you call me se\u00f1orita\nI wish it wasn't so damn hard to leave ya\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you keep me coming for you\nAll along I've been coming for you\nAnd I hope it meant something to you\nCall my name, I'll be coming for you\nComing for you, coming for you, coming for you\n\nFor you (ooh, she loves it when I come)\nFor you\n\nOoh, I should be running\nOoh, you keep me coming for you\n\n\nMusic video by Shawn Mendes, Camila Cabello performing Se\u00f1orita. \u00a9 2019 Island Records, a division of UMG Recordings, Inc. \n\nhttp://vevo.ly/zZcRQm",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Pkh8UtuejGw"
+        },
+        "videoOwnerChannelTitle": "ShawnMendesVEVO",
+        "videoOwnerChannelId": "UC4-TgOSMJHn-LtY4zCzbQhw"
+    },
+    "contentDetails": {
+        "videoId": "Pkh8UtuejGw",
+        "videoPublishedAt": "2019-06-21T03:57:42Z",
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1448831949",
+        "likeCount": "19612124",
+        "favoriteCount": "0",
+        "commentCount": "640076"
+    }
+}

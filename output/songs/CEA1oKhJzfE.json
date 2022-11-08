@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zOTQ3MzI4RDU0REVDNzc5",
+    "snippet": {
+        "publishedAt": "2022-06-01T05:12:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "SPY x FAMILY ED 'Kigeki' - Cover en Espa\u00f1ol",
+        "description": "Recuerden que ya estoy en Spotify, iTunes, Google play y m\u00e1s!\nhttps://open.spotify.com/artist/0XOJQGIJ5wj0to92Emg9c7?si=o9W1RLDQTHq-u1gaKq_0dQ&nd=1\n\n\u25cf Cr\u00e9ditos | Credits:\n\n\u2730Instrumental: Akello -  https://twitter.com/Akello01375180\n\u2730Adaptaci\u00f3n: Aki Chan\n\n\n\u25cf Redes Sociales:\nhttps://linktr.ee/AkellieChan\u200b\u200b\u200b\u200b\u200b\n\n\u25cfBusiness\nakellieakichan@gmail.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CEA1oKhJzfE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CEA1oKhJzfE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CEA1oKhJzfE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/CEA1oKhJzfE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/CEA1oKhJzfE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CEA1oKhJzfE"
+        },
+        "videoOwnerChannelTitle": "Aki Chan",
+        "videoOwnerChannelId": "UCYi97rWysHQHsIgTRmi0Phg"
+    },
+    "contentDetails": {
+        "videoId": "CEA1oKhJzfE",
+        "videoPublishedAt": "2022-05-15T21:00:09Z",
+        "duration": "PT3M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "205989",
+        "likeCount": "9047",
+        "favoriteCount": "0",
+        "commentCount": "188"
+    }
+}

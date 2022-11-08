@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MEQ4OTVBOTREQTQwQjlD",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:54:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "(\u541b\u306e\u540d\u306f / Kimi no Na wa) Nandemonaiya - Kamishiraishi Mone (Maxone Remix) \u266a",
+        "description": "\u2606 Follow Starling\n\u25cf Spotify: https://sptfy.com/StarlingEDMx\n\u25cf SoundCloud: https://soundcloud.com/StarlingEDM\n\u25cf Fanpage : https://www.facebook.com/StarlingEDM\n\u25cf Youtube: https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w\n\u25cf Ask: https://ask.fm/jodiestarling\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\u2606 Follow Maxone\n\u25cf https://music.163.com/#/artist?id=12001082\n\u25cf https://www.weibo.com/u/5033949729\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\u2606 Picture Link : http://i.imgur.com/Ay4WFle.png\n\n\u2606 Song : Nandemonaiya - Kamishiraishi Mone (Maxone Remix)\n\n\u2606 Watch More Videos:\n\u25cf https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w/videos\n\n----------------------------------------\u00ad\u00ad---------------------------------------\u00ad-\u00ad--------------------------------\n\n\u270f\ufe0f Copyright/Claims/Issues: info@starlingedm.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/D4Fi1YBbzDY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/D4Fi1YBbzDY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/D4Fi1YBbzDY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/D4Fi1YBbzDY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/D4Fi1YBbzDY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "D4Fi1YBbzDY"
+        },
+        "videoOwnerChannelTitle": "StarlingEDM",
+        "videoOwnerChannelId": "UCd7AuGqhXpOf-m5YBH4HM7w"
+    },
+    "contentDetails": {
+        "videoId": "D4Fi1YBbzDY",
+        "videoPublishedAt": "2019-08-23T13:58:58Z",
+        "duration": "PT3M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "9986348",
+        "likeCount": "143990",
+        "favoriteCount": "0",
+        "commentCount": "2978"
+    }
+}

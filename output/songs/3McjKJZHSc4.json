@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENDdCNUNCNjhFMUY1NTY4",
+    "snippet": {
+        "publishedAt": "2022-08-07T06:38:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "About Damn Time - Lizzo (xooos cover)",
+        "description": "xooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/\n\nBusiness contact : sooyeon507@gmail.com\n\n mix by @ruiz_its_me https://youtube.com/c/AlertA0301\n\n\"\ubcf8 \uc601\uc0c1\uc740 \uc6cc\ub108 \ubba4\uc9c1 \ucf54\ub9ac\uc544\uc5d0\uc11c \uc9c0\uc6d0\uc744 \ubc1b\uc544 \uc81c\uc791\ub418\uc5c8\uc74c\uc744 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4.\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3McjKJZHSc4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3McjKJZHSc4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3McjKJZHSc4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3McjKJZHSc4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3McjKJZHSc4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3McjKJZHSc4"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "3McjKJZHSc4",
+        "videoPublishedAt": "2022-08-07T06:33:41Z",
+        "duration": "PT2M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1818846",
+        "likeCount": "56351",
+        "favoriteCount": "0",
+        "commentCount": "1684"
+    }
+}

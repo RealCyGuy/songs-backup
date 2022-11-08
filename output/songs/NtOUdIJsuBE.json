@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CMjVGMjg5MDA1MkQ0M0E2",
+    "snippet": {
+        "publishedAt": "2022-06-03T14:57:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pipe Dream (Animusic) - Remastered 4K 60 FPS",
+        "description": "Pipe Dream - Animusic\n\nUpscaled to HD using Topaz Video Enhance AI.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NtOUdIJsuBE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NtOUdIJsuBE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NtOUdIJsuBE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/NtOUdIJsuBE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/NtOUdIJsuBE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NtOUdIJsuBE"
+        },
+        "videoOwnerChannelTitle": "Julian Lachniet",
+        "videoOwnerChannelId": "UC7f8-9P5A3KQbUeNZr4J16g"
+    },
+    "contentDetails": {
+        "videoId": "NtOUdIJsuBE",
+        "videoPublishedAt": "2021-04-03T14:12:39Z",
+        "duration": "PT3M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "unlisted"
+    },
+    "statistics": {
+        "viewCount": "4365429",
+        "likeCount": "71401",
+        "favoriteCount": "0",
+        "commentCount": "1388"
+    }
+}

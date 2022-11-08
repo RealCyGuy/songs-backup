@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MjJGQTMyMUFFN0JCRTkw",
+    "snippet": {
+        "publishedAt": "2022-01-02T07:59:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Target for Love / Gawr Gura (Blue Archive OST Cover)",
+        "description": "Begin your miraculous journey in Blue Archive : https://nexon.link/9tf\n\nMerry Christmas and a Happy New Year! \u200d\ud83c\udf84\ud83c\udf89\n\n\u25a0 Target for Love \u25a0\nOriginal Singer : Lee Jin Ah\nComposer : mitsukiyo, Lee Jin Ah\nSongwriter : DANI, HARU\n\n\u25a0 Cover ver. \u25a0\nVocals : Gawr Gura\nMix & Mastering : \u306a\u3064\u3081\u5343\u79cb\nOfficial Website : https://bluearchive.nexon.com/\nForum : https://forum.nexon.com/bluearchive\nTwitter : https://twitter.com/EN_BlueArchive",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/uCfjf3rvTJY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/uCfjf3rvTJY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/uCfjf3rvTJY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/uCfjf3rvTJY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/uCfjf3rvTJY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "uCfjf3rvTJY"
+        },
+        "videoOwnerChannelTitle": "Gawr Gura Ch. hololive-EN",
+        "videoOwnerChannelId": "UCoSrY_IQQVpmIRZ9Xf-y93g"
+    },
+    "contentDetails": {
+        "videoId": "uCfjf3rvTJY",
+        "videoPublishedAt": "2021-12-26T03:45:12Z",
+        "duration": "PT3M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2426426",
+        "likeCount": "118670",
+        "favoriteCount": "0",
+        "commentCount": "4204"
+    }
+}

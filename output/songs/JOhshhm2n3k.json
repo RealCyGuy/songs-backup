@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNUM4ODc1QzNCMTU5QjNF",
+    "snippet": {
+        "publishedAt": "2021-08-28T05:44:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Hey Jude - The Beatles | EPIC VERSION",
+        "description": "**PATREON REQUESTED TRACK**\nCheck out our epic cover of one of the greatest songs of all time Hey Jude by The Beatles. We have gone ahead and done our own thing with this track that we hope you like. Enjoy!!\n\nSubscribe to our channel: http://goo.gl/ynsufm\nStream on Spotify: https://tinyurl.com/u39yqru \nDownload on Google Play: TBA\nDownload on Amazon: https://tinyurl.com/wsvtwoe\nBuy on iTunes: TBA\n\n\ud83d\udfe0Patreon: https://www.patreon.com/LOrchestraCinematique\n\ud83d\udd35Facebook: https://www.facebook.com/LOrchestraCinematique/\n\u26aa\ufe0fTwitter: https://twitter.com/LOrchestraCine\n\nArtist: L'Orchestra Cin\u00e9matique\nWriter: John Lennon/Paul McCartney\nLabel: Chapel Music \nPublisher: Sony/ATV Music Publishing (UK) Limited\n\nPlease do not take the audio and re-upload the music to your channel using different artwork. That includes 1 and 10 hour versions. If you are wanting to use this track for your own project please email us at orchestracinematique@gmail.com. Provide a link to your channel and the video you wish to use and we can discuss allowance from there. Kindly note, if you use our content without permission prior, you run the risk of your own content being removed and possible action being made by YouTube!\n\n\ud83c\udf1fA big thank you to our fellow Patreon supporters!\ud83c\udf1f\n- Mason Horsley\n- Carolus Rex\n- Clivestation",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JOhshhm2n3k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JOhshhm2n3k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JOhshhm2n3k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/JOhshhm2n3k/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/JOhshhm2n3k/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "JOhshhm2n3k"
+        },
+        "videoOwnerChannelTitle": "L'Orchestra Cin\u00e9matique",
+        "videoOwnerChannelId": "UCLuEtEE-MF7EYtGcN0Z6mDg"
+    },
+    "contentDetails": {
+        "videoId": "JOhshhm2n3k",
+        "videoPublishedAt": "2020-03-17T15:00:06Z",
+        "duration": "PT2M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "54275",
+        "likeCount": "1913",
+        "favoriteCount": "0",
+        "commentCount": "395"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMUQxMDI2OEVFMUJDQzBF",
+    "snippet": {
+        "publishedAt": "2022-07-25T21:51:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "24kGoldn - Mood | Rubber Chicken Cover\u3010Chickensan\u3011",
+        "description": "\u2935\ufe0e\u2935\ufe0e\u2935\ufe0e\u2935\ufe0e\u2935\ufe0e\u3000\u311f( \uff65\u04e9\uff65 )\u310f\n\nChickensan sings 24kGoldn - Mood \nDon't forget to subscribe, like and leave a comment :)\n\n\n\u25a0SNS\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nTwitter \u25b6 https://twitter.com/Chickensan_dayo\nInstagram \u25b6 https://www.instagram.com/chicken.san \nFacebook \u25b6 https://www.facebook.com/Chickensandayo\n\n\u3010Contact\u3011\n\u25b6 chickensandayo@gmail.com\n\n\n\u25a0Thanks to all our Patrons \n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nJiecheng Zhang\nAntonia\nDzung Nguyen\nAlan\n\n\u25a0Patreon\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nhttps://www.patreon.com/chickensan\n\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nHelp us caption & translate this video!\n#24kGoldn\u200b #Mood\u200b #IannDior\n\n\u25a0others tag\ncheken chacken chicken checken cheken cheken chikken chikkin\nreact song led zeppelin music  24kgoldn type beat reaction iann dior type beat",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1ml8OV_J3_w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1ml8OV_J3_w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1ml8OV_J3_w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1ml8OV_J3_w/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1ml8OV_J3_w/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1ml8OV_J3_w"
+        },
+        "videoOwnerChannelTitle": "Chickensan",
+        "videoOwnerChannelId": "UCL63oDZkc3qogYiiMsOkwbw"
+    },
+    "contentDetails": {
+        "videoId": "1ml8OV_J3_w",
+        "videoPublishedAt": "2021-01-30T00:00:11Z",
+        "duration": "PT1M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6111898",
+        "likeCount": "279772",
+        "favoriteCount": "0",
+        "commentCount": "11998"
+    }
+}

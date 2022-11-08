@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMTY1Mzc1QjRBNTM5MURF",
+    "snippet": {
+        "publishedAt": "2022-06-10T14:18:50Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YOASOBI -\u3010\u602a\u7269 Monster\u3011| Cover Yun | Pocats Studio 10\u842c\u8a02\u95b1\u7279\u5225\u4f01\u5283!!\ud83c\udf89",
+        "description": "#\u6bcf\u5468\u4e94\u665a\u4e0a7\u9ede\u767c\u5e03\u65b0\u5f71\u7247 #\u602a\u7269\u200b #PocatsStudio\u200b\u200b\u200b\n\ud83c\udf89\ud83c\udf8910\u842c\u8a02\u95b1\u7279\u5225\u4f01\u5283!!!!! \u611f\u8b1d\u4e00\u76f4\u4ee5\u4f86\u95dc\u6ce8Pocats Studio\u7684\u670b\u53cb\u5011!!!!\ud83c\udf89\ud83c\udf89\n\n\u6210\u70baPocats Studio\u983b\u9053\u6703\u54e1\u4e26\u89c0\u770b\u8d85\u9999\u6703\u54e1\u5f71\u7247\uff1a\nhttps://www.youtube.com/playlist?list...\n\n\ud83d\udd14 \u8a02\u95b1Pocats Studio\u983b\u9053\ud83d\udd14 :\nhttps://www.youtube.com/channel/UCOAX...\n\n\ud83c\udfa7 Pocats Studio IG  :\nhttps://instagram.com/pocats_studio?i...\n\n\ud83c\udfa4 Yun IG  :\nhttps://instagram.com/kaoyunhsin?igsh...\n-----------------------------------------------------\n\n\u97f3\u6a02\u88fd\u4f5c : Pocats Studio\n\u5f71\u50cf\u88fd\u4f5c : Pocats Studio\n\n\u273b\u5408\u4f5c\u9080\u7d04 \u6216 \u806f\u7d61\u6211\u5011 \u8acb\u6d3demail :\npocatsstudio@gmail.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/M39AIqXmzOA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/M39AIqXmzOA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/M39AIqXmzOA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/M39AIqXmzOA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/M39AIqXmzOA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "M39AIqXmzOA"
+        },
+        "videoOwnerChannelTitle": "Pocats Studio",
+        "videoOwnerChannelId": "UCOAX3fXsa30WiG6HHR5Fg_A"
+    },
+    "contentDetails": {
+        "videoId": "M39AIqXmzOA",
+        "videoPublishedAt": "2022-06-10T11:00:21Z",
+        "duration": "PT3M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "128374",
+        "likeCount": "3596",
+        "favoriteCount": "0",
+        "commentCount": "171"
+    }
+}

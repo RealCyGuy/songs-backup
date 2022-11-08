@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40MkFEQTBGM0Q3REE5MUUy",
+    "snippet": {
+        "publishedAt": "2022-06-18T00:50:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Racing Into The Night x Cinderella | Mashup of YOASOBI, CIDER GIRL (Komi Can't Communicate)",
+        "description": "\"Racing Into The Night x Cinderella\" contains the following:\n1. YOASOBI - Racing Into The Night \"Yoru ni Kakeru\" (Utagoe Acapella)\n2. CIDER GIRL - Cinderella \"Komi Can't Communicate - Opening Theme\" (Official Instrumental)\n---------------------------------------\nCHECK OUT MY DECADE ANIMASH:\n\u2022 A Mashup of 260+ Songs from 2010 to 2022\n- https://youtu.be/ON8xpczPZAU\n---------------------------------------\nFOLLOW ME ON:\nDiscord: CosmicMashups#0868\nBackup Channel: https://www.youtube.com/channel/UCiO-Ao6QTd7-YJzM24sztLw\nMyAnimeList: https://myanimelist.net/profile/CosmicMashups\nTwitter: https://twitter.com/CosmicMashups\nTikTok: https://www.tiktok.com/@cosmic_mashups\n---------------------------------------\nI do not own anything from this mashup. All credits go to their respective owners.\n---------------------------------------\nFair Use Act Disclaimer. Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for \u201cfair use\u201d for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/maPACNM03PA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/maPACNM03PA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/maPACNM03PA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/maPACNM03PA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/maPACNM03PA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "maPACNM03PA"
+        },
+        "videoOwnerChannelTitle": "CosmicMashups",
+        "videoOwnerChannelId": "UC9-HLSGiwxVw6cykXKvYjig"
+    },
+    "contentDetails": {
+        "videoId": "maPACNM03PA",
+        "videoPublishedAt": "2022-06-08T07:00:13Z",
+        "duration": "PT4M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "170959",
+        "likeCount": "10328",
+        "favoriteCount": "0",
+        "commentCount": "356"
+    }
+}

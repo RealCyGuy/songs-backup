@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44OTIxRDM1NUZENzNDRUVB",
+    "snippet": {
+        "publishedAt": "2022-08-16T20:31:35Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3042\u306e\u3053\u3069\u3053\u306e\u3053 / GUMI - \u30ca\u30ca\u30db\u30b7\u7ba1\u5f26\u697d\u56e3",
+        "description": "\u25c6\u30ca\u30ca\u30db\u30b7\u7ba1\u5f26\u697d\u56e3(Official channnel)\n\u21d2https://www.youtube.com/c/nanakan927\n\n\u25c6Twitter(\u30ca\u30ca\u30db\u30b7\u7ba1\u5f26\u697d\u56e3)\n\u21d2https://twitter.com/sosite_iwamikun\n\n\u25c6niconico\n\u21d2http://nicovideo.jp/mylist/18955315\n\n--------------------------------------------------------------------------\n\n\u30aa\u30b1\u30fb\u6b4c\u8a5e\nhttps://www.dropbox.com/sh/nuje4ig9kjsb8ep/AACxzUbrIx-moGTaAZzNkvtFa?dl=0\n\n\u3010\u5929\u4e0a\u5bae\u30d0\u30d9\u30eb\uff1a\u5b8c\u5168\u72af\u7f6a\u3011(novel)\nhttps://al-zal.com/\n\n#VOCALOID\n#\u30dc\u30ab\u30ed\n#\u30ca\u30ca\u30db\u30b7\u7ba1\u5f26\u697d\u56e3",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xQJ38POrN98/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xQJ38POrN98/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xQJ38POrN98/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xQJ38POrN98/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xQJ38POrN98/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xQJ38POrN98"
+        },
+        "videoOwnerChannelTitle": "\u30ca\u30ca\u30db\u30b7\u7ba1\u5f26\u697d\u56e3/\u5ca9\u898b\u9678official",
+        "videoOwnerChannelId": "UCh_vIwOvAvBshqSgvD3G0YA"
+    },
+    "contentDetails": {
+        "videoId": "xQJ38POrN98",
+        "videoPublishedAt": "2016-12-19T07:59:30Z",
+        "duration": "PT3M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "147160",
+        "likeCount": "3444",
+        "favoriteCount": "0",
+        "commentCount": "76"
+    }
+}

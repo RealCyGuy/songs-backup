@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wM0RCRkIzNjdDNkM0RDY3",
+    "snippet": {
+        "publishedAt": "2021-12-31T07:47:30Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Every Hit Song from 2021 in 3 MINUTES! (2021 MASHUP)",
+        "description": "2021 is over, so it's time for another MASHUP!! How'd we do fitting every song in?? All Sam's links are below so go show him some love and hit that like button if ya liked it :D\n_______________\n\nGET IN TOUCH!\n\nSAM TSUI:\nFacebook: http://www.facebook.com/samtsuimusic\nTwitter: http://www.twitter.com/samueltsui\nYoutube: http://www.youtube.com/thesamtsui\n\nKURT SCHNEIDER: \nInstagram: https://www.instagram.com/kurtschneider\nFacebook: http://www.facebook.com/kurthugoschneider\nTwitter: http://www.twitter.com/kurthschneider",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/V2M-vOMk9a4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/V2M-vOMk9a4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/V2M-vOMk9a4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/V2M-vOMk9a4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/V2M-vOMk9a4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "V2M-vOMk9a4"
+        },
+        "videoOwnerChannelTitle": "Kurt Hugo Schneider",
+        "videoOwnerChannelId": "UCplkk3J5wrEl0TNrthHjq4Q"
+    },
+    "contentDetails": {
+        "videoId": "V2M-vOMk9a4",
+        "videoPublishedAt": "2021-12-24T14:00:09Z",
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "406064",
+        "likeCount": "29418",
+        "favoriteCount": "0",
+        "commentCount": "639"
+    }
+}

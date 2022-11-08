@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNEM3QkZCMkNBNTQ2OUND",
+    "snippet": {
+        "publishedAt": "2022-03-07T06:33:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "anemone/S-C-U feat. Qrispy Joybox",
+        "description": "jubeat saucer\u3001jubeat plus \nREFLEC BEAT colette -Spring-\u3001REFLEC BEAT plus",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NEkocrUB31s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NEkocrUB31s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NEkocrUB31s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/NEkocrUB31s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/NEkocrUB31s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NEkocrUB31s"
+        },
+        "videoOwnerChannelTitle": "\u30be\u30ed\u30b8\u30a7\u30a4",
+        "videoOwnerChannelId": "UCi0vR0hd8yQKagS71tyoDuA"
+    },
+    "contentDetails": {
+        "videoId": "NEkocrUB31s",
+        "videoPublishedAt": "2016-09-24T05:44:29Z",
+        "duration": "PT1M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "9782",
+        "likeCount": "139",
+        "favoriteCount": "0",
+        "commentCount": "5"
+    }
+}

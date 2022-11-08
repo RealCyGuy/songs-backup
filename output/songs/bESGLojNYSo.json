@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43REJCNkU5QzU5NjUyRjY5",
+    "snippet": {
+        "publishedAt": "2022-03-23T05:06:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Lady Gaga - Poker Face (Official Music Video)",
+        "description": "\u201cCHROMATICA\u201d\nTHE SIXTH ALBUM BY LADY GAGA\nOUT NOW\nhttp://smarturl.it/Chromatica\n\n\u201cRAIN ON ME\u201d \nTHE NEW SINGLE & VIDEO FROM LADY GAGA WITH ARIANA GRANDE\nOUT NOW\nhttp://smarturl.it/RainOnMeChromatica\nWATCH THE VIDEO: https://youtu.be/AoAm4om0wTs\n\nSHOP THE OFFICIAL CHROMATICA COLLECTION: http://smarturl.it/GagaStore\n\nFOLLOW LADY GAGA:\nFacebook: http://gaga.lk/facebook\nInstagram: http://gaga.lk/Instagram\nSnapchat: http://gaga.lk/Snapchat\nTwitter: http://gaga.lk/Twitter\nWebsite: http://www.ladygaga.com/\nOfficial Store: http://gaga.lk/GagaStore\nEmail List: http://gaga.lk/News\n\nMusic video by Lady Gaga performing Poker Face. YouTube view counts pre-VEVO: 26,232,487. (C) 2008 Interscope Records\n#Remastered",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bESGLojNYSo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bESGLojNYSo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bESGLojNYSo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/bESGLojNYSo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/bESGLojNYSo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bESGLojNYSo"
+        },
+        "videoOwnerChannelTitle": "LadyGagaVEVO",
+        "videoOwnerChannelId": "UC07Kxew-cMIaykMOkzqHtBQ"
+    },
+    "contentDetails": {
+        "videoId": "bESGLojNYSo",
+        "videoPublishedAt": "2009-12-20T03:05:36Z",
+        "duration": "PT3M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1058371946",
+        "likeCount": "5883737",
+        "favoriteCount": "0",
+        "commentCount": "273537"
+    }
+}

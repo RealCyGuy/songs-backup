@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRUE3NkZCRjhBNEFDRDA1",
+    "snippet": {
+        "publishedAt": "2022-05-29T06:47:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "SPY X FAMILY ED1 \u559c\u5287 \"KIGEKI\" (Anya's Fun Cover)",
+        "description": "Who's excited to see Spy X Family on the screen? I can't wait to sit down with a cuppa and chill to this! The original ED is amazing, and so I thought I would re-create it in Anya Forger's version! P/S I love both peanuts and carrots. \n\nArrangement, Instrumental, Vocals, Audio and Video production - JustCosplaySings\nOriginal artist: Gen Hoshino\n\n\ud83c\udf52 Connect with me on https://withkoji.com/@justcosplaysings\n\nMy other socials: \n\ud83c\udf61 IG: https://www.instagram.com/justcosplaysings/\n\ud83c\udf61 Spotify: https://open.spotify.com/artist/4iJqnVC769BlIvQfnEg2zI\n\ud83c\udf61 FB: https://www.facebook.com/justcosplaysings/\n\ud83c\udf61 Tiktok: https://www.tiktok.com/@justcosplaysings\n\nDAW: Logic Pro X\nElectronic Keyboard: Yamaha\nMic: Audio Technica AT2020 \nInterface: Presonus Studio 24c\nCamera: Canon M50 \nVideo Editing: Da Vinci Resolve 17 \nAmbience Light: LIFX Bulb (Phillips)\n\n#spyxfamily #anyaforger #kigeki #genhoshino",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/x3Mz4fwLiPc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/x3Mz4fwLiPc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/x3Mz4fwLiPc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/x3Mz4fwLiPc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/x3Mz4fwLiPc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "x3Mz4fwLiPc"
+        },
+        "videoOwnerChannelTitle": "Just Cosplay Sings",
+        "videoOwnerChannelId": "UCjc5i_z6ltSqIhQkHBkQ8hw"
+    },
+    "contentDetails": {
+        "videoId": "x3Mz4fwLiPc",
+        "videoPublishedAt": "2022-04-09T16:00:12Z",
+        "duration": "PT1M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8446",
+        "likeCount": "420",
+        "favoriteCount": "0",
+        "commentCount": "85"
+    }
+}

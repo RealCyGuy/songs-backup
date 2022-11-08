@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMzQxNUFFOTM4NUZFNkIz",
+    "snippet": {
+        "publishedAt": "2021-11-23T05:53:30Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "League of Legends: Arcane - Enemy | EPIC ORCHESTRAL VERSION (Imagine Dragons Cover)",
+        "description": "\ud83d\udcbf Stream on Spotify, Apple Music & MORE \u25ba https://lnk.to/EnemyEpic\n\u266b Arcane League of Legends SPOTIFY PLAYLIST \u25ba https://spoti.fi/307tEvP\n\n\ud83c\udfa7 Support my work on Patreon (HQ Mp3 & Wave)  \u25ba https://www.patreon.com/samuelkimmusic\n\n\ud83c\udfa7 My Music is Available Here \ud83c\udfa7\n\u25ba Spotify: https://spoti.fi/2vYKPBd\n\u25ba Apple Music/iTunes: https://apple.co/2wMUESQ\n\u25ba YouTube Music: https://bit.ly/2VFh8z9\n\u25ba Deezer: https://bit.ly/3eTNaPt\n\nConnect With Me on Social Media!\n\u25baInstagram: https://www.instagram.com/samuelkimmusic\n\u25baTwitter: https://twitter.com/samuelkimmusic\n\nArtwork by Bo Chen: https://www.artstation.com/artwork/OmomKg\n\nAll copyright belongs to their respective owners. \nEnemy by Imagine Dragons x J.I.D \nCover Orchestrated and Arranged by Samuel Kim\n\n#Arcane #LeagueofLegends #Jinx\n__________________________________________________________________________________________________ ***DO NOT RE-UPLOAD on YouTube or other platforms (Soundcloud, TikTok, etc.) It is strictly prohibited to use my covers/arrangements for Podcasts (Spotify/Apple Podcasts) Also DO NOT make remixes using the audio file my covers, and DO NOT illegally distribute my music to streaming platforms. If you want to use my music for your YouTube videos, please visit: https://bit.ly/3oTIrlr",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4b78xc2YeXA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4b78xc2YeXA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4b78xc2YeXA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/4b78xc2YeXA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/4b78xc2YeXA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "4b78xc2YeXA"
+        },
+        "videoOwnerChannelTitle": "Samuel Kim Music",
+        "videoOwnerChannelId": "UCuoKuTCQ9dmPIgOgyLm9HgQ"
+    },
+    "contentDetails": {
+        "videoId": "4b78xc2YeXA",
+        "videoPublishedAt": "2021-11-08T15:00:02Z",
+        "duration": "PT3M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "5378534",
+        "likeCount": "187514",
+        "favoriteCount": "0",
+        "commentCount": "2504"
+    }
+}

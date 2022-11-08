@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45OTQwNjgyRjY2NTAyMEI2",
+    "snippet": {
+        "publishedAt": "2021-10-05T14:21:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Demi Lovato - Let It Go (from \"Frozen\") (Official Video)",
+        "description": "Frozen soundtrack featuring \u201cLet it Go\u201d is available now! Get it here: http://smarturl.it/fsa1\n\nPlay along to \"Let it Go\" here: https://youtu.be/rKrgDiFp-ZM\n\nAlso available: \u201cLet It Go\u201d sheet music: http://bit.ly/1TeGBc1\n\nFollow Walt Disney Records:\nFacebook: http://facebook.com/disneymusic\nInstagram: http://instagram.com/disneymusic\nSnapchat: http://snapchat.com/add/disneymusic\nTwitter: http://twitter.com/disneymusic",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kHue-HaXXzg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kHue-HaXXzg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kHue-HaXXzg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kHue-HaXXzg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kHue-HaXXzg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kHue-HaXXzg"
+        },
+        "videoOwnerChannelTitle": "DemiLovatoVEVO",
+        "videoOwnerChannelId": "UCnyB9MYKRkSFK3IIB32CoVw"
+    },
+    "contentDetails": {
+        "videoId": "kHue-HaXXzg",
+        "videoPublishedAt": "2013-11-01T11:00:03Z",
+        "duration": "PT3M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "618199423",
+        "likeCount": "3542126",
+        "favoriteCount": "0",
+        "commentCount": "168611"
+    }
+}

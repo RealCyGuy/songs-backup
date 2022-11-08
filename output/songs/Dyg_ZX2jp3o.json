@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NTNDRDFCQzAzNUVDNzlE",
+    "snippet": {
+        "publishedAt": "2022-06-02T14:52:57Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "88rising & BIBI - Best Lover (Official Music Video)",
+        "description": "Official music video for \u201cBest Lover\u201d by 88rising, BIBI \u2014 out now: https://88rising.lnk.to/HITCForever\n\nWhat\u2019s your love language, \ube44\ube44?\n\nOff of the 88rising\u2019s Head in the Clouds Forever surprise project comes the visual for BIBI\u2019s \u201cBest Lover\u201d which first debuted live at 88rising\u2019s performance set at Coachella.\n\n#BIBI #BESTLOVER #HITCForever\n#HeadInTheCloudsForever #88risingCoachella #88rising\n\nFollow BIBI\nhttps://www.instagram.com/nakedbibi\nhttps://www.tiktok.com/@nakedbibi\nhttps://twitter.com/nakedbibi\n\nSubscribe to 88rising\nhttp://88rising.lnk.to/subscribe\n\nFollow 88rising\nhttp://instagram.com/88rising\nhttp://twitter.com/88rising\nhttp://facebook.com/88rising\n\nJoin the community\nhttps://discord.gg/88rising",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Dyg_ZX2jp3o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Dyg_ZX2jp3o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Dyg_ZX2jp3o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Dyg_ZX2jp3o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Dyg_ZX2jp3o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Dyg_ZX2jp3o"
+        },
+        "videoOwnerChannelTitle": "88rising",
+        "videoOwnerChannelId": "UCZW5lIUz93q_aZIkJPAC0IQ"
+    },
+    "contentDetails": {
+        "videoId": "Dyg_ZX2jp3o",
+        "videoPublishedAt": "2022-04-17T03:15:00Z",
+        "duration": "PT2M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6297860",
+        "likeCount": "188930",
+        "favoriteCount": "0",
+        "commentCount": "2215"
+    }
+}

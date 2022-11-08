@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMTMwMjBBNDJEQTM0NUQ3",
+    "snippet": {
+        "publishedAt": "2022-04-16T05:30:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Justin Bieber - Beauty And A Beat ft. Nicki Minaj (Official Audio)",
+        "description": "Music video by Justin Bieber performing Beauty And A Beat (Audio). \u00a9 2012 The Island Def Jam Music Group\niTunes: http://smarturl.it/iBelieveDlx\nAmazon: http://smarturl.it/aBelieveDlx",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Lf9OgcXV5cE"
+        },
+        "videoOwnerChannelTitle": "JustinBieberVEVO",
+        "videoOwnerChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A"
+    },
+    "contentDetails": {
+        "videoId": "Lf9OgcXV5cE",
+        "videoPublishedAt": "2012-06-18T15:40:07Z",
+        "duration": "PT3M49S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "41656791",
+        "likeCount": "264410",
+        "favoriteCount": "0",
+        "commentCount": "19844"
+    }
+}

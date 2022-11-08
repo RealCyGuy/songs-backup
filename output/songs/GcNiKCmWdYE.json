@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRTYwMDMzMTFGMkE3RkMy",
+    "snippet": {
+        "publishedAt": "2021-10-22T22:58:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "All Time Low - Dear Maria, Count Me In (Official Music Video)",
+        "description": "\u25ba Download, stream or buy \"Dear Maria, Count Me In\" and the rest of So Wrong It's Right now! https://atl.lnk.to/SoWrongItsRightID\n\nOfficial music video for All Time Low's hit song \"Dear Maria, Count Me In\" off of the 2007 Hopeless Records album \"So Wrong, It's Right\u201d\n\n\"Dear Maria, Count Me In\" is All Time Low's first platinum single and the song they still close their live shows with. This video features Alex Gaskarth in a mullet wig, Rian Dawson as a clown, Zack Merrick with an afro, and Jack Barakat looking like usual. Also starring a lady named Maria (lets say) and a monkey named Louie.\n\n- - - -\nDirected by: Travis Kopach\n- - - -\n\nLyrics:\nI got your picture\nI'm coming with you\nDear Maria, count me in\nThere's a story at the bottom of this bottle\nAnd I'm the pen\n\nWhen the lights go off\nI wanna watch the way you\nTake the stage by storm\nThe way you wrap those boys around your finger\nGo on and play the leader\n'Cause you know it's what you're good at\nThe low road for the fast track\nMake every second last\n\n'Cause I got your picture\nI'm coming with you\nDear Maria, count me in\nThere's a story at the bottom of this bottle\nAnd I'm the pen\nMake it count when I'm the one\nWho's selling you out\n'Cause it feels like stealing hearts\nCalling your name from the crowd\n\nThen in the field you'll be the show girl of the home team\nI'll be the narrator\nTelling another tale of the American dream\n\nI see your name in lights\nWe can make you a star\nGirl, we'll take the world by storm\nIt isn't that hard\n\n'Cause I got your picture\nI'm coming with you\nDear Maria, count me in\nThere's a story at the bottom of this bottle\nAnd I'm the pen\nMake it count when I'm the one\nWho's selling you out\n'Cause it feels like stealing hearts\nCalling your name from the crowd\nWhoa...\n\nHa ha..\n\nTake a breath, don't it sound so easy\nNever had a doubt\nNow I'm going crazy watching from the floor\nTake a breath and let the rest come easy\nNever settle down\n'Cause the cash flow leaves me always wanting more\n\n'Cause I got your picture\nI'm coming with you\nDear Maria, count me in\nThere's a story at the bottom of this bottle\nAnd I'm the pen\nMake it count when I'm the one\nWho's selling you out\n'Cause it feels like stealing hearts\nCalling your name from the crowd\n\n'Cause I got your picture\nI'm coming with you\nDear Maria, count me in\nThere's a story at the bottom of this bottle\n\n\n- - - -\n\nMore from All Time Low\nWebsite: http://alltimelow.com\nSpotify: hopel.es/28YV0Eh\nFacebook: http://hopel.es/ATL-facebook\nTwitter: http://hopel.es/ATL-twitter\nInstagram: http://hopel.es/ATL-instagram\nOfficial Merch: http://hopel.es/ATL-merch\n\nMore from Hopeless Records\nWebsite: http://hopelessrecords.com\nYoutube: http://hopel.es/HR-youtube\nSpotify: http://hopel.es/HR-spotify\nFacebook: http://hopel.es/HR-facebook\nTwitter: http://hopel.es/HR-twitter\nInstagram: http://hopel.es/HR-instagram\nOfficial Merch: http://hopel.es/HR-merch\n\n#alltimelow #dearmaria #ItWasntAPhase",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GcNiKCmWdYE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GcNiKCmWdYE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GcNiKCmWdYE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GcNiKCmWdYE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GcNiKCmWdYE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GcNiKCmWdYE"
+        },
+        "videoOwnerChannelTitle": "Hopeless Records",
+        "videoOwnerChannelId": "UCToUNe4i9j_SlKGFl8MrQHg"
+    },
+    "contentDetails": {
+        "videoId": "GcNiKCmWdYE",
+        "videoPublishedAt": "2008-02-15T07:13:36Z",
+        "duration": "PT3M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "71231856",
+        "likeCount": "482344",
+        "favoriteCount": "0",
+        "commentCount": "34481"
+    }
+}

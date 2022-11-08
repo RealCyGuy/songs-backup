@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41RjE3Q0ExQjdGMzgyQzI2",
+    "snippet": {
+        "publishedAt": "2021-09-26T19:16:53Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "L's Theme | Ultra Epic Version",
+        "description": "Death Note is one of my favorite anime shows of all time. I love L's theme, and how cool and epic it is. Enjoy!\n\nMy Music\u25bc\n\ud83c\udfa7Spotify\u25ba https://open.spotify.com/artist/56C07WwXqmNmRXSmkmJFsK\n\ud83c\udfa7Apple Music\u25ba https://music.apple.com/ca/artist/cj-music/1502505223\n\ud83c\udfa7iTunes\u25ba https://music.apple.com/us/artist/cj-music/1502505223\n\nJoin My Discord Server\u25ba https://discord.gg/Yvq4fbG\nYou can contact me, request songs, and give ideas on there!\n\nSupport Me on Patreon\u25ba https://www.patreon.com/user?u=31540596\n\nSocial Media\u25bc\nInstagram\u25ba https://www.instagram.com/cj_music1/?hl=en\nTwitter\u25ba https://twitter.com/CJ82322690\n\n\u2757PLEASE NOTE\u2757\nDO NOT RE-POST OR REDISTRIBUTE MY CONTENT WITHOUT PERMISSION. YOU MAY USE MY MUSIC IN YOUR VIDEOS AS BACKGROUND MUSIC AS LONG AS YOU GIVE CREDIT TO MY CHANNEL.\nCONTACT ME IF YOU HAVE ANY FURTHER QUESTIONS!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pG4OVL2ek7Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pG4OVL2ek7Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pG4OVL2ek7Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/pG4OVL2ek7Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/pG4OVL2ek7Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "pG4OVL2ek7Y"
+        },
+        "videoOwnerChannelTitle": "CJ Music",
+        "videoOwnerChannelId": "UC-Rrkbe9j6ayIe6ylQAfLzA"
+    },
+    "contentDetails": {
+        "videoId": "pG4OVL2ek7Y",
+        "videoPublishedAt": "2020-09-28T06:11:34Z",
+        "duration": "PT3M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "307203",
+        "likeCount": "11711",
+        "favoriteCount": "0",
+        "commentCount": "423"
+    }
+}

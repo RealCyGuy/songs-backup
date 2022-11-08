@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FODYwN0IxNjMwMjQ2RUYy",
+    "snippet": {
+        "publishedAt": "2022-04-13T05:50:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix)",
+        "description": "Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix)\n\ud83d\udd25 Follow House Nation on Spotify: https://housenation.ffm.to/spotify\n\u2709\ufe0f Submit your Music: https://housenation.ffm.to/submissions\n\n\ud83d\udcfb Follow House Nation:\nhttps://instagram.com/housenation\nhttps://facebook.com/allhousenation\nhttps://twitter.com/allhousenation\nhttps://soundcloud.com/allhousenation\n\n\ud83c\udfb5 Follow Absence:\nhttps://facebook.com/absencemusik\nhttps://soundcloud.com/absencemusik\n\n\ud83c\udfb5 Follow Wiz Khalifa:\nhttps://instagram.com/wizkhalifa\nhttps://facebook.com/wizkhalifa\n\n\ud83c\udfb5 Follow Charlie Puth:\nhttps://instagram.com/charlieputh\nhttps://facebook.com/charlieputh\n\n\u2709\ufe0f Contact: ben@nations.io // kyr@nations.io\n\nTags:\n#wizkhalifa #seeyouagain #absence #charlieputh \n#housenation #house",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HOtCQA6S0NA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HOtCQA6S0NA"
+        },
+        "videoOwnerChannelTitle": "House Nation",
+        "videoOwnerChannelId": "UCj_Y-xJ2DRDGP4ilfzplCOQ"
+    },
+    "contentDetails": {
+        "videoId": "HOtCQA6S0NA",
+        "videoPublishedAt": "2015-05-27T15:11:07Z",
+        "duration": "PT3M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "23963025",
+        "likeCount": "256772",
+        "favoriteCount": "0",
+        "commentCount": "6703"
+    }
+}

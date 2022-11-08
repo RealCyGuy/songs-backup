@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNEM4RkZDQUU4MEYwQzJE",
+    "snippet": {
+        "publishedAt": "2021-07-04T00:50:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ClariS   Hitorigoto - Music Video {Eromanga - Sensei OP FULL)",
+        "description": "Opening of Eromanga Sensei",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XkcBM87wZzs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XkcBM87wZzs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XkcBM87wZzs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XkcBM87wZzs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XkcBM87wZzs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "XkcBM87wZzs"
+        },
+        "videoOwnerChannelTitle": "Tsushi",
+        "videoOwnerChannelId": "UC0JYnKp-aRfvqU95e51cQJQ"
+    },
+    "contentDetails": {
+        "videoId": "XkcBM87wZzs",
+        "videoPublishedAt": "2017-05-16T06:38:39Z",
+        "duration": "PT3M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "117263",
+        "likeCount": "2142",
+        "favoriteCount": "0",
+        "commentCount": "91"
+    }
+}

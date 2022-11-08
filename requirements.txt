@@ -1,2 +1,3 @@
 python-youtube
 python-dotenv
+isodate

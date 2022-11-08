@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DQ0M3RjkxQjExMDUxMjZE",
+    "snippet": {
+        "publishedAt": "2022-04-17T00:21:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[OST] Bart Bonte - Black",
+        "description": "\ud83c\udfb6Soundtrack Information ==========\nAlbum: Tricolore EP, Track 1\nYear: 2018\nPublisher: Bart Bonte\nWebsite: https://bartbonte.bandcamp.com/album/tricolore-ep",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/w-abZa506Uw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/w-abZa506Uw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/w-abZa506Uw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/w-abZa506Uw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/w-abZa506Uw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "w-abZa506Uw"
+        },
+        "videoOwnerChannelTitle": "hugoalh",
+        "videoOwnerChannelId": "UCX1ve4-XKCtoC0O1gUZecnA"
+    },
+    "contentDetails": {
+        "videoId": "w-abZa506Uw",
+        "videoPublishedAt": "2019-02-07T04:45:00Z",
+        "duration": "PT3M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "18019",
+        "likeCount": "470",
+        "favoriteCount": "0",
+        "commentCount": "44"
+    }
+}

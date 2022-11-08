@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42N0Q3M0QwMUVCM0U0RDkw",
+    "snippet": {
+        "publishedAt": "2021-10-13T06:02:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Free Credit Report Commercial",
+        "description": "The best song ever about free credit reports. Just look at the comments on this video for proof.\r\n\r\n*Thank you for all the comments and views! We didn't know this would be such a hit! As of May 29 we have 91,000 views!*\r\n\r\n--------------------------------------\r\n\r\nWell I was shopping for a new car, which one's me\r\n\r\nA cool convertible or an SUV\r\n\r\nToo bad I didn't know my credit was whacked\r\n'cause now I'm driving off the lot in a  used subcompact\r\n\r\nF-R-E-E that spells free\r\ncredit report.com baby\r\n\r\nSaw their ads on my tv\r\nthought about goin' but was too lazy\r\n\r\nNow instead of lookin' flyin' roling phat, my legs are stickin' to the vinyl and my posse's getting laughed at\r\n\r\nF-R-E-E that spells free,\r\ncredit report.com baby!\r\n\r\n*Now don't lie; you can't say that's not an awesome song.\r\n\r\n--------\r\nLegal:\r\n - ErikETC is not affiliated with FreeCreditReport.com, or ConsumerInfo.com, Inc. in anyway.\r\n - ErikETC is not the sole creator of this video. Credit goes to ConsumerInfo.com, Inc.\r\n - This video was not posted for advertisement for freecreditreport.com. It has been posted for the content.\r\n - ErikETC takes no credit for this video.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Wm7lhFkEijY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Wm7lhFkEijY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Wm7lhFkEijY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Wm7lhFkEijY"
+        },
+        "videoOwnerChannelTitle": "ErikETC",
+        "videoOwnerChannelId": "UCuMAnu1iKTSR-J8we31y92g"
+    },
+    "contentDetails": {
+        "videoId": "Wm7lhFkEijY",
+        "videoPublishedAt": "2008-03-13T11:35:40Z",
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2851597",
+        "likeCount": "67028",
+        "favoriteCount": "0",
+        "commentCount": "2680"
+    }
+}

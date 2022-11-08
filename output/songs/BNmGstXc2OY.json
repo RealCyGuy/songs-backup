@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EQUQ5QkUzNTdBQTQ3MDc2",
+    "snippet": {
+        "publishedAt": "2022-02-10T07:05:54Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "We Don't Talk About Bruno but Everyone is Lin-Manuel Miranda",
+        "description": "No this is NOT an actual demo from Encanto haha this is me doing my Lin-Manuel Miranda impression and singing every part! :)\n\nThe Karaoke Style lyrics on Screen was done by: https://www.youtube.com/watch?v=DWtu7yXUtWo\n\nDon't forget to follow my TikTok while you're here! \nhttps://www.tiktok.com/@umokayig?lang=en\n\n\nBook me on CAMEO: https://www.cameo.com/umokayig?qid=1639978103\nGet CUSTOM Lin-Manuel Miranda voice messages (HQ): https://www.fiverr.com/noahmanumaleuga\n\nMy main channel (Gaming and Impressions on Gaming): https://www.youtube.com/c/Simauan",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BNmGstXc2OY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BNmGstXc2OY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BNmGstXc2OY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/BNmGstXc2OY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/BNmGstXc2OY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BNmGstXc2OY"
+        },
+        "videoOwnerChannelTitle": "umokayig",
+        "videoOwnerChannelId": "UCjqYDzGwPpk7i0eq9vtgx8g"
+    },
+    "contentDetails": {
+        "videoId": "BNmGstXc2OY",
+        "videoPublishedAt": "2021-12-23T21:00:11Z",
+        "duration": "PT3M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1954681",
+        "likeCount": "159201",
+        "favoriteCount": "0",
+        "commentCount": "5612"
+    }
+}

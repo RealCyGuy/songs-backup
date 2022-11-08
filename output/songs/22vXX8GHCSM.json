@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRjBGODk1RDZDQTg2NDM1",
+    "snippet": {
+        "publishedAt": "2022-03-22T06:45:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Rush E ...but played by 4 calculators",
+        "description": "Rush E (Calculator Cover)\nInstagram: https://www.instagram.com/geist_chaco",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/22vXX8GHCSM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/22vXX8GHCSM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/22vXX8GHCSM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/22vXX8GHCSM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "22vXX8GHCSM"
+        },
+        "videoOwnerChannelTitle": "\ucc28\ucee4 Chaco",
+        "videoOwnerChannelId": "UCMogCSEyT2n92V8uDJa1Pcg"
+    },
+    "contentDetails": {
+        "videoId": "22vXX8GHCSM",
+        "videoPublishedAt": "2021-11-18T09:55:56Z",
+        "duration": "PT2M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3187907",
+        "likeCount": "191417",
+        "favoriteCount": "0",
+        "commentCount": "5130"
+    }
+}

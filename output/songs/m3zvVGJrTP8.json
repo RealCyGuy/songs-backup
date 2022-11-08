@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DQzk0NUI1MDg2MUQ1MURC",
+    "snippet": {
+        "publishedAt": "2021-10-15T04:31:42Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Hans Zimmer - No Time For Caution (Interstellar Soundtrack)(Docking)(Interstellar OST)",
+        "description": "Interstellar Docking Scene Music - No Time For Caution - Hans Zimmer\n\nInterstellar is a 2014 science fiction film directed by Christopher Nolan. Starring Matthew McConaughey, Anne Hathaway, Jessica Chastain, and Michael Caine, the film features a team of space travelers who travel through a wormhole in search of a new habitable planet. It was written by Jonathan Nolan and Christopher Nolan, Christopher combined his idea with an existing script by his brother that was developed in 2007 for Paramount Pictures and producer Lynda Obst. Nolan is producing the film with Obst and Emma Thomas. Theoretical physicist Kip Thorne, whose works inspired the film, acted as both an executive producer and a scientific consultant for the film.\n\nWarner Bros., who produced and distributed some of Nolan's previous films, negotiated with Paramount, traditionally a rival studio, to have a financial stake in Interstellar. Legendary Pictures, which formerly partnered with Warner Bros., also sought a stake. The three companies co-financed the film, and the production companies Syncopy and Lynda Obst Productions were enlisted. The director also hired cinematographer Hoyte van Hoytema since his long-time collaborator Wally Pfister was busy working on Transcendence, his directorial debut. Interstellar was filmed with a combination of anamorphic 35 mm and IMAX 70 mm film photography. Filming took place in the last quarter of 2013 in locations in the province of Alberta, Canada, in southern Iceland, and in Los Angeles, California. The visual effects company Double Negative created visual effects for Interstellar.\n\nInterstellar premiered on October 26, 2014 in Los Angeles, California. Commercially, it is scheduled for a limited release in North America (United States and Canada) on November 5, 2014 and a wide release on November 7, 2014. It will also be released in Belgium, France and Switzerland on November 5, 2014 and in additional territories in the following days, including the United Kingdom on November 7, 2014. For the limited release in North America, it will be released in 70 mm and 35 mm film formats in approximately 240 theaters which still project the formats, including at least 41 70 mm IMAX theaters. For the wide release, it will expand to theaters that will show it in digital format. Paramount Pictures will distribute the film in North America, and Warner Bros. will distribute it in the remaining territories\n\nInterstellar OST - No Time For Caution - Hans Zimmer (Original Motion Picture Soundtrack)\n\n\nInterstellar Docking Soundtrack\n\n\n\n\nInterstellar OST,Interstellar Soundtrack,Interstellar Docking,Interstellar No Time For Caution,Interstellar\n\n\uc778\ud130\uc2a4\ud154\ub77c,\uc778\ud130\uc2a4\ud154\ub77c \uc74c\uc545,\uc778\ud130\uc2a4\ud154\ub77c \ub3c4\ud0b9,\uc778\ud130\uc2a4\ud154\ub77c \uba85\uc7a5\uba74,\uc778\ud130\uc2a4\ud154\ub77c \ud2b8\ub808\uc77c\ub7ec,\uc778\ud130\uc2a4\ud154\ub77c OST",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/m3zvVGJrTP8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/m3zvVGJrTP8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/m3zvVGJrTP8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/m3zvVGJrTP8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/m3zvVGJrTP8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "m3zvVGJrTP8"
+        },
+        "videoOwnerChannelTitle": "711TAC",
+        "videoOwnerChannelId": "UCxJpfkkq0vDPlrBdfF96UvQ"
+    },
+    "contentDetails": {
+        "videoId": "m3zvVGJrTP8",
+        "videoPublishedAt": "2014-11-22T04:51:35Z",
+        "duration": "PT4M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "49875367",
+        "likeCount": "356834",
+        "favoriteCount": "0",
+        "commentCount": "21560"
+    }
+}

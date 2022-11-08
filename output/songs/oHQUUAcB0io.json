@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RkE1OUE4MUIxODlEODRB",
+    "snippet": {
+        "publishedAt": "2022-08-12T03:55:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Mili - Colorful [Original artist H\u25b3G]",
+        "description": "Get Mili's album \u201cMiracle Milk\u201d here: https://mili.lnk.to/jJKqCID\n\nMili 1st Full Album \"Mag Mell\"\n- release -\n9/17/2014\nhttp://projectmili.com/mag-mell\n\nDigital distribution\niTunes/AmazonMP3/Spotify/etc...\n- release -\n9/24/2014\nhttps://itunes.apple.com/album/mag-mell/id906238165\n\nBuy now : http://project-mili.bandcamp.com/album/h-g-mili\n\n\u30ab\u30e9\u30d5\u30eb Original artist \"H\u25b3G\"\nhttp://youtu.be/D342YCjzvS8\n\nSplit Album \u300cH\u25b3G \u00d7 Mili\u300dvol.2\n2,000 yen \uff08tax out\uff09/ WWSP-1002 / Wish Co.,Ltd.\n2015.1.28 On Sale!! worldwide release!!\nFirst-run limited edition!\nAmazon : http://www.amazon.co.jp/dp/B00Q4DWGF4\nAlbum crossfade : \nSpecial web site (Japanese) : http://wish-japan.co.jp/hag-mili-2/\n\nWe are \"Mili\"\nHP : http://projectmili.com/\nMili Official Twitter Account : https://twitter.com/ProjectMili\nFacebook : https://www.facebook.com/ProjectMili\nBandcamp : http://project-mili.bandcamp.com/\nSpotify : https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs\n\nLyrics: H\u25b3G[Japanese] momocashew[English]\nMusic: H\u25b3G\nArrange: Yamato Kasai & Yukihito Mitomo\n\nTwitter\nmomocashew : https://twitter.com/momocashew\nYamato Kasai : https://twitter.com/HAMOloid/\nYukihito Mitomo : https://twitter.com/going_man\nShoto Yoshida : https://twitter.com/shoto_0y\nAme Yamaguchi : https://twitter.com/ametromin\nAo Fujimori : https://twitter.com/pioooooon\n\n\nH\u25b3G \nHP : http://hag-official.jp/\nYoutube : http://www.youtube.com/user/HAGofficial\n\n\nArtwork : Miyama Fugin\nTwitter : https://twitter.com/omoiomoutori\nTumblr : http://miyama-h.tumblr.com/\n\npresented by Saihate Records",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oHQUUAcB0io/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oHQUUAcB0io/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oHQUUAcB0io/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/oHQUUAcB0io/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/oHQUUAcB0io/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "oHQUUAcB0io"
+        },
+        "videoOwnerChannelTitle": "Mili",
+        "videoOwnerChannelId": "UCVh47EKH9VLresRqiYi9txw"
+    },
+    "contentDetails": {
+        "videoId": "oHQUUAcB0io",
+        "videoPublishedAt": "2014-12-24T10:59:41Z",
+        "duration": "PT4M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2918407",
+        "likeCount": "26403",
+        "favoriteCount": "0",
+        "commentCount": "592"
+    }
+}

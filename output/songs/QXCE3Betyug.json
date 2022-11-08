@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41RjUwNjAwRUMzRDdFNTI4",
+    "snippet": {
+        "publishedAt": "2022-07-26T17:49:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u2727Nightcore - You Suck At Love (lyrics)",
+        "description": "Thank you so much for listening! \u2661\n\nLyrics in video\u221a\nNightcored by me\u221a\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u27a5Song: You Suck At Love\n\u27a5Original artist: Simple Plan\n\n\u2192Anime/Visual novel: Yahari Ore no Seishun Love Comedy wa Machigatteiru\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u223dSupport Simple Plan\u223d\n\u25b7https://www.youtube.com/user/SimplePlan\n\u25b7https://www.facebook.com/simpleplan\n\u25b7https://twitter.com/simpleplan\n\u25b7https://itunes.apple.com/us/artist/simple-plan/id150861\n\u25b7http://instagram.com/SimplePlan\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u223dSupport me\u223d\n\u27a5Subscribe \u2192 http://bit.ly/2l1XKdU\n\u27a5Second channel \u2192 http://bit.ly/2kdewm0\n\u27a5Facebook \u2192 http://bit.ly/2kbDC9I\n\u27a5Donate \u2192 http://bit.ly/2rfJLlD\n\u27a5Twitter \u2192 http://bit.ly/2kQBFNb\n\u27a5Instagram \u2192 http://bit.ly/2kdawBY\n\n\u2022Contact me\u2022\n\u25c7NightcoreWolfie@outlook.com\n\u25c7Skype: NightcoreWolfieYT\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nPLEASE READ:\nI do not own the copyright of the music and picture! I just use it for recreation. This is fair use! All the credits go to the respective owners. \n\nFAIR USE:\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"\n\n*If you're an artist and don't want your content on my channel, please contact me and I will remove it.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/QXCE3Betyug/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/QXCE3Betyug/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/QXCE3Betyug/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/QXCE3Betyug/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/QXCE3Betyug/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QXCE3Betyug"
+        },
+        "videoOwnerChannelTitle": "Nightcore Wolfie",
+        "videoOwnerChannelId": "UCS0mAvuPKmDtQEJVs5l8fTg"
+    },
+    "contentDetails": {
+        "videoId": "QXCE3Betyug",
+        "videoPublishedAt": "2017-04-05T15:19:04Z",
+        "duration": "PT2M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "9046208",
+        "likeCount": "82742",
+        "favoriteCount": "0",
+        "commentCount": "3051"
+    }
+}

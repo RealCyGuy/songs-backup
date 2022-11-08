@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FMTM2MTg4QjIyQjMwODIz",
+    "snippet": {
+        "publishedAt": "2021-07-31T23:36:06Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Baka Mitai (synthwave/retro) feat. Shun Akiyama",
+        "description": "https://astrophysicsbrazil.bandcamp.com/album/essence-of-nostalgia-ep\n\nMy links\nSupport me: https://astrophysicsbrazil.bandcamp.com/\nPatreon: https://www.patreon.com/astrophysicsynth\nTwitter: https://twitter.com/astrosynth\nSoundcloud: https://soundcloud.com/astrolives\nAsk Me Anything: https://curiouscat.me/astrophysicsynth\nFacebook page: https://www.facebook.com/Astrophysicsmusic/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XdMmLoZDW8g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XdMmLoZDW8g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XdMmLoZDW8g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XdMmLoZDW8g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XdMmLoZDW8g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "XdMmLoZDW8g"
+        },
+        "videoOwnerChannelTitle": "Astrophysics",
+        "videoOwnerChannelId": "UCWSC_-y9QsDmACXRY3rvtsQ"
+    },
+    "contentDetails": {
+        "videoId": "XdMmLoZDW8g",
+        "videoPublishedAt": "2020-12-21T17:17:35Z",
+        "duration": "PT4M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "970139",
+        "likeCount": "28436",
+        "favoriteCount": "0",
+        "commentCount": "680"
+    }
+}

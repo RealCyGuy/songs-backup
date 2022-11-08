@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMjQ4MDU2Q0JBOTdGNzRD",
+    "snippet": {
+        "publishedAt": "2022-09-14T00:45:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Nightshift TV - Drive Forever (Official Audio)",
+        "description": "Nightshift TV - \"Drive Forever\", available now globally.\nBuy and listen: https://push.fm/fl/nightshift-tv\n\nFollow Nightshift TV:\nSpotify: https://tinyurl.com/nstvspotify\nApple Music: https://tinyurl.com/nstvapplemusic\nYouTube: https://tinyurl.com/nstvYouTube\nInstagram: https://tinyurl.com/NstvInstagram\nVK: https://vk.com/nightshifttv\nTwitter: https://twitter.com/iinightshiftii\nBandcamp: https://nightshift-tv.bandcamp.com\n\n#nightshifttv\n#driveforever",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xLc6lwbJoxU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xLc6lwbJoxU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xLc6lwbJoxU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xLc6lwbJoxU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xLc6lwbJoxU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xLc6lwbJoxU"
+        },
+        "videoOwnerChannelTitle": "NIGHTSHIFT TV",
+        "videoOwnerChannelId": "UCYwQgSIlVqI7OF1cq6uiMsw"
+    },
+    "contentDetails": {
+        "videoId": "xLc6lwbJoxU",
+        "videoPublishedAt": "2022-01-12T13:00:51Z",
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4866701",
+        "likeCount": "149216",
+        "favoriteCount": "0",
+        "commentCount": "2371"
+    }
+}

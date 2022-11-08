@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMDBDQTBGMDhBNzNBRjMz",
+    "snippet": {
+        "publishedAt": "2021-11-16T23:31:07Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Alan Walker - Fade",
+        "description": "\u25b3 Merch @ https://store.alanwalker.no \u25b3\n\nMy new single \"Alone, Pt. II\" with Ava Max is out now! \nCheck out the song here:  https://lnk.to/AWAlonePtII\n\nNew K-391 & Ahrix inspired track kicking off at 90BPM\n\nFREE DOWNLOAD: \nhttps://soundcloud.com/alanwalker/alan-walker-fade\n\nIf you dig the song, please Share with friends, family, and virtual acquaintances. \n\nTwitter @ IAmAlanWalker\n------------------------------------------- \nBookings/MGMT/Press Inquiries:\ndjwalkzz@gmail.com\n\nFollow NoCopyrightSounds:\n\u279e Spotify http://bit.ly/SpotifyNCS\n\u279e SoundCloud http://soundcloud.com/nocopyrightsounds\n\u279e Facebook http://facebook.com/NoCopyrightSounds\n\u279e Twitter http://twitter.com/NCSounds\n\u279e Google+ http://google.com/+nocopyrightsounds\n\u279e Instagram http://instagram.com/nocopyrightsounds_\n\nAlan Walker:\n\u279e SoundCloud http://soundcloud.com/walkzz\n\u279e Facebook http://facebook.com/DJWalkzz\n\u279e Twitter http://twitter.com/IAmAlanWalker\n\u279e Google+ http://google.com/+djwalkzz\n\u279e Instagram http://instagram.com/alanwalkerr\n\nWalker Gaming:\n\u279e Website: https://walkergaming.com\u200b\n\u279e Instagram: https://www.instagram.com/w47k3rg4m1ng\u200b\n\u279e Facebook: https://m.facebook.com/w47k3rg4m1ng\u200b\n\u279e Twitch: https://www.twitch.tv/w47k3rg4m1ng\u200b\n\u279e Twitter: https://twitter.com/w47k3rg4m1ng\u200b\n\u279e TikTok: https://vm.tiktok.com/ZMebouDue",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vg95MYlTb3c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vg95MYlTb3c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vg95MYlTb3c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/vg95MYlTb3c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/vg95MYlTb3c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vg95MYlTb3c"
+        },
+        "videoOwnerChannelTitle": "Alan Walker",
+        "videoOwnerChannelId": "UCJrOtniJ0-NWz37R30urifQ"
+    },
+    "contentDetails": {
+        "videoId": "vg95MYlTb3c",
+        "videoPublishedAt": "2014-08-18T05:24:52Z",
+        "duration": "PT1M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "57732",
+        "likeCount": "1290",
+        "favoriteCount": "0",
+        "commentCount": "92"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNkZDQjQyNkY0RkQxQjcy",
+    "snippet": {
+        "publishedAt": "2021-11-07T05:19:13Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Beethoven - 5th Symphony Nightmare (INSANE Remix)",
+        "description": "I will be performing my biggest concert ever at Kennedy Center in Washington DC. Click here to learn more: https://youtu.be/LaM5M5GnDnE\n\nThis was my top remix out of the 10 remixes that I did on my recent Fiverr review video (by wileywest): https://youtu.be/LNRBhq2oV8k\n\nListen on Spotify: https://distrokid.com/hyperfollow/musicalbasics/5th-symphony-nightmare\nCheck out wileywest's Fiverr page: https://fvrr.co/3DZ8BdC\n\nI highly recommend Fiverr to get help on things like audio engineering, remixing, photoshop work, making Youtube thumbnails, or album art (many common things that people ask me about: https://fvrr.co/2YYVgms\n\nVideo created with Concert AI: https://concertcreator.ai \n\nDISCORD  \u25ba\u25ba https://discord.gg/musicalbasics\nINSTAGRAM \u25ba\u25ba https://instagram.com/musicalbasics\n\n--------------------\n\nThank you to my supporters on Patreon \u25ba\u25ba http://bit.ly/MB_Patreon",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/AlrR89Hv01c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/AlrR89Hv01c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/AlrR89Hv01c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/AlrR89Hv01c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/AlrR89Hv01c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "AlrR89Hv01c"
+        },
+        "videoOwnerChannelTitle": "Lionel Yu",
+        "videoOwnerChannelId": "UCDjwdhrPW_MPEleDnPXOYTA"
+    },
+    "contentDetails": {
+        "videoId": "AlrR89Hv01c",
+        "videoPublishedAt": "2021-10-27T04:51:56Z",
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "unlisted"
+    },
+    "statistics": {
+        "viewCount": "1662897",
+        "likeCount": "64032",
+        "favoriteCount": "0",
+        "commentCount": "7407"
+    }
+}

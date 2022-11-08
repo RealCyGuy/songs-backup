@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RDc4QTk0OTY5MTgyRjVF",
+    "snippet": {
+        "publishedAt": "2022-05-22T03:57:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Love The Way You Lie - MASHUP (free mp3!)",
+        "description": "Check out our epic song with Coke Bottles!! https://www.youtube.com/watch?v=ZzuRvzsNpTU\nSUBSCRIBE! I promise, it's fun :1 http://bit.ly/SubscribeKHS\nSam Tsui singing, Kurt Schneider producing a fun mashup of \"Love The Way You Lie\", \"Dynamite\", and \"Teenage Dream.\"  \n\nShare this video on Facebook here!: http://bit.ly/SamTsuiLoveTheWayYouLieMashup\n\nAnd if you feel like it, you can donate a dollar or two here-- http://bit.ly/c7gGjh\nWe love bringing you these songs, and appreciate all your support :)\n\n-----------------------------------------------\n\nMany thanks to my friend Chris Ripley ( http://www.christopherripley.com ) for helping out with some of the camera work.\n\nCheck out more of Sam here:\nhttp://www.Facebook.com/SamTsuiMusic\nhttp://www.Twitter.com/SamuelTsui\nhttp://www.Myspace.com/SamTsui\n\nAnd here's my new official Facebook Page:\nhttp://www.Facebook.com/KurtHugoSchneider\n\n...and Twitter:\nhttp://www.Twitter.com/KurtHSchneider\n\n:)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HkHJ2-zoSB4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HkHJ2-zoSB4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HkHJ2-zoSB4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HkHJ2-zoSB4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HkHJ2-zoSB4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HkHJ2-zoSB4"
+        },
+        "videoOwnerChannelTitle": "Kurt Hugo Schneider",
+        "videoOwnerChannelId": "UCplkk3J5wrEl0TNrthHjq4Q"
+    },
+    "contentDetails": {
+        "videoId": "HkHJ2-zoSB4",
+        "videoPublishedAt": "2010-09-12T07:05:50Z",
+        "duration": "PT4M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "45214623",
+        "likeCount": "333587",
+        "favoriteCount": "0",
+        "commentCount": "30235"
+    }
+}

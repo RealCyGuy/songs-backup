@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CQ0IxNzZGRDM3NzA2ODUw",
+    "snippet": {
+        "publishedAt": "2022-06-03T14:49:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "C418 - ARIA MATH | a cover",
+        "description": "Aria Math is a song by Daniel Rosenfeld (C418) that originally comes from Minecraft - a game that built many of my dearest childhood memories, as I'm sure it did yours too.\n\nHuge thank you to Logan for letting me borrow his steel drum - it made this track!  Also huge thanks to Ellie for getting me the Stylophone featured at the end for Christmas - seriously the most fun gift ever.  And thank you to my parents for getting me the thumb kalimba that was also featured in this track!  Basically putting all of my new Christmas presents to good use here, haha. \ud83d\ude09\n\nLet me know in the comments if you'd like to see any more video game covers!\n\nOriginal song;\nhttps://bit.ly/38GVXC7\n\nF O L L O W  M E;\nInstagram: https://bit.ly/2ZukjbM\nSpotify: https://spoti.fi/33Y8IFC\nTwitter: https://bit.ly/2L1c7vu\n\nT H E  P O D C A S T;\nSpotify: https://spoti.fi/2MIWcUG\nApple Podcasts: https://apple.co/33ZJWER\nGoogle Podcasts: https://bit.ly/2UaTYy9\nAnchor: https://bit.ly/2KXVdhf\n\nM Y  G E A R;\nMain camera: https://bhpho.to/38hB2Hn\nShotgun mic: https://bhpho.to/3jXcRQG\nVocal mic: https://bhpho.to/34VWKhH\nBendy tripod: https://bhpho.to/2I6NFcV\n\nhttps://www.elijahboisvert.com\n\nAll rights reserved.\n\nPeace!\n\n#Minecraft",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Zso5bj3b6yc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Zso5bj3b6yc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Zso5bj3b6yc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Zso5bj3b6yc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Zso5bj3b6yc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Zso5bj3b6yc"
+        },
+        "videoOwnerChannelTitle": "Elijah Boisvert",
+        "videoOwnerChannelId": "UCJ7qezraHUIZJgBVJvHdU7w"
+    },
+    "contentDetails": {
+        "videoId": "Zso5bj3b6yc",
+        "videoPublishedAt": "2020-12-28T20:33:28Z",
+        "duration": "PT3M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "387708",
+        "likeCount": "22536",
+        "favoriteCount": "0",
+        "commentCount": "1473"
+    }
+}

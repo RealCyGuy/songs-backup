@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRjhFM0MxMTU1MEUzQ0VB",
+    "snippet": {
+        "publishedAt": "2021-04-26T01:18:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010violin+piano\u3011Promised Neverland - Isabella's Lullaby \ud83c\udfb5",
+        "description": "I love this song from Promised Neverland and wanted to do a cover of it! Arranged by both Albert + me. \n\nCREDITS:\n\nviolin boy: albert \nhttps://www.youtube.com/channel/UCrDQW9kAElm707c5z6d5r7Q\nhttps://www.instagram.com/sleightlymusical/?hl=en\nhttps://twitter.com/thealbertchang?lang=en\n\nvideographer/editor: manny\nhttps://www.instagram.com/mohtionfilms/?hl=en\n\nmakeup!!: aria \nhttps://www.twitter.com/ariasaki",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6NMu-I184yk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6NMu-I184yk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6NMu-I184yk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/6NMu-I184yk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/6NMu-I184yk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6NMu-I184yk"
+        },
+        "videoOwnerChannelTitle": "LilyPichu",
+        "videoOwnerChannelId": "UCvWU1K29wCZ8j1NsXsRrKnA"
+    },
+    "contentDetails": {
+        "videoId": "6NMu-I184yk",
+        "videoPublishedAt": "2019-05-02T20:00:58Z",
+        "duration": "PT2M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1851914",
+        "likeCount": "95787",
+        "favoriteCount": "0",
+        "commentCount": "4089"
+    }
+}

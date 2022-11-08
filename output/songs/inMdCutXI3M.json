@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zOTExNTAwOERBMTNFRUM4",
+    "snippet": {
+        "publishedAt": "2021-07-18T18:44:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ViViD HIKARI (Video)",
+        "description": "ViViD HIKARI (Video Oficial)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/inMdCutXI3M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/inMdCutXI3M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/inMdCutXI3M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "inMdCutXI3M"
+        },
+        "videoOwnerChannelTitle": "K-Pop Love Mexico",
+        "videoOwnerChannelId": "UCVjLGL2XlCusPJLjPTjrbrw"
+    },
+    "contentDetails": {
+        "videoId": "inMdCutXI3M",
+        "videoPublishedAt": "2015-02-01T11:24:01Z",
+        "duration": "PT4M19S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "256975",
+        "likeCount": "2940",
+        "favoriteCount": "0",
+        "commentCount": "144"
+    }
+}

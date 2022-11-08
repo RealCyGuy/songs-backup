@@ -1,0 +1,74 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zRDNFM0Q1MzY2NTYwMTJC",
+    "snippet": {
+        "publishedAt": "2022-03-24T00:12:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "BoyWithUke - IDGAF ft. blackbear",
+        "description": "Stream/Download IDGAF here: https://boywithuke.lnk.to/SeratoninDreams/YC\n\nSpotify: https://BoyWithUke.lnk.to/Spotify\nApple Music: https://BoyWithUke.lnk.to/AppleMusic\nInstagram: https://BoyWithUke.lnk.to/Instagram\nTikTok: https://BoyWithUke.lnk.to/TikTok\nAll other links and socials: https://linktr.ee/Boywithuke\n\nThe official YouTube channel of BoyWithUke.\nSubscribe :D\n\nMusic video by BoyWithUke performing IDGAF. \u00a9 2022 Boywithuke, LLC, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Q1QcLbkYFaM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Q1QcLbkYFaM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Q1QcLbkYFaM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Q1QcLbkYFaM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Q1QcLbkYFaM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Q1QcLbkYFaM"
+        },
+        "videoOwnerChannelTitle": "BoyWithUkeVEVO",
+        "videoOwnerChannelId": "UCcUcckay9ZVzIZ92kEqz5Yw"
+    },
+    "contentDetails": {
+        "videoId": "Q1QcLbkYFaM",
+        "videoPublishedAt": "2022-03-18T04:00:24Z",
+        "duration": "PT2M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "IO",
+                "KP",
+                "RU",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "32796568",
+        "likeCount": "671098",
+        "favoriteCount": "0",
+        "commentCount": "19465"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43QkZBODMyNTEwOUJBMTY4",
+    "snippet": {
+        "publishedAt": "2022-07-18T21:57:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "WALK THE MOON - Shut Up and Dance (Audio)",
+        "description": "\"Shut Up and Dance\" by WALK THE MOON\nNew music & a tour are coming your way: http://walkthemoon.com\nListen to WALK THE MOON: https://WalkTheMoon.lnk.to/listenYD\nWatch more WALK THE MOON videos: https://WalkTheMoon.lnk.to/listenYD/youtube\n\nSubscribe to the official WALK THE MOON YouTube channel: https://WalkTheMoon.lnk.to/subscribeYD \n\nFollow WALK THE MOON:\nFacebook: https://WalkTheMoon.lnk.to/followFI/facebook\nInstagram: https://WalkTheMoon.lnk.to/followII/instagram\nTwitter: https://WalkTheMoon.lnk.to/followTI/twitter\nSpotify: https://WalkTheMoon.lnk.to/followSI/spotify\nWebsite: https://WalkTheMoon.lnk.to/followWI/websitegeneral\nYouTube: https://WalkTheMoon.lnk.to/subscribeYD\n\nLyrics:\nCross my heart\nAnd hope to die\nTaking this one step at a time\nI got your back if you got mine\nOne foot in front of the other\nAll that we have is each other\nOne foot in front of the other\n\n#ShutUpandDance #WALKTHEMOON #OfficialAudio",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nbcCG7PkI18/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nbcCG7PkI18/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nbcCG7PkI18/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/nbcCG7PkI18/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/nbcCG7PkI18/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nbcCG7PkI18"
+        },
+        "videoOwnerChannelTitle": "WalkTheMoonVEVO",
+        "videoOwnerChannelId": "UC33W-ccS1iDKLxlI5WOPknA"
+    },
+    "contentDetails": {
+        "videoId": "nbcCG7PkI18",
+        "videoPublishedAt": "2014-09-10T12:56:41Z",
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "29240659",
+        "likeCount": "141303",
+        "favoriteCount": "0",
+        "commentCount": "3846"
+    }
+}

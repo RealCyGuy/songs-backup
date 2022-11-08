@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43ODA2MDVCQzY5QzZDMjUw",
+    "snippet": {
+        "publishedAt": "2021-04-27T03:38:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Unknown Brain - Inspiration (feat. Aviella) [NCS Release]",
+        "description": "NCS: Music Without Limitations.\nOur Spotify Playlist \u2192 http://spoti.fi/NCS \n\nDownload / Stream: http://ncs.io/InspirationID\n\n[NCS]\n\u2022 Facebook Group: http://ncs.io/Community\n\u2022 http://soundcloud.com/NoCopyrightSounds\n\u2022 http://instagram.com/NoCopyrightSounds\n\u2022 http://facebook.com/NoCopyrightSounds\n\u2022 http://twitter.com/NCSounds\n\n[Unknown Brain]\n\u2022 http://soundcloud.com/UnknownBrain\n\u2022 http://facebook.com/UnknownBrain\n\u2022 http://twitter.com/UnknownBrain_\n\n[Aviella]\n\u2022 http://soundcloud.com/aviella-winder\n\u2022 http://facebook.com/Aviella-Winder-133455951652\n\n\ud83c\udfa7 YouTube Playlists:\n\u21aa\ufe0e http://bit.ly/ALLNCSmusic\n\u21aa\ufe0e http://bit.ly/NCSdrumandbass\n\u21aa\ufe0e http://bit.ly/NCSelectronic\n\u21aa\ufe0e http://bit.ly/NCShouse\n\u21aa\ufe0e http://bit.ly/NCStrap\n\n\ud83c\udfb6 Spotify Playlists:\n\u21aa\ufe0e http://spoti.fi/NCS\n\u21aa\ufe0e http://ncs.io/GamingMusic\n\u21aa\ufe0e http://ncs.io/NewMusic\n\u21aa\ufe0e http://ncs.io/House\n\u21aa\ufe0e http://ncs.io/Trap\n\u21aa\ufe0e http://ncs.io/DnB\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nWhen you are using this track, please add this in your description:\n\nTrack: Unknown Brain - Inspiration (feat. Aviella) [NCS Release]\nMusic provided by NoCopyrightSounds.\nVideo: https://youtu.be/aCH1eyWq9B0\nFree Download / Stream: http://ncs.io/InspirationYO\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n\u00a9 Check out our Usage Policy on how to use NCS music in your videos: http://ncs.io/UsagePolicy\n\nTo request a commercial license visit: http://ncs.io/Commercial",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aCH1eyWq9B0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aCH1eyWq9B0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aCH1eyWq9B0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/aCH1eyWq9B0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/aCH1eyWq9B0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "aCH1eyWq9B0"
+        },
+        "videoOwnerChannelTitle": "NoCopyrightSounds",
+        "videoOwnerChannelId": "UC_aEa8K-EOJ3D6gOs7HcyNg"
+    },
+    "contentDetails": {
+        "videoId": "aCH1eyWq9B0",
+        "videoPublishedAt": "2017-07-22T15:45:00Z",
+        "duration": "PT3M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "24088924",
+        "likeCount": "429029",
+        "favoriteCount": "0",
+        "commentCount": "11311"
+    }
+}

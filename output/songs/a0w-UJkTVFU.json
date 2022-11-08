@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRUQzNjUxQjQ2RUMwRkU5",
+    "snippet": {
+        "publishedAt": "2022-05-29T06:50:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Just the Two of Us are Harder, Better, Faster, Stronger than You (3x SU mashup)",
+        "description": "Steven Universe x Daft Punk x Grover Washington Jr\nDOWNLOAD https://mega.nz/#!G1tDTBLK!jfpGlKDstfjxnLdL3x7U5z2tCAfTRzuzAwR5T3xQHPM\nINSTRUMENTAL https://www.youtube.com/watch?v=4Emjqa4BBwA\nTUMBLR POST http://scibot9000.tumblr.com/post/115696971328/just-the-two-of-us-are-harder-better-faster\nSOUNDCLOUD https://soundcloud.com/sci_/jt2ouahbfsty\nI'm not going to sell this particular mashup, but if you still feel like throwing money my way, do peruse my discography on bandcamp: https://soundsfromsci.bandcamp.com/\n\n-----\n\nI made a mashup on a whim one day, posted it to tumblr, and it got a ton of notes even though it wasn't that great. \nSo I redid it. :P\n\nsong list:\n1. Daft Punk - Touch\n2. Daft Punk - Harder, Better, Faster, Stronger\n3. Grover Washington Jr - Just the Two of Us\n4. Steven Universe (surrashu, aivi, estelle, jeff lui, jeff ball, rebecca sugar) - Stronger than You\n5. a very large number of random breaks, and also a very brief chord from Jimi Tenor - Paint the Stars\n\nmany thanks to rikuta for the art!\nhttp://rikuta.tumblr.com/\n\ndo you want to use this in your video/podcast/whatever? as long as you're not selling it or claiming that you made the mashup, feel free to use it wherever you want!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/a0w-UJkTVFU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/a0w-UJkTVFU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/a0w-UJkTVFU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/a0w-UJkTVFU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/a0w-UJkTVFU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "a0w-UJkTVFU"
+        },
+        "videoOwnerChannelTitle": "scibot9000",
+        "videoOwnerChannelId": "UCJhidb_jox0JEHbWPpFgZUg"
+    },
+    "contentDetails": {
+        "videoId": "a0w-UJkTVFU",
+        "videoPublishedAt": "2015-04-06T20:50:45Z",
+        "duration": "PT2M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8129932",
+        "likeCount": "226807",
+        "favoriteCount": "0",
+        "commentCount": "5193"
+    }
+}

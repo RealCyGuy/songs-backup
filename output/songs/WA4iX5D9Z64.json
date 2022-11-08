@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44RjRGMDE0MzdEMjJFODZG",
+    "snippet": {
+        "publishedAt": "2021-09-04T06:00:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Taylor Swift - We Are Never Ever Getting Back Together",
+        "description": "Music video by Taylor Swift performing We Are Never Ever Getting Back Together. \u00a9:  2012 Big Machine Records, LLC.\n \n\u25baExclusive Merch: https://store.taylorswift.com\n \n\u25baFollow Taylor Swift Online\nInstagram: http://www.instagram.com/taylorswift\nFacebook: http://www.facebook.com/taylorswift\nTumblr: http://taylorswift.tumblr.com\nTwitter: http://www.twitter.com/taylorswift13\nWebsite: http://www.taylorswift.com\n \n\u25baFollow Taylor Nation Online\nInstagram: http://www.instagram.com/taylornation\nTumblr: http://taylornation.tumblr.com\nTwitter: http://www.twitter.com/taylornation13",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WA4iX5D9Z64/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WA4iX5D9Z64/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WA4iX5D9Z64/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WA4iX5D9Z64/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WA4iX5D9Z64/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WA4iX5D9Z64"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+    },
+    "contentDetails": {
+        "videoId": "WA4iX5D9Z64",
+        "videoPublishedAt": "2012-09-01T00:00:08Z",
+        "duration": "PT3M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "709130621",
+        "likeCount": "3870875",
+        "favoriteCount": "0",
+        "commentCount": "220661"
+    }
+}

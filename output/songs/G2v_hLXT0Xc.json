@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMjJDNTI1RkY2NUMxMEMz",
+    "snippet": {
+        "publishedAt": "2021-12-13T04:42:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u300c\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6 / Fukashigi no Carte\u300d- \u9752\u6625\u30d6\u30bf\u91ce\u90ceED - Ru's Piano Cover [FULL]",
+        "description": "\u300c\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6 / Fukashigi no Carte\u300d\u9752\u6625\u30d6\u30bf\u91ce\u90ce  \u30d4\u30a2\u30ce\n\n\ud83d\udc30Join RuRu's Membership to support me create music videos\uff1a\n\u279chttps://www.youtube.com/c/RusPiano/join\n\n\u8a9e\u308c\u306a\u3044\u3000\u7720\u308c\u306a\u3044\u3000\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4\n\u3042\u306a\u305f\u306e\u898b\u3066\u308b\u6b63\u4f53\n\u8ab0\u3082\u8aad\u3081\u306a\u3044\u30ab\u30eb\u30c6\n\u4e0d\u53ef\u601d\u8b70\u3000\u77e5\u308a\u305f\u3044\u3060\u3051\n\n\ud83c\udfbcPiano Arranged and Performed by RuRu\n- FB Page: https://www.facebook.com/ruruspiano\n- Instagram: https://www.instagram.com/ruruspiano\n\nPlease subscribe if you want to see more of my piano covers (\uff65\u03c9\uff65)v\n\n\ud83c\udfbcSheet Music Link at Top Comment (For Free Until 4/18)\n\ud83c\udfbcRuRu Sheet Music Website: https://gumroad.com/ruspiano\n\n\ud83c\udfb9Learn Anime piano easily: https://go.flowkey.com/ruspiano\n\n\ud83c\udfb9Get Piano Sheets and WAV Files for Each Month:\n\u25b6Patreon: https://www.patreon.com/rusmusic\n\u25b6Join Youtube Memberships: https://youtube.com/c/RusPiano/join\n\n\ud83d\udc23Support Ru's Piano\ud83d\udc23\n\u25b6PayPal:  https://paypal.me/ruruspringroll\n\u25b6\u6b50\u4ed8\u5bf6:  https://bit.ly/donateRuRuSpringRoll\n\n\ud83c\udfa4Community Contributions\uff1ahttp://www.youtube.com/timedtext_cs_panel?tab=2&c=UCAYrMNl92jw6cpjdpBP8JyA\n\n#\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6 #\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb\u5148\u8f29\u306e\u5922\u3092\u898b\u306a\u3044 \n#\u30d4\u30a2\u30ce #\u30a2\u30cb\u30bd\u30f3\n#\u9752\u6625\u8c6c\u982d\u5c11\u5e74\u4e0d\u6703\u5922\u5230\u5154\u5973\u90ce\u5b78\u59ca #\u92fc\u7434\u6f14\u594f\n#SeishunButaYarouwaBunnyGirlSenpainoYumewoMinai\n#Piano #Cover #ACG",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/G2v_hLXT0Xc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/G2v_hLXT0Xc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/G2v_hLXT0Xc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/G2v_hLXT0Xc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "G2v_hLXT0Xc"
+        },
+        "videoOwnerChannelTitle": "Ru's Piano Ru\u5473\u6625\u6372",
+        "videoOwnerChannelId": "UCAYrMNl92jw6cpjdpBP8JyA"
+    },
+    "contentDetails": {
+        "videoId": "G2v_hLXT0Xc",
+        "videoPublishedAt": "2019-04-13T11:27:49Z",
+        "duration": "PT4M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "714702",
+        "likeCount": "44886",
+        "favoriteCount": "0",
+        "commentCount": "998"
+    }
+}

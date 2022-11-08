@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40MUFEN0ExOUQyOUIxNEI5",
+    "snippet": {
+        "publishedAt": "2021-10-13T06:04:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Gravity Falls - Theme Song [Electro Swing Remix]",
+        "description": "Gravity Falls Presents: The Dapper Dipper and The Marvelous Mabel\n\nIt's been a while since I've made a song. I have too much stuff going on right now. Also, that glitch at 1:12 is not supposed to be there. Window's Movie Maker's rendering sucks :/\n\nI added some parts from \"Made me realize\" too.\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - \n\nAmazing art by my friend, AL. She's the one who made the art for Asgore. I like it a lot. \u2665\nFollow AL on twitter: https://twitter.com/IamAL_ALisME\nAL's DeviantArt: http://iamalisme.deviantart.com/\n\nArt: http://goo.gl/upM50J\nSoundcloud: https://goo.gl/n9otp8\nNewgrounds: http://goo.gl/QvFBV6\nDownload: https://goo.gl/njCOZl\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - \n\nGSV PVB RH \"WRKKVI WZKKVI ZMW NZIEVOLFH NZYVO\"\n\nWPPCO PRU HD QLCU IAR 13B NYMG. C DAVF CZX IAA! M URN'I WEME NQKTYDRR HI KMY NYNK, JJI M'U MUHI PZKR WA SRT XSON AR YPY'GH NDJRU WHXH HFN'G WQLC VRJCHW. UF ZSF GW, YJWK FOBBIET \"TKASK, TSF'FY S SEOMFV\" BD RSEIUHT TVOCOQ LFG.\nTempo: 106 BPM\n\nGhosts have twitter too: https://goo.gl/bbX1k4\n...facebook too: https://goo.gl/M3yaXA\n...and tumblr: http://goo.gl/f2Ydtb\n\n\nGravity Falls is a show created by Alex Hirsch. It's really amazing, but sadly it's over now. I will forever love Gravity Falls.\n\nDisclaimer: I do not own the original song, I just made a remix of it. I am not associated with Disney in the making of this cover. All rights reserved to them.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ogxdPMbrP3E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ogxdPMbrP3E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ogxdPMbrP3E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ogxdPMbrP3E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ogxdPMbrP3E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ogxdPMbrP3E"
+        },
+        "videoOwnerChannelTitle": "The Musical Ghost",
+        "videoOwnerChannelId": "UCqeHbI0rfexnHhhEgrg8Exg"
+    },
+    "contentDetails": {
+        "videoId": "ogxdPMbrP3E",
+        "videoPublishedAt": "2016-05-31T14:00:44Z",
+        "duration": "PT2M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8465115",
+        "likeCount": "208738",
+        "favoriteCount": "0",
+        "commentCount": "6719"
+    }
+}

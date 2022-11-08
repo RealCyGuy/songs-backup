@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENUUzNDQ4RjRBOEVFQkRD",
+    "snippet": {
+        "publishedAt": "2021-10-21T01:34:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Burn It All Down (ft. PVRIS) | Worlds 2021 - League of Legends",
+        "description": "MAKE/BREAK\nFor more information on Worlds 2021 visit http://www.lolesports.com.\n\nListen now: https://found.ee/burnitalldown \nSpotify: https://found.ee/burnitalldown-spotify\nApple Music: https://found.ee/burnitalldown-applemusic\nAmazon Music: https://found.ee/burnitalldown-amazonmusic\nYoutube Music: https://found.ee/burnitalldown-youtube\nDeezer: https://found.ee/burnitalldown-deezer\n\nPRODUCTION CREDITS\nBurn It All Down \nFeatured artist: PVRIS\nWritten by: Riot Music Team and Alex Seaver of Mako\nProduced by: Riot Music Team \nMixed by: Eric J and Riot Music Team\nMastered by: Mike Bozzi at Bernie Grundman \nVocals performed by: PVRIS \nVocal production by: Riot Music Team and Alex Seaver of Mako \nP/C Riot Games 2021\n\nhttps://linktr.ee/thisispvris\n\nMusic Video: Created in partnership with Haoliners Animation\nhttp://haoliners.net\n\nLYRICS\nThis ain\u2019t where the legends come from\nYou\u2019re not what a hero looks like\nPretty little flower won\u2019t you sit back down and go play nice\nKeep talking, keep laughing\nOne day you\u2019ll wish you hadn\u2019t\nAll the people want fire, fire\nMaybe it's time they meet their dragon\n\nIf you\u2019re gonna hold me down\nAnd you\u2019re not gonna let me in\nInto your castle walls\nNone of you can keep them\n\nCause if I gotta\nBu bu burn it all down\nThen we\u2019ll burn it all down\nmy oh my look at who ends up bigger this time \nAnd if I gotta\nBu bu break it all down\nThen let's break it all down\nBye bye bye\nPlaying with fire\nAnd we burn it all down\n\nThis is where the bruises come from\nThis is when the game gets ugly\nThese blood, sweat, tears keep running\nLicking my plate \u2019cause I\u2019m so hungry\nKeep talking, keep laughing\nOne day you\u2019ll see what happens\nAll the people want fire, fire\nIt's about time they meet their dragon\n\nIf you\u2019re gonna hold me down\nAnd you\u2019re not gonna let me in\nInto your castle walls\nNone of you can keep them\n\nCause if I gotta\nBu bu burn it all down\nThen we\u2019ll burn it all down\nmy oh my look at who ends up bigger this time \nAnd if I gotta\nBu bu break it all down\nThen let's break it all down\nBye bye bye\nPlaying with fire\nAnd we burn it all down\n\nIt starts right now\nBaby you\u2019re surrounded\nPut your money where your mouth is\nBury your doubts under the ground\nAnd they gonna watch you step over the ashes \nRight now i\u2019m taking my turn with the matches\n\nCause if I gotta\nBu bu burn it all down\nThen we\u2019ll burn it all down\nmy oh my look at who ends up bigger this time \nAnd if I gotta\nBu bu break it all down\nThen let's break it all down\nBye bye bye\nPlaying with fire\nAnd we burn it all down",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1Z6CHioIn3s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1Z6CHioIn3s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1Z6CHioIn3s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/1Z6CHioIn3s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/1Z6CHioIn3s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1Z6CHioIn3s"
+        },
+        "videoOwnerChannelTitle": "League of Legends",
+        "videoOwnerChannelId": "UC2t5bjwHdUX4vM2g8TRDq5g"
+    },
+    "contentDetails": {
+        "videoId": "1Z6CHioIn3s",
+        "videoPublishedAt": "2021-09-29T00:00:10Z",
+        "duration": "PT3M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "44038126",
+        "likeCount": "811261",
+        "favoriteCount": "0",
+        "commentCount": "27976"
+    }
+}

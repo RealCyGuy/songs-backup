@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RjdBQTMwNUUwRTA1QkE3",
+    "snippet": {
+        "publishedAt": "2021-05-09T15:00:57Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Yakuza OST - Baka Mitai (\u3070\u304b\u307f\u305f\u3044) Kiryu full version",
+        "description": "Yakuza (Ryu ga Gotoku) 0, 5 and Kiwami karaoke, originally sang by Kiryu.\n\nCover version by Senshi Ongaku.\n\nComposition \u00a9 Sega / Ryu ga Gotoku Studio\n\nAudio \u00a9 Senshi Ongaku",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/g3jCAyPai2Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/g3jCAyPai2Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/g3jCAyPai2Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/g3jCAyPai2Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/g3jCAyPai2Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "g3jCAyPai2Y"
+        },
+        "videoOwnerChannelTitle": "Senshi Ongaku",
+        "videoOwnerChannelId": "UCJnrBXpAg_0HPBQBkhyn99w"
+    },
+    "contentDetails": {
+        "videoId": "g3jCAyPai2Y",
+        "videoPublishedAt": "2017-09-21T07:38:20Z",
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "7649647",
+        "likeCount": "98587",
+        "favoriteCount": "0",
+        "commentCount": "2200"
+    }
+}

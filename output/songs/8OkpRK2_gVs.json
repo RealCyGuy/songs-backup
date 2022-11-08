@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMUQyQTQzMjRDNzMyQTMy",
+    "snippet": {
+        "publishedAt": "2021-04-25T03:46:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Attack on Titan - Opening | Feuerroter Pfeil und Bogen",
+        "description": "Artist: Linked Horizon\nSong: Feuerroter Pfeil und Bogen\nWatch Attack on Titan on Crunchyroll! https://got.cr/cd-aotop\n\nCrunchyroll Dubs brings you the latest clips, full episodes, and more from your favorite anime - all dubbed in English! \n\nFREE 14-DAY CRUNCHYROLL TRIAL \ud83c\udf1f https://got.cr/cd-14days\n\n#attackontitan #linkedhorizon #Feuerroterpfeilundbogen",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8OkpRK2_gVs"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll Dubs",
+        "videoOwnerChannelId": "UCVi2lI40LetxLBKn-rtWC3A"
+    },
+    "contentDetails": {
+        "videoId": "8OkpRK2_gVs",
+        "videoPublishedAt": "2013-04-23T20:07:17Z",
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "40837206",
+        "likeCount": "557962",
+        "favoriteCount": "0",
+        "commentCount": "46314"
+    }
+}

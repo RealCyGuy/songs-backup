@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENjI1QUI0MDI5NEQzODFE",
+    "snippet": {
+        "publishedAt": "2021-04-25T04:23:21Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Trance - 009 Sound System Dreamscape",
+        "description": "May 2011 - New 009 Single: http://www.youtube.com/watch?v=stuC5KN4IDk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2WPCLda_erI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2WPCLda_erI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2WPCLda_erI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2WPCLda_erI"
+        },
+        "videoOwnerChannelTitle": "Tranceluv",
+        "videoOwnerChannelId": "UC3SZCq74_IBiyCuPPSN8HmQ"
+    },
+    "contentDetails": {
+        "videoId": "2WPCLda_erI",
+        "videoPublishedAt": "2007-01-05T04:01:01Z",
+        "duration": "PT3M31S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "38111480",
+        "likeCount": "295405",
+        "favoriteCount": "0",
+        "commentCount": "55885"
+    }
+}

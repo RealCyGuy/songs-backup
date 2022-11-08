@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNjlFQjVCRUU4RDE4NkM4",
+    "snippet": {
+        "publishedAt": "2022-02-20T07:33:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NEZUKO RAP | \"Oni\" | RUSTAGE ft. LulunaRina [Demon Slayer]",
+        "description": "Spotify: https://open.spotify.com/track/5O0JAxUshrzUpsSnC3ADa8?si=4301df49f7d84b88\nItunes: https://music.apple.com/kg/album/oni-nezuko-rap-feat-lulunarina-single/1570509479\n\nCredits:\nInstrumental/Production: Rustage\n\nRap Vocals: Rustage \n\nSinging Vocals: LulunaRina\nhttps://www.twitch.tv/lulunarina\n\nLyrics: Rustage,\n\nJapanese Lyrics: Seij\nhttps://twitter.com/seijmusic\n\nVideo: Eternal\nhttps://twitter.com/eternal_az\n\nI stream on Twitch: https://www.twitch.tv/rustage_\nFollow me on twitter: https://twitter.com/danielrustage\nJoin The Rustage Crew: https://discord.gg/m6vT9UJ\nGet your Merch: https://teespring.com/stores/rustage  \nSupport me on patreon: https://www.patreon.com/Rustage\nFollow me on Instagram: https://www.instagram.com/rustage_music/\nCheck out my Website: https://www.rustagemusic.com/\n\nNezuko Kamado (\u7ac8\u9580\u304b\u307e\u3069 \u79b0\u306d\u8c46\u305a\u5b50\u3053 Kamado Nezuko?) is the deuteragonist of Demon Slayer: Kimetsu no Yaiba. She is a Demon and the younger sister of Tanjiro Kamado and one of the two remaining members of the Kamado family. Formerly a human, she was attacked and turned into a Demon by Muzan Kibutsuji.\n\nArtist Credits: \nhttps://www.pixiv.net/en/artworks/74938309\nhttps://www.pixiv.net/en/artworks/80617391\nhttps://www.pixiv.net/en/artworks/75282864\nhttps://www.artstation.com/artwork/zANbZ6\nhttps://www.pixiv.net/en/artworks/74658031",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Pt9NMSITIH0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Pt9NMSITIH0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Pt9NMSITIH0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Pt9NMSITIH0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Pt9NMSITIH0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Pt9NMSITIH0"
+        },
+        "videoOwnerChannelTitle": "RUSTAGE",
+        "videoOwnerChannelId": "UC2jxJHf569ZcA6LHajBZ7rg"
+    },
+    "contentDetails": {
+        "videoId": "Pt9NMSITIH0",
+        "videoPublishedAt": "2021-06-04T21:00:19Z",
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2629833",
+        "likeCount": "51765",
+        "favoriteCount": "0",
+        "commentCount": "3474"
+    }
+}

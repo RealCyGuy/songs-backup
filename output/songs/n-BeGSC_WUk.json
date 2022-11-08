@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45MDJBMDhCRTlGMzlBQTA0",
+    "snippet": {
+        "publishedAt": "2022-06-27T04:17:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Koi no Hime Hime Pettanko Instrumental",
+        "description": "RABURII CHANSU petanko-chan (4x) \n\nyoku aru koto ... kamo?? demo!! joshi ni ha daiji na no \nwatashi no kimochi, nee nee todoiteru? todoitenai? \nmuri datte iwarete mo ima wa chitchakute mo \nshinjitai kono HAATO wa honmono datte \n\nPEEJI mekuru kyou no SUTOORII \ndakishimeru mune ni himeta PAWAA \nRUUTOGAIDO ni nottenai atarashii sekai e to \nRETTSU GOO METAMORUFOOZE!! \n\nhiime hime!! hime! \nsuki suki daisuki \nhime!! hime!! \nkira kira rin \u2606 \nkimi to minna ireba watashi tte zettai muteki \nhiime hime!! hime!! \nsuki suki daisuki \nhime!! hime!! \nkira kira rin \u2606 \nookiku naare  mahou kakete mo \nhime wa hime na no hime na no da \nhime!! RABU\u2605hime  FAITO \u266a \n\nhajime no ippo wa itsumo yume o miru koto ne \nkoi no mahou wa otome no masshiro na fuufufufufun \u266a \ngakkou wa itsu datte jiken no renzoku \nkumanaku doki doki o issho ni sagasou \n\nsoba ni zutto itai na~ \nunto tanoshimitai n da mon \nhora te o nobasu saki ni wa kimi no egao ga matteru \nkurai yoru mo RETTSU JANPU \n\nhiime hime!! hime!! \nRABU RABU FOORIN RABU \nhime!! hime!! \npika pika kyun \u2606 \njikan tomerarete mo kono omoi wa tomaranai n da yo \nhiime hime!! hime!! \nRABU RABU FOORIN RABU \nhime!! hime!! \npika pika kyun \u2606 \nookiku naare  mahou kakete mo \nhime wa hime na no hime na no da \nhime!! RABU\u2605hime  PIISU\u266a \n\nRABURII CHANSU petanko-chan (4x) \n\nRAKKI wa doko ni mo korogatte nanka nai \nbukiyou datte ii no \nhimeteru koe o dashite \nMEERU ja hontou no kimochi o tsutawaranai yo!! \n\nhiime hime!! hime! \nsuki suki daisuki \nhime!! hime!! \nkira kira rin \u2606 \nkimi to minna ireba watashi tte zettai muteki \nhiime hime!! hime!! \nRABU RABU FOORIN RABU \nhime!! hime!! \npika pika kyun \u2606 \njikan tomerarete mo kono omoi wa tomaranai n da yo \nhiime hime!! hime!! \nRABU RABU FOORIN RABU \nhime!! hime!! \npika pika kyun \u2606 \nookiku naare  mahou kakete mo \nhime wa hime na no hime na no da \nhime!! RABU\u2605hime  PIISU\u266a",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/n-BeGSC_WUk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/n-BeGSC_WUk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/n-BeGSC_WUk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/n-BeGSC_WUk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "n-BeGSC_WUk"
+        },
+        "videoOwnerChannelTitle": "m",
+        "videoOwnerChannelId": "UCpTvLBe-ha_CqlZJHxROr3Q"
+    },
+    "contentDetails": {
+        "videoId": "n-BeGSC_WUk",
+        "videoPublishedAt": "2017-08-03T11:44:08Z",
+        "duration": "PT3M56S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "32285",
+        "likeCount": "705",
+        "favoriteCount": "0",
+        "commentCount": "37"
+    }
+}

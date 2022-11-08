@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QzgwN0VCQ0NBRjg3NEQ4",
+    "snippet": {
+        "publishedAt": "2022-02-13T07:05:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Moon Represents My Heart - Teresa Teng",
+        "description": "The Moon Represents My Heart by Teresa Teng. The greatest hits of Teresa Teng in last two decades.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bv_cEeDlop0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bv_cEeDlop0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bv_cEeDlop0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bv_cEeDlop0"
+        },
+        "videoOwnerChannelTitle": "BlueNxT",
+        "videoOwnerChannelId": "UC4BBX1SihlLvBBRxvpFiwwA"
+    },
+    "contentDetails": {
+        "videoId": "bv_cEeDlop0",
+        "videoPublishedAt": "2007-08-07T22:39:31Z",
+        "duration": "PT3M24S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "11986371",
+        "likeCount": "56490",
+        "favoriteCount": "0",
+        "commentCount": "4479"
+    }
+}

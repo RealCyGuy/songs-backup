@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DODIzNDlFMTIyMkE0OEVF",
+    "snippet": {
+        "publishedAt": "2022-04-17T01:02:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "MMV - KEAN DYSSO - Plain Jane",
+        "description": "Hola friends!) So yeah, it's a crossover, I guess? I hope that you will like it.\n\n\u25c6 Mangas: \n\n     \u25b4 Jahy-sama wa Kujikenai!\n     \u25b4 Please Don't Bully Me, Nagatoro\n     \u25b4 Devilchi\n\n\u25c6 Thanks for the support: \nhttps://www.paypal.me/hilzuyt\nhttps://www.patreon.com/hilzu\nhttps://www.donationalerts.com/r/hilzu\n\n\u25c6Discord Server: https://discord.gg/bCqNEUm\n\u25c6My email: hilzuyt@gmail.com\n\u25c6My Instagram: https://www.instagram.com/hilzu_art/\n\u25c6My Spotify: https://open.spotify.com/user/xrna2m5e1ch76u39tjxiqb2x7?si=8p4R_WYQTbWBGkFGzXctNA\n\u25c6My SoundCloud: https://soundcloud.com/hilzu_art\n\n\u25c6Track:  A$AP Ferg ft. Nicki Minaj - Plain Jane (KEAN DYSSO Remix)\nLink: https://soundcloud.com/keandysso/kean-dysso-plain-jane\n\n\u25c6Music producer KEAN DYSSO :\nSpotify:         https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5\nInstagram:   https://www.instagram.com/kestas_keandysso/\n\n\u25c6Used programs:\n-Blender 2.9\n-After Effects 2020\n-Photoshop 2019\n-Premiere Pro 2020\n\n\u25c6My workstation:\n- Laptop MSI GP73 Leopard 8RE\n16RAM, 500GB SSD, 1TB HDD\n\n#jahy#MMV#Remix \n#BASSBOOSTED#Remix\n#Video#Hilzu\n#Music#Topmusic#anime",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-wpTY3LM5bc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-wpTY3LM5bc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-wpTY3LM5bc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-wpTY3LM5bc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-wpTY3LM5bc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-wpTY3LM5bc"
+        },
+        "videoOwnerChannelTitle": "Hilzu",
+        "videoOwnerChannelId": "UCrrdQ0AN_NNS9h5KcTQoW0w"
+    },
+    "contentDetails": {
+        "videoId": "-wpTY3LM5bc",
+        "videoPublishedAt": "2020-10-23T17:00:12Z",
+        "duration": "PT3M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "39546045",
+        "likeCount": "910829",
+        "favoriteCount": "0",
+        "commentCount": "16919"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zOEU3Qjg0NEQyRkQ1ODQw",
+    "snippet": {
+        "publishedAt": "2022-01-24T16:59:31Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "No Game No Life - Opening | This Game",
+        "description": "Artist: Konomi Suzuki\nSong: This Game\nWatch No Game No Life on Crunchyroll! https://got.cr/Watch-NGNLOPED\n\nCrunchyroll Collection brings you the latest clips, OPs, and more from your favorite anime! Don't have time for a full episode but want to catch up on the best scenes? We've got them!\n\nFREE 14-DAY CRUNCHYROLL TRIAL \ud83c\udf1fhttps://got.cr/cc-14daysop\n\n#nogamenolife #suzukikonomi #thisgame",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6CBp4qylX6I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6CBp4qylX6I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6CBp4qylX6I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/6CBp4qylX6I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/6CBp4qylX6I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6CBp4qylX6I"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll Collection",
+        "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
+    },
+    "contentDetails": {
+        "videoId": "6CBp4qylX6I",
+        "videoPublishedAt": "2019-06-18T19:00:00Z",
+        "duration": "PT2M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1024970",
+        "likeCount": "27251",
+        "favoriteCount": "0",
+        "commentCount": "1569"
+    }
+}

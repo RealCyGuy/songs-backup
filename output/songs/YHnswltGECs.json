@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zOTNDNTdFMDYzNkUyQTUx",
+    "snippet": {
+        "publishedAt": "2022-04-27T05:57:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Red Sun - Julius | \u7d05\u65e5 Red Sun - \u674e\u514b\u52e4\u7ea2\u65e5 Hacken Lee | English Version | Lyric Video",
+        "description": "This song is a cover of Hacken Lee - Red Sun (1992) \n\nWhen we were visiting China for the first time, one of our friends played us Red Sun by Hacken Lee. Instantly we fell in love with it. Such a hypnotically catchy beautiful feel good melody. We kept on listening to the song over and over again. Everybody was singing along. Good times, warm memories.\n\nWe decided to write English lyrics and record our own version.\n\nWe hope you will enjoy this classic song Red Sun as much as we do. Let us know in the comment section!\n\nhttp://sptfy.com/10i5",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YHnswltGECs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YHnswltGECs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YHnswltGECs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/YHnswltGECs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/YHnswltGECs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "YHnswltGECs"
+        },
+        "videoOwnerChannelTitle": "Julius",
+        "videoOwnerChannelId": "UCybSVDlX90-BqqGFg1gt3OQ"
+    },
+    "contentDetails": {
+        "videoId": "YHnswltGECs",
+        "videoPublishedAt": "2017-08-08T21:24:19Z",
+        "duration": "PT3M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "50502",
+        "likeCount": "583",
+        "favoriteCount": "0",
+        "commentCount": "62"
+    }
+}

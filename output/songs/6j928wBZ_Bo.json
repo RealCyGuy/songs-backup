@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMTRBNDhGRkM1MzVDMDRF",
+    "snippet": {
+        "publishedAt": "2022-04-17T01:06:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Jessi (\uc81c\uc2dc) - 'ZOOM' MV",
+        "description": "Jessi (\uc81c\uc2dc) - 'ZOOM' MV \n\nMV Executive Producer: P NATION \nMV Director: \ud558\uc774\ud004\ub9ac\ud2f0\ud53c\uc26c (HIGHQUALITYFISH)\nComposed by: PSY, \uc720\uac74\ud615, bayb\nLyrics by: Jessi, PSY, bobblehead, \uc5fc\ub530\nArranged by: \uc720\uac74\ud615, bayb\nMixed by: Stay Tuned @Stay Tuned Studio\nMastered by: \uad8c\ub0a8\uc6b0 @821 Sound Mastering\n\n* \u2018ZOOM\u2019 is now available on all streaming platforms including Apple Music & Spotify. \n\n\ud83c\udfa7 Spotify : https://spoti.fi/3Ob775S\n\ud83c\udfa7 YouTube Music : https://bit.ly/3xpqxyi\n\ud83c\udfa7 iTunes & Apple Music : https://apple.co/3uBixIm\n\ud83c\udfa7 Melon : https://bit.ly/37HfSnB\n\ud83c\udfa7 Genie : https://bit.ly/3KDjtlp \n\ud83c\udfa7 FLO : https://bit.ly/38OjFA8 \n\ud83c\udfa7 Bugs : https://bit.ly/3rlX6Jo \n\ud83c\udfa7 VIBE : https://bit.ly/3JEm6SC \n\n- Jessi Official YouTube: https://www.youtube.com/jessiofficial\n- Jessi Official Instagram: https://www.instagram.com/jessicah_o\n- Jessi Official Facebook: https://www.facebook.com/jessihomusic \n- Jessi Official Tiktok: https://www.tiktok.com/@itsjessibaby \n- Jessi Official Weibo: https://weibo.com/u/7107198887\n- Jessi Official Douyin: https://v.douyin.com/e89syA5\n\n-  P NATION Official Instagram: https://www.instagram.com/pnation.official\n-  P NATION Official Facebook: https://www.facebook.com/pnation.official\n-  P NATION Official Twitter: https://twitter.com/OfficialPnation\n-  P NATION Official Weibo: https://weibo.com/pnation\n\n#Jessi #\uc81c\uc2dc #ZOOM #\uc90c #PNATION #\ud53c\ub124\uc774\uc158\n\nCopyrights 2022 \u24d2 P NATION All Rights Reserved",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6j928wBZ_Bo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6j928wBZ_Bo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6j928wBZ_Bo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/6j928wBZ_Bo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/6j928wBZ_Bo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6j928wBZ_Bo"
+        },
+        "videoOwnerChannelTitle": "Jessi",
+        "videoOwnerChannelId": "UCN2bQLTTvNPZWCWU5TYghKA"
+    },
+    "contentDetails": {
+        "videoId": "6j928wBZ_Bo",
+        "videoPublishedAt": "2022-04-13T09:00:07Z",
+        "duration": "PT3M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "141007617",
+        "likeCount": "3244542",
+        "favoriteCount": "0",
+        "commentCount": "49112"
+    }
+}
