@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "AFeWkeMX-NY",
         "videoPublishedAt": "2020-05-26T21:11:04Z",
-        "duration": "PT4M4S",
+        "duration": "PT3M43S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3355589",
-        "likeCount": "144329",
+        "viewCount": "28208397",
+        "likeCount": "774741",
         "favoriteCount": "0",
-        "commentCount": "5191"
+        "commentCount": "31577"
     }
 }

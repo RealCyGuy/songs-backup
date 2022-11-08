@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BN0U2RDREQTZGMzcwNDM0",
+    "snippet": {
+        "publishedAt": "2022-11-08T06:07:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "IVE (\uc544\uc774\ube0c) - After LIKE - Violin Cover",
+        "description": "#IVE #\uc544\uc774\ube0c #afterlike \n\n\nInstagram: @cat.olin\n                   @oisrzr",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_HxPgOjyA28/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_HxPgOjyA28/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_HxPgOjyA28/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_HxPgOjyA28/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_HxPgOjyA28/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_HxPgOjyA28"
+        },
+        "videoOwnerChannelTitle": "\ucea3\uc62c\ub9b0CatOlin",
+        "videoOwnerChannelId": "UCoAeBLyRkAVnNHR_V4XWc_Q"
+    },
+    "contentDetails": {
+        "videoId": "_HxPgOjyA28",
+        "videoPublishedAt": "2022-08-24T14:04:37Z",
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "393045",
+        "likeCount": "31257",
+        "favoriteCount": "0",
+        "commentCount": "503"
+    }
+}

@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "_mkiGMtbrPM",
         "videoPublishedAt": "2014-03-20T08:49:27Z",
-        "duration": "PT3M26S",
+        "duration": "PT4M35S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1270542",
-        "likeCount": "38077",
+        "viewCount": "44200849",
         "favoriteCount": "0",
-        "commentCount": "1681"
+        "commentCount": "23551",
+        "likeCount": "0"
     }
 }

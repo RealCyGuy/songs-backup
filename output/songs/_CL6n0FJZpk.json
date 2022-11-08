@@ -45,11 +45,18 @@
     "contentDetails": {
         "videoId": "_CL6n0FJZpk",
         "videoPublishedAt": "2011-10-27T16:48:34Z",
-        "duration": "PT1M1S",
+        "duration": "PT4M51S",
         "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +64,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2368808",
-        "likeCount": "29001",
+        "viewCount": "1190813545",
+        "likeCount": "9315553",
         "favoriteCount": "0",
-        "commentCount": "1913"
+        "commentCount": "291227"
     }
 }

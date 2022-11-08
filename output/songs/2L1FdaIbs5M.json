@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "2L1FdaIbs5M"
         },
-        "videoOwnerChannelTitle": "TrapMusicNow - Trap Remixes & Popular Songs",
+        "videoOwnerChannelTitle": "TrapMusicNow",
         "videoOwnerChannelId": "UCi2bIyFtz-JdI-ou8kaqsqg"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "9797459",
-        "likeCount": "109897",
+        "viewCount": "9798464",
+        "likeCount": "109902",
         "favoriteCount": "0",
-        "commentCount": "4459"
+        "commentCount": "4460"
     }
 }

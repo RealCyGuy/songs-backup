@@ -40,10 +40,10 @@
     "contentDetails": {
         "videoId": "YonS9_QJbp8",
         "videoPublishedAt": "2020-04-16T16:00:11Z",
-        "duration": "PT2M59S",
+        "duration": "PT3M39S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
+        "caption": "false",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -52,9 +52,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "223379109",
-        "likeCount": "2814707",
+        "viewCount": "9821289",
+        "likeCount": "24677",
         "favoriteCount": "0",
-        "commentCount": "77193"
+        "commentCount": "1036"
     }
 }
