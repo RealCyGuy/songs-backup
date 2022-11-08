@@ -60,7 +60,7 @@ for index in range(0, len(data["items"]), 50):
                 "thumbnail": item["snippet"]["thumbnails"]["high"]["url"],
                 "channel": item["snippet"]["videoOwnerChannelTitle"],
                 "channelId": item["snippet"]["videoOwnerChannelId"],
-                "duration": f"{minutes:02d}:{seconds:02d}",
+                "duration": f"{minutes}:{seconds:02d}",
                 "privacyStatus": item["status"]["privacyStatus"],
                 "views": f"{int(item['statistics']['viewCount']):,}",
                 "likes": f"{int(item['statistics']['likeCount']):,}",
