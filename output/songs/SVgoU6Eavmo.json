@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "SVgoU6Eavmo",
         "videoPublishedAt": "2021-01-10T16:00:10Z",
-        "duration": "PT3M38S",
+        "duration": "PT3M42S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "196096",
-        "likeCount": "5210",
+        "viewCount": "202110136",
+        "likeCount": "1507196",
         "favoriteCount": "0",
-        "commentCount": "479"
+        "commentCount": "48964"
     }
 }

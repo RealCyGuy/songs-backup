@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NDlDQUFFOThDMTAxQjUw",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:30:30Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Sweet dreams but oh my god what have i done (check the description)",
+        "description": "\"\"Sweet dreams but I put Kahoot music over it\" but I fixed the tempo\"but I added Joker's gun\" but I added Tainted Love\" but I added Crab rave\" but I added Slap Vine\" but I added Law and order\" but I added men at work\" but I added Hatsune miku, adjusted the tempo to fit 4/4 beats, mixed and fixed the down under sample\" but i added Space Jam and threw in burger king foot lettuce and a screaming goat\n\nzacj's version - https://www.youtube.com/watch?v=Ngpf6UtPn4k\nSupaSimon's version - https://www.youtube.com/watch?v=0q5vYr-SWlY\nEpikPerson's version - https://www.youtube.com/watch?v=aSfMKP3nTEQ\nJackalRelated's version -  https://www.youtube.com/watch?v=yO6mRJraWqQ\nariissleeping's version - https://www.youtube.com/watch?v=V1X-gz58RLw\ntheonlycatonice version - https://www.youtube.com/watch?v=XMZ7xAhzC0g\n\nBPM is 125.5, good luck\n\nOriginal material - https://www.youtube.com/watch?v=vKyrGfcqEIM\n\nPATREON: https://www.patreon.com/StardustLegend\nSPOTIFY: https://open.spotify.com/artist/4RFs5...\nDISCORD SERVER: https://discord.gg/Be4MCgB\nSOUNDCLOUD: https://soundcloud.com/stardustlegend\nBANDCAMP: https://stardustlegend.bandcamp.com/\nTWITTER: https://twitter.com/stardust_legend",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-vUERdlRA_U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-vUERdlRA_U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-vUERdlRA_U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-vUERdlRA_U"
+        },
+        "videoOwnerChannelTitle": "StardustLegend",
+        "videoOwnerChannelId": "UCFkkWd8IRCKkMUztMBtKtVQ"
+    },
+    "contentDetails": {
+        "videoId": "-vUERdlRA_U",
+        "videoPublishedAt": "2019-05-15T23:10:46Z",
+        "duration": "PT3M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1548580",
+        "likeCount": "105073",
+        "favoriteCount": "0",
+        "commentCount": "7045"
+    }
+}
