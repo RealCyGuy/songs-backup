@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "g2liCVxta6M"
         },
-        "videoOwnerChannelTitle": "Thai McGrath - Anime Music Covers",
+        "videoOwnerChannelTitle": "Thai McGrath - Anime Music",
         "videoOwnerChannelId": "UC8SScGNpweZmFg6VFP2lXyw"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "819118",
-        "likeCount": "51842",
+        "viewCount": "819616",
+        "likeCount": "51855",
         "favoriteCount": "0",
-        "commentCount": "2377"
+        "commentCount": "2379"
     }
 }

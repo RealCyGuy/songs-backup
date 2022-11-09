@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "2L1FdaIbs5M"
         },
-        "videoOwnerChannelTitle": "TrapMusicNow",
+        "videoOwnerChannelTitle": "Trap Music Now",
         "videoOwnerChannelId": "UCi2bIyFtz-JdI-ou8kaqsqg"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "9798464",
-        "likeCount": "109902",
+        "viewCount": "9800199",
+        "likeCount": "109915",
         "favoriteCount": "0",
-        "commentCount": "4460"
+        "commentCount": "4459"
     }
 }
