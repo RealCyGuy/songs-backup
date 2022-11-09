@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "grd-K33tOSM",
         "videoPublishedAt": "2020-10-07T18:36:14Z",
-        "duration": "PT1M3S",
+        "duration": "PT1M13S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1555361",
-        "likeCount": "41544",
+        "viewCount": "32977976",
+        "likeCount": "825651",
         "favoriteCount": "0",
-        "commentCount": "2510"
+        "commentCount": "60944"
     }
 }

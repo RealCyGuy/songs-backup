@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "SuMfH31tgko"
         },
-        "videoOwnerChannelTitle": "Lyn Huang",
+        "videoOwnerChannelTitle": "Lyn",
         "videoOwnerChannelId": "UCvgmY0ihN_JBmYppmImPcWA"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2043467",
-        "likeCount": "21990",
+        "viewCount": "2043572",
+        "likeCount": "21992",
         "favoriteCount": "0",
         "commentCount": "549"
     }

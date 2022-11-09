@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNTZBNUQxMDZBQzFGMjkw",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:31:14Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Among Us Drip (Lofi Hip Hop Remix)",
+        "description": "among drip theme song 3. original by leonz. the music to the among drip meme 10 hours. among drip bass boosted is great too. song bass boosted or earrape.\n\nold school rap beat I made using the \"player reported\" sound effect from Among Us. It has a chill lo-fi hip hop instrumental vibe to it. Listen to my trap remixes too.\ntheme song among us song tiktok remix edit music rap impostor animation gameplay funny highlights trap beats amongus moments memes imposter among us piano remix moondai edm remix but it's a trap renzyx remix natsu fuji dubstep remix soaralot remix but its a type beat prod lilrebaah musicality iamjuampi new dead body reported sound effect video lofi hip hop prod by greyfinz jvst x only sounds from among us beats to be sus to leonz among us ksi",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gU39w8s54_Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gU39w8s54_Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gU39w8s54_Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gU39w8s54_Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gU39w8s54_Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gU39w8s54_Q"
+        },
+        "videoOwnerChannelTitle": "Leonz",
+        "videoOwnerChannelId": "UCjGfaP-eiT-XGeCRjGM9fGQ"
+    },
+    "contentDetails": {
+        "videoId": "gU39w8s54_Q",
+        "videoPublishedAt": "2020-11-02T21:28:06Z",
+        "duration": "PT1M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1555727",
+        "likeCount": "41548",
+        "favoriteCount": "0",
+        "commentCount": "2510"
+    }
+}
