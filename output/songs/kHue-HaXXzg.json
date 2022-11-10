@@ -48,7 +48,7 @@
         "duration": "PT3M51S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "regionRestriction": {
             "blocked": [
@@ -63,9 +63,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "618233748",
-        "likeCount": "3542334",
+        "viewCount": "618248391",
+        "likeCount": "3542430",
         "favoriteCount": "0",
-        "commentCount": "168595"
+        "commentCount": "168594"
     }
 }

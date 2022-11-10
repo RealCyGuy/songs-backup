@@ -48,7 +48,7 @@
         "duration": "PT2M42S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1628574",
-        "likeCount": "46911",
+        "viewCount": "1630577",
+        "likeCount": "46967",
         "favoriteCount": "0",
-        "commentCount": "1188"
+        "commentCount": "1189"
     }
 }

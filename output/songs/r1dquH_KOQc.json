@@ -45,52 +45,23 @@
     "contentDetails": {
         "videoId": "r1dquH_KOQc",
         "videoPublishedAt": "2014-08-12T07:10:13Z",
-        "duration": "PT2M56S",
+        "duration": "PT3M23S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "regionRestriction": {
-            "blocked": [
-                "AD",
-                "AM",
-                "AT",
-                "AZ",
-                "BE",
-                "BL",
-                "CH",
-                "DE",
-                "FR",
-                "GF",
-                "GP",
-                "IT",
-                "KG",
-                "LU",
-                "MC",
-                "MF",
-                "MQ",
-                "NL",
-                "PL",
-                "RE",
-                "RU",
-                "SM",
-                "TJ",
-                "TM",
-                "UA",
-                "UZ",
-                "VA"
-            ]
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {
+            "ytRating": "ytAgeRestricted"
         },
-        "contentRating": {},
         "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "79858094",
-        "likeCount": "666451",
+        "viewCount": "4389998",
+        "likeCount": "114341",
         "favoriteCount": "0",
-        "commentCount": "24679"
+        "commentCount": "7556"
     }
 }
