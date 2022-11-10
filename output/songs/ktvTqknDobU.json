@@ -48,7 +48,7 @@
         "duration": "PT4M22S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1409640600",
-        "likeCount": "9146492",
+        "viewCount": "1409691921",
+        "likeCount": "9146827",
         "favoriteCount": "0",
-        "commentCount": "340628"
+        "commentCount": "340388"
     }
 }
