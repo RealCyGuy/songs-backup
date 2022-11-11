@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43NDhFRTgwOTRERTU4Rjg3",
+    "snippet": {
+        "publishedAt": "2021-04-25T03:59:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "A Series of Unfortunate Events | Theme Song [HD] | Netflix",
+        "description": "Dear Viewer,\n\nWe present to you our opening credits, a phrase here which means last chance to turn off this unfortunate story and stream something more pleasant, as a final reminder that you have no obligation to stream this miserable tale.\n\nWith all due respect,\nNetflix\n\nBased on the internationally best-selling series of books by Lemony Snicket (aka Daniel Handler) and starring Emmy and Tony Award winner Neil Patrick Harris, A Series of Unfortunate Events recounts the tragic tale of the Baudelaire orphans -- Violet, Klaus, and Sunny \u2013 whose evil guardian Count Olaf will stop at nothing to get his hands on their inheritance. The siblings must outsmart Olaf at every turn, foiling his many devious plans and disguises, in order to discover clues to their parents\u2019 mysterious death. The eight-episode series is a Netflix original production, executive produced by Emmy Award winner Barry Sonnenfeld and Daniel Handler. A Series of Unfortunate Events is now Streaming on Netflix. Proceed with caution for tragedy is sure to come.\n\nWatch A Series of Unfortunate Events Now: https://www.netflix.com/title/80050008\n\nSUBSCRIBE: http://bit.ly/29qBUt7\n\nAbout Netflix:\nNetflix is the world's leading internet entertainment service with 130 million memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. \n\nConnect with Netflix Online:\nVisit Netflix WEBSITE: http://nflx.it/29BcWb5\nLike Netflix on FACEBOOK: http://bit.ly/29kkAtN\nFollow Netflix on TWITTER: http://bit.ly/29gswqd\nFollow Netflix on INSTAGRAM: http://bit.ly/29oO4UP\nFollow Netflix on TUMBLR: http://bit.ly/29kkemT\n\nA Series of Unfortunate Events | Theme Song [HD] | Netflix\nhttp://youtube.com/netflix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0GeCPanRHU0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0GeCPanRHU0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0GeCPanRHU0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/0GeCPanRHU0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/0GeCPanRHU0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0GeCPanRHU0"
+        },
+        "videoOwnerChannelTitle": "Netflix",
+        "videoOwnerChannelId": "UCWOA1ZGywLbqmigxE4Qlvuw"
+    },
+    "contentDetails": {
+        "videoId": "0GeCPanRHU0",
+        "videoPublishedAt": "2017-01-12T17:00:35Z",
+        "duration": "PT1M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2805279",
+        "likeCount": "44990",
+        "favoriteCount": "0",
+        "commentCount": "4513"
+    }
+}
