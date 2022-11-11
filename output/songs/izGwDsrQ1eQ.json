@@ -48,7 +48,7 @@
         "duration": "PT5M1S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "942451254",
-        "likeCount": "6453025",
+        "viewCount": "942722654",
+        "likeCount": "6455188",
         "favoriteCount": "0",
-        "commentCount": "253739"
+        "commentCount": "253787"
     }
 }
