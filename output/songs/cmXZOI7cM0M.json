@@ -48,7 +48,7 @@
         "duration": "PT4M14S",
         "dimension": "2d",
         "definition": "sd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "regionRestriction": {
             "blocked": [
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4113744",
-        "likeCount": "90897",
+        "viewCount": "4117227",
+        "likeCount": "90992",
         "favoriteCount": "0",
-        "commentCount": "4645"
+        "commentCount": "4647"
     }
 }
