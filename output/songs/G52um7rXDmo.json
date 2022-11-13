@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "G52um7rXDmo"
         },
-        "videoOwnerChannelTitle": "Joo Won \uc2e0\uc8fc\uc6d0",
+        "videoOwnerChannelTitle": "Joo Won Shin",
         "videoOwnerChannelId": "UCRTKDbX7B0Gp3Q1wK4XvPBw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "542308",
-        "likeCount": "30522",
+        "viewCount": "542416",
+        "likeCount": "30523",
         "favoriteCount": "0",
         "commentCount": "1578"
     }
