@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "ESx_hy1n7HA",
         "videoPublishedAt": "2016-06-12T11:00:30Z",
-        "duration": "PT1M23S",
+        "duration": "PT3M43S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4951005",
-        "likeCount": "221614",
+        "viewCount": "6766979",
+        "likeCount": "268714",
         "favoriteCount": "0",
-        "commentCount": "9752"
+        "commentCount": "17456"
     }
 }

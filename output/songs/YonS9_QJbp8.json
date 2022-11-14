@@ -40,7 +40,7 @@
     "contentDetails": {
         "videoId": "YonS9_QJbp8",
         "videoPublishedAt": "2020-04-16T16:00:11Z",
-        "duration": "PT3M39S",
+        "duration": "PT3M45S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -52,9 +52,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "9830749",
-        "likeCount": "24695",
+        "viewCount": "17449729",
+        "likeCount": "69987",
         "favoriteCount": "0",
-        "commentCount": "1034"
+        "commentCount": "4094"
     }
 }

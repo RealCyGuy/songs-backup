@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "qMxX-QOV9tI",
         "videoPublishedAt": "2011-01-25T18:21:42Z",
-        "duration": "PT3M18S",
+        "duration": "PT3M38S",
         "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
+        "definition": "sd",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "253027575",
-        "likeCount": "2168406",
+        "viewCount": "316094514",
+        "likeCount": "2234712",
         "favoriteCount": "0",
-        "commentCount": "79420"
+        "commentCount": "94641"
     }
 }
