@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENDBBQkI4MkU3NUVERTBC",
+    "snippet": {
+        "publishedAt": "2022-11-15T01:05:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u201cSanta Tell Me (Ariana Grande)\" Cover by NAYEON",
+        "description": "\u201cSanta Tell Me (Ariana Grande)\" Cover by NAYEON\n\nSpotify\nhttp://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z\n\niTunes/Apple Music \nhttps://music.apple.com/us/album/feel-special/1480249009\n\nTWICE Official YouTube: http://www.youtube.com/c/TWICEonAir\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\n\u24d2 2019 JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XO9GiPOLd3I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XO9GiPOLd3I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XO9GiPOLd3I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/XO9GiPOLd3I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/XO9GiPOLd3I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "XO9GiPOLd3I"
+        },
+        "videoOwnerChannelTitle": "TWICE",
+        "videoOwnerChannelId": "UCzgxx_DM2Dcb9Y1spb9mUJA"
+    },
+    "contentDetails": {
+        "videoId": "XO9GiPOLd3I",
+        "videoPublishedAt": "2019-12-23T14:59:58Z",
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "27806378",
+        "likeCount": "1484084",
+        "favoriteCount": "0",
+        "commentCount": "115164"
+    }
+}
