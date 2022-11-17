@@ -45,9 +45,9 @@
     "contentDetails": {
         "videoId": "DEQQtgIZbiQ",
         "videoPublishedAt": "2018-04-02T18:12:04Z",
-        "duration": "PT3M30S",
+        "duration": "PT3M25S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "225089",
-        "likeCount": "6424",
+        "viewCount": "49142230",
+        "likeCount": "292858",
         "favoriteCount": "0",
-        "commentCount": "341"
+        "commentCount": "15194"
     }
 }

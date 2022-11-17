@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "amOSaNX7KJg",
         "videoPublishedAt": "2018-12-07T05:59:30Z",
-        "duration": "PT1M14S",
+        "duration": "PT4M34S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "41754",
-        "likeCount": "546",
+        "viewCount": "252832",
+        "likeCount": "12668",
         "favoriteCount": "0",
-        "commentCount": "54"
+        "commentCount": "397"
     }
 }

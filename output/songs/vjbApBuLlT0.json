@@ -1,34 +1,34 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMjVEMzc2NzY2ODVBOERB",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40NjI5ODZCQUE5NkRBMDI0",
     "snippet": {
-        "publishedAt": "2021-06-18T03:30:31Z",
+        "publishedAt": "2021-06-18T02:46:15Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "chug jug with you (Teto) but it's my college homework",
-        "description": "this is my lighting and rendering homework that I made for class uwu\n\n...\n\n\n\nI failed \ud83d\ude0e\n\n\n\n[Edit. joke, I didn't fail hehe]\n\n\nCredits.\nOriginal. Leviathan ( https://youtu.be/Z0Uh3OJCx3o )\nUst. himememer ( https://youtu.be/2w7ksbIVz3Q )\n      tuning, 3d model and video. Me",
+        "title": "Toradora! - Ending 2 | Orange",
+        "description": "Artist: Rie Kugimiya, Yui Horie, and Eri Kitamura\nSong: Orange\nWatch Toradora! on Crunchyroll! https://got.cr/Watch-TDOPED\n\nCrunchyroll Collection brings you the latest clips, OPs, and more from your favorite anime! Don't have time for a full episode but want to catch up on the best scenes? We've got them! \n\nFREE 14-DAY CRUNCHYROLL TRIAL \ud83c\udf1fhttps://got.cr/cc-14daysop\n\n#toradora #orange #crunchyroll",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/9MmrWWFnFXk/default.jpg",
+                "url": "https://i.ytimg.com/vi/vjbApBuLlT0/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/9MmrWWFnFXk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vjbApBuLlT0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/9MmrWWFnFXk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vjbApBuLlT0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             },
             "standard": {
-                "url": "https://i.ytimg.com/vi/9MmrWWFnFXk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vjbApBuLlT0/sddefault.jpg",
                 "width": 640,
                 "height": 480
             },
             "maxres": {
-                "url": "https://i.ytimg.com/vi/9MmrWWFnFXk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vjbApBuLlT0/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
             }
@@ -37,14 +37,14 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "9MmrWWFnFXk"
+            "videoId": "vjbApBuLlT0"
         },
-        "videoOwnerChannelTitle": "Teto Chan!",
-        "videoOwnerChannelId": "UCtlR6MQ7vfiucam8T7RRntg"
+        "videoOwnerChannelTitle": "Crunchyroll Collection",
+        "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
     },
     "contentDetails": {
-        "videoId": "9MmrWWFnFXk",
-        "videoPublishedAt": "2021-05-12T15:00:08Z",
+        "videoId": "vjbApBuLlT0",
+        "videoPublishedAt": "2020-05-24T17:00:19Z",
         "duration": "PT1M41S",
         "dimension": "2d",
         "definition": "hd",
@@ -132,8 +132,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "839284",
-        "likeCount": "18028",
+        "viewCount": "839498",
+        "likeCount": "18030",
         "favoriteCount": "0",
         "commentCount": "1438"
     }

@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "QkfzSDI_eYo",
         "videoPublishedAt": "2017-05-02T11:15:54Z",
-        "duration": "PT2M55S",
+        "duration": "PT3M51S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -164,9 +164,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1323773",
-        "likeCount": "30439",
+        "viewCount": "636195",
+        "likeCount": "10726",
         "favoriteCount": "0",
-        "commentCount": "734"
+        "commentCount": "208"
     }
 }

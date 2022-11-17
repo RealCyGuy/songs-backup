@@ -35,9 +35,9 @@
     "contentDetails": {
         "videoId": "qR6dzwQahOM",
         "videoPublishedAt": "2010-07-13T11:55:12Z",
-        "duration": "PT3M4S",
+        "duration": "PT3M47S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -47,9 +47,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "11747838",
-        "likeCount": "280088",
+        "viewCount": "17500184",
+        "likeCount": "245022",
         "favoriteCount": "0",
-        "commentCount": "24396"
+        "commentCount": "6830"
     }
 }
