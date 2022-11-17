@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "D6xuk9LAmR4"
         },
-        "videoOwnerChannelTitle": "\u0674",
+        "videoOwnerChannelTitle": "kanocchi",
         "videoOwnerChannelId": "UCyy0Isxt-ByiE2bjla4GI2A"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "18825979",
-        "likeCount": "411091",
+        "viewCount": "18828412",
+        "likeCount": "411160",
         "favoriteCount": "0",
         "commentCount": "60462"
     }
