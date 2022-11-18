@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xQUE1ODRFODA3RDAwOTVB",
+    "snippet": {
+        "publishedAt": "2021-10-22T19:50:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "summer nights \u266b",
+        "description": "\u2728quiet summer nights\u2728\n\ud83c\udf38flowers in the rain\ud83c\udf38\n\n\u2740\n\nmain composition/vocals/sparkling stars: me\nco-composer/production: https://twitter.com/DarylBarnes_\nmix/production: https://twitter.com/falconshield\nart: https://twitter.com/mornmeii\nvideo: https://twitter.com/riguruma\n\nfind me at:\nhttps://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8\ntwitter.com/lilypichu",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/M9iLKdhV778/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/M9iLKdhV778/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/M9iLKdhV778/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/M9iLKdhV778/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/M9iLKdhV778/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "M9iLKdhV778"
+        },
+        "videoOwnerChannelTitle": "comfi beats",
+        "videoOwnerChannelId": "UCde_xnXu2lPBmRgAp_nq29A"
+    },
+    "contentDetails": {
+        "videoId": "M9iLKdhV778",
+        "videoPublishedAt": "2021-10-19T07:00:08Z",
+        "duration": "PT2M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "565847",
+        "likeCount": "27320",
+        "favoriteCount": "0",
+        "commentCount": "800"
+    }
+}
