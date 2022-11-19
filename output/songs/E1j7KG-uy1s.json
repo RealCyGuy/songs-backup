@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRjE4QTZCMUU3NjU5MDEy",
+    "snippet": {
+        "publishedAt": "2022-11-18T16:38:21Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Carmen Sandiego | Theme Song - Extended/Remade Version (Fan Made)",
+        "description": "Because i love this song so much and it deserves a longer version!\n\n-------------------------------------------------------\nDisclaimer:\nCarmen Sandiego is owned by Houghton Mifflin Harcourt and DHX Media, and the theme song was composed by Jared Lee Gosselin.\nI do not in any way claim to have to written this song, i just remixed/remade it into a longer version.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/E1j7KG-uy1s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/E1j7KG-uy1s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/E1j7KG-uy1s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/E1j7KG-uy1s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/E1j7KG-uy1s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "E1j7KG-uy1s"
+        },
+        "videoOwnerChannelTitle": "tim, the little music fox",
+        "videoOwnerChannelId": "UCeygKARTqGlpojywsvGwzrw"
+    },
+    "contentDetails": {
+        "videoId": "E1j7KG-uy1s",
+        "videoPublishedAt": "2019-05-15T14:46:00Z",
+        "duration": "PT2M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "333065",
+        "likeCount": "6789",
+        "favoriteCount": "0",
+        "commentCount": "247"
+    }
+}

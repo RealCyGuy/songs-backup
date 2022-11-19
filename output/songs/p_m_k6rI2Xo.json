@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wN0UwMzRERDc2MTlDMTRB",
+    "snippet": {
+        "publishedAt": "2022-02-02T03:57:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Katy Perry - Last Friday Night (T.G.I.F.) in Simlish [AUDIO & HD]",
+        "description": "A Simlish version of the hit song ''Last Friday Night (T.G.I.F.)'' released in Simlish for the debut game ''Sims 3 Katy Perry Sweet Treats'' out June 6. 2012. \n\nAll rights goes to owner of the audio & poster.\n\nPurchase ''Sims 3 Katy Perry Sweet Treats'' today, including a version of Katy Perry's ''Last Friday Night (T.G.I.F.)'' in Simlish!\nPurchase at Origin: http://store.origin.com/store/eaemea/no_NO/pd/productID.242199000/sac.true\n\nSims 3's YouTube channel: http://www.youtube.com/user/thesims\n\n12 YEARS AND UP (http://www.pegi.info)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/p_m_k6rI2Xo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/p_m_k6rI2Xo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/p_m_k6rI2Xo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/p_m_k6rI2Xo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/p_m_k6rI2Xo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "p_m_k6rI2Xo"
+        },
+        "videoOwnerChannelTitle": "Terje Sten Eiklund",
+        "videoOwnerChannelId": "UCoukqRRZzx_noyNloWcaaJw"
+    },
+    "contentDetails": {
+        "videoId": "p_m_k6rI2Xo",
+        "videoPublishedAt": "2012-06-06T15:50:48Z",
+        "duration": "PT3M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "390237",
+        "likeCount": "9569",
+        "favoriteCount": "0",
+        "commentCount": "716"
+    }
+}

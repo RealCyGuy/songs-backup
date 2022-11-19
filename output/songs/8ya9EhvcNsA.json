@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "8ya9EhvcNsA"
         },
-        "videoOwnerChannelTitle": "LiterallyCAP",
+        "videoOwnerChannelTitle": "meteoraPOW",
         "videoOwnerChannelId": "UC4Vi6UHVenWx0vQcYBf8BeA"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4755285",
-        "likeCount": "154028",
+        "viewCount": "4758615",
+        "likeCount": "154111",
         "favoriteCount": "0",
-        "commentCount": "9075"
+        "commentCount": "9079"
     }
 }
