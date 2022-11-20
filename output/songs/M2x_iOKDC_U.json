@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "M2x_iOKDC_U",
         "videoPublishedAt": "2018-02-10T14:11:53Z",
-        "duration": "PT4M36S",
+        "duration": "PT4M33S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "419",
-        "likeCount": "13",
+        "viewCount": "40858",
+        "likeCount": "634",
         "favoriteCount": "0",
-        "commentCount": "1"
+        "commentCount": "39"
     }
 }

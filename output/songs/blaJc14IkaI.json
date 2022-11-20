@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "blaJc14IkaI",
         "videoPublishedAt": "2019-07-30T03:49:08Z",
-        "duration": "PT3M47S",
+        "duration": "PT3M27S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1539395",
-        "likeCount": "53641",
+        "viewCount": "1393317999",
+        "likeCount": "10930518",
         "favoriteCount": "0",
-        "commentCount": "3793"
+        "commentCount": "1158719"
     }
 }

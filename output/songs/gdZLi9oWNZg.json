@@ -45,11 +45,18 @@
     "contentDetails": {
         "videoId": "gdZLi9oWNZg",
         "videoPublishedAt": "2020-08-21T03:58:10Z",
-        "duration": "PT3M44S",
+        "duration": "PT3M49S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "true",
         "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +64,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1598917275",
-        "likeCount": "35450948",
+        "viewCount": "139347595",
+        "likeCount": "1455052",
         "favoriteCount": "0",
-        "commentCount": "16080432"
+        "commentCount": "35487"
     }
 }

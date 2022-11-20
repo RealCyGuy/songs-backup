@@ -40,7 +40,7 @@
     "contentDetails": {
         "videoId": "cGTl-H84H6s",
         "videoPublishedAt": "2020-05-23T19:57:10Z",
-        "duration": "PT4M16S",
+        "duration": "PT2M23S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -52,9 +52,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "49474",
-        "likeCount": "1802",
+        "viewCount": "65571",
+        "likeCount": "715",
         "favoriteCount": "0",
-        "commentCount": "177"
+        "commentCount": "26"
     }
 }
