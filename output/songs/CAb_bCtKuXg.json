@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "CAb_bCtKuXg",
         "videoPublishedAt": "2018-07-19T17:21:15Z",
-        "duration": "PT4M1S",
+        "duration": "PT3M18S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "true",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "161274432",
-        "likeCount": "3051809",
+        "viewCount": "47085227",
+        "likeCount": "1554566",
         "favoriteCount": "0",
-        "commentCount": "336531"
+        "commentCount": "212923"
     }
 }

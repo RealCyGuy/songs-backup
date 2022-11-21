@@ -35,11 +35,11 @@
     "contentDetails": {
         "videoId": "FtutLA63Cp8",
         "videoPublishedAt": "2009-10-27T01:14:35Z",
-        "duration": "PT4M45S",
+        "duration": "PT4M23S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
+        "caption": "false",
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -47,9 +47,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1200005",
-        "likeCount": "38980",
+        "viewCount": "3038008",
+        "likeCount": "100202",
         "favoriteCount": "0",
-        "commentCount": "1077"
+        "commentCount": "5271"
     }
 }

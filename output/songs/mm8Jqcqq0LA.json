@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QTY0QjZFMEI1MkY4MUFB",
+    "snippet": {
+        "publishedAt": "2022-11-21T02:14:06Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\"Science Yoshi : The More You Know!\" - A Song Dedicated to Carl Sagan42",
+        "description": "Download the album \"The More You Know\" now!\nhttps://tanukidan.bandcamp.com/album/the-more-you-know\n\nCheck out \"Science Yoshi : The More You Know\" on Spotify! https://open.spotify.com/album/0Ufgw0KXyMvtWe5aemJ4AH\n\nCarl...  You are the absolute best.  Thank you.  \n\nScience Yoshi was drawn by Meganne Ellison!\n\nMake sure to subscribe, hit the bell, and leave a like if you enjoyed the video!  I look forward to reading your comments, I will do my best to reply!\n\nBe sure to check out my Twitch and social media!\n\nTwitch - https://www.twitch.tv/tanukidan\nDiscord - https://discordapp.com/invite/Tv2UEtV\nTwitter - https://twitter.com/TanukiDanShow\nInstagram - https://www.instagram.com/TanukiDan/\nFacebook - https://www.facebook.com/TanukiDan/\n\n** MERCH AVAILABLE NOW! **\nhttps://streamlabs.com/tanukidan/merch/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mm8Jqcqq0LA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mm8Jqcqq0LA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mm8Jqcqq0LA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mm8Jqcqq0LA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mm8Jqcqq0LA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mm8Jqcqq0LA"
+        },
+        "videoOwnerChannelTitle": "Tanuki Dan",
+        "videoOwnerChannelId": "UCNtZQuZeNW_lp0p2GCeKbyQ"
+    },
+    "contentDetails": {
+        "videoId": "mm8Jqcqq0LA",
+        "videoPublishedAt": "2019-08-01T16:53:26Z",
+        "duration": "PT2M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "115798",
+        "likeCount": "6648",
+        "favoriteCount": "0",
+        "commentCount": "597"
+    }
+}

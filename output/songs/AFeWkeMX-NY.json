@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "AFeWkeMX-NY",
         "videoPublishedAt": "2020-05-26T21:11:04Z",
-        "duration": "PT4M15S",
+        "duration": "PT4M13S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
+        "caption": "true",
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "144175156",
-        "likeCount": "2973112",
+        "viewCount": "45506108",
+        "likeCount": "426615",
         "favoriteCount": "0",
-        "commentCount": "132974"
+        "commentCount": "7327"
     }
 }
