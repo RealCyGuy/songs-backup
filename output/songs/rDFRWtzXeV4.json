@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xM0YyQUYxQTg5OTgyQ0Y5",
+    "snippet": {
+        "publishedAt": "2021-06-21T04:16:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u9e7f\u4e43  - Stella rium ( Puru Remix )",
+        "description": "Subscribe My channel :  http://goo.gl/9d5YtA\n\u2022 To Be My Boss : https://goo.gl/HbjgBK  ( Paypal) \n\n\u2022 Senpaiii, Give me some Coffee ^^\n\u27a5 https://ko-fi.com/desmtiny (ko-fi )\n\n\u2022  Join My Discord Server \n\u27a5  https://discord.gg/QkskRXg \n\n\u2022 Original song :    (\u9e7f\u4e43 - Stella-rium ) \n\u27a5  https://www.youtube.com/watch?v=GNkPJvVEm0s \n\n\u2022 Soundcloud\n\u27a5   https://soundcloud.com/puru/stella-rium \n\n\u2022 Link BG \n\u27a5   https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71103703 \n\n\u27a5     Puru \nSoundcloud \u2192 https://soundcloud.com/puru \nTwiiter \u2192 https://twitter.com/purupan \n\n\u27a5  DeS.M.Tiny \nFacebook page\u2192  https://goo.gl/1QctEq\nMy Twitter \u2192  https://goo.gl/Dt3oWR \nGoogle + \u2192 https://goo.gl/Vfx8AF  \nSoundcloud  \u2192 https://goo.gl/sDrNo7 \nInstagram \u2192 https://goo.gl/QLVvwV \nKo-fi \u2192  https://ko-fi.com/desmtiny \n \n\u27a5  Artwork  \n\u2022 BG:  \u2192   \u6625\u53e3https://www.pixiv.net/member.php?id=20473754 \n\n\u2022 Check more song: https://goo.gl/aCLksx \n\n\u2022 If you are a copyright owner and want your work to be removed PLEASE       CONTACT  US    FIRST through e-mail: desmtinychannel@gmail.com We will delete this upload immediately.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rDFRWtzXeV4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rDFRWtzXeV4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rDFRWtzXeV4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rDFRWtzXeV4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rDFRWtzXeV4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rDFRWtzXeV4"
+        },
+        "videoOwnerChannelTitle": "Unmei Ongaku",
+        "videoOwnerChannelId": "UCmgPL3-ae-k4I5vbA-sruTw"
+    },
+    "contentDetails": {
+        "videoId": "rDFRWtzXeV4",
+        "videoPublishedAt": "2018-10-14T03:00:03Z",
+        "duration": "PT4M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "37647",
+        "likeCount": "1050",
+        "favoriteCount": "0",
+        "commentCount": "26"
+    }
+}
