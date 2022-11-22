@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "8XBu4ZSlOsw"
         },
-        "videoOwnerChannelTitle": "FrostBiTE -.-",
+        "videoOwnerChannelTitle": "Frsotika",
         "videoOwnerChannelId": "UC2-tTgxFyh1WOYf39fucxsQ"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "179797",
+        "viewCount": "179859",
         "likeCount": "1650",
         "favoriteCount": "0",
-        "commentCount": "147"
+        "commentCount": "148"
     }
 }
