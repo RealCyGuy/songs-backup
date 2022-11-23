@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "5ado75KpV9w",
         "videoPublishedAt": "2016-08-26T15:46:10Z",
-        "duration": "PT3M38S",
+        "duration": "PT2M16S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "37674244",
-        "likeCount": "816088",
+        "viewCount": "1277101",
+        "likeCount": "54800",
         "favoriteCount": "0",
-        "commentCount": "28383"
+        "commentCount": "454"
     }
 }

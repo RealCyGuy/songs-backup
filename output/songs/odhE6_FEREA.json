@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "odhE6_FEREA",
         "videoPublishedAt": "2022-01-02T23:31:42Z",
-        "duration": "PT2M12S",
+        "duration": "PT2M49S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "119173",
-        "likeCount": "5606",
+        "viewCount": "656659",
+        "likeCount": "10652",
         "favoriteCount": "0",
-        "commentCount": "433"
+        "commentCount": "266"
     }
 }

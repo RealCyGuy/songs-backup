@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "WFsAon_TWPQ",
         "videoPublishedAt": "2022-01-20T17:00:10Z",
-        "duration": "PT3M25S",
+        "duration": "PT3M46S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "120218526",
-        "likeCount": "2333309",
+        "viewCount": "214723721",
+        "likeCount": "1202564",
         "favoriteCount": "0",
-        "commentCount": "64204"
+        "commentCount": "23886"
     }
 }
