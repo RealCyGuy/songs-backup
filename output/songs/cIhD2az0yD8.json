@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GQ0E5OTk1MzM0OEMzOENE",
+    "snippet": {
+        "publishedAt": "2021-09-25T01:33:57Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Baby - Justin Bieber (Cover) by Childe / Griffin Burns",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cIhD2az0yD8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cIhD2az0yD8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cIhD2az0yD8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/cIhD2az0yD8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/cIhD2az0yD8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "cIhD2az0yD8"
+        },
+        "videoOwnerChannelTitle": "Griffin Burns",
+        "videoOwnerChannelId": "UCnpXvuQO0pLG9DDADJ-MYEg"
+    },
+    "contentDetails": {
+        "videoId": "cIhD2az0yD8",
+        "videoPublishedAt": "2021-02-09T00:28:29Z",
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "309341",
+        "likeCount": "21126",
+        "favoriteCount": "0",
+        "commentCount": "900"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NzJGNDg0NDc5REE2QjdF",
+    "snippet": {
+        "publishedAt": "2021-11-14T03:55:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "LVTHER - Some Kind Of Magic (Feat. MYZICA)",
+        "description": "Here's my latest single with the incredible MYZICA. Listen & share if you're a fan!\n\nSupport on iTunes: monster.cat/22OsHTA\nSupport on Beatport: monster.cat/1SmvAjA\nSupport on Bandcamp: monster.cat/1qizzHl\n---\nWatch on YouTube: monster.cat/1RqWiei\nListen on Spotify: monster.cat/1pKpa6G\n\n\u25bc Follow me\nFacebook: www.facebook.com/LVTHER\nTwitter: twitter.com/LVTHER\nSoundcloud: @lvther\nYoutube: www.youtube.com/LVTHER\nInstagram: www.instagram.com/lvthermusic\n\n\u25bc Follow MYZICA\nFacebook: www.facebook.com/MYZICAOFFICIAL\nTwitter: twitter.com/myzicaofficial\nSoundcloud: @myzica\nInstagram: www.instagram.com/myzicaofficial",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/L4nWWWIDlfg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/L4nWWWIDlfg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/L4nWWWIDlfg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/L4nWWWIDlfg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/L4nWWWIDlfg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "L4nWWWIDlfg"
+        },
+        "videoOwnerChannelTitle": "LVTHER",
+        "videoOwnerChannelId": "UCMrmCj2NhpIvFaG86Jijpaw"
+    },
+    "contentDetails": {
+        "videoId": "L4nWWWIDlfg",
+        "videoPublishedAt": "2016-03-31T13:51:41Z",
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "190684",
+        "likeCount": "3725",
+        "favoriteCount": "0",
+        "commentCount": "226"
+    }
+}
