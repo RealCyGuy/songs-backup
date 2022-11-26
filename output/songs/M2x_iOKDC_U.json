@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "M2x_iOKDC_U",
         "videoPublishedAt": "2018-02-10T14:11:53Z",
-        "duration": "PT4M33S",
+        "duration": "PT1M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "41217",
-        "likeCount": "638",
+        "viewCount": "3441",
+        "likeCount": "123",
         "favoriteCount": "0",
-        "commentCount": "38"
+        "commentCount": "11"
     }
 }

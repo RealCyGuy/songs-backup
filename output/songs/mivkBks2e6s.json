@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "mivkBks2e6s",
         "videoPublishedAt": "2019-06-21T17:15:50Z",
-        "duration": "PT4M16S",
+        "duration": "PT2M23S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "49611",
-        "likeCount": "1805",
+        "viewCount": "65843",
+        "likeCount": "717",
         "favoriteCount": "0",
-        "commentCount": "177"
+        "commentCount": "26"
     }
 }
