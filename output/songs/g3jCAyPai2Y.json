@@ -5,7 +5,7 @@
         "publishedAt": "2021-05-09T15:00:57Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Yakuza OST - Baka Mitai (\u3070\u304b\u307f\u305f\u3044) Kiryu full version",
-        "description": "Yakuza (Ryu ga Gotoku) 0, 5 and Kiwami karaoke, originally sang by Kiryu.\n\nCover version by Senshi Ongaku.\n\nComposition \u00a9 Sega / Ryu ga Gotoku Studio\n\nAudio \u00a9 Senshi Ongaku",
+        "description": "Yakuza (Ryu ga Gotoku) 0, 5 and Kiwami karaoke, originally sang by Kiryu.\n\nComposition \u00a9 Sega / Ryu ga Gotoku Studio",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/g3jCAyPai2Y/default.jpg",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "45636900",
-        "likeCount": "774418",
+        "viewCount": "45651988",
+        "likeCount": "774582",
         "favoriteCount": "0",
-        "commentCount": "75170"
+        "commentCount": "75169"
     }
 }
