@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wNEQxQ0JGRDYzQTc4MUQx",
+    "snippet": {
+        "publishedAt": "2022-11-28T06:44:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "(G)I-DLE - 'Nxde' (Rock Version)",
+        "description": "#\uc5ec\uc790\uc544\uc774\ub4e4 #GIDLE #NXDE #Rock \n\n(G)I-DLE - 'Nxde' - https://www.youtube.com/watch?v=fCO7f0SmrDc\n\nAcapella by: @HJ K https://www.youtube.com/watch?v=YrYTQT2BTfU\n\nTwitter: @DrewIscariot\nInstagram: @drew.iscariot\nEmail: drewiscariotofficial@gmail.com\n\nThank You For Watching !",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/L90tefIH0m0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/L90tefIH0m0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/L90tefIH0m0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/L90tefIH0m0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/L90tefIH0m0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "L90tefIH0m0"
+        },
+        "videoOwnerChannelTitle": "DrewIscariot",
+        "videoOwnerChannelId": "UCZn0Us-CZSzu47b8gKvyUdg"
+    },
+    "contentDetails": {
+        "videoId": "L90tefIH0m0",
+        "videoPublishedAt": "2022-11-07T16:27:52Z",
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "155585",
+        "likeCount": "18063",
+        "favoriteCount": "0",
+        "commentCount": "166"
+    }
+}

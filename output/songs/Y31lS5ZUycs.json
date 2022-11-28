@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRjg0NThFODE4QTY4REY1",
+    "snippet": {
+        "publishedAt": "2022-11-28T07:14:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "(\uc5ec\uc790)\uc544\uc774\ub4e4((G)I-DLE) 'Nxde' / [8 Bit Cover]",
+        "description": "(\uc5ec\uc790)\uc544\uc774\ub4e4((G)I-DLE) 'Nxde' / [8 Bit Cover] \n\n#Nxde #GIDLE #\uc544\uc774\ub4e4 #\ub204\ub4dc #GIDLENXDE \n#NxdeCover #NxdeLyrics\n----------------------------------------------------------\nMusic Original CUBE ENT.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Y31lS5ZUycs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Y31lS5ZUycs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Y31lS5ZUycs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Y31lS5ZUycs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Y31lS5ZUycs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Y31lS5ZUycs"
+        },
+        "videoOwnerChannelTitle": "\uc815\ud6c8\ub0a8JHN STUDIO",
+        "videoOwnerChannelId": "UCWvrB8eZ18wB5o7QnzMAdcA"
+    },
+    "contentDetails": {
+        "videoId": "Y31lS5ZUycs",
+        "videoPublishedAt": "2022-10-28T12:00:25Z",
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "147464",
+        "likeCount": "11162",
+        "favoriteCount": "0",
+        "commentCount": "319"
+    }
+}

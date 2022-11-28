@@ -1,34 +1,34 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41RThDMTg3OUYzRjI1RDg4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41QUY5QzY4NDZCRDhFRTEw",
     "snippet": {
-        "publishedAt": "2021-08-28T05:54:23Z",
+        "publishedAt": "2021-08-28T05:53:49Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "\uc200 ( SHAUN ) - Way Back Home ( Advanced Remix )",
-        "description": "Shaun - Way back home ( Advanced Remix ) \n\nListen on : https://lnk.to/remixes\n\n\n* Follow 'Advanced'\n\nFacebook : https://bit.ly/1Nxbv8i\nInstagram: https://bit.ly/2nyIqDd\nSoundcloud : https://bit.ly/1RowrEq",
+        "title": "SHAUN - WAY BACK HOME (Ricken Remix)",
+        "description": "SHAUN - WAY BACK HOME (Ricken Remix)\n\nJudul : Way Back Home\nArtist : Shaun\nRemixes : Ricken\nGenre : Future Bass\n\nOriginal Song : https://youtu.be/UKE3771aXAA\n\n\n\n#SHAUN #WayBackHome #FutureBass",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/DTJ6Pmp-oYk/default.jpg",
+                "url": "https://i.ytimg.com/vi/IKWgJmUBCpI/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/DTJ6Pmp-oYk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IKWgJmUBCpI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/DTJ6Pmp-oYk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IKWgJmUBCpI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             },
             "standard": {
-                "url": "https://i.ytimg.com/vi/DTJ6Pmp-oYk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/IKWgJmUBCpI/sddefault.jpg",
                 "width": 640,
                 "height": 480
             },
             "maxres": {
-                "url": "https://i.ytimg.com/vi/DTJ6Pmp-oYk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IKWgJmUBCpI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
             }
@@ -37,14 +37,14 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "DTJ6Pmp-oYk"
+            "videoId": "IKWgJmUBCpI"
         },
-        "videoOwnerChannelTitle": "Advanced Official",
-        "videoOwnerChannelId": "UChw9eQC9trZ13SLDQf3HDbg"
+        "videoOwnerChannelTitle": "Ricken Delay",
+        "videoOwnerChannelId": "UCtu1-DH-9mSGGB7iSImCLMQ"
     },
     "contentDetails": {
-        "videoId": "DTJ6Pmp-oYk",
-        "videoPublishedAt": "2019-02-14T13:00:34Z",
+        "videoId": "IKWgJmUBCpI",
+        "videoPublishedAt": "2020-07-01T13:04:24Z",
         "duration": "PT2M13S",
         "dimension": "2d",
         "definition": "hd",
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "65335",
+        "viewCount": "65359",
         "likeCount": "871",
         "favoriteCount": "0",
         "commentCount": "23"
