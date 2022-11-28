@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "6aMtfma0MO0",
         "videoPublishedAt": "2021-03-06T03:43:13Z",
-        "duration": "PT42S",
+        "duration": "PT3M48S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
+        "caption": "false",
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2280825",
-        "likeCount": "160116",
+        "viewCount": "230749",
+        "likeCount": "3032",
         "favoriteCount": "0",
-        "commentCount": "3485"
+        "commentCount": "46"
     }
 }

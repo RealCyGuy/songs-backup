@@ -35,9 +35,9 @@
     "contentDetails": {
         "videoId": "q-9kPks0IfE",
         "videoPublishedAt": "2009-08-30T07:33:33Z",
-        "duration": "PT2M53S",
+        "duration": "PT3M14S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -47,9 +47,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6631858",
-        "likeCount": "255488",
+        "viewCount": "16582080",
+        "likeCount": "247029",
         "favoriteCount": "0",
-        "commentCount": "13462"
+        "commentCount": "7506"
     }
 }
