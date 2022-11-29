@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "NEkocrUB31s"
         },
-        "videoOwnerChannelTitle": "\u30be\u30ed\u30b8\u30a7\u30a4",
+        "videoOwnerChannelTitle": "\u30bd\u30ed\u30b8\u30a7\uff08zoroja\uff09",
         "videoOwnerChannelId": "UCi0vR0hd8yQKagS71tyoDuA"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "9965",
+        "viewCount": "9968",
         "likeCount": "141",
         "favoriteCount": "0",
         "commentCount": "5"
