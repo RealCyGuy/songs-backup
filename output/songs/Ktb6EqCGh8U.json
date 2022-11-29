@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "Ktb6EqCGh8U"
         },
-        "videoOwnerChannelTitle": "Various Artists - Topic",
-        "videoOwnerChannelId": "UCL4RZTUZ7jd5kFrm23AVj6Q"
+        "videoOwnerChannelTitle": "FIFTY FIFTY - Topic",
+        "videoOwnerChannelId": "UCMca81qQN9V3jOe7wyfbvDQ"
     },
     "contentDetails": {
         "videoId": "Ktb6EqCGh8U",
@@ -164,8 +164,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "34728",
-        "likeCount": "1380",
+        "viewCount": "36893",
+        "likeCount": "1438",
         "favoriteCount": "0",
         "commentCount": "0"
     }
