@@ -1,34 +1,34 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CRkM3ODAzMUQwNDBGMjFD",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CMTBCQjMwRDIyREJBRTUz",
     "snippet": {
-        "publishedAt": "2022-01-14T02:12:16Z",
+        "publishedAt": "2022-01-13T05:54:49Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Yamaha PSR-S500 Demo Song",
-        "description": "Originally it showed some graphics while the demo was playing, but mine has the LCD screen broken, so I just recorded the audio. I'll let you know if I get to fix the screen.\r\n\r\nRecorded at 96kHz with a Tascam DR-05.",
+        "title": "Skee-Lo - I Wish",
+        "description": "Music video by Skee-Lo performing I Wish. (C) 1995 Volcano Entertainment III, LLC",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/lPVzUxkums4/default.jpg",
+                "url": "https://i.ytimg.com/vi/cmXZOI7cM0M/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/lPVzUxkums4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/cmXZOI7cM0M/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/lPVzUxkums4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/cmXZOI7cM0M/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             },
             "standard": {
-                "url": "https://i.ytimg.com/vi/lPVzUxkums4/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/cmXZOI7cM0M/sddefault.jpg",
                 "width": 640,
                 "height": 480
             },
             "maxres": {
-                "url": "https://i.ytimg.com/vi/lPVzUxkums4/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/cmXZOI7cM0M/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
             }
@@ -37,14 +37,14 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "lPVzUxkums4"
+            "videoId": "cmXZOI7cM0M"
         },
-        "videoOwnerChannelTitle": "Syn",
-        "videoOwnerChannelId": "UCKjG8wSyttN0xHVWMsLaA2g"
+        "videoOwnerChannelTitle": "SkeeLoVEVO",
+        "videoOwnerChannelId": "UCddAVZTQ3E9vb5lOokxzI7A"
     },
     "contentDetails": {
-        "videoId": "lPVzUxkums4",
-        "videoPublishedAt": "2021-10-25T17:02:14Z",
+        "videoId": "cmXZOI7cM0M",
+        "videoPublishedAt": "2014-02-22T04:14:03Z",
         "duration": "PT4M14S",
         "dimension": "2d",
         "definition": "sd",
@@ -307,8 +307,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4220331",
-        "likeCount": "93216",
+        "viewCount": "4223261",
+        "likeCount": "93259",
         "favoriteCount": "0",
         "commentCount": "4726"
     }
