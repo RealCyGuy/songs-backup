@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "KBMO_4Nj4HQ",
         "videoPublishedAt": "2018-10-17T15:58:18Z",
-        "duration": "PT4M2S",
+        "duration": "PT4M20S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "12858256",
-        "likeCount": "113761",
+        "viewCount": "298139",
+        "likeCount": "3085",
         "favoriteCount": "0",
-        "commentCount": "2316"
+        "commentCount": "248"
     }
 }

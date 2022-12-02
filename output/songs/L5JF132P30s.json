@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "L5JF132P30s",
         "videoPublishedAt": "2020-08-04T10:00:13Z",
-        "duration": "PT4M38S",
+        "duration": "PT2M29S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "true",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4086852",
-        "likeCount": "89755",
+        "viewCount": "42285",
+        "likeCount": "715",
         "favoriteCount": "0",
-        "commentCount": "2112"
+        "commentCount": "99"
     }
 }

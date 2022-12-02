@@ -1,34 +1,34 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yRDBGQTZGNkIwQjRCRDI1",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45QzM0OUZCRDUyMTgwREVG",
     "snippet": {
-        "publishedAt": "2021-08-08T18:04:31Z",
+        "publishedAt": "2021-05-15T23:26:00Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "01. Best FriendS",
-        "description": "I do not own this song.\n01. Best FriendS\n***Download Mp3 to 4shared***\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nI do not own this song.\nI do it for righteousness.\nSomething I could do . Since it is my first work.\nThere may be rules that I do not know yet .",
+        "title": "SAYURI - Sorewa Chiisana Hikarinoyouna",
+        "description": "Music video by Sayuri performing Sorewa Chiisana Hikarinoyouna. (C) 2016 Ariola Japan, a division of Sony Music Labels Inc.\n\nhttp://vevo.ly/zDb965",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/XnKnWs78eHs/default.jpg",
+                "url": "https://i.ytimg.com/vi/BnhMFj4DKY0/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/XnKnWs78eHs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BnhMFj4DKY0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/XnKnWs78eHs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BnhMFj4DKY0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             },
             "standard": {
-                "url": "https://i.ytimg.com/vi/XnKnWs78eHs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/BnhMFj4DKY0/sddefault.jpg",
                 "width": 640,
                 "height": 480
             },
             "maxres": {
-                "url": "https://i.ytimg.com/vi/XnKnWs78eHs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BnhMFj4DKY0/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
             }
@@ -37,19 +37,19 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "XnKnWs78eHs"
+            "videoId": "BnhMFj4DKY0"
         },
-        "videoOwnerChannelTitle": "Erina",
-        "videoOwnerChannelId": "UCMIaFTFvUbxrrrds5sfipLw"
+        "videoOwnerChannelTitle": "sayuriVEVO",
+        "videoOwnerChannelId": "UClzdklKIg0hciLMkBNSDDyA"
     },
     "contentDetails": {
-        "videoId": "XnKnWs78eHs",
-        "videoPublishedAt": "2018-02-10T14:11:53Z",
-        "duration": "PT4M34S",
+        "videoId": "BnhMFj4DKY0",
+        "videoPublishedAt": "2016-06-17T07:00:00Z",
+        "duration": "PT4M33S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "regionRestriction": {
             "blocked": [
                 "AD",
@@ -165,6 +165,7 @@
                 "JE",
                 "JM",
                 "JO",
+                "JP",
                 "KE",
                 "KG",
                 "KH",
@@ -309,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1850",
-        "likeCount": "82",
+        "viewCount": "5768818",
+        "likeCount": "139552",
         "favoriteCount": "0",
-        "commentCount": "19"
+        "commentCount": "3212"
     }
 }

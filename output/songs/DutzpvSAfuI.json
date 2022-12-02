@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "DutzpvSAfuI",
         "videoPublishedAt": "2018-10-31T13:11:39Z",
-        "duration": "PT4M20S",
+        "duration": "PT3M43S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
-        "licensedContent": false,
+        "caption": "false",
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "298085",
-        "likeCount": "3083",
+        "viewCount": "10059009",
+        "likeCount": "23795",
         "favoriteCount": "0",
-        "commentCount": "248"
+        "commentCount": "1500"
     }
 }

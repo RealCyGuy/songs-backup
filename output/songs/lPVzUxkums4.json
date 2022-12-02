@@ -1,34 +1,34 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GQkUyQkM5MDg2RUIwNjhE",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CRkM3ODAzMUQwNDBGMjFD",
     "snippet": {
-        "publishedAt": "2022-01-15T06:38:02Z",
+        "publishedAt": "2022-01-14T02:12:16Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "HEHEHEHA REMIX - DJMatiSR",
-        "description": "Like and suscribe for more remix! \ud83d\udc4d\ud83e\udde1",
+        "title": "Yamaha PSR-S500 Demo Song",
+        "description": "Originally it showed some graphics while the demo was playing, but mine has the LCD screen broken, so I just recorded the audio. I'll let you know if I get to fix the screen.\r\n\r\nRecorded at 96kHz with a Tascam DR-05.",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/9FaFJr2jk2Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/lPVzUxkums4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/9FaFJr2jk2Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/lPVzUxkums4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/9FaFJr2jk2Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/lPVzUxkums4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             },
             "standard": {
-                "url": "https://i.ytimg.com/vi/9FaFJr2jk2Y/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/lPVzUxkums4/sddefault.jpg",
                 "width": 640,
                 "height": 480
             },
             "maxres": {
-                "url": "https://i.ytimg.com/vi/9FaFJr2jk2Y/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/lPVzUxkums4/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
             }
@@ -37,14 +37,14 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "9FaFJr2jk2Y"
+            "videoId": "lPVzUxkums4"
         },
-        "videoOwnerChannelTitle": "DJMatiSR",
-        "videoOwnerChannelId": "UCvo3RBEgE_5IYIukO6K1E6A"
+        "videoOwnerChannelTitle": "Syn",
+        "videoOwnerChannelId": "UCKjG8wSyttN0xHVWMsLaA2g"
     },
     "contentDetails": {
-        "videoId": "9FaFJr2jk2Y",
-        "videoPublishedAt": "2021-12-16T05:05:39Z",
+        "videoId": "lPVzUxkums4",
+        "videoPublishedAt": "2021-10-25T17:02:14Z",
         "duration": "PT2M10S",
         "dimension": "2d",
         "definition": "hd",

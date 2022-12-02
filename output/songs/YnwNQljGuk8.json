@@ -1,45 +1,55 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xREVBMTg1ODg1M0JCQUE1",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMDQzQ0Y1OUU5Qjk1NjE1",
     "snippet": {
-        "publishedAt": "2021-05-16T04:08:21Z",
+        "publishedAt": "2021-08-08T18:03:08Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Dr. Mario (NES) Music - Fever Theme",
-        "description": "Dr. Mario (NES) Music - Fever Theme Download all my NES Soundtracks as MP3 here\r\nhttp://www.nes-snes-sprites.com/Theme",
+        "title": "Best Friends - Trap remix",
+        "description": "",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/L-d1pPzACR0/default.jpg",
+                "url": "https://i.ytimg.com/vi/YnwNQljGuk8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/L-d1pPzACR0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/YnwNQljGuk8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/L-d1pPzACR0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/YnwNQljGuk8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/YnwNQljGuk8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/YnwNQljGuk8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
             }
         },
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "L-d1pPzACR0"
+            "videoId": "YnwNQljGuk8"
         },
-        "videoOwnerChannelTitle": "GBelair",
-        "videoOwnerChannelId": "UCH6SOpQlDrSIQ-zmajOT5OQ"
+        "videoOwnerChannelTitle": "depr",
+        "videoOwnerChannelId": "UCLvPSomzSn2Na4OY4QDTxPA"
     },
     "contentDetails": {
-        "videoId": "L-d1pPzACR0",
-        "videoPublishedAt": "2009-10-05T01:38:17Z",
-        "duration": "PT4M33S",
+        "videoId": "YnwNQljGuk8",
+        "videoPublishedAt": "2020-05-06T11:44:04Z",
+        "duration": "PT4M34S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "regionRestriction": {
             "blocked": [
                 "AD",
@@ -155,7 +165,6 @@
                 "JE",
                 "JM",
                 "JO",
-                "JP",
                 "KE",
                 "KG",
                 "KH",
@@ -300,9 +309,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "5768818",
-        "likeCount": "139552",
+        "viewCount": "1850",
+        "likeCount": "82",
         "favoriteCount": "0",
-        "commentCount": "3212"
+        "commentCount": "19"
     }
 }
