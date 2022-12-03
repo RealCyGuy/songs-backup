@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45QzgzRjYzM0NGOEI2MzdG",
+    "snippet": {
+        "publishedAt": "2021-08-08T18:03:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Best FriendS/Fuji-Jo Seitokai Shikkou-Bu [Music Box] (Anime \"Love Lab\" ED)",
+        "description": "R3 Music Box arranges various songs to the music box version.\nEnjoy the healing music box sound.\nI will upload new song every day at 9:00PM(japan time), so please subscribe to R3 Music Box channel.\n\n\u25bcSearch for R3 Music Box videos\nhttps://www.youtube.com/results?search_query=%22R3+Music+Box%22\n\n\u25bcListen in order of new songs\nhttps://www.youtube.com/playlist?list=UUrnX-RrSu3jK-auhcDGpvAw&playnext=1&index=1\n\n\u25bcListen in order of popularity\nhttps://www.youtube.com/watch?v=26BfGXRVOZM&list=PUrnX-RrSu3jK-auhcDGpvAw\n\n\u25bcClick here for the playlist of R3 Music Box\nhttps://www.youtube.com/c/r3musicboxenglish/playlists\n\n\u25bcClick here to request a song (I don't accept request in comments)\nhttps://r3-music-box.com/en/request/\n\n* The copyright of this sound belongs to the composer (except for public domain music) and R3 Music Box.\n* If you use this sound as BGM, you do not need my permission.\n* This is not a real music box so I can not sell it.\n* I don't provide score or MIDI data.\n\n#r3musicbox #musicbox #cover",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9eEOo3_J7sY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9eEOo3_J7sY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9eEOo3_J7sY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/9eEOo3_J7sY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/9eEOo3_J7sY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9eEOo3_J7sY"
+        },
+        "videoOwnerChannelTitle": "R3 Music Box",
+        "videoOwnerChannelId": "UCrnX-RrSu3jK-auhcDGpvAw"
+    },
+    "contentDetails": {
+        "videoId": "9eEOo3_J7sY",
+        "videoPublishedAt": "2019-07-03T12:00:00Z",
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3443",
+        "likeCount": "123",
+        "favoriteCount": "0",
+        "commentCount": "11"
+    }
+}
