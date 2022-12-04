@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NkYyQUI0MTYxMDY5RkM3",
+    "snippet": {
+        "publishedAt": "2022-12-04T01:06:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Bill Nye the Science Guy Chinese Intro",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/THH7P08zuhU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/THH7P08zuhU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/THH7P08zuhU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/THH7P08zuhU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "THH7P08zuhU"
+        },
+        "videoOwnerChannelTitle": "DangerousVHS",
+        "videoOwnerChannelId": "UCUVNk8ro5KQgfyjxQ4aCDPA"
+    },
+    "contentDetails": {
+        "videoId": "THH7P08zuhU",
+        "videoPublishedAt": "2012-05-19T14:40:45Z",
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1411613",
+        "likeCount": "41466",
+        "favoriteCount": "0",
+        "commentCount": "2461"
+    }
+}
