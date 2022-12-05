@@ -4,38 +4,19 @@
     "snippet": {
         "publishedAt": "2022-01-22T15:20:14Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Mr. Incredible becoming canny but it's piano",
-        "description": "y'all wanted it so here u go lol\n\ntemplate I used: https://www.youtube.com/watch?v=PIda0u9pSTU&t=3s",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/y3bEogoo7ow/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/y3bEogoo7ow/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/y3bEogoo7ow/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "y3bEogoo7ow"
-        },
-        "videoOwnerChannelTitle": "Kyusics",
-        "videoOwnerChannelId": "UCPLj1u1B_naFAub72gUm1pg"
+        }
     },
     "contentDetails": {
         "videoId": "y3bEogoo7ow",
-        "videoPublishedAt": "2022-01-08T18:37:52Z",
-        "duration": "PT2M5S",
+        "duration": "PT3M54S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -44,12 +25,12 @@
         "projection": "rectangular"
     },
     "status": {
-        "privacyStatus": "unlisted"
+        "privacyStatus": "private"
     },
     "statistics": {
-        "viewCount": "1672271",
-        "likeCount": "64185",
+        "viewCount": "4433097",
+        "likeCount": "82449",
         "favoriteCount": "0",
-        "commentCount": "1267"
+        "commentCount": "3642"
     }
 }

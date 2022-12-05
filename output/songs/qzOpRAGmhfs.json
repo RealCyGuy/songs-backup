@@ -4,62 +4,33 @@
     "snippet": {
         "publishedAt": "2021-12-02T05:50:16Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "You're Welcome but it's about drive its about power",
-        "description": "I'm surprised no ones made this yet.",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/qzOpRAGmhfs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/qzOpRAGmhfs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/qzOpRAGmhfs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            },
-            "standard": {
-                "url": "https://i.ytimg.com/vi/qzOpRAGmhfs/sddefault.jpg",
-                "width": 640,
-                "height": 480
-            },
-            "maxres": {
-                "url": "https://i.ytimg.com/vi/qzOpRAGmhfs/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-            }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
             "videoId": "qzOpRAGmhfs"
-        },
-        "videoOwnerChannelTitle": "Dabloon",
-        "videoOwnerChannelId": "UClAcwW3FCnOHzv5d3XL6zwQ"
+        }
     },
     "contentDetails": {
         "videoId": "qzOpRAGmhfs",
-        "videoPublishedAt": "2021-11-02T21:43:30Z",
-        "duration": "PT18S",
+        "duration": "PT2M58S",
         "dimension": "2d",
         "definition": "sd",
-        "caption": "true",
-        "licensedContent": false,
+        "caption": "false",
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
     "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
     },
     "statistics": {
-        "viewCount": "2164154",
-        "likeCount": "64923",
+        "viewCount": "302407",
+        "likeCount": "3202",
         "favoriteCount": "0",
-        "commentCount": "873"
+        "commentCount": "179"
     }
 }

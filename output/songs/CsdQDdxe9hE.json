@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44RTU5Qzg2OUVEQUE5OTZC",
+    "snippet": {
+        "publishedAt": "2022-12-04T23:34:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[Official MV] \uc2a4\ud154\ub77c\uc7a5(Stella Jang) - Winter Dream",
+        "description": "Merry Christmas to you all!!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CsdQDdxe9hE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CsdQDdxe9hE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CsdQDdxe9hE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/CsdQDdxe9hE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/CsdQDdxe9hE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CsdQDdxe9hE"
+        },
+        "videoOwnerChannelTitle": "stellajangtv",
+        "videoOwnerChannelId": "UCx4T73vmS0JGRkAFeEBOOmQ"
+    },
+    "contentDetails": {
+        "videoId": "CsdQDdxe9hE",
+        "videoPublishedAt": "2022-12-01T03:00:10Z",
+        "duration": "PT2M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "35734",
+        "likeCount": "4364",
+        "favoriteCount": "0",
+        "commentCount": "293"
+    }
+}

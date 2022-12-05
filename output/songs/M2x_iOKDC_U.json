@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GOUNCNzE3MTRGRUE3MjY5",
+    "snippet": {
+        "publishedAt": "2021-08-08T18:04:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "08. Best FriendS   Instrumental",
+        "description": "I do not own this song.\n08. Best FriendS   Instrumental\n***Download Mp3 to 4shared***\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nI do not own this song.\nI do it for righteousness.\nSomething I could do . Since it is my first work.\nThere may be rules that I do not know yet .",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/M2x_iOKDC_U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/M2x_iOKDC_U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/M2x_iOKDC_U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/M2x_iOKDC_U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/M2x_iOKDC_U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "M2x_iOKDC_U"
+        },
+        "videoOwnerChannelTitle": "Erina",
+        "videoOwnerChannelId": "UCMIaFTFvUbxrrrds5sfipLw"
+    },
+    "contentDetails": {
+        "videoId": "M2x_iOKDC_U",
+        "videoPublishedAt": "2018-02-10T14:11:53Z",
+        "duration": "PT4M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "423",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "1"
+    }
+}
