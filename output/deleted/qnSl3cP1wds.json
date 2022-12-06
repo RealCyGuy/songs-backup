@@ -1,8 +1,8 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNEQ4QzZCNThFNTMxOTY4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRkMzRjEwQUIzOTAwOTFC",
     "snippet": {
-        "publishedAt": "2022-02-02T07:49:08Z",
+        "publishedAt": "2021-11-17T02:18:10Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Deleted video",
         "description": "This video is unavailable.",
@@ -11,16 +11,16 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "ZGTZPgFdVHE"
+            "videoId": "qnSl3cP1wds"
         }
     },
     "contentDetails": {
-        "videoId": "ZGTZPgFdVHE",
-        "duration": "PT3M37S",
+        "videoId": "qnSl3cP1wds",
+        "duration": "PT1M47S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -28,9 +28,9 @@
         "privacyStatus": "privacyStatusUnspecified"
     },
     "statistics": {
-        "viewCount": "2093827",
-        "likeCount": "169471",
+        "viewCount": "59190",
+        "likeCount": "1319",
         "favoriteCount": "0",
-        "commentCount": "3130"
+        "commentCount": "92"
     }
 }
