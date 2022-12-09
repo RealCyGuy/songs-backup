@@ -48,7 +48,7 @@
         "duration": "PT3M11S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6863716",
-        "likeCount": "165319",
+        "viewCount": "6869915",
+        "likeCount": "165356",
         "favoriteCount": "0",
         "commentCount": "6270"
     }
