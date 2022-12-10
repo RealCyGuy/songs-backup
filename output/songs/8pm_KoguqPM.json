@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "8pm_KoguqPM",
         "videoPublishedAt": "2018-09-06T14:36:43Z",
-        "duration": "PT3M19S",
+        "duration": "PT3M22S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "171518653",
-        "likeCount": "2406435",
+        "viewCount": "1731477",
+        "likeCount": "13892",
         "favoriteCount": "0",
-        "commentCount": "68920"
+        "commentCount": "1082"
     }
 }

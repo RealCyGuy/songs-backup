@@ -40,9 +40,9 @@
     "contentDetails": {
         "videoId": "6MYAGyZlBY0",
         "videoPublishedAt": "2012-10-23T00:45:20Z",
-        "duration": "PT1M40S",
+        "duration": "PT3M31S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -52,9 +52,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "208213",
-        "likeCount": "2075",
+        "viewCount": "3766799",
+        "likeCount": "104686",
         "favoriteCount": "0",
-        "commentCount": "250"
+        "commentCount": "8380"
     }
 }

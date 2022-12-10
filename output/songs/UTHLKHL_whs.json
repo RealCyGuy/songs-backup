@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "UTHLKHL_whs",
         "videoPublishedAt": "2021-07-23T04:00:12Z",
-        "duration": "PT3M56S",
+        "duration": "PT2M22S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
+        "caption": "false",
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "399858844",
-        "likeCount": "8881080",
+        "viewCount": "109875",
+        "likeCount": "974",
         "favoriteCount": "0",
-        "commentCount": "436423"
+        "commentCount": "59"
     }
 }

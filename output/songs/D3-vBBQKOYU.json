@@ -35,9 +35,9 @@
     "contentDetails": {
         "videoId": "D3-vBBQKOYU",
         "videoPublishedAt": "2008-03-16T14:50:54Z",
-        "duration": "PT5M1S",
+        "duration": "PT2M54S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -47,9 +47,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "18712263",
-        "likeCount": "232488",
+        "viewCount": "139684",
+        "likeCount": "3743",
         "favoriteCount": "0",
-        "commentCount": "28314"
+        "commentCount": "262"
     }
 }

@@ -45,9 +45,9 @@
     "contentDetails": {
         "videoId": "3ozGuW4Yoiw",
         "videoPublishedAt": "2019-11-14T13:00:10Z",
-        "duration": "PT3M31S",
+        "duration": "PT3M1S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3766619",
-        "likeCount": "104682",
+        "viewCount": "201755",
+        "likeCount": "7475",
         "favoriteCount": "0",
-        "commentCount": "8380"
+        "commentCount": "343"
     }
 }

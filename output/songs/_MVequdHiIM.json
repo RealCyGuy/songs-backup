@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNjk0MDg2NzlGQURCNTVF",
+    "snippet": {
+        "publishedAt": "2022-12-10T04:32:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ITZY(\uc788\uc9c0) - Cheshire - Violin Cover",
+        "description": "#ITZY #Cheshire #\uc788\uc9c0\n\nInstagram: \nhttp://www.instagram.com/cat.olin\nhttp://www.instagram.com/oisrzr\n\n\nBusiness Contact : musicplay9399@naver.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_MVequdHiIM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_MVequdHiIM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_MVequdHiIM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_MVequdHiIM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_MVequdHiIM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_MVequdHiIM"
+        },
+        "videoOwnerChannelTitle": "\ucea3\uc62c\ub9b0CatOlin",
+        "videoOwnerChannelId": "UCoAeBLyRkAVnNHR_V4XWc_Q"
+    },
+    "contentDetails": {
+        "videoId": "_MVequdHiIM",
+        "videoPublishedAt": "2022-12-02T12:00:32Z",
+        "duration": "PT3M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "55846",
+        "likeCount": "9530",
+        "favoriteCount": "0",
+        "commentCount": "265"
+    }
+}
