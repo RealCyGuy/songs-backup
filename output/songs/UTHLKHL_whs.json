@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "UTHLKHL_whs",
         "videoPublishedAt": "2021-07-23T04:00:12Z",
-        "duration": "PT2M22S",
+        "duration": "PT2M16S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "109993",
-        "likeCount": "974",
+        "viewCount": "181763",
+        "likeCount": "1665",
         "favoriteCount": "0",
-        "commentCount": "59"
+        "commentCount": "151"
     }
 }

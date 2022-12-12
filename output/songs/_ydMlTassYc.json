@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "_ydMlTassYc",
         "videoPublishedAt": "2018-07-09T13:39:46Z",
-        "duration": "PT4M19S",
+        "duration": "PT7M35S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "52812953",
-        "likeCount": "735417",
+        "viewCount": "34782056",
+        "likeCount": "558716",
         "favoriteCount": "0",
-        "commentCount": "4136"
+        "commentCount": "28124"
     }
 }

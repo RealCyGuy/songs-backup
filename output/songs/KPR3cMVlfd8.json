@@ -45,9 +45,9 @@
     "contentDetails": {
         "videoId": "KPR3cMVlfd8",
         "videoPublishedAt": "2020-10-31T15:00:05Z",
-        "duration": "PT3M14S",
+        "duration": "PT2M53S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "16621884",
-        "likeCount": "247489",
+        "viewCount": "6806655",
+        "likeCount": "259422",
         "favoriteCount": "0",
-        "commentCount": "7510"
+        "commentCount": "13582"
     }
 }

@@ -16,11 +16,11 @@
     },
     "contentDetails": {
         "videoId": "6aMtfma0MO0",
-        "duration": "PT42S",
+        "duration": "PT3M14S",
         "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -28,9 +28,9 @@
         "privacyStatus": "private"
     },
     "statistics": {
-        "viewCount": "2285173",
-        "likeCount": "160295",
+        "viewCount": "16622649",
+        "likeCount": "247507",
         "favoriteCount": "0",
-        "commentCount": "3480"
+        "commentCount": "7509"
     }
 }

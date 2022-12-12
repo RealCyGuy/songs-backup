@@ -35,7 +35,7 @@
     "contentDetails": {
         "videoId": "960mk5JRSBk",
         "videoPublishedAt": "2016-09-30T12:23:17Z",
-        "duration": "PT5M58S",
+        "duration": "PT48S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -47,9 +47,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6954166",
-        "likeCount": "131420",
+        "viewCount": "10432498",
+        "likeCount": "588395",
         "favoriteCount": "0",
-        "commentCount": "2585"
+        "commentCount": "12644"
     }
 }

@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "8DmxeMQT4BI",
         "videoPublishedAt": "2018-09-21T09:30:00Z",
-        "duration": "PT3M33S",
+        "duration": "PT1M1S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "33601",
-        "likeCount": "1706",
+        "viewCount": "312516",
+        "likeCount": "21340",
         "favoriteCount": "0",
-        "commentCount": "222"
+        "commentCount": "902"
     }
 }

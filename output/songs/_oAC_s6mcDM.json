@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "_oAC_s6mcDM",
         "videoPublishedAt": "2015-02-21T18:00:00Z",
-        "duration": "PT2M29S",
+        "duration": "PT3M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "7383957",
-        "likeCount": "254034",
+        "viewCount": "19037995",
+        "likeCount": "348166",
         "favoriteCount": "0",
-        "commentCount": "13268"
+        "commentCount": "10298"
     }
 }
