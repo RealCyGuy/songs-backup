@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QjFBQUREMTBDMENEQzE0",
+    "snippet": {
+        "publishedAt": "2021-10-31T22:45:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shawn Mendes - Treat You Better",
+        "description": "New album WONDER available now\nListen here: https://wonder.lnk.to/OutNow\n\nFollow Shawn Mendes\nInstagram | https://www.instagram.com/shawnmendes/\nTwitter | https://twitter.com/ShawnMendes\nFacebook | https://www.facebook.com/ShawnMendesOfficial\nSnap | https://www.snapchat.com/add/shawnmendes1\nTikTok | https://www.tiktok.com/@shawnmendes\nWebsite | http://www.shawnmendesofficial.com/\n\nSubscribe to YouTube\nhttps://ShawnMendes.lnk.to/Subscribe-OnYouTube",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "lY2yjAdbvdQ"
+        },
+        "videoOwnerChannelTitle": "ShawnMendesVEVO",
+        "videoOwnerChannelId": "UC4-TgOSMJHn-LtY4zCzbQhw"
+    },
+    "contentDetails": {
+        "videoId": "lY2yjAdbvdQ",
+        "videoPublishedAt": "2016-07-12T17:00:05Z",
+        "duration": "PT4M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2302261694",
+        "likeCount": "10950872",
+        "favoriteCount": "0",
+        "commentCount": "273002"
+    }
+}

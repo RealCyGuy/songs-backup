@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "2-qrMz-JAzo",
         "videoPublishedAt": "2016-04-04T05:44:11Z",
-        "duration": "PT3M47S",
+        "duration": "PT1M20S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1816668",
-        "likeCount": "12563",
+        "viewCount": "171839",
+        "likeCount": "5672",
         "favoriteCount": "0",
-        "commentCount": "801"
+        "commentCount": "203"
     }
 }

@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "TN25ghkfgQA",
         "videoPublishedAt": "2017-01-23T11:54:10Z",
-        "duration": "PT1M",
+        "duration": "PT1M48S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -303,9 +303,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "311783",
-        "likeCount": "5649",
+        "viewCount": "801345",
+        "likeCount": "16652",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "3"
     }
 }

@@ -45,9 +45,9 @@
     "contentDetails": {
         "videoId": "sgdPlDG1-8k",
         "videoPublishedAt": "2017-07-15T07:29:15Z",
-        "duration": "PT22S",
+        "duration": "PT2M39S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1440048",
-        "likeCount": "82719",
+        "viewCount": "85974",
+        "likeCount": "2532",
         "favoriteCount": "0",
-        "commentCount": "1385"
+        "commentCount": "74"
     }
 }

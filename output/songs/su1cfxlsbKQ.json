@@ -16,7 +16,7 @@
     },
     "contentDetails": {
         "videoId": "su1cfxlsbKQ",
-        "duration": "PT1M20S",
+        "duration": "PT1M9S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -28,9 +28,9 @@
         "privacyStatus": "privacyStatusUnspecified"
     },
     "statistics": {
-        "viewCount": "171828",
-        "likeCount": "5672",
+        "viewCount": "15076339",
+        "likeCount": "711384",
         "favoriteCount": "0",
-        "commentCount": "203"
+        "commentCount": "9401"
     }
 }
