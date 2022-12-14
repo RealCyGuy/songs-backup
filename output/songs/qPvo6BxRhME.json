@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "qPvo6BxRhME"
         },
-        "videoOwnerChannelTitle": "\u30bb\u30e9\u30d5\u30a3\u30fc\u30ca - Serafina Ch.\u3010AuroraLiveVR\u3011",
+        "videoOwnerChannelTitle": "Serafina Ch. \ud83d\udd38\u2625 \u30bb\u30e9\u30d5\u30a3\u30fc\u30ca \u3010AuroraLiveVR\u3011",
         "videoOwnerChannelId": "UCfBxhUGEacqBlXSXvcch_Hw"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "933061",
-        "likeCount": "64062",
+        "viewCount": "954234",
+        "likeCount": "64796",
         "favoriteCount": "0",
-        "commentCount": "1282"
+        "commentCount": "1293"
     }
 }
