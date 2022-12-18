@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "7lgsAsITY2E",
         "videoPublishedAt": "2020-03-25T15:15:02Z",
-        "duration": "PT1M33S",
+        "duration": "PT2M39S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "27039711",
-        "likeCount": "1304282",
+        "viewCount": "314321",
+        "likeCount": "6823",
         "favoriteCount": "0",
-        "commentCount": "51112"
+        "commentCount": "819"
     }
 }

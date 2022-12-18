@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45ODU2QTQ5RjY5MEMyREFF",
+    "snippet": {
+        "publishedAt": "2022-12-18T06:18:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "MINA MELODY PROJECT \"Snowman (Sia)\" Cover by MINA",
+        "description": "MINA MELODY PROJECT \"Snowman (Sia)\" Cover by MINA\n\nTWICE 3rd Full Album \"Formula of Love: O+T=\uff1c3\"\n\n\ud83e\uddeaListen \"Formula of Love: O+T=\uff1c3\" HERE\ud83d\udc47\nhttps://TWICE.lnk.to/formula-of-love\n \nTWICE Official Shop: https://TWICE.lnk.to/Shop \nTWICE Official YouTube: http://www.youtube.com/c/TWICE \nTWICE Official Facebook: http://www.facebook.com/JYPETWICE \nTWICE Official Twitter: http://www.twitter.com/JYPETWICE \nTWICE Official TikTok https://www.tiktok.com/@twice_tiktok_...\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM \nTWICE Official Homepage: http://TWICE.jype.com \nTWICE Official Fan's: http://fans.jype.com/TWICE \n\n\u24d2 2021 JYP Entertainment. All Rights Reserved\n\n#TWICE #MINA #Snowman",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cAvMGWLZCHA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cAvMGWLZCHA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cAvMGWLZCHA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/cAvMGWLZCHA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/cAvMGWLZCHA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "cAvMGWLZCHA"
+        },
+        "videoOwnerChannelTitle": "TWICE",
+        "videoOwnerChannelId": "UCzgxx_DM2Dcb9Y1spb9mUJA"
+    },
+    "contentDetails": {
+        "videoId": "cAvMGWLZCHA",
+        "videoPublishedAt": "2021-12-19T14:59:50Z",
+        "duration": "PT2M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "12277582",
+        "likeCount": "1059883",
+        "favoriteCount": "0",
+        "commentCount": "66795"
+    }
+}

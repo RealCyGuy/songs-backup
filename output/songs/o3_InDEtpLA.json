@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "o3_InDEtpLA",
         "videoPublishedAt": "2013-04-06T02:30:06Z",
-        "duration": "PT3M28S",
+        "duration": "PT3M29S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1810380",
-        "likeCount": "60194",
+        "viewCount": "1311192",
+        "likeCount": "32218",
         "favoriteCount": "0",
-        "commentCount": "5056"
+        "commentCount": "3166"
     }
 }

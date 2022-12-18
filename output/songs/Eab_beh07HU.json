@@ -40,11 +40,17 @@
     "contentDetails": {
         "videoId": "Eab_beh07HU",
         "videoPublishedAt": "2012-07-27T01:01:19Z",
-        "duration": "PT3M47S",
+        "duration": "PT3M38S",
         "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
+        "definition": "sd",
+        "caption": "false",
         "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "RU"
+            ]
+        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -52,9 +58,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4809588",
-        "likeCount": "32589",
+        "viewCount": "33891164",
+        "likeCount": "223534",
         "favoriteCount": "0",
-        "commentCount": "403"
+        "commentCount": "10130"
     }
 }

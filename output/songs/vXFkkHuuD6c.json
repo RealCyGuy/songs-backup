@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42MTU3RjM1MkY0QTYwOUFD",
+    "snippet": {
+        "publishedAt": "2022-12-18T04:55:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "IVE - After LIKE (Areia Remix)",
+        "description": "Did you enjoy this Kpop Remix? \nSubscribe to my channel and support me on Patreon! http://www.patreon.com/areiacreations\nOr just buy me a coffee! https://www.buymeacoffee.com/areiacreations\n\nVocal Recording, Lyrics, Music Video Copyright\u00a92022 Starship Entertainment IVE \uc544\uc774\ube0c 'After LIKE' MV\n\nRemix Arrangement Copyright\u00a92022 Areia Creations Global Entertainment LTD (Areia Instrumental 540)\n\nRemix produced by Jun Areia\n\nI do artist development & production.\nFind me on Instagram, Twitter and Facebook @areiacreations\n\n#IVE #kpopremix #areiaremix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vXFkkHuuD6c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vXFkkHuuD6c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vXFkkHuuD6c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/vXFkkHuuD6c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/vXFkkHuuD6c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vXFkkHuuD6c"
+        },
+        "videoOwnerChannelTitle": "Areia Creations",
+        "videoOwnerChannelId": "UCR9hrtsbRFUD1EMsY1J5OdQ"
+    },
+    "contentDetails": {
+        "videoId": "vXFkkHuuD6c",
+        "videoPublishedAt": "2022-09-05T10:24:09Z",
+        "duration": "PT3M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "48913",
+        "likeCount": "1500",
+        "favoriteCount": "0",
+        "commentCount": "23"
+    }
+}

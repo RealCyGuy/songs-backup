@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RkJGOTAwRDhCOEQ1RjIy",
+    "snippet": {
+        "publishedAt": "2021-07-02T22:23:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "iPhone Ringtone Trap Remix",
+        "description": "iPhone Ringtone (Jaydon Lewis Trap Remix)\nTrap City Merch: http://trapcity.tv/shop\nSubscribe here: http://trapcity.tv/subscribe\nListen on SoundCloud: https://soundcloud.com/itsjaydonlewis/call\n\n\u27a5 Become a fan of Trap City:\nhttp://trapcity.tv/soundcloud\nhttp://trapcity.tv/facebook\nhttp://trapcity.tv/twitter\nhttp://trapcity.tv/instagram\nhttp://www.trapcity.net\n\n\u27a5 Follow Jaydon Lewis:\nhttp://www.soundcloud.com/itsjaydonlewis\nhttp://www.facebook.com/itsjaydonlewis\nhttp://www.twitter.com/itsjaydonlewis\n\n#trap #iphoneringtone #trapcity",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HRtC2sDiKqM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HRtC2sDiKqM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HRtC2sDiKqM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/HRtC2sDiKqM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/HRtC2sDiKqM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HRtC2sDiKqM"
+        },
+        "videoOwnerChannelTitle": "Trap City",
+        "videoOwnerChannelId": "UC65afEgL62PGFWXY7n6CUbA"
+    },
+    "contentDetails": {
+        "videoId": "HRtC2sDiKqM",
+        "videoPublishedAt": "2017-04-17T21:33:16Z",
+        "duration": "PT2M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "77982354",
+        "likeCount": "1207555",
+        "favoriteCount": "0",
+        "commentCount": "33226"
+    }
+}

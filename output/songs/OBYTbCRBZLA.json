@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41RDVCNjE5QUUyQUNFMTFF",
+    "snippet": {
+        "publishedAt": "2022-12-18T05:05:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "(Full Ver.) Hype Boy - Newjeans (Cover by Fyeqoodgurl)",
+        "description": "(Full Ver.) Hype Boy - Newjeans (Cover by Fyeqoodgurl)\n\n\ud83d\udccd The pronunciation in this song is very hard\ud83d\ude2d I\u2019mnot the native, I tried my best! Hope you like it\n\n\ud83d\udc99\ud83d\udc99\ud83d\udc99 and my new single will be released on January ! Please looking forward to it \ud83d\udc99\ud83d\udc99\ud83d\udc99\n\nProduced by Boongz Kavin\nBass : Parattakorn Sriwat\nINSTRUMENTAL Mixed: Kittipat Srisombat\nVocal edited and mixed : FYEQOODGURL \nMastering : Kittipat Srisombat\nVideo editor : FYEQOODGURL\n\nMy Single \u25ba http://fyeqoodgurl.lnk.to/Afraid \n                  \u25ba https://fyeqoodgurl.lnk.to/GoneGurl \n\n#fyeqoodgurl \nInstagram : https://www.instagram.com/fyeqoodgurl\nSoundcloud : https://soundcloud.com/fyeqoodgurl\nTwitter : https://twitter.com/fyeqoodgurl\nFacebook : https://www.facebook.com/fyeqoodgurl\nTikTok: https://www.tiktok.com/@fyeqoodgurl\n\n\n\n#fyeqoodgurl #Newjeans #HypeBoy",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OBYTbCRBZLA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OBYTbCRBZLA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OBYTbCRBZLA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/OBYTbCRBZLA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/OBYTbCRBZLA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "OBYTbCRBZLA"
+        },
+        "videoOwnerChannelTitle": "Fyeqoodgurl",
+        "videoOwnerChannelId": "UCqQ_OOh6zWczZWwkM48z5XA"
+    },
+    "contentDetails": {
+        "videoId": "OBYTbCRBZLA",
+        "videoPublishedAt": "2022-12-16T09:00:10Z",
+        "duration": "PT2M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "169299",
+        "likeCount": "18399",
+        "favoriteCount": "0",
+        "commentCount": "631"
+    }
+}
