@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "lz_o6dmJuH8"
         },
-        "videoOwnerChannelTitle": "Clay Kramer",
+        "videoOwnerChannelTitle": "Clay K Slider",
         "videoOwnerChannelId": "UC1JB0XkovQwI4yeZFdJJ1bg"
     },
     "contentDetails": {
@@ -62,8 +62,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "9209149",
-        "likeCount": "167464",
+        "viewCount": "9210149",
+        "likeCount": "167476",
         "favoriteCount": "0",
         "commentCount": "28988"
     }
