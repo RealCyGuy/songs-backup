@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "M39AIqXmzOA"
         },
-        "videoOwnerChannelTitle": "SOFFT TW",
+        "videoOwnerChannelTitle": "PocatsStudio",
         "videoOwnerChannelId": "UCOAX3fXsa30WiG6HHR5Fg_A"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "141373",
+        "viewCount": "141468",
         "likeCount": "3765",
         "favoriteCount": "0",
-        "commentCount": "162"
+        "commentCount": "171"
     }
 }
