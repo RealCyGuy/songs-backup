@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EOEJDNDgxQ0E2Nzk2NkU2",
+    "snippet": {
+        "publishedAt": "2022-12-24T00:13:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30ed\u30af\u30c7\u30ca\u30b7\u300c\u77e5\u3089\u306a\u3044\u307e\u307e\u3067\u300d/ Rokudenashi - As you don't know\u3010Official Music Video\u3011",
+        "description": "2022.06.17 Release\nStreaming\uff06Download \u25b6 https://Rokudenashi.lnk.to/Asyoudontknow\n\n\nInstrumental\uff1c\u30d4\u30a2\u30d7\u30ed\uff1e\uff1ahttps://piapro.jp/t/BTgz\n\n\nTwitter\uff1ahttps://twitter.com/rokudenashi_inf\nInstagram\uff1ahttps://www.instagram.com/rokudenashi_info/\n\nVocal\uff1a\u306b\u3093\u3058\u3093  @ninzin_official \nWords, Music & Arrangement\uff1aMIMI @MIMI..... \nIllustration\uff1afaPka\uff08 https://twitter.com/fapkapukapuka?s=20 \uff09\nRec & Mix Engineer\uff1aChikara Sato\nMastering Engineer\uff1aTsubasa Yamazaki\n\n#\u30ed\u30af\u30c7\u30ca\u30b7 #\u77e5\u3089\u306a\u3044\u307e\u307e\u3067 #\u306b\u3093\u3058\u3093",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZAJ3nfQTw4A/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZAJ3nfQTw4A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZAJ3nfQTw4A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ZAJ3nfQTw4A/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ZAJ3nfQTw4A/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZAJ3nfQTw4A"
+        },
+        "videoOwnerChannelTitle": "\u30ed\u30af\u30c7\u30ca\u30b7",
+        "videoOwnerChannelId": "UCRlRgAguUGfWD4EDfBUls4w"
+    },
+    "contentDetails": {
+        "videoId": "ZAJ3nfQTw4A",
+        "videoPublishedAt": "2022-06-24T11:00:15Z",
+        "duration": "PT2M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1721159",
+        "likeCount": "51576",
+        "favoriteCount": "0",
+        "commentCount": "1135"
+    }
+}

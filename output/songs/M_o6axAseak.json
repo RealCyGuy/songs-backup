@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "M_o6axAseak",
         "videoPublishedAt": "2013-10-22T15:40:00Z",
-        "duration": "PT4M28S",
+        "duration": "PT1M49S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "30025835",
-        "likeCount": "371280",
+        "viewCount": "8148226",
+        "likeCount": "192672",
         "favoriteCount": "0",
-        "commentCount": "12387"
+        "commentCount": "10319"
     }
 }
