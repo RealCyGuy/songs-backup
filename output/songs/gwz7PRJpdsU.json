@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xQTlCRURGNEY0QUEyODdD",
+    "snippet": {
+        "publishedAt": "2022-01-22T04:11:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "JVKE - This is What Falling in Love Feels Like [Official Lyric Video]",
+        "description": "STREAM: https://jvke.ffm.to/fallinginlove\n\nSTREAM \"this is what heartbreak feels like\" out now: https://jvke.ffm.to/heartbreaksong\n\nUSE THIS SOUND ON TIKTOK & INSTAGRAM: https://jvke.ffm.to/lovesongaudio\n\nSUBSCRIBE: https://www.youtube.com/channel/UCSOfUqPoqpp5aWDDnAyv94g?sub_confirmation=1\n-\n\n*NEW* MERCH: http://itsjvke.com/#shop\u200b\n\n-\n\nJOIN MY DISCORD:\nhttps://discord.gg/GGBCptu7\n\nCATCH ME LIVE ON TWITCH: \nhttps://www.twitch.tv/jvketwitch\n\nFOLLOW ME ON INSTAGRAM @ITSJVKE: https://www.instagram.com/itsjvke\u200b\n\nFOLLOW ME ON TIKTOK @JVKE: https://www.tiktok.com/@jvke\u200b\n\nFOLLOW ME ON TWITTER @JVKESONGS: https://twitter.com/jvkesongs\u200b\n\nSNAP ME: https://www.snapchat.com/add/imjakela\u200b...\n\nCHORUS:\nfeel like sun\non my skin\nso this is love\ni know it is\ni know it sounds super cliche\nbut you make me feel some typa way\nthis is falling, falling in love\nVERSE:\ni got a lot on my mind\ngot some more on my plate\nmy baby got me lookin' forward to the end of the day\nwhatchu say you and me\njust forget about the past\nthrow it in the trash\nwhatchu say you and me\nlive the life we never had\nlike we're never going back\nCHORUS:\nfeel like sun\non my skin\nso this is love\ni know it is\ni know it sounds super cliche\nbut you make me feel some typa way\nthis is falling, falling in love\ni know it sounds super cliche\nbut you make me feel some typa way\nthis is falling, falling in love\nBRIDGE:\nYeah, this is falling, falling in love\nYeah, this is falling, falling in love\nYeah, this is falling, falling in love\n\n-\n\nEmail for Business Inquiries: jakexzac@gmail.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gwz7PRJpdsU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gwz7PRJpdsU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gwz7PRJpdsU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gwz7PRJpdsU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gwz7PRJpdsU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gwz7PRJpdsU"
+        },
+        "videoOwnerChannelTitle": "JVKE",
+        "videoOwnerChannelId": "UCSOfUqPoqpp5aWDDnAyv94g"
+    },
+    "contentDetails": {
+        "videoId": "gwz7PRJpdsU",
+        "videoPublishedAt": "2021-09-11T04:33:33Z",
+        "duration": "PT2M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1696855",
+        "likeCount": "64753",
+        "favoriteCount": "0",
+        "commentCount": "1263"
+    }
+}
