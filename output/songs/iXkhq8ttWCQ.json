@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44REQ3NjhCNDk4RkM1QzI0",
+    "snippet": {
+        "publishedAt": "2022-12-27T06:07:21Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Sia - Snowman - Violin Cover",
+        "description": "#Sia#Snowman#Violin#ViolinCover#POP\n\n\nBusiness Contact: musicplay9399@naver.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/iXkhq8ttWCQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/iXkhq8ttWCQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/iXkhq8ttWCQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/iXkhq8ttWCQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/iXkhq8ttWCQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "iXkhq8ttWCQ"
+        },
+        "videoOwnerChannelTitle": "\ucea3\uc62c\ub9b0CatOlin",
+        "videoOwnerChannelId": "UCoAeBLyRkAVnNHR_V4XWc_Q"
+    },
+    "contentDetails": {
+        "videoId": "iXkhq8ttWCQ",
+        "videoPublishedAt": "2021-01-27T07:44:49Z",
+        "duration": "PT2M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "203352",
+        "likeCount": "11372",
+        "favoriteCount": "0",
+        "commentCount": "140"
+    }
+}
