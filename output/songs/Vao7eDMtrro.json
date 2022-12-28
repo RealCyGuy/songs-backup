@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Vao7eDMtrro"
         },
-        "videoOwnerChannelTitle": "E ve",
+        "videoOwnerChannelTitle": "Eve",
         "videoOwnerChannelId": "UCUXfRsEIJ9xO1DT7TbEWksw"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8407951",
-        "likeCount": "231121",
+        "viewCount": "8412483",
+        "likeCount": "231205",
         "favoriteCount": "0",
-        "commentCount": "4658"
+        "commentCount": "4659"
     }
 }
