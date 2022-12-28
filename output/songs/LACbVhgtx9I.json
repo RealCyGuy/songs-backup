@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "LACbVhgtx9I",
         "videoPublishedAt": "2018-05-11T17:09:05Z",
-        "duration": "PT3M22S",
+        "duration": "PT3M37S",
         "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "245029611",
-        "likeCount": "4090643",
+        "viewCount": "203424726",
         "favoriteCount": "0",
-        "commentCount": "355460"
+        "commentCount": "0",
+        "likeCount": "0"
     }
 }

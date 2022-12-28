@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MUJBQkJGMzI1RTQ2Q0Q0",
+    "snippet": {
+        "publishedAt": "2022-12-28T05:39:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "TZUYU MELODY PROJECT \u201cME! (Taylor Swift)\u201d Cover by TZUYU (Feat. Bang Chan of Stray Kids)",
+        "description": "TZUYU MELODY PROJECT \u201cME! (Taylor Swift)\u201d Cover by TZUYU\n(Feat. Bang Chan of Stray Kids)\n\nTWICE The 10th Mini Album \u201cTaste of Love\u201d \nCheck Out in below link!\nhttps://twice.lnk.to/tasteoflove\n \nTWICE Official Shop: https://TWICE.lnk.to/Shop \nTWICE Official YouTube: http://www.youtube.com/c/TWICE \nTWICE Official Facebook: http://www.facebook.com/JYPETWICE \nTWICE Official Twitter: http://www.twitter.com/JYPETWICE \nTWICE Official TikTok https://www.tiktok.com/@twice_tiktok_official\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM \nTWICE Official Homepage: http://TWICE.jype.com \nTWICE Official Fan's: http://fans.jype.com/TWICE \n\n\u24d2 2021 JYP Entertainment. All Rights Reserved\n\n#TWICE #TZUYU #MelodyProject",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IO1Nl9ErTsI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IO1Nl9ErTsI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IO1Nl9ErTsI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/IO1Nl9ErTsI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/IO1Nl9ErTsI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "IO1Nl9ErTsI"
+        },
+        "videoOwnerChannelTitle": "TWICE",
+        "videoOwnerChannelId": "UCzgxx_DM2Dcb9Y1spb9mUJA"
+    },
+    "contentDetails": {
+        "videoId": "IO1Nl9ErTsI",
+        "videoPublishedAt": "2021-06-27T15:00:14Z",
+        "duration": "PT3M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "27674010",
+        "likeCount": "1727532",
+        "favoriteCount": "0",
+        "commentCount": "205797"
+    }
+}

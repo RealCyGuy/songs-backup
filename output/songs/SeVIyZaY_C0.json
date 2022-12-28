@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "SeVIyZaY_C0",
         "videoPublishedAt": "2017-09-05T10:36:47Z",
-        "duration": "PT4M14S",
+        "duration": "PT4M3S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "204417",
-        "likeCount": "3801",
+        "viewCount": "10083646",
+        "likeCount": "125006",
         "favoriteCount": "0",
-        "commentCount": "329"
+        "commentCount": "3574"
     }
 }

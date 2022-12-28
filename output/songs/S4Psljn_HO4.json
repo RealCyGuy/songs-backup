@@ -45,11 +45,11 @@
     "contentDetails": {
         "videoId": "S4Psljn_HO4",
         "videoPublishedAt": "2021-05-24T22:00:12Z",
-        "duration": "PT2M51S",
+        "duration": "PT2M3S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "507682",
-        "likeCount": "35271",
+        "viewCount": "5761903",
+        "likeCount": "196392",
         "favoriteCount": "0",
-        "commentCount": "872"
+        "commentCount": "6380"
     }
 }

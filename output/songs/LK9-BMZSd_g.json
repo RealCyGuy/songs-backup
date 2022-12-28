@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "LK9-BMZSd_g",
         "videoPublishedAt": "2021-06-10T20:00:42Z",
-        "duration": "PT2M16S",
+        "duration": "PT3M18S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "172522",
-        "likeCount": "13444",
+        "viewCount": "2515",
+        "likeCount": "114",
         "favoriteCount": "0",
-        "commentCount": "534"
+        "commentCount": "24"
     }
 }
