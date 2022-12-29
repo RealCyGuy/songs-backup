@@ -4,8 +4,8 @@
     "snippet": {
         "publishedAt": "2022-06-04T00:21:03Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Private video",
-        "description": "This video is private.",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
         "thumbnails": {},
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
@@ -30,11 +30,11 @@
         "projection": "rectangular"
     },
     "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "privacyStatusUnspecified"
     },
     "statistics": {
-        "viewCount": "347366",
-        "likeCount": "7392",
+        "viewCount": "347491",
+        "likeCount": "7395",
         "favoriteCount": "0",
         "commentCount": "989"
     }
