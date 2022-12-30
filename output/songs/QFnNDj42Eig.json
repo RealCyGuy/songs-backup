@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "QFnNDj42Eig"
         },
-        "videoOwnerChannelTitle": "Tesla-(Twitter)",
+        "videoOwnerChannelTitle": "ForeverBound",
         "videoOwnerChannelId": "UCv-qLFQVARpzYxzAS3atU3A"
     },
     "contentDetails": {
@@ -54,12 +54,12 @@
         "projection": "rectangular"
     },
     "status": {
-        "privacyStatus": "unlisted"
+        "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "683094",
-        "likeCount": "11694",
+        "viewCount": "683176",
+        "likeCount": "11698",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "1601"
     }
 }

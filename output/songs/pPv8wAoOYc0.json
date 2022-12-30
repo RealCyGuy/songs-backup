@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMUM0MDlGOTIwMUIxOURB",
+    "snippet": {
+        "publishedAt": "2022-01-05T04:37:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "lil acoustic crush - Tessa Violet",
+        "description": "check out my new song #Games with lovelytheband!\nhttps://tagmusic.ffm.to/games\n\nConnect @tessaviolet on all platforms\nInstagram: https://www.instagram.com/tessaviolet\nTwitter: http://twitter.com/tessaviolet\nFacebook: https://www.facebook.com/tessaviolet\nSpotify: https://spoti.fi/2LU2dcM\n\n\"Crush\" Lyrics:\nVERSE 1\nI can't focus on what needs to get done, I'm on notice hoping that you don't run\nyou think I'm tepid but I'm misdiagnosed, cause I'm a stalker I seen all of your posts\nand I'm just trying to play it cool now but that's not what I want to do now\nand I'm not trying to be with you now (you now)\n\nyou make it difficult to not overthink, and when I'm with you I turn all shades of pink\nI want to touch you but don't want to be weird, it's such a rush I'm thinking wish you were here\nand I'm just trying to play it cool now but that's not what I want to do now\nand I'm not trying to be with you now (you now)\n\nCHORUS\n\nbut I could be your crush like throw you for a rush like\nhoping you'd text me so i could tell you I been thinking bout your touch like\ntouch touch touch touch touch I could be your crush crush crush crush crush\nI got a fascination with your presentation making me\nfeel like you're on my island you're my permanent vacation\ntouch touch touch touch touch I could be your crush crush crush crush crush\n\nVERSE 2\n\nI fill my calendar with stuff I can do, maybe if I'm busy it could keep me from you\nand I'm pretending you ain't been on my mind, but I took an interest in the things that you like\nand I'm just trying to play it cool now but that's not what I want to do now\nand I'm not trying to be with you now (you now)\n\n\nBRIDGE\n\nand yeah it's true that I'm a little bit intense right \nbut can you blame me when you keep me on the fence like\nand I been waiting hoping that you'd wanna text like (text like)\nit's what I was born to do\n\nlyrics & music by Tessa Violet and YACHT MONEY\nproduced by Seth Earnest",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pPv8wAoOYc0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pPv8wAoOYc0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pPv8wAoOYc0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/pPv8wAoOYc0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/pPv8wAoOYc0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "pPv8wAoOYc0"
+        },
+        "videoOwnerChannelTitle": "Tessa Violet",
+        "videoOwnerChannelId": "UCOw4v1j3QnzH7X4krQAS7fg"
+    },
+    "contentDetails": {
+        "videoId": "pPv8wAoOYc0",
+        "videoPublishedAt": "2018-07-26T20:33:54Z",
+        "duration": "PT3M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2763572",
+        "likeCount": "189471",
+        "favoriteCount": "0",
+        "commentCount": "5839"
+    }
+}

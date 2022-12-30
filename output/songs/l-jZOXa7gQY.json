@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMEJEMDE5MDlCRkJFRUFC",
+    "snippet": {
+        "publishedAt": "2022-12-29T22:13:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "LOVE DIVE",
+        "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #\uc544\uc774\ube0c #\u30a2\u30a4\u30f4",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/l-jZOXa7gQY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/l-jZOXa7gQY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/l-jZOXa7gQY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/l-jZOXa7gQY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/l-jZOXa7gQY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "l-jZOXa7gQY"
+        },
+        "videoOwnerChannelTitle": "IVE",
+        "videoOwnerChannelId": "UC-Fnix71vRP64WXeo0ikd0Q"
+    },
+    "contentDetails": {
+        "videoId": "l-jZOXa7gQY",
+        "videoPublishedAt": "2022-04-05T09:00:07Z",
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "17025921",
+        "likeCount": "186473",
+        "favoriteCount": "0",
+        "commentCount": "2398"
+    }
+}
