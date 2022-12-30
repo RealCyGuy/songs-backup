@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "PIL8I32Ko2A",
         "videoPublishedAt": "2018-10-03T14:30:00Z",
-        "duration": "PT1M58S",
+        "duration": "PT1M54S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2478336",
-        "likeCount": "83376",
+        "viewCount": "1029083",
+        "likeCount": "31884",
         "favoriteCount": "0",
-        "commentCount": "1560"
+        "commentCount": "1179"
     }
 }

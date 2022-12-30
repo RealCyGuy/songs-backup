@@ -1,8 +1,8 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CMEVBRUJERkUyNTBENTkz",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wQ0ZGQjRENTMyMzJBNzUz",
     "snippet": {
-        "publishedAt": "2021-04-26T03:30:49Z",
+        "publishedAt": "2021-07-04T01:00:38Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Private video",
         "description": "This video is private.",
@@ -11,16 +11,16 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "QsZlY0Vz4-o"
+            "videoId": "bM7SZ5SBzyY"
         }
     },
     "contentDetails": {
-        "videoId": "QsZlY0Vz4-o",
-        "duration": "PT2M6S",
+        "videoId": "bM7SZ5SBzyY",
+        "duration": "PT4M4S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -28,9 +28,9 @@
         "privacyStatus": "private"
     },
     "statistics": {
-        "viewCount": "745464",
-        "likeCount": "24345",
+        "viewCount": "31231690",
+        "likeCount": "556569",
         "favoriteCount": "0",
-        "commentCount": "1217"
+        "commentCount": "25770"
     }
 }

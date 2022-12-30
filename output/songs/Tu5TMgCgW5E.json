@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zOERFNkQ5RkM3Mjk2MkVB",
+    "snippet": {
+        "publishedAt": "2022-12-30T06:27:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "golden hour - JVKE (REYNE COVER)",
+        "description": "JVKE cover of \u201cgolden hour\u201d by REYNE\nSubscribe: https://bit.ly/subREYNE | Stream: https://solo.to/reynemusic \nWatch the newest videos: https://www.youtube.com/playlist?list=PLpavseYaxk_lo_KrMIMIOWRTgA4H5nJ1x\n\nFollow REYNE!\nInstagram: https://instagram.com/reynelabarrete/ \nTikTok: tiktok.com/@reynelabarrete \nFacebook: https://facebook.com/REYNEOFFICIAL/ \n\nWatch more videos!\nOriginals: https://youtube.com/playlist?list=PLpavseYaxk_lFiF1D9byRsmhub_vz8Awr&playnext=1&index=2 \nCovers: https://youtube.com/playlist?list=PLpavseYaxk_nJBPeyYWeRgKhaufh34i-c&playnext=1&index=2\nWorship Covers: https://youtube.com/playlist?list=PLpavseYaxk_nVaGnHrjh10n4qudoyk1Ft&playnext=1&index=2\nMost Popular: https://youtube.com/playlist?list=PLpavseYaxk_m-hbXtlaMpzjydNQAquS_M&playnext=1&index=2\n\nListen to more REYNE!\nSpotify: https://spoti.fi/3OUBhuH \nApple Music: https://apple.co/3KB8EiF \n\nAbout REYNE:\nWelcome to the official REYNE YouTube channel! On this channel, you\u2019ll find a variety of music content including cover songs, original music, R&B covers, worship songs and more! Make sure to subscribe and enable ALL notifications so you never miss a video. For instant updates, follow all of REYNE\u2019s social media handles above.\n\n#jvke  #RnB #cover \n\nLYRICS:\nIt was just two lovers\nSittin' in the car, listening to Blonde\nFallin' for each other\nPink and orange skies, feelin' super childish\nNo Donald Glover\nMissed call from my mother\nLike, \"Where you at tonight?\" Got no alibi\n\nI was all alone with the love of my life\nShe's got glitter for skin\nMy radiant beam in the night\nI don't need no light to see you\n\nShine\nIt's your golden hour (oh)\nYou slow down time\nIn your golden hour (oh)\n\nWe were just two lovers\nFeet up on the dash, drivin' nowhere fast\nBurnin' through the summer\nRadio on blast, make the moment last\nShe got solar power\nMinutes feel like hours\nShe knew she was the baddest, can you even imagine\nFallin' like I did?\n\nFor the love of my life\nShe's got glow on her face\nA glorious look in her eyes\nMy angel of light\nI was all alone with the love of my life\nShe's got glitter for skin\nMy radiant beam in the night\nI don't need no light to see you\n\nShine\nIt's your golden hour (oh)\nYou slow down time\nIn your golden hour\nto see you\nShine\nIt's your golden hour (oh)\nYou slow down time\nIn your golden hour\nTo see you\n\nShine\nIt's your golden hour\nYou slow down time\nIn your golden hour (oh)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Tu5TMgCgW5E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Tu5TMgCgW5E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Tu5TMgCgW5E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Tu5TMgCgW5E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Tu5TMgCgW5E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Tu5TMgCgW5E"
+        },
+        "videoOwnerChannelTitle": "REYNE",
+        "videoOwnerChannelId": "UCsrFstRmJ4Olm_yglO3OWSQ"
+    },
+    "contentDetails": {
+        "videoId": "Tu5TMgCgW5E",
+        "videoPublishedAt": "2022-12-10T01:03:17Z",
+        "duration": "PT3M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "54773",
+        "likeCount": "2180",
+        "favoriteCount": "0",
+        "commentCount": "174"
+    }
+}

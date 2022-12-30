@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45QjdBOUYxN0JBMTk4MzIx",
+    "snippet": {
+        "publishedAt": "2022-12-30T06:40:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "DAHYUN MELODY PROJECT \"Monsters (Katie Sky)\" Cover by DAHYUN",
+        "description": "DAHYUN MELODY PROJECT \"Monsters (Katie Sky)\" Cover by DAHYUN\n\nNAYEON The 1st Mini Album \"IM NAYEON\"\nRelease on 2022.06.24 FRI 1PM KST/0AM EST\n\n\ud83d\udccc\"IM NAYEON\" Pre-save & Pre-order\nhttps://NAYEON.lnk.to/IMNAYEON\n \nTWICE Official Shop: https://TWICE.lnk.to/Shop \nTWICE Official YouTube: http://www.youtube.com/c/TWICE \nTWICE Official Facebook: http://www.facebook.com/JYPETWICE \nTWICE Official Twitter: http://www.twitter.com/JYPETWICE \nTWICE Official TikTok https://www.tiktok.com/@twice_tiktok_...\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM \nTWICE Official Homepage: http://TWICE.jype.com \nTWICE Official Fan's: http://fans.jype.com/TWICE \n\n\u24d2 2022 JYP Entertainment. All Rights Reserved\n\n#TWICE #DAHYUN #MelodyProject",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SY2kZjVEd54/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SY2kZjVEd54/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SY2kZjVEd54/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/SY2kZjVEd54/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SY2kZjVEd54"
+        },
+        "videoOwnerChannelTitle": "TWICE",
+        "videoOwnerChannelId": "UCzgxx_DM2Dcb9Y1spb9mUJA"
+    },
+    "contentDetails": {
+        "videoId": "SY2kZjVEd54",
+        "videoPublishedAt": "2022-05-27T15:00:28Z",
+        "duration": "PT2M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2863164",
+        "likeCount": "288807",
+        "favoriteCount": "0",
+        "commentCount": "21522"
+    }
+}
