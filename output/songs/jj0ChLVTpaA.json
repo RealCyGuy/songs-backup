@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FQUY2Qzk4RUFDN0ZFRkZF",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:30:41Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Elevator Music",
+        "description": "Fahrstuhl Musik",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jj0ChLVTpaA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jj0ChLVTpaA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jj0ChLVTpaA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/jj0ChLVTpaA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jj0ChLVTpaA"
+        },
+        "videoOwnerChannelTitle": "aeiouFU",
+        "videoOwnerChannelId": "UCmnmoa4LuivDlQcYoQWaebg"
+    },
+    "contentDetails": {
+        "videoId": "jj0ChLVTpaA",
+        "videoPublishedAt": "2011-06-12T20:22:34Z",
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2383072",
+        "likeCount": "29255",
+        "favoriteCount": "0",
+        "commentCount": "1920"
+    }
+}

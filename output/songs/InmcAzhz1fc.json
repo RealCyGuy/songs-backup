@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BOEM4QzFGMDVEMEM3RDAy",
+    "snippet": {
+        "publishedAt": "2021-08-20T22:31:44Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pigstep (Minecraft) Jazz Arrangement (feat. Lena Raine)",
+        "description": "How much gold do I have to give to a Piglin for them to give me another saxophone?\n\nStream this track \u2022 \u2022 \u2022 https://song.link/us/i/1565093711\nSheet Music \u2022 \u2022 \u2022 https://bit.ly/2ZYKDAM\nSupport my music on Patreon \u2022 \u2022 \u2022 http://bit.ly/supportinsane\ninsaneintherainmusic Signature SYOS Tenor Saxophone Mouthpiece (Use discount code \"INSANESYOS\" for $10 off!) \u2022 \u2022 \u2022https://www.syos.co/en/artists/carlos-eiene\n\n\nSo happy to finally be sharing this video with you! Ever since Minecraft's Nether Update in 2020, Pigstep has been one of my favorite tracks to listen to in all of VGM. It's simple, groovy, and creates such a cool atmosphere. I always thought it sounded a bit like a Snarky Puppy tune, and I so badly wanted to expand it for a larger ensemble, so I finally got around to doing that! \n\nI'm also very pleased to have @LenaRaine, the song's composer (and of other games, like Celeste, Guild Wars 2, Chicory) join me in this video! She's a part of the VGM remix scene herself, and I've recorded saxophone for one of her projects previously, so I thought it would be fun to bring her on. This is a first for the channel, having the composer of a game tune come on and play my arrangement of said tune... feels like a weird full circle moment, but I'm here for it! It was cool being able to write for one of the original instruments used in the song (the lo-fi piano that plays the melody near the beginning).\n\nThis arrangement has a LOT of layers in it! For one, I've added trombone to my arsenal of instruments, and am using it as part of a trumpet, tenor sax, and trombone horn section in this mix. The slide is still very new to me, but I'm certain it'll get easier to use as time passes and I use it in different situations! I experimented with some muted piano techniques in this arrangement by placing my palm on the strings of the piano to mute them, so you get a shorter, more pluck-like sound out of the instrument - pretty cool technique (although I think it makes the strings go out of tune a bit quicker haha, I already have to get my piano tuned again...) I'm also really happy with the percussion in this video, in particular, how I used them at the beginning to replicate some of that Nether ambience that's present in the original track. Some of the SFX in the original track to me sounded like jangling bones, and I was really pleased to get a similar sound by using my seed pod shaker! \n\nI could talk about this video even more, haha, but I think I'll leave it at what I've said so far. Hope you all enjoy this arrangement! \n\n\u266b \"Pigstep\" composed by Lena Raine\nMix by  @JuliaHenderson   \nVideo Edit by Pete Gillette https://twitter.com/djSteamyPete\n\nSOCIAL MEDIA:\n\ud83d\udc26 Twitter \u2022 \u2022 \u2022 https://twitter.com/insanerainmusic\n\ud83d\udcd8 Facebook \u2022 \u2022 \u2022 https://www.facebook.com/Insaneintherainmusic\n\ud83d\udcf7 Instagram \u2022 \u2022 \u2022 https://instagram.com/insaneintherainmusic\n\u2764\ufe0f Patreon \u2022 \u2022 \u2022 http://bit.ly/supportinsane\n\u2699\ufe0f Gear \u2022 \u2022 \u2022 https://www.amazon.com/shop/insaneintherainmusic\n\ud83d\udcac Discord Server \u2022 \u2022 \u2022 https://discord.gg/Ju97889",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/InmcAzhz1fc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/InmcAzhz1fc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/InmcAzhz1fc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/InmcAzhz1fc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/InmcAzhz1fc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "InmcAzhz1fc"
+        },
+        "videoOwnerChannelTitle": "insaneintherainmusic",
+        "videoOwnerChannelId": "UC_OtnV-9QZmBj6oWBelMoZw"
+    },
+    "contentDetails": {
+        "videoId": "InmcAzhz1fc",
+        "videoPublishedAt": "2021-04-24T16:30:02Z",
+        "duration": "PT6M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3348077",
+        "likeCount": "119698",
+        "favoriteCount": "0",
+        "commentCount": "3493"
+    }
+}

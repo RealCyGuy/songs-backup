@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wREIzNTlENDcxMzhDQkMy",
+    "snippet": {
+        "publishedAt": "2022-12-31T04:10:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ditto - NewJeans (\ub274\uc9c4\uc2a4) / Japanese Cover",
+        "description": "I LOOOVE THIS SONG. Say it back! \ud83d\udc97\n\nORIGINAL\n\nTitle: \"Ditto\"\nArtist: \ub274\uc9c4\uc2a4 @NewJeans_official  \nLink: https://youtu.be/pSUydWEqKwE\n\nCOVER\n\nVocals, Movie \u2023 Lime @limedayo \nInstrumental \u2023 Sowble https://soundcloud.com/sowble\nMixing \u2023 Timun-kun @TimunKun \nTuning \u2023 Kohasu @Kkohasu \nTranslyrics \u2023 R Rif https://www.facebook.com/hyrorif (Translated exclusively for this cover only)\nIllustration\n\u2023 BBCO https://www.instagram.com/_b.bco/\n\u2023 Lumi\n\nLINKS\n\nTwitter \u2023 https://twitter.com/limedayo\nSpotify \u2023 https://spoti.fi/39WcwOI\nInstagram \u2023 https://instagram.com/limedayo\nKo-fi \u2023 https://ko-fi.com/limey (Donations are not required, but appreciated!)\n\n_____\n\nUsage of audio is allowed as long as proper credits & link are included.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/s2uWzAwtJh4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/s2uWzAwtJh4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/s2uWzAwtJh4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/s2uWzAwtJh4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/s2uWzAwtJh4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "s2uWzAwtJh4"
+        },
+        "videoOwnerChannelTitle": "Lime",
+        "videoOwnerChannelId": "UCMdOcvasHUF_tImKhaXurEg"
+    },
+    "contentDetails": {
+        "videoId": "s2uWzAwtJh4",
+        "videoPublishedAt": "2022-12-31T03:00:11Z",
+        "duration": "PT3M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2370",
+        "likeCount": "555",
+        "favoriteCount": "0",
+        "commentCount": "98"
+    }
+}
