@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "O8DNLabsh2E",
         "videoPublishedAt": "2022-04-07T17:00:11Z",
-        "duration": "PT3M51S",
+        "duration": "PT1M30S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,8 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "436770",
-        "likeCount": "6227",
-        "favoriteCount": "0"
+        "viewCount": "643",
+        "likeCount": "26",
+        "favoriteCount": "0",
+        "commentCount": "5"
     }
 }

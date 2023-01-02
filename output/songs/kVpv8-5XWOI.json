@@ -45,9 +45,9 @@
     "contentDetails": {
         "videoId": "kVpv8-5XWOI",
         "videoPublishedAt": "2009-11-14T14:32:17Z",
-        "duration": "PT3M38S",
+        "duration": "PT4M24S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "true",
         "licensedContent": true,
         "contentRating": {},
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "320016126",
-        "likeCount": "2259918",
+        "viewCount": "189998290",
         "favoriteCount": "0",
-        "commentCount": "95014"
+        "commentCount": "308503",
+        "likeCount": "0"
     }
 }

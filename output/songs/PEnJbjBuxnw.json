@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "PEnJbjBuxnw",
         "videoPublishedAt": "2021-03-26T14:00:15Z",
-        "duration": "PT3M8S",
+        "duration": "PT3M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "114482735",
-        "likeCount": "2665651",
+        "viewCount": "280525",
+        "likeCount": "13465",
         "favoriteCount": "0",
-        "commentCount": "68394"
+        "commentCount": "239"
     }
 }

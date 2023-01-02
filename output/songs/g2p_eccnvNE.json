@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "g2p_eccnvNE",
         "videoPublishedAt": "2022-04-25T12:12:28Z",
-        "duration": "PT1M26S",
+        "duration": "PT4M58S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "356035",
-        "likeCount": "18704",
+        "viewCount": "755761",
+        "likeCount": "32686",
         "favoriteCount": "0",
-        "commentCount": "287"
+        "commentCount": "524"
     }
 }

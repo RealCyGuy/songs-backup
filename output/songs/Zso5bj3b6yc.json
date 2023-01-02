@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "Zso5bj3b6yc",
         "videoPublishedAt": "2020-12-28T20:33:28Z",
-        "duration": "PT3M54S",
+        "duration": "PT3M37S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "396830",
-        "likeCount": "22817",
+        "viewCount": "2890376",
+        "likeCount": "84809",
         "favoriteCount": "0",
-        "commentCount": "1473"
+        "commentCount": "1113"
     }
 }

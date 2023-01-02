@@ -16,14 +16,16 @@
     },
     "contentDetails": {
         "videoId": "36QMyiRAv-Y",
-        "duration": "PT4M19S",
+        "duration": "PT2M42S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "true",
         "licensedContent": true,
         "regionRestriction": {
             "blocked": [
-                "IN"
+                "IO",
+                "KP",
+                "SS"
             ]
         },
         "contentRating": {},
@@ -33,9 +35,9 @@
         "privacyStatus": "private"
     },
     "statistics": {
-        "viewCount": "228016585",
-        "likeCount": "10422896",
+        "viewCount": "1955863025",
+        "likeCount": "13647428",
         "favoriteCount": "0",
-        "commentCount": "988898"
+        "commentCount": "330884"
     }
 }

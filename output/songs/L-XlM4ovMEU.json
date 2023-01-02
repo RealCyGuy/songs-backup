@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRTM2NEE0OTZBMjE4MDk4",
+    "snippet": {
+        "publishedAt": "2023-01-02T00:12:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NewJeans (\ub274\uc9c4\uc2a4)- Ditto cover (titibetty)",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/L-XlM4ovMEU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/L-XlM4ovMEU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/L-XlM4ovMEU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/L-XlM4ovMEU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/L-XlM4ovMEU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "L-XlM4ovMEU"
+        },
+        "videoOwnerChannelTitle": "betty titi",
+        "videoOwnerChannelId": "UCcKEu0rF3TU-PnXWRhQFeFg"
+    },
+    "contentDetails": {
+        "videoId": "L-XlM4ovMEU",
+        "videoPublishedAt": "2022-12-25T12:30:06Z",
+        "duration": "PT3M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "84751",
+        "likeCount": "7838",
+        "favoriteCount": "0",
+        "commentCount": "243"
+    }
+}
