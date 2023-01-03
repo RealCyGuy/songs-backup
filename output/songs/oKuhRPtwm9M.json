@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QzlFNTc5REZCQjNEM0Q2",
+    "snippet": {
+        "publishedAt": "2022-07-24T04:55:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Summertime - Cinnamons (TRAP REMIX) Kimi No Toriko Song (Prod. Levnx)",
+        "description": "===================================================\nCheck out the original song : \nhttps://youtu.be/KMTo2LmixqQ\nhttps://youtu.be/j2dhVYkjPp8\n\u7f16\u66f2\uff1a\u76d6\u76d6Nyan\n\u6df7\u97f3\uff1a\u7531\u52a9\nVocal\uff1a\u9ea6\u5409&\u76d6\u76d6Nyan\n-----------------------------------------------------------------------------------------------------\nArt By : vinneart \nhttps://id.pinterest.com/vinneart/\n----------------------------------\nInstagram : https://www.instagram.com/levnx_r\n----------------------------------\nThis remix is \u200b\u200bjust my fun for my friend who was looking for a song for his video outro.\nYou can check the original song in the description above",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oKuhRPtwm9M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oKuhRPtwm9M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oKuhRPtwm9M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/oKuhRPtwm9M/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "oKuhRPtwm9M"
+        },
+        "videoOwnerChannelTitle": "XReachNation",
+        "videoOwnerChannelId": "UCVQ1MzHrnvoL5MmoA3h5iyQ"
+    },
+    "contentDetails": {
+        "videoId": "oKuhRPtwm9M",
+        "videoPublishedAt": "2020-04-22T23:21:16Z",
+        "duration": "PT2M3S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "5768751",
+        "likeCount": "196458",
+        "favoriteCount": "0",
+        "commentCount": "6386"
+    }
+}

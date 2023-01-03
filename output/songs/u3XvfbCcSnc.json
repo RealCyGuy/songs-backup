@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "u3XvfbCcSnc",
         "videoPublishedAt": "2022-05-07T16:38:20Z",
-        "duration": "PT1M39S",
+        "duration": "PT4M20S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8608",
-        "likeCount": "428",
+        "viewCount": "129651",
+        "likeCount": "5736",
         "favoriteCount": "0",
-        "commentCount": "87"
+        "commentCount": "184"
     }
 }

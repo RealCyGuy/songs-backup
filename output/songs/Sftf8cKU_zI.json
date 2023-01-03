@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44RDBENkUzRTI5QTNGMTI4",
+    "snippet": {
+        "publishedAt": "2021-06-11T23:33:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YOASOBI - \u602a\u7269\u30fbKaibutsu (Lone Alpha Remix) [Lyric Video]",
+        "description": "Subscribe for more music!\n\n~YOASOBI - \u602a\u7269\u30fbKaibutsu (Lone Alpha Remix)\n\n~Free Download: https://soundcloud.com/lonealphamusic/yoasobi-kaibutsu-lone-alpha-remixfree-dl\n\n~You guys seem to love my YOASOBI remixes and future bounce stuff so I made another remix!!\n\n~contact me: atlmusic41@gmail.com\n\n~Follow Me:\nTwitter: https://twitter.com/lonealphamusic\nSpotify: https://open.spotify.com/artist/0o8IQYc0GIBfoSeRAQYOX5?si=2yYZctq8Roit55DW_VDNQg\nSoundcloud: https://soundcloud.com/lonealphamusic\n\nArt: www.pixiv.net/en/artworks/78265291\n\n#FreeDownload  #CopyrightFree",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Sftf8cKU_zI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Sftf8cKU_zI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Sftf8cKU_zI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Sftf8cKU_zI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Sftf8cKU_zI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Sftf8cKU_zI"
+        },
+        "videoOwnerChannelTitle": "Lone Alpha",
+        "videoOwnerChannelId": "UCv7cX2hDhEVtCEBvssHofFA"
+    },
+    "contentDetails": {
+        "videoId": "Sftf8cKU_zI",
+        "videoPublishedAt": "2021-05-30T23:38:36Z",
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "157040",
+        "likeCount": "3245",
+        "favoriteCount": "0",
+        "commentCount": "211"
+    }
+}
