@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QTY2MEEzNzBFQUJCMUQ2",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:31:02Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Minecraft Trap Remix",
+        "description": "Hip hop beat / psychedelic trap remix of the minecraft theme music \"Aria Math\" by C418. Similar to my Among Us remix where I used sound effects from in-game.\n\nmy IG: https://instagram.com/leonzmusic\nmy spotify: https://open.spotify.com/artist/5WY1yCgtVHWjKPI5nwLSue?si=L5CyJcDIQ6iRtMjmQXLr-w\nmy patreon: https://patreon.com/leonzmusic\nmy discord server: https://discord.gg/edxAsnDhJA\n\nif youre ballsy, play youtube roulette & try clicking these links:\n#1 - https://www.youtube.com/watch?v=QqAfXwAGK0A\n#2 - https://www.youtube.com/watch?v=NCZQIrv9gy0\n#3 - https://www.youtube.com/watch?v=2pG6KhCcSGg\n#4 - https://www.youtube.com/watch?v=gU39w8s54_Q\n#5 - https://www.youtube.com/watch?v=X6ZQOxfpuyM\n\nstay tuned for more of these. \n\nminecraft theme song trap music remix lo fi hip hop rap beats chill 10 hours slowed reverb dreamy rain among us trap remix among us music tiktok remix leonz music among us mine craft edm bass dream\n\nThe video is Acid Interstate V3 from MiningGodBruce",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SWi6QjoO838/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SWi6QjoO838/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SWi6QjoO838/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/SWi6QjoO838/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/SWi6QjoO838/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SWi6QjoO838"
+        },
+        "videoOwnerChannelTitle": "Leonz",
+        "videoOwnerChannelId": "UCjGfaP-eiT-XGeCRjGM9fGQ"
+    },
+    "contentDetails": {
+        "videoId": "SWi6QjoO838",
+        "videoPublishedAt": "2020-10-29T13:47:30Z",
+        "duration": "PT1M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "122077",
+        "likeCount": "4025",
+        "favoriteCount": "0",
+        "commentCount": "251"
+    }
+}
