@@ -92,8 +92,8 @@ if webhook_url:
         embed = DiscordEmbed(color=7990062)
         embed.set_author("New song!", url="https://songsyt.netlify.app/")
         embed.set_description(
-            f"[{escape_markdown(song['title'])}](https://youtube.com/?watch=${song['id']}&list=PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A)\n"
-            f"[{escape_markdown(song['channel'])}](https://youtube.com/channel/{song['channelId']})"
+            f"[{escape_markdown(song['title'])}](https://youtube.com/?watch=${song['id']}&list=PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A) "
+            f"by [{escape_markdown(song['channel'])}](https://youtube.com/channel/{song['channelId']})"
         )
         embed.add_embed_field("Duration", song["duration"], True)
         embed.add_embed_field("Views", f"{song['views']:,}", True)
