@@ -35,11 +35,42 @@
     "contentDetails": {
         "videoId": "VN-DG5MgDy0",
         "videoPublishedAt": "2011-06-18T16:10:27Z",
-        "duration": "PT3M24S",
+        "duration": "PT2M56S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "AD",
+                "AM",
+                "AT",
+                "AZ",
+                "BE",
+                "BL",
+                "CH",
+                "DE",
+                "FR",
+                "GF",
+                "GP",
+                "IT",
+                "KG",
+                "LU",
+                "MC",
+                "MF",
+                "MQ",
+                "NL",
+                "PL",
+                "RE",
+                "RU",
+                "SM",
+                "TJ",
+                "TM",
+                "UA",
+                "UZ",
+                "VA"
+            ]
+        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -47,9 +78,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "11075452",
-        "likeCount": "402445",
+        "viewCount": "80447646",
+        "likeCount": "670959",
         "favoriteCount": "0",
-        "commentCount": "29232"
+        "commentCount": "24710"
     }
 }

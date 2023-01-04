@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQTkzRjgxRTY0OEU0MkM3",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:31:07Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Discord Call Trap Remix (Discord Drip Meme)",
+        "description": "my IG: https://instagram.com/leonzmusic\nmy spotify: https://open.spotify.com/artist/5WY1yCgtVHWjKPI5nwLSue?si=L5CyJcDIQ6iRtMjmQXLr-w\nmy itunes/apple music: https://music.apple.com/us/artist/leonz/1535397017\nmy patreon: https://patreon.com/leonzmusic\nmy discord server: https://discord.gg/edxAsnDhJA\n\nif youre ballsy, play youtube roulette & try clicking these links:\n#1 - https://www.youtube.com/watch?v=QqAfXwAGK0A\n#2 - https://www.youtube.com/watch?v=NCZQIrv9gy0\n#3 - https://www.youtube.com/watch?v=2pG6KhCcSGg\n#4 - https://www.youtube.com/watch?v=gU39w8s54_Q\n#5 - https://www.youtube.com/watch?v=X6ZQOxfpuyM\n\nstay tuned for more of these. \n\ndiscord trap remix music song beat lofi hip hop beats to relax study among us beat edit mashup 1 hour server call sound memes mods nightcore nitro",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Na6r5_XPOtk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Na6r5_XPOtk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Na6r5_XPOtk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Na6r5_XPOtk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Na6r5_XPOtk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Na6r5_XPOtk"
+        },
+        "videoOwnerChannelTitle": "Leonz",
+        "videoOwnerChannelId": "UCjGfaP-eiT-XGeCRjGM9fGQ"
+    },
+    "contentDetails": {
+        "videoId": "Na6r5_XPOtk",
+        "videoPublishedAt": "2020-11-07T21:17:38Z",
+        "duration": "PT1M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1920398",
+        "likeCount": "72333",
+        "favoriteCount": "0",
+        "commentCount": "2553"
+    }
+}
