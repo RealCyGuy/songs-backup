@@ -1,3 +1,4 @@
 python-youtube
 python-dotenv
 isodate
+discord-webhook

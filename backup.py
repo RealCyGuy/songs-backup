@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 from isodate import parse_duration
 from pyyoutube import Api
 
+from core.utils import escape_markdown
+
 for folder in ["output/songs", "output/deleted"]:
     shutil.rmtree(folder, ignore_errors=True)
     os.mkdir(folder)
@@ -62,12 +64,42 @@ for index in range(0, len(data["items"]), 50):
                 "channelId": item["snippet"]["videoOwnerChannelId"],
                 "duration": f"{minutes}:{seconds:02d}",
                 "privacyStatus": item["status"]["privacyStatus"],
-                "views": f"{int(item['statistics']['viewCount']):,}",
-                "likes": f"{int(item['statistics']['likeCount']):,}",
+                "views": int(item["statistics"]["viewCount"]),
+                "likes": int(item["statistics"]["likeCount"]),
                 "publishedDate": item["contentDetails"]["videoPublishedAt"],
                 "addedDate": item["snippet"]["publishedAt"],
             }
         )
         summary["duration"] += int(duration.total_seconds())
+webhook_url = os.environ.get("WEBHOOK_URL")
+if webhook_url:
+    with open("output/summary.json", "r") as file:
+        previous = json.load(file)
+        previous_ids = []
+        for song in previous["items"]:
+            previous_ids.append(song["id"])
 with open("output/summary.json", "w") as file:
     json.dump(summary, file)
+if webhook_url:
+    from discord_webhook import DiscordWebhook, DiscordEmbed
+
+    def create_embed(song: dict):
+        embed = DiscordEmbed(color=7990062)
+        embed.set_author("New song!", url="https://songsyt.netlify.app/")
+        embed.set_description(
+            f"[{escape_markdown(song['title'])}](https://youtube.com/?watch=${song['id']}&list=PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A)\n"
+            f"[{escape_markdown(song['channel'])}](https://youtube.com/channel/{song['channelId']})"
+        )
+        embed.add_embed_field("Duration", song["duration"], True)
+        embed.add_embed_field("Views", f"{song['views']:,}", True)
+        embed.add_embed_field("Likes", f"{song['likes']:,}", True)
+        embed.set_image(f"https://i.ytimg.com/vi/{song['id']}/maxresdefault.jpg")
+        return embed
+
+    for song in summary["items"]:
+        if song["id"] in previous_ids:
+            continue
+
+        webhook = DiscordWebhook(webhook_url, rate_limit_retry=True)
+        webhook.add_embed(create_embed(song))
+        webhook.execute()
