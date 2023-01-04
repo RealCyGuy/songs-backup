@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "Yb4Kqk2L7E0",
         "videoPublishedAt": "2020-12-04T12:00:08Z",
-        "duration": "PT4M5S",
+        "duration": "PT1M44S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "66027",
-        "likeCount": "1190",
+        "viewCount": "5732336",
+        "likeCount": "198024",
         "favoriteCount": "0",
-        "commentCount": "122"
+        "commentCount": "3979"
     }
 }

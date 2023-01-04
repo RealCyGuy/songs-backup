@@ -31,9 +31,22 @@ for index in range(0, len(data["items"]), 50):
         parts=["contentDetails", "statistics"],
         return_json=True,
     )
+    print(len(data2["items"]))
+    offset = 0
     for i, item2 in enumerate(data2["items"]):
         try:
-            item = data["items"][i + index]
+            while True:
+                item = data["items"][i + index + offset]
+                del item["snippet"]["position"]
+                del item["etag"]
+                if item["snippet"]["resourceId"]["videoId"] == item2["id"]:
+                    break
+                offset += 1
+                with open(
+                    f"output/deleted/{item['snippet']['resourceId']['videoId']}.json",
+                    "w",
+                ) as file:
+                    json.dump(item, file, indent=4)
         except IndexError:
             break
         item["statistics"] = item2["statistics"]
@@ -41,18 +54,10 @@ for index in range(0, len(data["items"]), 50):
             item["contentDetails"][key] = value
         if "likeCount" not in item["statistics"]:
             item["statistics"]["likeCount"] = "0"
-        del item["snippet"]["position"]
-        del item["etag"]
         with open(
             f"output/songs/{item['snippet']['resourceId']['videoId']}.json", "w"
         ) as file:
             json.dump(item, file, indent=4)
-        if "videoPublishedAt" not in item["contentDetails"]:
-            with open(
-                f"output/deleted/{item['snippet']['resourceId']['videoId']}.json", "w"
-            ) as file:
-                json.dump(item, file, indent=4)
-            continue
         duration = parse_duration(item2["contentDetails"]["duration"])
         minutes, seconds = divmod(int(duration.total_seconds()), 60)
         summary["items"].append(

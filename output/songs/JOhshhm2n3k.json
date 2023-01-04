@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "JOhshhm2n3k",
         "videoPublishedAt": "2020-03-17T15:00:06Z",
-        "duration": "PT2M51S",
+        "duration": "PT4M42S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "55067",
-        "likeCount": "1932",
+        "viewCount": "72530",
+        "likeCount": "1726",
         "favoriteCount": "0",
-        "commentCount": "393"
+        "commentCount": "146"
     }
 }

@@ -45,14 +45,16 @@
     "contentDetails": {
         "videoId": "6jBE4vPjRqY",
         "videoPublishedAt": "2017-01-25T23:57:05Z",
-        "duration": "PT2M51S",
+        "duration": "PT3M12S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
         "licensedContent": true,
         "regionRestriction": {
-            "blocked": [
-                "RU"
+            "allowed": [
+                "CA",
+                "MX",
+                "US"
             ]
         },
         "contentRating": {},
@@ -62,9 +64,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1000326",
-        "likeCount": "21594",
+        "viewCount": "3274327",
+        "likeCount": "58202",
         "favoriteCount": "0",
-        "commentCount": "458"
+        "commentCount": "34"
     }
 }

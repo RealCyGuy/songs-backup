@@ -15,22 +15,9 @@
         }
     },
     "contentDetails": {
-        "videoId": "LrdAFBPU7_U",
-        "duration": "PT1M50S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoId": "LrdAFBPU7_U"
     },
     "status": {
         "privacyStatus": "private"
-    },
-    "statistics": {
-        "viewCount": "648935",
-        "likeCount": "14075",
-        "favoriteCount": "0",
-        "commentCount": "292"
     }
 }

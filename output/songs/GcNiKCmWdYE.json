@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "GcNiKCmWdYE",
         "videoPublishedAt": "2008-02-15T07:13:36Z",
-        "duration": "PT3M1S",
+        "duration": "PT3M6S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
+        "caption": "false",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "5368232",
-        "likeCount": "153793",
+        "viewCount": "71807096",
+        "likeCount": "487298",
         "favoriteCount": "0",
-        "commentCount": "4169"
+        "commentCount": "34553"
     }
 }

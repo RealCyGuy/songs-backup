@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "KrNUrgaOsCc",
         "videoPublishedAt": "2021-02-08T08:04:32Z",
-        "duration": "PT3M45S",
+        "duration": "PT3M47S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "true",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "349844378",
-        "likeCount": "3167615",
+        "viewCount": "9394964",
+        "likeCount": "338621",
         "favoriteCount": "0",
-        "commentCount": "108796"
+        "commentCount": "12450"
     }
 }

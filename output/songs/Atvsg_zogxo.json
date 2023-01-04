@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "Atvsg_zogxo",
         "videoPublishedAt": "2020-05-14T11:00:12Z",
-        "duration": "PT4M16S",
+        "duration": "PT4M49S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "27457113",
-        "likeCount": "306835",
+        "viewCount": "61190545",
+        "likeCount": "973172",
         "favoriteCount": "0",
-        "commentCount": "10787"
+        "commentCount": "22418"
     }
 }

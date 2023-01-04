@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "IKHGAuNaGuA",
         "videoPublishedAt": "2018-04-18T03:00:02Z",
-        "duration": "PT3M52S",
+        "duration": "PT4M13S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1781422",
-        "likeCount": "52473",
+        "viewCount": "46042365",
+        "likeCount": "430573",
         "favoriteCount": "0",
-        "commentCount": "1539"
+        "commentCount": "7328"
     }
 }

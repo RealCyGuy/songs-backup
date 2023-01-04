@@ -15,29 +15,9 @@
         }
     },
     "contentDetails": {
-        "videoId": "36QMyiRAv-Y",
-        "duration": "PT2M42S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "regionRestriction": {
-            "blocked": [
-                "IO",
-                "KP",
-                "SS"
-            ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoId": "36QMyiRAv-Y"
     },
     "status": {
         "privacyStatus": "private"
-    },
-    "statistics": {
-        "viewCount": "1957215784",
-        "likeCount": "13654541",
-        "favoriteCount": "0",
-        "commentCount": "330915"
     }
 }

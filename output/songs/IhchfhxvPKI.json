@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "IhchfhxvPKI",
         "videoPublishedAt": "2015-02-09T16:30:00Z",
-        "duration": "PT3M23S",
+        "duration": "PT3M19S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
+        "caption": "false",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "538697954",
-        "likeCount": "5840291",
+        "viewCount": "20386529",
+        "likeCount": "284669",
         "favoriteCount": "0",
-        "commentCount": "256163"
+        "commentCount": "34121"
     }
 }

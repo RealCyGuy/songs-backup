@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "DrvE393d7n0",
         "videoPublishedAt": "2019-06-19T19:00:28Z",
-        "duration": "PT4M38S",
+        "duration": "PT3M59S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "596871",
+        "viewCount": "6784558",
+        "likeCount": "191250",
         "favoriteCount": "0",
-        "commentCount": "0",
-        "likeCount": "0"
+        "commentCount": "4428"
     }
 }

@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "gephoCyOAXU",
         "videoPublishedAt": "2015-09-11T12:00:01Z",
-        "duration": "PT3M",
+        "duration": "PT3M54S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1133303",
-        "likeCount": "28957",
+        "viewCount": "23101634",
+        "likeCount": "356798",
         "favoriteCount": "0",
-        "commentCount": "671"
+        "commentCount": "10247"
     }
 }

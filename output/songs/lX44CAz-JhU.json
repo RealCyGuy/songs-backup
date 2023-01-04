@@ -45,10 +45,10 @@
     "contentDetails": {
         "videoId": "lX44CAz-JhU",
         "videoPublishedAt": "2017-04-21T21:30:36Z",
-        "duration": "PT4M4S",
+        "duration": "PT3M12S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2039410690",
-        "likeCount": "14458036",
+        "viewCount": "165489922",
+        "likeCount": "1838063",
         "favoriteCount": "0",
-        "commentCount": "790941"
+        "commentCount": "45907"
     }
 }

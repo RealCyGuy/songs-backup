@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "Hb-t50655NY",
         "videoPublishedAt": "2018-11-18T11:45:32Z",
-        "duration": "PT1M32S",
+        "duration": "PT1M53S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "133372",
-        "likeCount": "5188",
+        "viewCount": "8273",
+        "likeCount": "305",
         "favoriteCount": "0",
-        "commentCount": "152"
+        "commentCount": "79"
     }
 }

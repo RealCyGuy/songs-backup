@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "8pm_KoguqPM",
         "videoPublishedAt": "2018-09-06T14:36:43Z",
-        "duration": "PT5M58S",
+        "duration": "PT3M19S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "7174009",
-        "likeCount": "134239",
+        "viewCount": "172505047",
+        "likeCount": "2413158",
         "favoriteCount": "0",
-        "commentCount": "2606"
+        "commentCount": "68947"
     }
 }

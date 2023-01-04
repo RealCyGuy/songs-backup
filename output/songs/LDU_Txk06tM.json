@@ -40,7 +40,7 @@
     "contentDetails": {
         "videoId": "LDU_Txk06tM",
         "videoPublishedAt": "2018-04-01T16:03:16Z",
-        "duration": "PT4M35S",
+        "duration": "PT3M13S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -52,9 +52,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1111848",
-        "likeCount": "26347",
+        "viewCount": "224411514",
+        "likeCount": "3783490",
         "favoriteCount": "0",
-        "commentCount": "563"
+        "commentCount": "335549"
     }
 }

@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "LTs5I-N42Sk",
         "videoPublishedAt": "2021-11-08T13:49:21Z",
-        "duration": "PT3M32S",
+        "duration": "PT1M47S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1758842",
-        "likeCount": "18985",
+        "viewCount": "60357",
+        "likeCount": "1340",
         "favoriteCount": "0",
-        "commentCount": "1219"
+        "commentCount": "95"
     }
 }
