@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRDY4ODczMTBGNERBMTM1",
+    "snippet": {
+        "publishedAt": "2023-01-07T04:52:54Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Summoner's Riff | Everything Goes On | League of Legends Music",
+        "description": "Riot's very own a cappella group, Summoner's Riff, is back bringing holiday cheer this time with an arrangement of Everything Goes On - a song created in collaboration with Porter Robinson celebrating this year's Star Guardian event.\n\nArranged and performed by Summoner's Riff at the Riot Games LA HQ campus. Summoner's Riff is a group of Rioters based out of our Los Angeles headquarters.\n\nOriginally written by: Porter Robinson, Riot Music Team, Fredrik Johansson, and Hige Driver\nArrangement: Keenan Monks & Ford DeCastro\n\nProduced by: Riot Video Team and Summoner's Riff\nPerformed by: Summoner's Riff\nBeatbox Performance by: Keenan Monks\nRecorded and Mixed by: Jimmy Sudekum\n\n#porterrobinson #everythinggoeson #starguardian #acappella\n_____________________________________________\nSubscribe to the channel: \nYouTube - https://riot.com/3FIOx3k\n\nFollow Riot Games on:\nTwitter - https://riot.com/3UoBdFD\nInstagram - https://riot.com/3gVbN3K\nFacebook - https://riot.com/3TYketZ\n\nWe're hiring! Follow LifeAtRiot for updates:\nOpen Roles - https://riot.com/3Unb61t\nLinkedIn - https://riot.com/3DSAnvi\nTwitter - https://riot.com/3NwsS09",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TGeENoeXFQo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TGeENoeXFQo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TGeENoeXFQo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/TGeENoeXFQo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/TGeENoeXFQo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "TGeENoeXFQo"
+        },
+        "videoOwnerChannelTitle": "Riot Games",
+        "videoOwnerChannelId": "UCJEGvSZnQ1pkVfHO8s5G8hA"
+    },
+    "contentDetails": {
+        "videoId": "TGeENoeXFQo",
+        "videoPublishedAt": "2022-12-15T18:34:07Z",
+        "duration": "PT2M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "33224",
+        "likeCount": "3385",
+        "favoriteCount": "0",
+        "commentCount": "313"
+    }
+}
