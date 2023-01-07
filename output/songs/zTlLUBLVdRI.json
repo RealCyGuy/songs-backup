@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42RjdERDFFMUVFNjYwN0VE",
+    "snippet": {
+        "publishedAt": "2023-01-07T19:58:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NewJeans (\ub274\uc9c4\uc2a4) - Ditto - Violin Cover",
+        "description": "#newjeans #ditto \n\nDownload Violin Sheet Music:\nhttps://mymusic.st/catolin/93344\n\nInstagram: \nhttp://www.instagram.com/cat.olin\nhttp://www.instagram.com/oisrzr\n\n\n\n\nBusiness Contact : musicplay9399@naver.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zTlLUBLVdRI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zTlLUBLVdRI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zTlLUBLVdRI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zTlLUBLVdRI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/zTlLUBLVdRI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zTlLUBLVdRI"
+        },
+        "videoOwnerChannelTitle": "\ucea3\uc62c\ub9b0CatOlin",
+        "videoOwnerChannelId": "UCoAeBLyRkAVnNHR_V4XWc_Q"
+    },
+    "contentDetails": {
+        "videoId": "zTlLUBLVdRI",
+        "videoPublishedAt": "2023-01-01T11:04:11Z",
+        "duration": "PT3M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "59112",
+        "likeCount": "7511",
+        "favoriteCount": "0",
+        "commentCount": "186"
+    }
+}
