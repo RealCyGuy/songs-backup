@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "FStTWfLVifA"
         },
-        "videoOwnerChannelTitle": "JUANSOIP",
+        "videoOwnerChannelTitle": "JS",
         "videoOwnerChannelId": "UCDSLVDlxmSEZNAlzrDP5Vkg"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "36753",
+        "viewCount": "36762",
         "likeCount": "2647",
         "favoriteCount": "0",
         "commentCount": "165"
