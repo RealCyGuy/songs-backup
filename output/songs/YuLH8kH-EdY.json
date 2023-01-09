@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRTc1RDcwQjM4NDY2M0JE",
+    "snippet": {
+        "publishedAt": "2023-01-09T00:32:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I Love Kanye Redbone remix but it's on beat",
+        "description": "SOCIALS:\n\ud83e\udd80Join my Discord server: https://discord.gg/UbGNmCnZEx\n\ud83d\udc7eFollow my Twitch: https://www.twitch.tv/captainahc\n\ud83d\udcf8Follow my Instagram: https://www.instagram.com/captain.a.c\n\u231aFollow my TikTok: https://www.tiktok.com/@captainahc\n\ntags (ignore)\nkanye, kanye west, ye, i love kanye, redbone, music, rap, hiphop, this is america, childish gambino, glover, donald glover, donald, childish, gambino, donda, donda chant, new, mashup, onbeat, beats, bone, red, rapper, rappers, hip hop, hip-hop, captain ac, captainac, captain ac mashups, mashups, song mashups, remix, remixes, hip hop remix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YuLH8kH-EdY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YuLH8kH-EdY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YuLH8kH-EdY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/YuLH8kH-EdY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/YuLH8kH-EdY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "YuLH8kH-EdY"
+        },
+        "videoOwnerChannelTitle": "Captain AC",
+        "videoOwnerChannelId": "UC4prrR49UMqtfyZsSzQEVug"
+    },
+    "contentDetails": {
+        "videoId": "YuLH8kH-EdY",
+        "videoPublishedAt": "2021-10-11T17:16:10Z",
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "60850",
+        "likeCount": "3069",
+        "favoriteCount": "0",
+        "commentCount": "61"
+    }
+}
