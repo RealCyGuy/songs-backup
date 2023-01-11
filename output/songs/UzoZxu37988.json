@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EQzY2RkNFMzU2RjNEQUYy",
+    "snippet": {
+        "publishedAt": "2023-01-11T07:40:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Super Mario Land - Birabuto Kingdom Acapella",
+        "description": "An original a-cappella arrangement of Birabuto Kingdom from Super Mario Land for the Game Boy!\n\nThis song will forever remind me of sitting inside on a warm summer day playing Super Mario Land.  For such a short game with not-so-great controls, I enjoyed the heckkkk out of this little Mario title.  The music is fantastic, and the fact that I could play Mario sitting on my porch made me fall in love.  The later Super Mario Land games refined everything quite a bit, but this game still has a special place in my heart.\n\nCatch me live on Twitch! \u25ba https://www.twitch.tv/smoothmcgroove\n\n\u25cfSupport me on Patreon \u25ba http://www.patreon.com/SmoothMcGroove\n\u25cfDownload my albums in high-quality on Loudr.fm: https://loudr.fm/artist/smooth-mcgroove/YaszY\n\u25cfDownload my albums on iTunes: http://bit.ly/1rTxp0a\n\u25cfDownload this song on Bandcamp: http://smoothmcgroove.bandcamp.com/\n\u25cfT-shirts: http://bit.ly/1Xl8l0i\n\u25cfSmooth McGroove on Facebook: http://www.facebook.com/smoothmcgroove1\n\u25cfSmooth McGroove on Twitter: http://twitter.com/SmoothMcGroove\n\u25cfJoin my Discord server \u25ba https://discord.gg/0qszWYeoeYBNXpHX",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UzoZxu37988/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UzoZxu37988/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UzoZxu37988/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UzoZxu37988/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UzoZxu37988/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UzoZxu37988"
+        },
+        "videoOwnerChannelTitle": "Smooth McGroove",
+        "videoOwnerChannelId": "UCJvBEEqTaLaKclbCPgIjBSQ"
+    },
+    "contentDetails": {
+        "videoId": "UzoZxu37988",
+        "videoPublishedAt": "2016-06-28T22:56:15Z",
+        "duration": "PT1M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1374128",
+        "likeCount": "33864",
+        "favoriteCount": "0",
+        "commentCount": "2420"
+    }
+}

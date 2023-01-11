@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRDE4NUE5NDJFNzI2MjJE",
+    "snippet": {
+        "publishedAt": "2023-01-11T07:43:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Super Ball Powerup [REMIX]",
+        "description": "Since Super Mario Bros 2 Released a week ago i thought to make small remix from one of the tracks. \n\nlemme know what do u think\n\nthanks.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9APW_I23dt0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9APW_I23dt0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9APW_I23dt0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/9APW_I23dt0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/9APW_I23dt0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9APW_I23dt0"
+        },
+        "videoOwnerChannelTitle": "Leevi Lehtovaara",
+        "videoOwnerChannelId": "UCzx3KsV06QunB-SbbRoEjyw"
+    },
+    "contentDetails": {
+        "videoId": "9APW_I23dt0",
+        "videoPublishedAt": "2019-07-08T16:57:45Z",
+        "duration": "PT1M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "67617",
+        "likeCount": "1595",
+        "favoriteCount": "0",
+        "commentCount": "133"
+    }
+}
