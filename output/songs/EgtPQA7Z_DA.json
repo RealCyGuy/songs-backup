@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NjdFMUNBOUIzMTVERTAw",
+    "snippet": {
+        "publishedAt": "2023-01-12T15:24:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[MV] xooos - Naked",
+        "description": "xooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/\n\n[Single] xooos - Naked\nOut Now\n\uc804 \uc74c\uc6d0\uc0ac\uc774\ud2b8\uc5d0\uc11c \uac10\uc0c1\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\nAvailable on all streaming platforms.\n\nBusiness contact : jiwonkim@wavy.kr",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EgtPQA7Z_DA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EgtPQA7Z_DA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EgtPQA7Z_DA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EgtPQA7Z_DA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EgtPQA7Z_DA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EgtPQA7Z_DA"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "EgtPQA7Z_DA",
+        "videoPublishedAt": "2023-01-12T09:00:09Z",
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "154045",
+        "likeCount": "21618",
+        "favoriteCount": "0",
+        "commentCount": "1006"
+    }
+}
