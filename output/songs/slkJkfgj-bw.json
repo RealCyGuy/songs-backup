@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BN0ZCMjExNkJGOUMzRkMw",
+    "snippet": {
+        "publishedAt": "2023-01-14T05:32:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Taylor Swift - \"Anti-Hero\" Rock Version",
+        "description": "Taylor Swift - \"Anti-Hero\" Rock Version\n\nAll tracks and instruments (except the vocals) were recorded and produced by me. Vocals by Taylor Swift.\n\nHere\u2019s the gear I use:\n\nDAW: Studio One 6 Professional\n\nMixing Plugins: Slate Digital, Izotope, Valhalla Room\n\nMastering: Landr\n\nGuitars: Ibanez Ghostrider\n\nGuitar FX: Amplitube 5 Max, Guitar Rig 5, Positive Grid Bias FX 2 and Bias Amp 2\n\nBass: EZBass (Toontrack)\n\nBass FX: Amplitube 5\n\nDrums: Superior Drummer 3 (Toontrack)\n\nCinematic Studio Strings\nSpitfire Abbey Road One\nAudio Imperia Nucleus Lite\nHeavyocity Damage 2\n\nSynths: Output (Signal, Substance, Analog Strings, Exhale, Arcade)\n\n**Copyright Statement** This video is not intended to infringe any copyright laws in any way. This cover/remake/remix is for practice, education and entertainment sole purposes only; no profit is gained from this. It is the copyrighted property of its respective owner(s). \n\nhttps://youtube-creators.googleblog.com/2016/04/improving-content-id-for-creators.html",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/slkJkfgj-bw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/slkJkfgj-bw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/slkJkfgj-bw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/slkJkfgj-bw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/slkJkfgj-bw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "slkJkfgj-bw"
+        },
+        "videoOwnerChannelTitle": "Matt Ebenezer",
+        "videoOwnerChannelId": "UCVm551ju3o-bl7opLm__RTw"
+    },
+    "contentDetails": {
+        "videoId": "slkJkfgj-bw",
+        "videoPublishedAt": "2022-12-05T00:30:50Z",
+        "duration": "PT3M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "56855",
+        "likeCount": "5060",
+        "favoriteCount": "0",
+        "commentCount": "264"
+    }
+}
