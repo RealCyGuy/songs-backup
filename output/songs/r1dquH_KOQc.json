@@ -62,6 +62,7 @@
                 "DE",
                 "FR",
                 "GF",
+                "GL",
                 "GP",
                 "IT",
                 "KG",
@@ -88,8 +89,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "80563276",
-        "likeCount": "671810",
+        "viewCount": "80563464",
+        "likeCount": "671814",
         "favoriteCount": "0",
         "commentCount": "24715"
     }
