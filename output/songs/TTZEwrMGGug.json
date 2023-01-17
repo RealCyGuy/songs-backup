@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44NUM5NDAwNDdBNzU4NUI0",
+    "snippet": {
+        "publishedAt": "2023-01-17T06:21:54Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "LAST WALTZ - TWICE, but with a live band [Concert Studio Concept]",
+        "description": "#TWICE's LAST WALTZ band studio version.\n\nSorry if this took too long! I've been busy these days. \nMore kpop songs and originals are coming! Pls stay tuned.\n\nEnjoy listening.\nSubscribe for more songs!\n\nfollow me on ig @ instagram.com/prodjnd",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TTZEwrMGGug/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TTZEwrMGGug/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TTZEwrMGGug/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/TTZEwrMGGug/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/TTZEwrMGGug/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "TTZEwrMGGug"
+        },
+        "videoOwnerChannelTitle": "JND STUDIO",
+        "videoOwnerChannelId": "UC8DFflnns8fDnWgN9LfwZPw"
+    },
+    "contentDetails": {
+        "videoId": "TTZEwrMGGug",
+        "videoPublishedAt": "2021-12-07T18:30:12Z",
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "18732",
+        "likeCount": "790",
+        "favoriteCount": "0",
+        "commentCount": "41"
+    }
+}
