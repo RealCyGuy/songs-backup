@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DODM2NTI4QkY0QzRBREEy",
+    "snippet": {
+        "publishedAt": "2023-01-19T06:45:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NewJeans (\ub274\uc9c4\uc2a4) - 'OMG' (Jazz Piano Remix) (Prod. MINDA)",
+        "description": "#newjeans #OMG #remix #MINDA #\ub274\uc9c4\uc2a4 \n\n\ud83d\udcf7 : https://www.instagram.com/imnotminda\n\ud83c\udfb5 : https://open.spotify.com/artist/3r7XtOLv2k1ircj7t6OLUu\n\ud83c\udfa7 : https://soundcloud.com/imnotminda\n\ud83d\udd17 : https://linktr.ee/imnotminda\nMGMT: org.neighbors@gmail.com\n\nAcapella by NewJeans\nComposed by NewJeans, MINDA\nArrangement by MINDA\nAll instruments played by MINDA\nMixed and Mastered by MINDA at OOO Studios\nArtwork by @luckheee_ at OOO Studios\n\nAll song rights go to NewJeans (\ub274\uc9c4\uc2a4)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/te_e-ZooMhA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/te_e-ZooMhA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/te_e-ZooMhA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/te_e-ZooMhA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/te_e-ZooMhA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "te_e-ZooMhA"
+        },
+        "videoOwnerChannelTitle": "MINDA (\ubbfc\ub2e4)",
+        "videoOwnerChannelId": "UC6BhZ8U3vM4_CeHupB_tu0w"
+    },
+    "contentDetails": {
+        "videoId": "te_e-ZooMhA",
+        "videoPublishedAt": "2023-01-06T09:00:05Z",
+        "duration": "PT2M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "218554",
+        "likeCount": "13450",
+        "favoriteCount": "0",
+        "commentCount": "823"
+    }
+}
