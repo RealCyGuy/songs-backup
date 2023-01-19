@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45Njk3M0FFMUJCRDA2RTY3",
+    "snippet": {
+        "publishedAt": "2023-01-19T00:57:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ANTIFADED",
+        "description": "\uc870\ud68c\uc218 10\ub9cc \ub118\uc73c\uba74 1\uc2dc\uac04 \uacf5\uac1c\n\n\uc6d0\uace1\nANTIFRAGILE \uc548\ud2f0\ud504\ub808\uc790\uc77c - LE SSERAFIM \ub974\uc138\ub77c\ud54c\nFEARLESS \ud53c\uc5b4\ub9ac\uc2a4 - LE SSERAFIM \ub974\uc138\ub77c\ud54c\nAlan Walker \uc568\ub7f0 \uc6cc\ucee4 \uc54c\ub80c \uc6cc\ucee4 - FADED \ud398\uc774\ub514\ub4dc\nANTI FADED \uc548\ud2f0 \ud398\uc774\ub514\ub4dc\n\n\uc601\uc0c1\ud65c\uc6a9\nLE SSERAFIM (\ub974\uc138\ub77c\ud54c) 'ANTIFRAGILE' OFFICIAL M/V\nhttps://www.youtube.com/watch?v=pyf8cbqyfPs\n\n#antifragile #REMIX #lesserafim #\ub974\uc138\ub77c\ud54c #\ub9ac\ubbf9\uc2a4\n#MASHUP #\ud53c\uc5b4\ub098 #fearnot #fearless  #edm #alanwalker #faded #alone\n#\uce74\uc988\ud558 #\ud64d\uc740\ucc44 #\ud5c8\uc724\uc9c4 #\ud558\uc774\ube0c #hive \n#KPOP #chaewon #eunchae #yunjin #kazuha #sakura \n#\uae40\ucc44\uc6d0 #\uc0ac\ucfe0\ub77c #\uc544\uc774\uc988\uc6d0 #izone #\uc548\ud2f0\ud504\ub808\uc790\uc77c #\ub9e4\uc2dc\uc5c5  #music \n\n\uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130 \uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38\nSinger-Songwriter SS2S Lee\n\n\u25b6 Instagram   http://www.instagram.com/ss2slee\n\u25b6 Business   ss2s.lee1@gmail.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LGGBfmYyBfg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LGGBfmYyBfg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LGGBfmYyBfg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/LGGBfmYyBfg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/LGGBfmYyBfg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "LGGBfmYyBfg"
+        },
+        "videoOwnerChannelTitle": "\uc0c1\uc0c1\uc774\uc0c1\uc774\uc0c1\uae38",
+        "videoOwnerChannelId": "UCa6XFhl70IeGsdv6YwI1Ijg"
+    },
+    "contentDetails": {
+        "videoId": "LGGBfmYyBfg",
+        "videoPublishedAt": "2023-01-08T04:00:07Z",
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "57586",
+        "likeCount": "2553",
+        "favoriteCount": "0",
+        "commentCount": "217"
+    }
+}
