@@ -1,0 +1,59 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zODM0NDQ2RDk3OTk4RDFC",
+    "snippet": {
+        "publishedAt": "2023-01-20T05:26:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30c6\u30a3\u30ed\u30ea\u30df\u30c3\u30af\u30b9\uff5cAdo\u300c\u8e0a\u300d\u00d7 asmi\u300cPAKU\u300d",
+        "description": "Ado\u306e\u300c\u8e0a\u300d\u3068\nasmi\u306e\u300cPAKU\u300d\u3068\n\u30dd\u30c6\u30c8\u306e\u300c\u30c6\u30a3\u30ed\u30ea\u300d\u3092\n\u30ea\u30df\u30c3\u30af\u30b9\u3057\u305f\u3089\u3053\u3046\u306a\u3063\u305f\n\n\u25e4\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\n\u3000\u3000\u3000 \u30c6\u30a3\u30ed\u30ea\u30df\u30c3\u30af\u30b9\n\u3000 Ado\u300c\u8e0a\u300d\u00d7 asmi\u300cPAKU\u300d\n\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\u25e2\n\nAdo\u300c\u8e0a\u300d\nMusic by Giga, TeddyLoid / Lyrics by DECO*27\nLicensed by Virgin Music, a UNIVERSAL MUSIC COMPANY\n\u00a9 NHK publishing, Cloud Nine, Universal Music Publishing\n\nasmi\u300cPAKU\u300d\nWritten by meiyo\nRe-Recorded by Yujiro Yonetsu\nasmi appears by the courtesy of Sony Music Labels\n\u00a9 Rooftop inc.\n\nArranged and Mixed by Giga & TeddyLoid\nMusic Planner : Keisuke Tominaga, Mayu Inaba, Satoshi Nakashima\nMusic Produced by piano inc.\n\nCreative Director/Planner : Yusuke Sato\nArt Director : Yusuke Koyanagi, Sakura Hotta\nPlanner : Masashi Araki\nCreative Technologist : Shintaro Murakami\nPR Planner : Anna Tatsuno\nDesigner : Katsuhiro Uto, Tomoki Arakawa (WOO Inc.)\nBusiness Producer : Tsukuru Hishinuma, Mana Hatsukari \nCreative Producer : Keisuke Iida, Yuki Kubo\n\nDirector/Offline Editor/CG : Takumi Shiga (caviar)\n\nCG Producer : Yasuaki Miyatake, Kohei Iwasaki (FLUX), Taiyo Sato (KASSEN), Kouhei Miki (KASSEN/HASH), Asami Konno (tsumiki,Inc)\nCG Production Manager : Ryo Kokaji (FLUX), Saori Yamagami (HASH), SHIKO\nCG Director : Yusuke Takahashi (FLUX)\nOnline Editor : Yuta Miyagi (FLUX)\nCharacter Design : Kayuka, Acky Bright\nCharacter Animation Director : Satoshi Takeno (MontBlanc Pictures)\nConcept Art Producer : Ryo Yamamoto (WACHAJACK)\nConcept Art : Koshi Tsukamoto, Natasha Tan, Mariko Fukuhara, Seiya Takezawa (WACHAJACK)\nConcept Model : Kai Tozaki (WACHAJACK)\nTechnical Advisor : Shunichiro Tsumori (FLUX), Akifumi Hosoda (tsumiki,Inc)\nCG Designer : Keiji Ohsumi, Keita Nakayama, Evangelista Jonathan Nolan, Riku Takahashi, Takuma Haraguchi (FLUX), Rikiya Kimura, Tomoya Mogi (tsumiki,Inc), Yasutaka Fukuda (FUKUPOLY.INC)\nCharacter head modeling : Leow Wei Liang\nCharacter body modeling : Takehiko Hoashi (studio picapixels)\nTechnical artist : Hiroyuki Okada, Yoshiaki Horiuchi\nCG Animator : Mizuki Sato (HASH), Syuto Fujisawa, Riku Kurayama, Shota Ogura, Hideki Kojo, Ryo Fujimoto\n\n2D Animator : Masanobu Hiraoka (mimoid)\n\nChoreographer : Chiharu Shimura (GLASSLOFT)\n\nSE : Naoki Takahashi (Soundroid Inc.)\nMA : Yuko Hashimoto (DIGITAL GARDEN)\n\nProduction Manager : Takuji Kobayashi (GEEKPICTURES)\nProducer : Masahiro Hayasaka, Yuki Taniguchi (GEEKPICTURES)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/diIX7sbAC7s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/diIX7sbAC7s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/diIX7sbAC7s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/diIX7sbAC7s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "diIX7sbAC7s"
+        },
+        "videoOwnerChannelTitle": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u516c\u5f0f\uff08McDonald\u2019s\uff09",
+        "videoOwnerChannelId": "UChqSIUxTWurwjobZ9X0frtg"
+    },
+    "contentDetails": {
+        "videoId": "diIX7sbAC7s",
+        "videoPublishedAt": "2023-01-13T11:28:30Z",
+        "duration": "PT3M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "880422",
+        "favoriteCount": "0",
+        "likeCount": "0"
+    }
+}
