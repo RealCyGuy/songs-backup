@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43QzIzMjY3NTQxNDNFOUY0",
+    "snippet": {
+        "publishedAt": "2023-01-21T15:16:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "OMG - \ub274\uc9c4\uc2a4(NewJeans) Acoustic cover",
+        "description": "xooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/\n\nBusiness contact : jiwonkim@wavy.kr\n\n mix by @ruiz_its_me https://youtube.com/c/AlertA0301.\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cNZ7K5pt6N0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cNZ7K5pt6N0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cNZ7K5pt6N0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/cNZ7K5pt6N0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/cNZ7K5pt6N0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "cNZ7K5pt6N0"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "cNZ7K5pt6N0",
+        "videoPublishedAt": "2023-01-21T12:45:40Z",
+        "duration": "PT2M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "28756",
+        "likeCount": "5458",
+        "favoriteCount": "0",
+        "commentCount": "252"
+    }
+}
