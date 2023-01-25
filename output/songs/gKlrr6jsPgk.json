@@ -53,17 +53,11 @@
         "regionRestriction": {
             "blocked": [
                 "AS",
-                "BZ",
                 "CK",
-                "CR",
-                "GT",
-                "HN",
-                "NI",
                 "NU",
                 "PF",
                 "PN",
                 "RU",
-                "SV",
                 "UM"
             ]
         },
@@ -74,7 +68,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2601603",
+        "viewCount": "2601630",
         "likeCount": "47255",
         "favoriteCount": "0",
         "commentCount": "637"
