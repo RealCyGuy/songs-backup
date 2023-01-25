@@ -53,31 +53,18 @@
         "regionRestriction": {
             "blocked": [
                 "AS",
-                "BS",
                 "BZ",
-                "CA",
                 "CK",
-                "CO",
                 "CR",
-                "CU",
-                "EC",
                 "GT",
                 "HN",
-                "HT",
-                "JM",
-                "KY",
-                "MX",
                 "NI",
                 "NU",
-                "PA",
-                "PE",
                 "PF",
                 "PN",
                 "RU",
                 "SV",
-                "TC",
-                "UM",
-                "US"
+                "UM"
             ]
         },
         "contentRating": {},
@@ -87,8 +74,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2601596",
-        "likeCount": "47252",
+        "viewCount": "2601603",
+        "likeCount": "47255",
         "favoriteCount": "0",
         "commentCount": "637"
     }
