@@ -55,7 +55,6 @@
                 "AS",
                 "CK",
                 "NU",
-                "PF",
                 "RU",
                 "UM"
             ]
@@ -67,8 +66,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2601684",
-        "likeCount": "47256",
+        "viewCount": "2601708",
+        "likeCount": "47257",
         "favoriteCount": "0",
         "commentCount": "638"
     }
