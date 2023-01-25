@@ -52,8 +52,6 @@
         "licensedContent": false,
         "regionRestriction": {
             "blocked": [
-                "AS",
-                "NU",
                 "RU"
             ]
         },
@@ -64,7 +62,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2601747",
+        "viewCount": "2601773",
         "likeCount": "47257",
         "favoriteCount": "0",
         "commentCount": "638"
