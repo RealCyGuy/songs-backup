@@ -71,7 +71,6 @@
                 "CO",
                 "CR",
                 "CU",
-                "CV",
                 "CW",
                 "DM",
                 "DO",
@@ -80,7 +79,6 @@
                 "GD",
                 "GF",
                 "GP",
-                "GS",
                 "GT",
                 "GY",
                 "HN",
@@ -124,8 +122,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2601554",
-        "likeCount": "47251",
+        "viewCount": "2601576",
+        "likeCount": "47252",
         "favoriteCount": "0",
         "commentCount": "637"
     }
