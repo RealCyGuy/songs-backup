@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42Qjc2ODQ4M0E2QzMyQjZF",
+    "snippet": {
+        "publishedAt": "2023-01-26T16:40:45Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Naked - xooos (Acoustic ver)",
+        "description": "xooos instagram : xooos_ \n\nBusiness contact : jiwonkim@wavy.kr\n\nInstagram:\nArranged by Milena @moodformilena\nGuitar by \ucc44\uc6b1\uc9c4 @wookjinn\n\nYoutube:\nArranged by Milena (https://www.instagram.com/moodformilena/)\nGuitar by Wookjin of basecamp\n(https://www.youtube.com/@basecamp3568)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qTEXQ1D2ivY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qTEXQ1D2ivY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qTEXQ1D2ivY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qTEXQ1D2ivY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qTEXQ1D2ivY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qTEXQ1D2ivY"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "qTEXQ1D2ivY",
+        "videoPublishedAt": "2023-01-26T09:00:25Z",
+        "duration": "PT2M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "35108",
+        "likeCount": "4043",
+        "favoriteCount": "0",
+        "commentCount": "219"
+    }
+}
