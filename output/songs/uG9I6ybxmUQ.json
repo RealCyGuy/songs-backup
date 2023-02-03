@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "uG9I6ybxmUQ"
         },
-        "videoOwnerChannelTitle": "BlindingSunrise\u30d6\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba",
-        "videoOwnerChannelId": "UC-JbqbIdY6VZFZUcai-SPqw"
+        "videoOwnerChannelTitle": "Blinding Sunrise",
+        "videoOwnerChannelId": "UClVNrIFqvaz1mFLTzGDJYhQ"
     },
     "contentDetails": {
         "videoId": "uG9I6ybxmUQ",
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "5667292",
-        "likeCount": "146675",
+        "viewCount": "5667329",
+        "likeCount": "146676",
         "favoriteCount": "0",
         "commentCount": "12295"
     }
