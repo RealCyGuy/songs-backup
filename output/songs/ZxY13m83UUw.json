@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQTU3QTQ3NTdBM0U0MkY0",
+    "snippet": {
+        "publishedAt": "2023-02-03T01:09:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "LIGHTSUM(\ub77c\uc787\uc378) - 'GOOD NEWS' (Official Audio)",
+        "description": "LIGHTSUM(\ub77c\uc787\uc378) - 'GOOD NEWS' (Official Audio)\n\n[\ud83c\udfa7] \ud83d\udc9b [Into The Light] \ud83d\udc9a\n\u25abMelon http://kko.to/K1eKNDDVu\n\u25abhttps://ingrv.es/into-the-light \n\nLIGHTSUM Official YouTube: https://www.youtube.com/c/LIGHTSUMOfficial\nLIGHTSUM Official Twitter: https://twitter.com/cube_lightsum\nLIGHTSUM Official Instagram: https://www.instagram.com/cube_lightsum\nLIGHTSUM Official Facebook: https://www.facebook.com/LIGHTSUMOfficial\nLIGHTSUM Official Weibo: https://weibo.com/u/7588303806\nLIGHTSUM Official Fansite: https://www.united-cube.com\n\n\u24d2 All Rights Reserved CUBE Entertainment\n\n#LIGHTSUM #\ub77c\uc787\uc378 #Into_The_Light",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZxY13m83UUw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZxY13m83UUw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZxY13m83UUw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ZxY13m83UUw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ZxY13m83UUw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZxY13m83UUw"
+        },
+        "videoOwnerChannelTitle": "LIGHTSUM \ub77c\uc787\uc378 (Official YouTube Channel)",
+        "videoOwnerChannelId": "UCeQlMQ-4cedE7SNmF5JsdsA"
+    },
+    "contentDetails": {
+        "videoId": "ZxY13m83UUw",
+        "videoPublishedAt": "2022-06-01T17:08:04Z",
+        "duration": "PT3M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "13606",
+        "likeCount": "808",
+        "favoriteCount": "0",
+        "commentCount": "46"
+    }
+}
