@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "oxwENYRMbog"
         },
-        "videoOwnerChannelTitle": "\ub0a8\ub3d9\ud604 (Dong Hyun Nam)",
+        "videoOwnerChannelTitle": "\ub0a8\ub3d9\ud604",
         "videoOwnerChannelId": "UCoVYIkvAflQOdQxNjc0Tx3w"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "12706",
+        "viewCount": "12707",
         "likeCount": "1106",
         "favoriteCount": "0",
         "commentCount": "157"
