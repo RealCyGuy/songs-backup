@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNEM2MTVCMkYyMjU2NTE2",
+    "snippet": {
+        "publishedAt": "2022-08-05T03:33:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Say So/Doja Cat(Japanese Version) / Covered by Nabi&Amelia",
+        "description": "original. Doja Cat\nhttps://youtu.be/pok8H_KF1FA\nSay So (JAPANESE VERSION) - by Rainych\nhttps://youtu.be/EsZbWAqU8xY\n\nvocal. Nabi&Amelia\nhttps://twitter.com/aoinabi\nhttps://twitter.com/watsonameliaEN\n\nmix&mastering. seibin\nhttps://twitter.com/_seibin\n\ninst, Nikoi\nhttps://twitter.com/nikoi0227\n\nvideo. TEMACA\nhttps://twitter.com/Temaca333",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wbdnO13ZoyI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wbdnO13ZoyI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wbdnO13ZoyI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/wbdnO13ZoyI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/wbdnO13ZoyI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wbdnO13ZoyI"
+        },
+        "videoOwnerChannelTitle": "Nabi",
+        "videoOwnerChannelId": "UCzKkwB84Y0ql0EvyOWRSkEw"
+    },
+    "contentDetails": {
+        "videoId": "wbdnO13ZoyI",
+        "videoPublishedAt": "2022-07-31T11:00:15Z",
+        "duration": "PT3M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "693218",
+        "likeCount": "60519",
+        "favoriteCount": "0",
+        "commentCount": "0"
+    }
+}
