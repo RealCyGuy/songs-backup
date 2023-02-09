@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CRTFGREIxNTVBRDA5MUFG",
+    "snippet": {
+        "publishedAt": "2023-02-09T08:00:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "AKIZ Love like Oxygen (original: SHINee) Lyrics (Color Coded Lyrics)",
+        "description": "All Administrated by \n\n\u2022 Artist: AKIZ\n\u2022 Song: Love like Oxygen (original: SHINee)\n\u2022 Album: 2022 KBS Song Festival\n\u2022 Released: 2022.12.17\n............................................................................. \n\u2022FOLLOW ME:\nFacebook: https://www.facebook.com/Chaereve\nInstagram: https://www.instagram.com/chaereve__\nTwitter: https://twitter.com/Chaereve_\nTiktok: https://tiktok.com/@chaereve\n................................................................................ \n\u2022 No copyright infringement intended / Don't reupload \n\n\ud83d\udce9 REQUEST: https://forms.gle/v7yzXuUpi323PGgV8\n................................................................................\nTAGS:\nakiz\nive\nnmixx\nlesserafim\nnewjeans\nleeseo\nsullyoon\neunchae\nminji\nhyein\nakiz topic\nakiz lyrics\nakiz love like oxygen\nakiz love like oxygen lyrics\nakiz love like oxygen color coded lyrics\nakiz love like oxygen audio\nakiz love like oxygen live\nakiz love like oxygen concert\nakiz love like oxygen music video\nakiz love like oxygen mv\nakiz love like oxygen teaser\nakiz love like oxygen line distribution\nakiz love like oxygen cover\nakiz love like oxygen reaction\nakiz love like oxygen lyrics\nakiz love like oxygen instrumental\nakiz love like oxygen karaoke\nakiz love like oxygen inst\nakiz love like oxygen English version\nChaereve\n\ucc28\ub808\ube0c\n................................................................................ \n#akiz #leeseo #sullyoon #eunchae #minji #hyein #lovelikeoxygen #shinee",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gCc_dqj_W1s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gCc_dqj_W1s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gCc_dqj_W1s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/gCc_dqj_W1s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/gCc_dqj_W1s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gCc_dqj_W1s"
+        },
+        "videoOwnerChannelTitle": "Chaereve",
+        "videoOwnerChannelId": "UCHztIyDNlLlZ6JA85a6BdCw"
+    },
+    "contentDetails": {
+        "videoId": "gCc_dqj_W1s",
+        "videoPublishedAt": "2022-12-17T09:45:40Z",
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "28096",
+        "likeCount": "576",
+        "favoriteCount": "0",
+        "commentCount": "36"
+    }
+}
