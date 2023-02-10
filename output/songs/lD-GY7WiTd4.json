@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "lD-GY7WiTd4"
         },
-        "videoOwnerChannelTitle": "MOMO - Topic",
+        "videoOwnerChannelTitle": "MISAMO - Topic",
         "videoOwnerChannelId": "UCiycE6vc3kx5ZYffHzf0bMA"
     },
     "contentDetails": {
@@ -161,8 +161,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "409176",
-        "likeCount": "11947",
+        "viewCount": "409453",
+        "likeCount": "11954",
         "favoriteCount": "0",
         "commentCount": "0"
     }
