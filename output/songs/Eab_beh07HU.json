@@ -45,12 +45,6 @@
         "definition": "sd",
         "caption": "false",
         "licensedContent": false,
-        "regionRestriction": {
-            "blocked": [
-                "BY",
-                "RU"
-            ]
-        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -58,9 +52,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "34276337",
-        "likeCount": "226645",
+        "viewCount": "34276642",
+        "likeCount": "226646",
         "favoriteCount": "0",
-        "commentCount": "10203"
+        "commentCount": "10204"
     }
 }
