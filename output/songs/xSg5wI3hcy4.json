@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EODMwQ0MyQjgwQTVGRTg2",
+    "snippet": {
+        "publishedAt": "2023-02-10T01:29:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\ud504\ub85c\ubbf8\uc2a4\ub098\uc778 (fromis_9) flaylist 'Ariana Grande - Santa Tell Me' cover by fromis_9",
+        "description": "#\ud504\ub85c\ubbf8\uc2a4\ub098\uc778 #fromis_9 #flaylist\n\r\n\u25b7Official Twitter : https://twitter.com/realfromis_9\r\n\u25b7Official Facebook : https://www.facebook.com/officialfromis9 \r\n\u25b7Official Instagram : https://www.instagram.com/officialfromis_9/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xSg5wI3hcy4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xSg5wI3hcy4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xSg5wI3hcy4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xSg5wI3hcy4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xSg5wI3hcy4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xSg5wI3hcy4"
+        },
+        "videoOwnerChannelTitle": "Official fromis_9",
+        "videoOwnerChannelId": "UC8qO5racajmy4YgPgNJkVXg"
+    },
+    "contentDetails": {
+        "videoId": "xSg5wI3hcy4",
+        "videoPublishedAt": "2020-12-24T12:00:01Z",
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "429118",
+        "likeCount": "26180",
+        "favoriteCount": "0",
+        "commentCount": "1418"
+    }
+}

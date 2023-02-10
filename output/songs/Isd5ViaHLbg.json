@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GQjQyMjRFQUYyOUQ5QTFF",
+    "snippet": {
+        "publishedAt": "2023-02-10T01:48:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[fl\u25b6\ufe0fylist] '\u7af9\u5185\u307e\u308a\u3084(Takeuchi Mariya)- Plastic Love' cover by \ud558\uc601",
+        "description": "[fl\u25b6\ufe0fylist(fromis_9 Playlist)] '\u7af9\u5185\u307e\u308a\u3084(Takeuchi Mariya)- Plastic Love' cover by \ud558\uc601\n\n#\ud504\ub85c\ubbf8\uc2a4\ub098\uc778 #fromis_9 #f_laylist\n\nfromis_9 Official Homepage : https://www.pledis.co.kr/html/artist/fromisnine\nfromis_9 Official Twitter : https://twitter.com/realfromis_9\nfromis_9 Official Facebook : https://www.facebook.com/officialfromis9\nfromis_9 Official Instagram : https://www.instagram.com/officialfromis_9/\nfromis_9 Official Weverse : https://www.weverse.io/fromis9/feed\nfromis_9 Official Fancafe : https://cafe.daum.net/fromis9\nfromis_9 Official TikTok : https://www.tiktok.com/@official_fromis9\n\n\u24d2 PLEDIS Entertainment. All Rights Reserved",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Isd5ViaHLbg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Isd5ViaHLbg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Isd5ViaHLbg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Isd5ViaHLbg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Isd5ViaHLbg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Isd5ViaHLbg"
+        },
+        "videoOwnerChannelTitle": "Official fromis_9",
+        "videoOwnerChannelId": "UC8qO5racajmy4YgPgNJkVXg"
+    },
+    "contentDetails": {
+        "videoId": "Isd5ViaHLbg",
+        "videoPublishedAt": "2022-06-02T12:00:02Z",
+        "duration": "PT4M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "916036",
+        "likeCount": "37904",
+        "favoriteCount": "0",
+        "commentCount": "1834"
+    }
+}
