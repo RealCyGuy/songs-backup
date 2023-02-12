@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41Q0ZCMzc2NDA0MEQyM0Ew",
+    "snippet": {
+        "publishedAt": "2023-02-12T18:37:06Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "We're Not Candy - Otamatone PSA",
+        "description": "This is serious...\n\nWatch the side-by-side comparison: https://www.youtube.com/watch?v=G8PeiKUrfBk\n\n*Affiliate Links*\nBrowse all Otamatones: https://hamee.com/collections/otamatone?ref=TheRealSullyG\nRegular Otamatone (White): https://hamee.com/collections/otamatone/products/otamatone-from-maywa-denki-white?ref=TheRealSullyG\nOtamatone Deluxe (White): https://hamee.com/collections/otamatone/products/otamatone-deluxe-from-meiwa-denki-white?ref=TheRealSullyG\nOtamatone Melody (White): https://hamee.com/collections/otamatone/products/otamatone-melody-from-meiwa-denki-white?ref=TheRealSullyG \n\nConsider supporting my creations on Patreon: https://www.patreon.com/therealsullyg\n\nThank you to all my Patreon supporters:\nAGuyCalledHumphrey\nBriandReed\ndssrtfx\nEnder Cobra\nGeophpheri\nJacobWSX\nJames Newburrie\nJulio12318\nKaybee\nLil Linguine\nOrkfighta\nPeter Shillito\nRheanna Resultay\nSegg Gway\nWootbot\n1blooy1\nAlexander Velazquez\nBlack Iron Tarkus\nBryan Baird\nCrimson\nDalyn Riemann\nDavid H\nDavid Kolde\nDerek Wagner\nDylan Ramsey\nIceSkatingBee\nJake Green\nJimmyDukeStr\nJohn Taylor\nMalwareChubb (Gaming)\nPablo Ornelas\nPj Reasbeck\nRIM-JAM (Jared & Rocky)\nRuofeng Jiang\nSemok Bohaska\nSteven Moore\nThat One Artist\nZach Smallwood\nZak Hammat",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qLTCh1WpDBU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qLTCh1WpDBU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qLTCh1WpDBU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qLTCh1WpDBU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qLTCh1WpDBU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qLTCh1WpDBU"
+        },
+        "videoOwnerChannelTitle": "TheRealSullyG",
+        "videoOwnerChannelId": "UCk-PPUZtKgj-GuyVaXSrhVQ"
+    },
+    "contentDetails": {
+        "videoId": "qLTCh1WpDBU",
+        "videoPublishedAt": "2023-02-12T17:00:37Z",
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "11548",
+        "likeCount": "2352",
+        "favoriteCount": "0",
+        "commentCount": "201"
+    }
+}

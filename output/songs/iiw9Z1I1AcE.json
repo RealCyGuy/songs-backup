@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xOTNGMkZCNDRFREMxNjlC",
+    "snippet": {
+        "publishedAt": "2023-02-12T18:42:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Overdose - Kobo Kanaeru (Cover)",
+        "description": "=======================================\n Original by \u306a\u3068\u308a\u69d8 @Siritoriyowai_ \n https://youtu.be/H08YWE4CIFQ\n =======================================\n\u00a4 Vocal: Kobo Kanaeru (https://twitter.com/kobokanaeru)\n\u00a4 Illustration: Cheschorv (https://twitter.com/creepy_himecchi)\n\u00a4 Mix: Bpk. Sutirto (https://twitter.com/bpk_SUTIRTO)\n\u00a4 Puppeting: CissXD (Kuli Komis https://twitter.com/Cissrawk_)\n\u00a4 Video: Maad (Kuli Komis https://twitter.com/Maad_R)\n\nSpecial shout-out to  https://youtu.be/asx6ILgcRtA\n=======================================\n\n Check my original song on Spotify ! \n https://open.spotify.com/track/5npIL1FmDdtzjLUpLUZ9w7?si=IVfHm6tIQmGz3nDv57aXyg&nd=1\n\n \u3010Twitter\u3011\n  https://twitter.com/kobokanaeru\n \u3010Instagram\u3011\n  https://www.instagram.com/kobokanaeru\n \u3010Tiktok\u3011\n  https://www.tiktok.com/@kobokanaeru\n \u3010Facebook\u3011\n https://www.facebook.com/KoboKanaeru\n\n #kobo_kanaeru #holoID #holoID03",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/iiw9Z1I1AcE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/iiw9Z1I1AcE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/iiw9Z1I1AcE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/iiw9Z1I1AcE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/iiw9Z1I1AcE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "iiw9Z1I1AcE"
+        },
+        "videoOwnerChannelTitle": "Kobo Kanaeru Ch. hololive-ID",
+        "videoOwnerChannelId": "UCjLEmnpCNeisMxy134KPwWw"
+    },
+    "contentDetails": {
+        "videoId": "iiw9Z1I1AcE",
+        "videoPublishedAt": "2023-01-14T13:00:10Z",
+        "duration": "PT3M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2043277",
+        "likeCount": "136850",
+        "favoriteCount": "0",
+        "commentCount": "9966"
+    }
+}
