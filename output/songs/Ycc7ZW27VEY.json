@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42RkY3NkQ5NUQwODM2Q0RE",
+    "snippet": {
+        "publishedAt": "2023-02-12T18:13:36Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010absolute music\u3011\u3010\u7070\u6f88Official\u3011\u661f\u8336\u4f1a\uff08Stars' Tea Party\uff09\uff08\u521d\u6295\u7a3f\uff09\u3010huiche\u3011",
+        "description": "\u5927\u5bb6\u597d\uff0c\u6211\u662f\u7070\u6f88\uff0c\u5f88\u9ad8\u5174\u80fd\u591f\u6765\u5230YouTube \u8fd9\u4e2a\u5e73\u53f0\u5206\u4eab\u6211\u7684\u4f5c\u54c1\uff0c\u4e4b\u540e\u4f1a\u9646\u7eed\u53d1\u5e03\u66f4\u591a\u97f3\u4e50\u4f5c\u54c1\uff0c\u611f\u8c22\u8ba2\u9605\u548c\u5173\u6ce8\ud83d\ude0a\nHello,I'm \u7070\u6f88 from China.\nI am glad you enjoy \u300a\u661f\u8336\u4f1a\u300b.\nI'm so happy to be here on YouTube to share my music.\nI will post my other original works later, thanks for the subscription and attention.\n\ntwitter\u2192@huiche_official",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Ycc7ZW27VEY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Ycc7ZW27VEY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Ycc7ZW27VEY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Ycc7ZW27VEY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Ycc7ZW27VEY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Ycc7ZW27VEY"
+        },
+        "videoOwnerChannelTitle": "\u7070\u6f88Official",
+        "videoOwnerChannelId": "UCku-CBQ-sj4SwN9AQHJzOtA"
+    },
+    "contentDetails": {
+        "videoId": "Ycc7ZW27VEY",
+        "videoPublishedAt": "2020-11-12T14:31:03Z",
+        "duration": "PT3M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "520257",
+        "likeCount": "22602",
+        "favoriteCount": "0",
+        "commentCount": "747"
+    }
+}
