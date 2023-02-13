@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "AlrR89Hv01c"
         },
-        "videoOwnerChannelTitle": "Lionel Yu",
+        "videoOwnerChannelTitle": "We Are One",
         "videoOwnerChannelId": "UCDjwdhrPW_MPEleDnPXOYTA"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "unlisted"
     },
     "statistics": {
-        "viewCount": "173373",
+        "viewCount": "173375",
         "likeCount": "5687",
         "favoriteCount": "0",
         "commentCount": "203"
