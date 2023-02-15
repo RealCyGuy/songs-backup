@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45Nzc0NjZDQjJCNDA1NUE5",
+    "snippet": {
+        "publishedAt": "2023-02-15T07:32:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kawaigute Gomen\u300c\u53ef\u611b\u304f\u3066\u3054\u3081\u3093\u300dft. \u304b\u3074 - HoneyWorks | Shania Yan Cover",
+        "description": "If you like this video please LIKE COMMENT & SUBSCRIBE\nShare this video to your family and friends :))\n\nListen to my latest music release here \n\nhttps://bio.to/ShaniaYan\n\nFollow my socials\ud83d\ude04 :\nInstagram: https://www.instagram.com/ShaniaYanOfc\nTwitter      : https://twitter.com/ShaniaYanOfc\nFacebook : https://www.facebook.com/ShaniaYanOfc\nTiktok       : https://www.tiktok.com/@shaniayanofc",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WgTms03-syU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WgTms03-syU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WgTms03-syU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WgTms03-syU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WgTms03-syU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WgTms03-syU"
+        },
+        "videoOwnerChannelTitle": "Shania Yan",
+        "videoOwnerChannelId": "UCcaYkWDw6A4_8awJgKGWeGA"
+    },
+    "contentDetails": {
+        "videoId": "WgTms03-syU",
+        "videoPublishedAt": "2022-12-03T12:00:08Z",
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "356479",
+        "likeCount": "17076",
+        "favoriteCount": "0",
+        "commentCount": "779"
+    }
+}
