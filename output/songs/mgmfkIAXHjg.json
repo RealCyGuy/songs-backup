@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wQkE5RjRERURGNTEyQUY4",
+    "snippet": {
+        "publishedAt": "2023-02-15T16:24:43Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Chainsaw Man Opening - Kick Back [8 Bit; VRC6]",
+        "description": "**FEEL FREE TO USE THIS REMIX ON YOUR VIDEOS AS LONG AS YOU CREDIT ME**\n\nI don't know much about Chainsaw Man yet, but the opening slaps so hard that I had to remix it. This was one of the hardest songs I've covered so far, the mixing it had made it very difficult for me to hear some chords, specially the ones the guitar plays, so I had to get help from a guitar and a bass cover, and then, guess the notes of the little ornaments based on the scale of the song. I also went a bit crazy with the sound design, the most fun part of it was trying to recreate the little scream that appears sometimes haha. By the way, please note that this remix is around 3 bpm slower than the original because Famitracker can't handle odd bpm numbers very well.\n\n*Pixel art by FilipeBrizolara: https://twitter.com/FilipeBrizolara/status/1338157284543881217\n*Background animation by me.\n*Remix produced by me in Famitracker 0cc.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mgmfkIAXHjg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mgmfkIAXHjg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mgmfkIAXHjg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/mgmfkIAXHjg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/mgmfkIAXHjg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mgmfkIAXHjg"
+        },
+        "videoOwnerChannelTitle": "MegaBaz",
+        "videoOwnerChannelId": "UCgdmPMH0a-pdiKgvsfpwsRQ"
+    },
+    "contentDetails": {
+        "videoId": "mgmfkIAXHjg",
+        "videoPublishedAt": "2022-10-18T18:47:02Z",
+        "duration": "PT3M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "757681",
+        "likeCount": "55747",
+        "favoriteCount": "0",
+        "commentCount": "1155"
+    }
+}
