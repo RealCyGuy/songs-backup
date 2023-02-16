@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MkVGRDAxOENCMjJGMzVB",
+    "snippet": {
+        "publishedAt": "2023-02-16T15:47:40Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ditto (Full ver.) - Newjeans (cover by Fyeqoodgurl)",
+        "description": "Get back to my old style of video!;)\ud83e\udd8b\nPs. I just released my own single! please check it out \ud83d\udc99\n\nArrangement & piano : Wutthiporp Singthaweesak\nBass : Pond62pound \nInst. mixing : Kittipat.sri\nVocal Mixing : Fyeqoodgurl\nMastering : Gun MEAN\nChorus design : Fyeqoodgurl\nVideo editor : Fyeqoodgurl\nArt director : Fyeqoodgurl\n\nInstagram : https://www.instagram.com/fyeqoodgurl\nSoundcloud : https://soundcloud.com/fyeqoodgurl\nTwitter : https://twitter.com/fyeqoodgurl\nFacebook : https://www.facebook.com/fyeqoodgurl\nTikTok: https://www.tiktok.com/@fyeqoodgurl",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Tn8L37Gsa1E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Tn8L37Gsa1E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Tn8L37Gsa1E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Tn8L37Gsa1E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Tn8L37Gsa1E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Tn8L37Gsa1E"
+        },
+        "videoOwnerChannelTitle": "Fyeqoodgurl",
+        "videoOwnerChannelId": "UCqQ_OOh6zWczZWwkM48z5XA"
+    },
+    "contentDetails": {
+        "videoId": "Tn8L37Gsa1E",
+        "videoPublishedAt": "2023-02-16T12:00:17Z",
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6356",
+        "likeCount": "1218",
+        "favoriteCount": "0",
+        "commentCount": "80"
+    }
+}
