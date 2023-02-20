@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NTU2NTAzQzlDMzlEQTcx",
+    "snippet": {
+        "publishedAt": "2023-02-20T22:28:14Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "TWICE - MOONLIGHT SUNRISE (Areia Remix)",
+        "description": "Did you enjoy this Kpop Remix? \nSubscribe to my channel and support me on Patreon! http://www.patreon.com/areiacreations\nOr just buy me a coffee! https://www.buymeacoffee.com/areiacreations\n\nVocal Recording, Lyrics, Music Video Copyright\u00a92023 TWICE Pre-release english track \"MOONLIGHT SUNRISE\" M/V\n\nRemix Arrangement Copyright\u00a92023 Areia Creations Global Entertainment LTD (Areia Instrumental 569)\n\nRemix produced by Jun Areia\n\nI do artist development & production.\nFind me on Instagram, Twitter and Facebook @areiacreations\n\n#twice #kpopremix #areiaremix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/KZrYRa_Ks6o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/KZrYRa_Ks6o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/KZrYRa_Ks6o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/KZrYRa_Ks6o/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/KZrYRa_Ks6o/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "KZrYRa_Ks6o"
+        },
+        "videoOwnerChannelTitle": "Areia Creations",
+        "videoOwnerChannelId": "UCR9hrtsbRFUD1EMsY1J5OdQ"
+    },
+    "contentDetails": {
+        "videoId": "KZrYRa_Ks6o",
+        "videoPublishedAt": "2023-01-31T17:15:52Z",
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "22046",
+        "likeCount": "900",
+        "favoriteCount": "0",
+        "commentCount": "28"
+    }
+}
