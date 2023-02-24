@@ -34,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "IHXFseXQge0"
         },
-        "videoOwnerChannelTitle": "Miloh Productions",
+        "videoOwnerChannelTitle": "Miloh",
         "videoOwnerChannelId": "UCWNITzhCK-iVNnDgKJiP3Kg"
     },
     "contentDetails": {
@@ -52,7 +52,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "581420",
+        "viewCount": "581441",
         "likeCount": "26901",
         "favoriteCount": "0",
         "commentCount": "832"
