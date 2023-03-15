@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xQzI5OTQ5RkQwODhCM0JE",
+    "snippet": {
+        "publishedAt": "2023-03-15T06:39:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\uc774\uc0c1\ud55c \ubcc0\ud638\uc0ac \uc6b0\uc601\uc6b0OST - \uc0c1\uc0c1 COVER by BRMY",
+        "description": "\uadf8\ub0e5 \ub9ce\uc740 \ubd84\ub4e4\ud55c\ud14c \ub530\ub73b\ud558\uac8c \uc804\ud574\uc84c\uc73c\uba74 \uc88b\uaca0\uc5b4\uc694. \ubaa8\ub450\uac00 \ud589\ubcf5\ud588\uc73c\uba74 \uc88b\uaca0\uc5b4\uc694. \uadf8\uac8c \ub2e4\uc608\uc694\u00b7\u1d17\u00b7\n\n\u25a0 Instagram :\n@boramiyu_\nhttps://www.instagram.com/boramiyu_\n\n\u25a0 Contact :\nboramiyu_@naver.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sdowMTtnkmY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sdowMTtnkmY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sdowMTtnkmY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/sdowMTtnkmY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "sdowMTtnkmY"
+        },
+        "videoOwnerChannelTitle": "\ubcf4\ub77c\ubbf8\uc720 Boramiyu",
+        "videoOwnerChannelId": "UCEgIN0yG3PeVF4JfJ-ZG0UQ"
+    },
+    "contentDetails": {
+        "videoId": "sdowMTtnkmY",
+        "videoPublishedAt": "2022-08-17T11:03:11Z",
+        "duration": "PT3M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "98308",
+        "likeCount": "2008",
+        "favoriteCount": "0",
+        "commentCount": "177"
+    }
+}
