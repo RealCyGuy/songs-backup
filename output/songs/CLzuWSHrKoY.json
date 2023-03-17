@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40RjUxRTc4MjAwQzMwOUEy",
+    "snippet": {
+        "publishedAt": "2023-03-17T21:47:23Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[\uc5d4\ubbf9\uc2a4] \uc0ac\ub791\uc778\uac00 \ubd10 (Love, Maybe) Covered by \uc624\ud574\uc6d0",
+        "description": "[\uc5d4\ubbf9\uc2a4] \uc0ac\ub791\uc778\uac00 \ubd10 (Love, Maybe) Covered by \uc624\ud574\uc6d0\n\n\uc6d0\ubcf8 \uc601\uc0c1 :  https://www.youtube.com/watch?v=PxA7lXSzX60\n\n#\uc5d4\ubbf9\uc2a4 #NMIXX #\ud574\uc6d0 #\ub9b4\ub9ac #\uc124\uc724 #\uc9c0\ub2c8 #\ubc30\uc774 #\uc9c0\uc6b0 #\uaddc\uc9c4",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CLzuWSHrKoY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CLzuWSHrKoY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CLzuWSHrKoY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/CLzuWSHrKoY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/CLzuWSHrKoY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "CLzuWSHrKoY"
+        },
+        "videoOwnerChannelTitle": "\ub610 \uc624\ud574\uc6d0",
+        "videoOwnerChannelId": "UCdklEvpqkr8_iN13ATR2TVA"
+    },
+    "contentDetails": {
+        "videoId": "CLzuWSHrKoY",
+        "videoPublishedAt": "2023-02-22T09:30:56Z",
+        "duration": "PT1M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "230121",
+        "likeCount": "9521",
+        "favoriteCount": "0",
+        "commentCount": "212"
+    }
+}
