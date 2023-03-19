@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "2kp8B3x28pM"
         },
-        "videoOwnerChannelTitle": "Zac Markovic",
+        "videoOwnerChannelTitle": "Yaboii Zac",
         "videoOwnerChannelId": "UCyAvMuiO3rpX-P8HEAA0tOQ"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6657513",
-        "likeCount": "274469",
+        "viewCount": "6657745",
+        "likeCount": "274475",
         "favoriteCount": "0",
-        "commentCount": "26585"
+        "commentCount": "26587"
     }
 }
