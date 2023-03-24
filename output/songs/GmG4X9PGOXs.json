@@ -29,7 +29,7 @@
             "kind": "youtube#video",
             "videoId": "GmG4X9PGOXs"
         },
-        "videoOwnerChannelTitle": "JonLajoie",
+        "videoOwnerChannelTitle": "Jon Lajoie / Wolfie\u2019s Just Fine",
         "videoOwnerChannelId": "UC-716wgP94vhil91RVJwaIQ"
     },
     "contentDetails": {
@@ -47,8 +47,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "78606635",
-        "likeCount": "1863520",
+        "viewCount": "78610544",
+        "likeCount": "1863558",
         "favoriteCount": "0",
         "commentCount": "57530"
     }
