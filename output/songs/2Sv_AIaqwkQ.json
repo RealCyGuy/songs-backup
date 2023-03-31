@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "2Sv_AIaqwkQ"
         },
-        "videoOwnerChannelTitle": "ChaconneScott_ACG on Piano",
+        "videoOwnerChannelTitle": "ChaconneScott",
         "videoOwnerChannelId": "UCHUkY44rzCum8uo7_q76kmg"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "146580",
+        "viewCount": "146585",
         "likeCount": "6568",
         "favoriteCount": "0",
         "commentCount": "177"
