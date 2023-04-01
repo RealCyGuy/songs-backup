@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "9uXweFk8Ll8"
         },
-        "videoOwnerChannelTitle": "Frances Bean c",
+        "videoOwnerChannelTitle": "Frances b",
         "videoOwnerChannelId": "UCEfW6udk0HNNE50__KrtIlg"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2980547",
+        "viewCount": "2980588",
         "likeCount": "50341",
         "favoriteCount": "0",
         "commentCount": "3209"
