@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "LD7zeEXxFMo"
         },
-        "videoOwnerChannelTitle": "Neardayo",
+        "videoOwnerChannelTitle": "Noadayo",
         "videoOwnerChannelId": "UC7KQ8VFWSjHfFLF81DUfJMA"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "14267",
+        "viewCount": "14269",
         "likeCount": "305",
         "favoriteCount": "0",
         "commentCount": "24"
