@@ -44,22 +44,9 @@
     },
     "contentDetails": {
         "videoId": "ESx_hy1n7HA",
-        "videoPublishedAt": "2016-06-12T11:00:30Z",
-        "duration": "PT3M33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoPublishedAt": "2016-06-12T11:00:30Z"
     },
     "status": {
         "privacyStatus": "public"
-    },
-    "statistics": {
-        "viewCount": "16320797",
-        "likeCount": "185482",
-        "favoriteCount": "0",
-        "commentCount": "3822"
     }
 }
