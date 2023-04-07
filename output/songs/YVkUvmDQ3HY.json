@@ -44,9 +44,29 @@
     },
     "contentDetails": {
         "videoId": "YVkUvmDQ3HY",
-        "videoPublishedAt": "2009-06-16T23:00:29Z"
+        "videoPublishedAt": "2009-06-16T23:00:29Z",
+        "duration": "PT4M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1630913281",
+        "likeCount": "11794670",
+        "favoriteCount": "0",
+        "commentCount": "343467"
     }
 }

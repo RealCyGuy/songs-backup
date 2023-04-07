@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "WXxV9g7lsFE",
-        "videoPublishedAt": "2009-10-19T06:10:49Z"
+        "videoPublishedAt": "2009-10-19T06:10:49Z",
+        "duration": "PT3M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "264584775",
+        "likeCount": "2267107",
+        "favoriteCount": "0",
+        "commentCount": "79973"
     }
 }

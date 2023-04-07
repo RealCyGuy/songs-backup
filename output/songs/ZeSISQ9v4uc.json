@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "ZeSISQ9v4uc",
-        "videoPublishedAt": "2020-02-21T08:00:12Z"
+        "videoPublishedAt": "2020-02-21T08:00:12Z",
+        "duration": "PT4M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1137781",
+        "likeCount": "26613",
+        "favoriteCount": "0",
+        "commentCount": "564"
     }
 }
