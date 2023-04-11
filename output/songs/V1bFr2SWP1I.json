@@ -39,7 +39,7 @@
         "dimension": "2d",
         "definition": "sd",
         "caption": "true",
-        "licensedContent": false,
+        "licensedContent": true,
         "regionRestriction": {
             "allowed": [
                 "AD",
@@ -300,9 +300,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1293067533",
-        "likeCount": "9444766",
+        "viewCount": "1293078403",
+        "likeCount": "9444866",
         "favoriteCount": "0",
-        "commentCount": "394434"
+        "commentCount": "394449"
     }
 }
