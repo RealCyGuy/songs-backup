@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5WBWIKnr0Os"
         },
-        "videoOwnerChannelTitle": "Jerobeam Fenderson",
+        "videoOwnerChannelTitle": "sternmull",
         "videoOwnerChannelId": "UCECl4aNz5hvuRzW5fgCOHKQ"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "450173",
-        "likeCount": "13934",
+        "viewCount": "450191",
+        "likeCount": "13935",
         "favoriteCount": "0",
-        "commentCount": "810"
+        "commentCount": "811"
     }
 }
