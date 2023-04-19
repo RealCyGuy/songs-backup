@@ -85,6 +85,7 @@
                 "FR",
                 "GB",
                 "GF",
+                "GP",
                 "GR",
                 "GT",
                 "GU",
@@ -129,6 +130,7 @@
                 "PG",
                 "PH",
                 "PL",
+                "PR",
                 "PT",
                 "PY",
                 "QA",
@@ -162,8 +164,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "153210451",
-        "likeCount": "1325594",
+        "viewCount": "153216434",
+        "likeCount": "1325631",
         "favoriteCount": "0",
         "commentCount": "3413"
     }
