@@ -48,7 +48,7 @@
         "duration": "PT4M24S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "862167",
+        "viewCount": "862192",
         "likeCount": "11829",
         "favoriteCount": "0",
         "commentCount": "259"
