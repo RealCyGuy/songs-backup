@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ERjczNzU3RTZFQjlCRkU3",
+    "snippet": {
+        "publishedAt": "2023-04-23T16:25:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[COVER] B-DAY TRACK #417 \u201cRYUJIN\u201d | Every Second by Mina Okabe",
+        "description": "[COVER] B-DAY TRACK #417 \u201cRYUJIN\u201d | Every Second by Mina Okabe\n\n\ud83c\udfac MV https://youtu.be/zugAhfd2r0g\n\ud83c\udfa7 TITLE http://kko.to/OACKMtlBJg\n\ud83d\udcbf PRE-SAVE & PRE-ORDER https://ITZY.lnk.to/CHESHIRE\n\n[ITZY Official]\n\u25b6 https://www.youtube.com/c/ITZY\n\u25b6 https://www.instagram.com/itzy.all.in.us\n\u25b6 https://www.tiktok.com/@itzyofficial\n\u25b6 http://www.twitter.com/ITZYOfficial\n\u25b6 http://www.facebook.com/OfficialITZY\n\u25b6 https://www.weibo.com/u/7462077750?is\n\u25b6 http://ITZY.jype.com\n\u25b6 http://fans.jype.com/ITZY\n\n#ITZY #RYUJIN #EVERYSECOND\n\nCopyrights 2023 \u24d2 JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ra27BWdRpm4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ra27BWdRpm4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ra27BWdRpm4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ra27BWdRpm4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ra27BWdRpm4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ra27BWdRpm4"
+        },
+        "videoOwnerChannelTitle": "ITZY",
+        "videoOwnerChannelId": "UCDhM2k2Cua-JdobAh5moMFg"
+    },
+    "contentDetails": {
+        "videoId": "ra27BWdRpm4",
+        "videoPublishedAt": "2023-04-16T15:00:39Z",
+        "duration": "PT2M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "420536",
+        "likeCount": "63433",
+        "favoriteCount": "0",
+        "commentCount": "5060"
+    }
+}
