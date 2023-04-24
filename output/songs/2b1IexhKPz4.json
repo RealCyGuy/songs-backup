@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RjM3NzM3MzM1Q0Q5M0U4",
+    "snippet": {
+        "publishedAt": "2023-04-24T00:28:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 / \u3044\u3088\u308f feat.\u53ef\u4e0d\uff08Kyu-kurarin / Iyowa feat.Kafu\uff09",
+        "description": "\u80c3\u304c\u5f31\u3044\u304b\u3089\u3044\u3088\u308f\u3067\u3059\n\n\u6b4c\u5531\u3000\u53ef\u4e0d\n\u4f5c\u7de8\u66f2\u30fb\u52d5\u753b\u3000\u3044\u3088\u308f\uff08Twitter\u2192@igusuri_please\uff09\n\n\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u30fbDL\u8ca9\u58f2\u306f\u3058\u307e\u308a\u307e\u3057\u305f\nhttps://linkco.re/1CnuFfrb\n\n\u5236\u4f5c\u697d\u66f2\u518d\u751f\u30ea\u30b9\u30c8\u306f\u3053\u3061\u3089\nhttps://www.youtube.com/playlist?list=PLIDn9eXKA5eRtAQtxU4R4bna5tXwHMVEI",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2b1IexhKPz4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2b1IexhKPz4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2b1IexhKPz4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/2b1IexhKPz4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/2b1IexhKPz4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2b1IexhKPz4"
+        },
+        "videoOwnerChannelTitle": "\u3044\u3088\u308f/ iyowa",
+        "videoOwnerChannelId": "UCLz6MG2kx_0xeaW0LowYnMQ"
+    },
+    "contentDetails": {
+        "videoId": "2b1IexhKPz4",
+        "videoPublishedAt": "2021-08-29T11:00:01Z",
+        "duration": "PT3M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "26409762",
+        "likeCount": "364015",
+        "favoriteCount": "0",
+        "commentCount": "10981"
+    }
+}

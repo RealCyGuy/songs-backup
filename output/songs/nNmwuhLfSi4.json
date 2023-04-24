@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NTc3Q0VCQkM2M0IwRUVG",
+    "snippet": {
+        "publishedAt": "2023-04-24T00:22:30Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "JVKE - golden hour (Fujii Kaze Remix)",
+        "description": "STREAM: golden hour (Fujii Kaze Remix): https://jvke.ffm.to/goldenhourxfujiikaze\n\nNEW ALBUM: this is what ____ feels like, out now: https://jvke.ffm.to/whatblankfeelslike\n\nSUBSCRIBE: https://www.youtube.com/channel/UCSOf...\n\nFOLLOW ME ON INSTAGRAM @ITSJVKE: https://www.instagram.com/itsjvke\u200b\n\nFOLLOW ME ON TIKTOK @JVKE: https://www.tiktok.com/@jvke\u200b\n\nFOLLOW ME ON TWITTER @JVKESONGS: https://twitter.com/jvkesongs\u200b\n\nSNAP ME: https://www.snapchat.com/add/imjakela\u200b...\n\nNEW MERCH: http://itsjvke.com/#shop\u200b",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nNmwuhLfSi4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nNmwuhLfSi4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nNmwuhLfSi4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/nNmwuhLfSi4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/nNmwuhLfSi4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nNmwuhLfSi4"
+        },
+        "videoOwnerChannelTitle": "JVKE",
+        "videoOwnerChannelId": "UCSOfUqPoqpp5aWDDnAyv94g"
+    },
+    "contentDetails": {
+        "videoId": "nNmwuhLfSi4",
+        "videoPublishedAt": "2023-04-21T04:10:59Z",
+        "duration": "PT2M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "640346",
+        "likeCount": "64912",
+        "favoriteCount": "0",
+        "commentCount": "2586"
+    }
+}
