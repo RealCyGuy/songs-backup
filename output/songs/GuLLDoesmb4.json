@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMjQ4QTBGMDFDNTg3Qzk3",
+    "snippet": {
+        "publishedAt": "2023-05-02T15:18:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "FIFTY FIFTY - Cupid - Viola Cover",
+        "description": "#FIFTYFIFTY #Cupid #\ud050\ud53c\ub4dc\n\nDownload Violin Sheet Music(\uc545\ubcf4):\nViola - https://mymusic.st/catolin/106828\nViolin - https://mymusic.st/catolin/106826\n\nInstagram: \nhttp://www.instagram.com/oisrzr\nhttp://www.instagram.com/cat.olin",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GuLLDoesmb4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GuLLDoesmb4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GuLLDoesmb4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GuLLDoesmb4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GuLLDoesmb4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GuLLDoesmb4"
+        },
+        "videoOwnerChannelTitle": "\ucea3\uc62c\ub9b0CatOlin",
+        "videoOwnerChannelId": "UCoAeBLyRkAVnNHR_V4XWc_Q"
+    },
+    "contentDetails": {
+        "videoId": "GuLLDoesmb4",
+        "videoPublishedAt": "2023-04-23T11:59:32Z",
+        "duration": "PT2M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "104081",
+        "likeCount": "10677",
+        "favoriteCount": "0",
+        "commentCount": "275"
+    }
+}
