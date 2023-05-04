@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GOTFCMTZBOTkxOTNEMEQ4",
+    "snippet": {
+        "publishedAt": "2021-09-26T23:13:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "chevy - uwu",
+        "description": "chevy's voice makes me uwu\n\nsubscribe if this made you happy \u2267\u25e1\u2266\n\nListen on Spotify\nhttps://open.spotify.com/track/4aTKyYeIzC0ask2ZJicjIJ?si=yjDmMUYBSCaffIvKgbffAQ\n\nfollow chevy \u2661\nhttps://soundcloud.com/chevyha\nhttps://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc?si=SmLZMWuPS6Gv\nhttps://www.instagram.com/chiffonhaha\nhttps://twitter.com/chiffonhaha\n\nChords for this song\nhttps://docs.google.com/document/d/1ZTjWhLRXQlbipuCEDNpLouJgen45413qxR61VMKJQ2Q/edit?pageId=105198230624529630831\n\nAmbition \nhttps://twitter.com/ambitionyt\nhttps://www.instagram.com/ambitionyt\nhttps://soundcloud.com/ambition-beats\n\nSpotify Playlist\nhttps://open.spotify.com/user/ambition-music?si=G98mmDmGTl6YThUJqmhoYA\n\nArtwork by Captain Chompers\nhttps://www.deviantart.com/captain-chompers/art/UwU-gif-rant-781191840",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YWcrfp_dXKM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YWcrfp_dXKM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YWcrfp_dXKM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/YWcrfp_dXKM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "YWcrfp_dXKM"
+        },
+        "videoOwnerChannelTitle": "Ambition",
+        "videoOwnerChannelId": "UC4X7J9D6VbTIwnFDFNkfQ1A"
+    },
+    "contentDetails": {
+        "videoId": "YWcrfp_dXKM",
+        "videoPublishedAt": "2018-11-20T22:01:01Z",
+        "duration": "PT1M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8949612",
+        "likeCount": "325446",
+        "favoriteCount": "0",
+        "commentCount": "14459"
+    }
+}
