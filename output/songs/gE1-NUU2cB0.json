@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "gE1-NUU2cB0"
         },
-        "videoOwnerChannelTitle": "chillOwlPiano",
+        "videoOwnerChannelTitle": "chillOwly",
         "videoOwnerChannelId": "UCl2i3pA3Of2tWq14bcQPw6w"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1744668",
+        "viewCount": "1744675",
         "likeCount": "76792",
         "favoriteCount": "0",
         "commentCount": "533"
