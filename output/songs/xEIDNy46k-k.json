@@ -45,7 +45,7 @@
     "contentDetails": {
         "videoId": "xEIDNy46k-k",
         "videoPublishedAt": "2023-04-20T10:01:27Z",
-        "duration": "PT3M47S",
+        "duration": "PT3M46S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -162,8 +162,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "34832",
-        "likeCount": "1196",
+        "viewCount": "34879",
+        "likeCount": "1197",
         "favoriteCount": "0",
         "commentCount": "31"
     }
