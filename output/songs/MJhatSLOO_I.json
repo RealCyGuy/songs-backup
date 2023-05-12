@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQzg2NDlFMTU1Njg5NUNE",
+    "snippet": {
+        "publishedAt": "2023-05-12T00:52:07Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30a2\u30a4\u30c9\u30eb \"Idol\" - YOASOBI (Oshi no Ko\u3010\u63a8\u3057\u306e\u5b50\u3011) | Shania Yan Cover",
+        "description": "If you like this video please LIKE COMMENT & SUBSCRIBE\nShare this video to your family and friends :))\n\nCreds:\nInstrumental by savingreggieproductions\nhttps://instagram.com/savingreggieproductions?igshid=NTc4MTIwNjQ2YQ==\n\n\nListen to my latest music release here \n\nhttps://bio.to/ShaniaYan\n\nFollow my socials\ud83d\ude04 :\nInstagram: https://www.instagram.com/ShaniaYanOfc\nTwitter      : https://twitter.com/ShaniaYanOfc\nFacebook : https://www.facebook.com/ShaniaYanOfc\nTiktok       : https://www.tiktok.com/@shaniayanofc",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MJhatSLOO_I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MJhatSLOO_I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MJhatSLOO_I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/MJhatSLOO_I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "MJhatSLOO_I"
+        },
+        "videoOwnerChannelTitle": "Shania Yan",
+        "videoOwnerChannelId": "UCcaYkWDw6A4_8awJgKGWeGA"
+    },
+    "contentDetails": {
+        "videoId": "MJhatSLOO_I",
+        "videoPublishedAt": "2023-05-06T12:00:11Z",
+        "duration": "PT3M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "158247",
+        "likeCount": "12189",
+        "favoriteCount": "0",
+        "commentCount": "690"
+    }
+}
