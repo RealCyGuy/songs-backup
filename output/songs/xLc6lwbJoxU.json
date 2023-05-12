@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "xLc6lwbJoxU"
         },
-        "videoOwnerChannelTitle": "NIGHTSHIFT TV",
+        "videoOwnerChannelTitle": "Nightshift TV",
         "videoOwnerChannelId": "UCYwQgSIlVqI7OF1cq6uiMsw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8142081",
-        "likeCount": "208829",
+        "viewCount": "8142620",
+        "likeCount": "208839",
         "favoriteCount": "0",
         "commentCount": "3261"
     }
