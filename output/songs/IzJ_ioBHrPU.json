@@ -54,6 +54,7 @@
             "allowed": [
                 "AE",
                 "AR",
+                "AS",
                 "AT",
                 "AU",
                 "AW",
@@ -162,8 +163,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "34018",
-        "likeCount": "1380",
+        "viewCount": "38362",
+        "likeCount": "1468",
         "favoriteCount": "0",
         "commentCount": "6"
     }
