@@ -69,6 +69,7 @@
                 "CH",
                 "CL",
                 "CO",
+                "CR",
                 "CY",
                 "CZ",
                 "DE",
@@ -85,8 +86,10 @@
                 "GF",
                 "GP",
                 "GR",
+                "GT",
                 "GU",
                 "HK",
+                "HN",
                 "HR",
                 "HU",
                 "ID",
@@ -115,6 +118,7 @@
                 "MY",
                 "NC",
                 "NG",
+                "NI",
                 "NL",
                 "NO",
                 "NZ",
@@ -135,6 +139,7 @@
                 "SG",
                 "SI",
                 "SK",
+                "SV",
                 "TC",
                 "TH",
                 "TR",
@@ -156,8 +161,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "19188",
-        "likeCount": "892",
+        "viewCount": "22152",
+        "likeCount": "971",
         "favoriteCount": "0",
         "commentCount": "5"
     }
