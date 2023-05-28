@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "8-NjuxVcG6Y"
         },
-        "videoOwnerChannelTitle": "Yuuna Ch. \u306b\u306b\u3086\u30fc\u306a ",
+        "videoOwnerChannelTitle": "Yuuna Nini",
         "videoOwnerChannelId": "UC8CKGSvp9bRfmtWyfV5L9Jw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "21019",
-        "likeCount": "1494",
+        "viewCount": "21020",
+        "likeCount": "1495",
         "favoriteCount": "0",
         "commentCount": "100"
     }
