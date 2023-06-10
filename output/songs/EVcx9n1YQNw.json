@@ -52,7 +52,6 @@
         "licensedContent": true,
         "regionRestriction": {
             "blocked": [
-                "GL",
                 "IO",
                 "KP",
                 "SS"
@@ -65,7 +64,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "304218",
+        "viewCount": "304222",
         "likeCount": "3820",
         "favoriteCount": "0",
         "commentCount": "139"
