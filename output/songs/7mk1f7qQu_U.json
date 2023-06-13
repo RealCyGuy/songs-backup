@@ -69,6 +69,7 @@
                 "MA",
                 "MX",
                 "MY",
+                "NP",
                 "OM",
                 "QA",
                 "RU",
@@ -86,7 +87,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1306989",
+        "viewCount": "1307027",
         "likeCount": "18471",
         "favoriteCount": "0",
         "commentCount": "110"

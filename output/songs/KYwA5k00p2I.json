@@ -59,6 +59,7 @@
                 "AU",
                 "AW",
                 "BA",
+                "BD",
                 "BE",
                 "BG",
                 "BH",
@@ -98,11 +99,13 @@
                 "JO",
                 "JP",
                 "KE",
+                "KH",
                 "KR",
                 "KW",
                 "KY",
                 "LB",
                 "LI",
+                "LK",
                 "LT",
                 "LU",
                 "LV",
@@ -115,12 +118,14 @@
                 "NI",
                 "NL",
                 "NO",
+                "NP",
                 "NZ",
                 "OM",
                 "PA",
                 "PE",
                 "PG",
                 "PH",
+                "PK",
                 "PL",
                 "PR",
                 "PT",
@@ -155,9 +160,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "102317657",
-        "likeCount": "1383592",
+        "viewCount": "102325077",
+        "likeCount": "1383652",
         "favoriteCount": "0",
-        "commentCount": "1086"
+        "commentCount": "1088"
     }
 }

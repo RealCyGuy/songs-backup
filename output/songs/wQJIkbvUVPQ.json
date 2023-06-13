@@ -86,8 +86,10 @@
                 "IT",
                 "JP",
                 "KE",
+                "KH",
                 "KR",
                 "KY",
+                "LK",
                 "LT",
                 "LV",
                 "MK",
@@ -135,8 +137,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "58739111",
-        "likeCount": "579664",
+        "viewCount": "58742117",
+        "likeCount": "579684",
         "favoriteCount": "0",
         "commentCount": "1364"
     }
