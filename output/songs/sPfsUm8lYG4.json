@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "sPfsUm8lYG4"
         },
-        "videoOwnerChannelTitle": "Rhizory Ch.",
+        "videoOwnerChannelTitle": "Rhizory Ch.\ud83c\udf4d",
         "videoOwnerChannelId": "UCxWTWNo5wyvTMKYB5xH2-lg"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "55586",
+        "viewCount": "55587",
         "likeCount": "434",
         "favoriteCount": "0",
         "commentCount": "21"
