@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "bAcNqTPa2T4"
         },
-        "videoOwnerChannelTitle": "Fifty Fifty - Topic",
+        "videoOwnerChannelTitle": "FIFTY FIFTY - Topic",
         "videoOwnerChannelId": "UCMca81qQN9V3jOe7wyfbvDQ"
     },
     "contentDetails": {
@@ -167,8 +167,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6167047",
-        "likeCount": "34184",
+        "viewCount": "6170892",
+        "likeCount": "34191",
         "favoriteCount": "0",
         "commentCount": "86"
     }
