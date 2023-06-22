@@ -34,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "-tczkuOiD5s"
         },
-        "videoOwnerChannelTitle": "Kyu Myuki",
+        "videoOwnerChannelTitle": "KWym",
         "videoOwnerChannelId": "UCgdBCbMmTnJ7dh3GMkRpb4A"
     },
     "contentDetails": {
@@ -52,8 +52,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8944584",
-        "likeCount": "156617",
+        "viewCount": "8944674",
+        "likeCount": "156618",
         "favoriteCount": "0",
         "commentCount": "3248"
     }
