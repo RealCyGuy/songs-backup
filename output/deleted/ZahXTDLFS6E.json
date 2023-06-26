@@ -44,22 +44,9 @@
     },
     "contentDetails": {
         "videoId": "ZahXTDLFS6E",
-        "videoPublishedAt": "2021-03-02T15:25:36Z",
-        "duration": "PT5M13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoPublishedAt": "2021-03-02T15:25:36Z"
     },
     "status": {
         "privacyStatus": "public"
-    },
-    "statistics": {
-        "viewCount": "7473853",
-        "likeCount": "55621",
-        "favoriteCount": "0",
-        "commentCount": "2725"
     }
 }

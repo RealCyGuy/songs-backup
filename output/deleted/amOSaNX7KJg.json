@@ -44,22 +44,9 @@
     },
     "contentDetails": {
         "videoId": "amOSaNX7KJg",
-        "videoPublishedAt": "2018-12-07T05:59:30Z",
-        "duration": "PT3M37S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoPublishedAt": "2018-12-07T05:59:30Z"
     },
     "status": {
         "privacyStatus": "public"
-    },
-    "statistics": {
-        "viewCount": "73936900",
-        "likeCount": "603656",
-        "favoriteCount": "0",
-        "commentCount": "15409"
     }
 }

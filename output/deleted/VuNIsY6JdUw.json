@@ -44,22 +44,9 @@
     },
     "contentDetails": {
         "videoId": "VuNIsY6JdUw",
-        "videoPublishedAt": "2009-06-16T22:02:30Z",
-        "duration": "PT3M49S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoPublishedAt": "2009-06-16T22:02:30Z"
     },
     "status": {
         "privacyStatus": "public"
-    },
-    "statistics": {
-        "viewCount": "1454273874",
-        "likeCount": "9465376",
-        "favoriteCount": "0",
-        "commentCount": "426004"
     }
 }
