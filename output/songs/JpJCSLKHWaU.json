@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "JpJCSLKHWaU",
-        "videoPublishedAt": "2016-11-10T12:31:24Z"
+        "videoPublishedAt": "2016-11-10T12:31:24Z",
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "813512",
+        "likeCount": "11392",
+        "favoriteCount": "0",
+        "commentCount": "524"
     }
 }

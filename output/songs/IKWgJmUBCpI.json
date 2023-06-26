@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "IKWgJmUBCpI",
-        "videoPublishedAt": "2020-07-01T13:04:24Z"
+        "videoPublishedAt": "2020-07-01T13:04:24Z",
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "74654",
+        "likeCount": "967",
+        "favoriteCount": "0",
+        "commentCount": "24"
     }
 }

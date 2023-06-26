@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "JOhshhm2n3k",
-        "videoPublishedAt": "2020-03-17T15:00:06Z"
+        "videoPublishedAt": "2020-03-17T15:00:06Z",
+        "duration": "PT4M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "77787",
+        "likeCount": "1825",
+        "favoriteCount": "0",
+        "commentCount": "150"
     }
 }

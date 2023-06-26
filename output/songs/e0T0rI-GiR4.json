@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FRDk1QjRGODIxREU4QzZC",
+    "snippet": {
+        "publishedAt": "2021-08-22T14:22:14Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Super Mario World Game Over LoFi Hip Hop Remix",
+        "description": "Instrumental Hip Hop/Trip Hop (i think its called lofi hip hop now) Remix of the Game Over Theme from Super Mario World (SNES).\nSpotify/stream: https://distrokid.com/hyperfollow/hephestos/game-over\n\nPart 2 (the one in the endscreen): https://www.youtube.com/watch?v=jxiQbMjF-YI\nPart 3: https://www.youtube.com/watch?v=LI5QqykEre0\nPart 4: https://www.youtube.com/watch?v=xEIAfBL0Vkw\n\nDownload (Patrons):\nMP3: https://www.patreon.com/posts/vgm-remix-patron-20263773\nWAV: https://www.patreon.com/posts/vgm-remix-patron-20263588\n\nMaking of: https://www.youtube.com/watch?v=ma82P3U0F7E\n\nIf you want to play this on loop without the outro thing, I uploaded it to SoundCloud: https://soundcloud.com/hephestosmusic/super-mario-world-game-over\nOr use this: https://youtubeloop.net/list?infoId=10651&pl=W3sidmlkZW9JZCI6ImUwVDBySS1HaVI0IiwicGxheWVyTmFtZSI6Inl0UGxheWVyMSIsInNsaWRlclZhbCI6WzAsMjM3XX1d\n\n\"Can I use this in my videos?\": http://phillipschlosser.com/faq.html\n\n---------------\n\nComposed by Koji Kondo\nRemix/Arrangement by me\n\nOriginal version: https://www.youtube.com/watch?v=CVH1ICPLfnk\n\nSuper Mario World (SNES) (Super Mario Bros. 4 on Super Famicom) was developed by Nintendo EAD and released in 1991 by Nintendo.\n\n\n---------------\nMe:\nSpotify Hephestos (+Remixes): https://open.spotify.com/artist/4Cm6rqe6hZjG3q1mwmdA1Z\nSpotify Amplitude Aether: https://open.spotify.com/artist/1zXWNgEvlyNIPxdcXXq39T\nYouTube: http://youtube.com/hephestosmusic\nPatreon: https://patreon.com/hephestosmusic\nInstagram: https://instagram.com/hephestosmusic\nTwitter: https://twitter.com/hephestosmusic\nSoundCloud: https://soundcloud.com/hephestosmusic\nBandCamp: https://hephestos.bandcamp.com\nWebsite: http://www.PhillipSchlosser.com\nYou may use my music in your videos: https://www.phillipschlosser.com/faq.html",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/e0T0rI-GiR4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/e0T0rI-GiR4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/e0T0rI-GiR4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/e0T0rI-GiR4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/e0T0rI-GiR4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "e0T0rI-GiR4"
+        },
+        "videoOwnerChannelTitle": "Phillip Schlosser [Hephestos, Amplitude Aether]",
+        "videoOwnerChannelId": "UCxQHQjt0nbc0ZVDdNlZN6TQ"
+    },
+    "contentDetails": {
+        "videoId": "e0T0rI-GiR4",
+        "videoPublishedAt": "2017-09-07T06:57:20Z",
+        "duration": "PT4M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "24547451",
+        "likeCount": "432422",
+        "favoriteCount": "0",
+        "commentCount": "13990"
+    }
+}

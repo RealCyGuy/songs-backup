@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "6qMtQ63aD0k",
-        "videoPublishedAt": "2018-03-31T17:18:35Z"
+        "videoPublishedAt": "2018-03-31T17:18:35Z",
+        "duration": "PT3M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "430207",
+        "likeCount": "6497",
+        "favoriteCount": "0",
+        "commentCount": "441"
     }
 }

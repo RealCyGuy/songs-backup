@@ -44,9 +44,27 @@
     },
     "contentDetails": {
         "videoId": "gS7lMRD6Pow",
-        "videoPublishedAt": "2020-12-25T13:00:10Z"
+        "videoPublishedAt": "2020-12-25T13:00:10Z",
+        "duration": "PT4M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "305034",
+        "likeCount": "13936",
+        "favoriteCount": "0",
+        "commentCount": "426"
     }
 }
