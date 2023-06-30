@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42OTMwOTQzM0Q0ODU3QkFC",
+    "snippet": {
+        "publishedAt": "2022-01-21T23:00:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Koxx - A Fool Moon Night",
+        "description": "tamm \u015fimdi ben basit\u00e7e g\u00fcven",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yp8EjIAeiws/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yp8EjIAeiws/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yp8EjIAeiws/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/yp8EjIAeiws/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/yp8EjIAeiws/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "yp8EjIAeiws"
+        },
+        "videoOwnerChannelTitle": "Everoid",
+        "videoOwnerChannelId": "UCkW8NthSYjKWaheaYiL8v_A"
+    },
+    "contentDetails": {
+        "videoId": "yp8EjIAeiws",
+        "videoPublishedAt": "2016-08-24T16:04:34Z"
+    },
+    "status": {
+        "privacyStatus": "public"
+    }
+}
