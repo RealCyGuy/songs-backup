@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DNjI0QjUyN0NFRTNCOUIw",
+    "snippet": {
+        "publishedAt": "2022-01-26T02:19:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Avatar's Love - The Last Airbender Original Theme",
+        "description": "\ud83c\udfa7 Stream on Spotify, Apple Music & More \u25ba https://lnkfi.re/ZnFeDCeb\n\u266b Follow my ATLA SPOTIFY PLAYLIST \u25ba https://spoti.fi/3fI43wf\n\u266b Avatar The Last Airbender EPIC PLAYLIST \u25bahttps://bit.ly/2WiQpst\n\ud83c\udfa7 Support & Purchase Track on Bandcamp \u25ba https://bit.ly/2Y8DIjG\n\ud83c\udfa7 Support my work on Patreon \u25ba https://www.patreon.com/samuelkimmusic\n\ud83d\udc4d Buy me some Coffee \u25ba https://www.buymeacoffee.com/samuelkimmusic\n\n\ud83c\udfa7 My Music is Available Here \ud83c\udfa7\n\u25ba Spotify: https://spoti.fi/2vYKPBd\n\u25ba Apple Music/iTunes: https://apple.co/2wMUESQ\n\u25ba YouTube Music: https://bit.ly/2VFh8z9\n\u25ba Deezer: https://bit.ly/3eTNaPt\n\nArtwork by: https://www.instagram.com/litarnes/?hl=en\nCello: Daniel Chung\nMusic Composed by: Samuel Kim\n\nFollow Me on Social Media!\n\u25baInstagram: https://www.instagram.com/samuelkimmusic\n\u25baTwitter: https://twitter.com/samuelkimmusic\n\nFor Music Licensing, please contact samuelkimmusic@gmail.com\n\n#AvatarTheLastAirbender #TheLegendofKorra",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jRcJp1i4Emo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jRcJp1i4Emo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jRcJp1i4Emo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/jRcJp1i4Emo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/jRcJp1i4Emo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jRcJp1i4Emo"
+        },
+        "videoOwnerChannelTitle": "Samuel Kim Music",
+        "videoOwnerChannelId": "UCuoKuTCQ9dmPIgOgyLm9HgQ"
+    },
+    "contentDetails": {
+        "videoId": "jRcJp1i4Emo",
+        "videoPublishedAt": "2020-06-08T15:00:15Z",
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1456645",
+        "likeCount": "41162",
+        "favoriteCount": "0",
+        "commentCount": "1706"
+    }
+}

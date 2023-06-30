@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CM0JCMTVBNkNBNThCOEZG",
+    "snippet": {
+        "publishedAt": "2022-01-06T07:51:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I Like You So Much, You\u2019ll Know It (\u6211\u591a\u559c\u6b22\u4f60\uff0c\u4f60\u4f1a\u77e5\u9053) - A Love So Beautiful OST [Japanese Cover]",
+        "description": "I Like You So Much, You\u2019ll Know It (\u6211\u591a\u559c\u6b22\u4f60\uff0c\u4f60\u4f1a\u77e5\u9053) - A Love So Beautiful OST [Japanese Cover]\n\n#tiktok #ilikeyousomuchyoullknowit #ALoveSoBeautiful #japan\n\n\nVocal Tica \nIG :https://instagram.com/ticalunagravity...\n\nInstrument & Mixing Delta Muncar \nIG: https://instagram.com/muncart?igshid=...\n\nTranslated Lyric:\nSteven William L.\nIG: https://instagram.com/stvwl?utm_medium=copy_link\n\nVideo Editing Agustinus & Photro.Pictures: \nhttps://instagram.com/idasunitsuga?ig...\nhttps://instagram.com/photro.pictures...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fyu_RQSmxzE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fyu_RQSmxzE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fyu_RQSmxzE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/fyu_RQSmxzE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/fyu_RQSmxzE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fyu_RQSmxzE"
+        },
+        "videoOwnerChannelTitle": "TicaLG",
+        "videoOwnerChannelId": "UCy-HLWcyUMMdgP-OUxPKS0g"
+    },
+    "contentDetails": {
+        "videoId": "fyu_RQSmxzE",
+        "videoPublishedAt": "2020-07-12T14:51:50Z",
+        "duration": "PT3M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "109405",
+        "likeCount": "2866",
+        "favoriteCount": "0",
+        "commentCount": "330"
+    }
+}
