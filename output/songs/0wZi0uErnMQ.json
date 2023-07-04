@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "0wZi0uErnMQ"
         },
-        "videoOwnerChannelTitle": "163 braces",
+        "videoOwnerChannelTitle": "163braces",
         "videoOwnerChannelId": "UCnmeiFVqv64lAmVaw2PUm7w"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3714402",
+        "viewCount": "3714420",
         "likeCount": "206172",
         "favoriteCount": "0",
         "commentCount": "5749"
