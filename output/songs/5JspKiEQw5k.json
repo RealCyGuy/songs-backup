@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DOUM2QzRFQzg5QTYzQUMx",
+    "snippet": {
+        "publishedAt": "2023-07-11T06:00:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Peach's Castle - Super Mario Odyssey OST",
+        "description": "Peach's Castle - Super Mario Odyssey OST\nComposers: Koji Kondo, Shiho Fujii, Naoto Kubo\nPlatform: Nintendo Switch\nPlaylist: https://www.youtube.com/playlist?list=PL2XjmdkuVL-1c0ueQmNgltkf4hFWnZgyi\n\nThis soundtrack was ripped, edited, and uploaded by Yoshi's VGM for entertainment purposes only. No copyright infringement is intended; all rights reserved to Nintendo.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5JspKiEQw5k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5JspKiEQw5k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5JspKiEQw5k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5JspKiEQw5k/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5JspKiEQw5k/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5JspKiEQw5k"
+        },
+        "videoOwnerChannelTitle": "Yoshi's VGM",
+        "videoOwnerChannelId": "UC8ldibQv2VLVBomgzpsRVkQ"
+    },
+    "contentDetails": {
+        "videoId": "5JspKiEQw5k",
+        "videoPublishedAt": "2020-05-01T05:35:43Z",
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8815",
+        "likeCount": "126",
+        "favoriteCount": "0",
+        "commentCount": "8"
+    }
+}
