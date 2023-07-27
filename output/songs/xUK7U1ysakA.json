@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GQjY2QUUxOEMzRUNDQkIz",
+    "snippet": {
+        "publishedAt": "2023-07-27T06:28:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NewJeans Celebrity (original: IU) Lyrics (Color Coded Lyrics)",
+        "description": "All Administrated by \n\n\u2248 Artist: NewJeans \n\u2248 Song: Celebrity (original: IU)\n\u2248 Album: -\n\u2248 Released: 2023.07.24\n............................................................................. \n\u2192 FOLLOW ME:\nInstagram: https://www.instagram.com/chaereve__\nTwitter: https://twitter.com/Chaereve_\n................................................................................ \n\u2022 No copyright infringement intended / Don't reupload \n\n\u221a REQUEST: https://forms.gle/v7yzXuUpi323PGgV8\n................................................................................\nnewjeans\nnewjeans topic\nnewjeans lyrics\nnewjeans celebrity\nnewjeans celebrity lyrics\nnewjeans celebrity color coded lyrics\nnewjeans celebrity audio\nnewjeans celebrity live\nnewjeans celebrity concert\nnewjeans celebrity music video\nnewjeans celebrity mv\nnewjeans celebrity teaser\nnewjeans celebrity line distribution\nnewjeans celebrity cover\nnewjeans celebrity reaction\nnewjeans celebrity instrumental\nnewjeans celebrity karaoke\nnewjeans celebrity inst\nnewjeans celebrity English version\nnewjeans celebrity Korean version\nnewjeans celebrity Japanese version\nnewjeans celebrity Chinese version\nChaereve\n\ucc28\ub808\ube0c\n................................................................................ \n#NewJeans #Celebrity #IU",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xUK7U1ysakA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xUK7U1ysakA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xUK7U1ysakA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xUK7U1ysakA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xUK7U1ysakA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xUK7U1ysakA"
+        },
+        "videoOwnerChannelTitle": "Chaereve",
+        "videoOwnerChannelId": "UCHztIyDNlLlZ6JA85a6BdCw"
+    },
+    "contentDetails": {
+        "videoId": "xUK7U1ysakA",
+        "videoPublishedAt": "2023-07-24T10:37:52Z",
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "32382",
+        "likeCount": "1326",
+        "favoriteCount": "0",
+        "commentCount": "126"
+    }
+}
