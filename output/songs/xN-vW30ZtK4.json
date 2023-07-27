@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NjNDOEVCQTUzODA4NkQw",
+    "snippet": {
+        "publishedAt": "2023-07-27T04:20:28Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010Duet \u2661\ufe0f \u3057\u3066\u304f\u3060\u03a8 Full Ver.\u3011\u300c\u30a2\u30cb\u30e1\u6589\u6728\u6960\u96c4\u306e\u03a8\u96e3 ED4\u300d\u203b Romaji Subtitles",
+        "description": "\u6b4c\u624b: \u6589\u6728\u30c3\u30af\u30e9\u30d0\u30fc feat. \u6589\u6728\u6960\u96c4(\u795e\u8c37\u6d69\u53f2)\u3001\u7167\u6a4b\u5fc3\u7f8e(\u8305\u91ce\u611b\u8863)\u3001\u76f8\u535c\u547d(\u559c\u591a\u6751\u82f1\u68a8)\n\nHi, Naoko Hirata here,\nThanks for watching!!!\n\nI make amazing drawings of Kizuna AI as well, feel free to check my socials :)\nInstagram: https://www.instagram.com/naokohirata133\n\nTwitter: https://twitter.com/NaokoHirata133\n\nDiscord: Naoko Hirata # 1008\n#TheDisastrousLifeOfSaikiK #Anime",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xN-vW30ZtK4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xN-vW30ZtK4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xN-vW30ZtK4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xN-vW30ZtK4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xN-vW30ZtK4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xN-vW30ZtK4"
+        },
+        "videoOwnerChannelTitle": "Naoko Hirata",
+        "videoOwnerChannelId": "UCKGPmpPCUXp6dYZx6TlBASA"
+    },
+    "contentDetails": {
+        "videoId": "xN-vW30ZtK4",
+        "videoPublishedAt": "2019-06-10T05:10:15Z",
+        "duration": "PT5M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "427664",
+        "likeCount": "4643",
+        "favoriteCount": "0",
+        "commentCount": "229"
+    }
+}
