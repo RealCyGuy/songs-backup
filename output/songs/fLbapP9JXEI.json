@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRjUwQjMwRTUyM0NDRUQw",
+    "snippet": {
+        "publishedAt": "2023-07-31T03:52:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NewJeans (\u200b\ub274\u200b\uc9c4\u200b\uc2a4\u200b) 'Super Shy' \uff08R&B Remix\uff09",
+        "description": "Full Version & Instrumental link:\nhttps://marukaobeats.bandcamp.com/album/newjeans-super-shy-r-b-remix\nIf you wanna cover on my beat please credit Prod.Marukaobeats and link this video.\nThank u.\nEnjoy\n\nProduced and mixed by Marukaobeats\nMastered by JXJ studio\nCover designed by @annieblue27 \n\n#newjeans \n#newjeans_supershy \n#\ub274\u200b\uc9c4\u200b\uc2a4\n#rnb \n#remix \n#NewJeans_HAERIN \n#MusicBank \n#\ubba4\uc9c1\ubc45\ud06c \n#\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d0\u30f3\u30af \n#\u97f3\u4e50\u94f6\u884c",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fLbapP9JXEI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fLbapP9JXEI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fLbapP9JXEI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/fLbapP9JXEI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/fLbapP9JXEI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fLbapP9JXEI"
+        },
+        "videoOwnerChannelTitle": "Marukaobeats",
+        "videoOwnerChannelId": "UCe9W6VyFmlaJat34OH1JjPw"
+    },
+    "contentDetails": {
+        "videoId": "fLbapP9JXEI",
+        "videoPublishedAt": "2023-07-15T09:30:45Z",
+        "duration": "PT2M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "9213",
+        "likeCount": "546",
+        "favoriteCount": "0",
+        "commentCount": "14"
+    }
+}
