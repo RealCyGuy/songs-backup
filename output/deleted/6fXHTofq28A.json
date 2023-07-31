@@ -1,8 +1,8 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QTE1NURFMkU1NzlCM0ZB",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5EMzgyRkY2QzI3NjdDMDM4",
     "snippet": {
-        "publishedAt": "2022-01-04T17:11:16Z",
+        "publishedAt": "2021-07-01T22:09:44Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Private video",
         "description": "This video is private.",
@@ -11,11 +11,11 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "kfMTbwfOxRA"
+            "videoId": "6fXHTofq28A"
         }
     },
     "contentDetails": {
-        "videoId": "kfMTbwfOxRA"
+        "videoId": "6fXHTofq28A"
     },
     "status": {
         "privacyStatus": "private"
