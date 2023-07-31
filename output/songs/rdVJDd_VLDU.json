@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CREIyMDI0MTcyNTZCRjkz",
+    "snippet": {
+        "publishedAt": "2023-07-31T04:18:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\uc544\uc774\uc720 - \ub77c\uc77c\ub77d (\uc2dc\ud2f0\ud31d \ub9ac\ubbf9\uc2a4) IU - LILAC (Citypop remix)",
+        "description": "#IU #LILAC #\uc544\uc774\uc720 #\ub77c\uc77c\ub77d #\ub9ac\ubbf9\uc2a4\n80\ub144\ub300 \uc2dc\ud2f0\ud31d \ub290\ub08c\uc744 \ub354\ud55c \ub9ac\ubbf9\uc2a4\uc785\ub2c8\ub2e4\n\ubcf4\uceec \uc74c\uc9c8\uc774 \uc88b\uc9c0\uc54a\uc544 \ub9e4\uc6b0 \uc544\uc27d\uc9c0\ub9cc \uc7ac\ubc0c\uac8c \ub4e4\uc5b4\uc8fc\uc138\uc694 :)\n\ub9ac\ubbf9\uc2a4 \uc790\uccb4\ubcf4\ub2e4 \uc601\uc0c1\ud3b8\uc9d1\uc774 \ub354 \uc624\ub798\uac78\ub9ac\ub294 \ud6c4,,,,\n\n\uc560\ub2c8\ub9e4\uc774\uc158 \uc6c0\uc9e4 \ucd9c\ucc98 \uc6d0\uc791 \uc81c\ubaa9 (Animation scenes from)\nmason ikkoku kyoko\nkimagure orange road \nFiction\nSailor moon\numi ga kikoeru\nPerfect Blue\n\nOriginal Song : IU - LILAC\nhttps://www.youtube.com/watch?v=v7bnOxV4jAc\n\n\n-\ub808\uc2a8, \uacf5\ub3d9\uc791\uc5c5 \ubc0f \ube44\uc988\ub2c8\uc2a4 \uad00\ub828 \ubb38\uc758-\nKakaotalk: https://open.kakao.com/o/sv1qHe2\nSoundcloud: https://soundcloud.com/danpiamuzik\nInstagram: https://www.instagram.com/danpia_official/",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rdVJDd_VLDU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rdVJDd_VLDU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rdVJDd_VLDU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/rdVJDd_VLDU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/rdVJDd_VLDU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rdVJDd_VLDU"
+        },
+        "videoOwnerChannelTitle": "DANPIA",
+        "videoOwnerChannelId": "UCdxiWF9iLp0bmLlh_96_Cyg"
+    },
+    "contentDetails": {
+        "videoId": "rdVJDd_VLDU",
+        "videoPublishedAt": "2021-04-10T15:56:05Z",
+        "duration": "PT4M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "4940276",
+        "likeCount": "125865",
+        "favoriteCount": "0",
+        "commentCount": "3827"
+    }
+}

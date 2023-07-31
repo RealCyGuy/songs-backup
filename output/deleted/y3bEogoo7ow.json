@@ -1,23 +1,23 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yM0MyQzM5QTU1Mzk2RUU4",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENzMzOUM3RjUzMUQxNDE4",
     "snippet": {
-        "publishedAt": "2022-07-24T04:40:35Z",
+        "publishedAt": "2022-01-22T15:20:14Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
+        "title": "Private video",
+        "description": "This video is private.",
         "thumbnails": {},
         "channelTitle": "Cyrus Yip",
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "EFjtIV45Vw4"
+            "videoId": "y3bEogoo7ow"
         }
     },
     "contentDetails": {
-        "videoId": "EFjtIV45Vw4"
+        "videoId": "y3bEogoo7ow"
     },
     "status": {
-        "privacyStatus": "privacyStatusUnspecified"
+        "privacyStatus": "private"
     }
 }
