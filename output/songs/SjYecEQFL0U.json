@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "SjYecEQFL0U"
         },
-        "videoOwnerChannelTitle": "LAYERS \ub808\uc774\uc5b4\uc2a4 \ud074\ub798\uc2dd",
+        "videoOwnerChannelTitle": "LAYERS CLASSIC",
         "videoOwnerChannelId": "UC0q2peQDgCOham08-95bR3g"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "10395061",
-        "likeCount": "131615",
+        "viewCount": "10395258",
+        "likeCount": "131618",
         "favoriteCount": "0",
         "commentCount": "3045"
     }
