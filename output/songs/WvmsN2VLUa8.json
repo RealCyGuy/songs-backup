@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41NjdDQUU5RkE5NTM2OTYz",
+    "snippet": {
+        "publishedAt": "2023-08-07T21:34:44Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Seven - \uc815\uad6d (Jung Kook)",
+        "description": "xooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/\n\nBusiness contact : jiwonkim@wavy.kr\n\n mix by @ruiz_its_me https://youtube.com/c/AlertA0301",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WvmsN2VLUa8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WvmsN2VLUa8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WvmsN2VLUa8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WvmsN2VLUa8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WvmsN2VLUa8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WvmsN2VLUa8"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "WvmsN2VLUa8",
+        "videoPublishedAt": "2023-08-02T09:00:20Z",
+        "duration": "PT2M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "487254",
+        "likeCount": "24775",
+        "favoriteCount": "0",
+        "commentCount": "874"
+    }
+}
