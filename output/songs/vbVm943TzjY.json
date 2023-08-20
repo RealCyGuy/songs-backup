@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "vbVm943TzjY"
         },
-        "videoOwnerChannelTitle": "Various Artists - Topic",
-        "videoOwnerChannelId": "UC7j0jh2ZH7nyDCjmmTQo7gQ"
+        "videoOwnerChannelTitle": "Himawari Honma - Topic",
+        "videoOwnerChannelId": "UCBMl1XSvrfKRw9UkKijp2_g"
     },
     "contentDetails": {
         "videoId": "vbVm943TzjY",
@@ -306,7 +306,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "319271",
+        "viewCount": "319275",
         "likeCount": "2613",
         "favoriteCount": "0",
         "commentCount": "41"
