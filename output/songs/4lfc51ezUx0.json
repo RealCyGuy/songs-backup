@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRDZCMzM4OURCQzJDNURC",
+    "snippet": {
+        "publishedAt": "2023-08-24T06:29:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NewJeans (\ub274\uc9c4\uc2a4) - Super Shy (Chill RnB Remix) [Prod. by LUMN]",
+        "description": "'Super Shy' remix while we wait for the comeback! Don't forget to like and subscribe for more! Thank you!\n\n#newjeans #supershy #rnb #remix #chill #lumn",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4lfc51ezUx0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4lfc51ezUx0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4lfc51ezUx0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/4lfc51ezUx0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/4lfc51ezUx0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "4lfc51ezUx0"
+        },
+        "videoOwnerChannelTitle": "LUMN",
+        "videoOwnerChannelId": "UCXLdip9-bnwKBnGa-HL3f2w"
+    },
+    "contentDetails": {
+        "videoId": "4lfc51ezUx0",
+        "videoPublishedAt": "2023-07-13T12:30:01Z",
+        "duration": "PT3M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "23163",
+        "likeCount": "1054",
+        "favoriteCount": "0",
+        "commentCount": "44"
+    }
+}
