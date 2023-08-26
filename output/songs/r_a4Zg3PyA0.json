@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "r_a4Zg3PyA0"
         },
-        "videoOwnerChannelTitle": "FlyxTheKid",
+        "videoOwnerChannelTitle": "Tesla Live",
         "videoOwnerChannelId": "UCI-u6qpGmmyaNntSLIfnV5Q"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "7538614",
-        "likeCount": "193346",
+        "viewCount": "7538717",
+        "likeCount": "193348",
         "favoriteCount": "0",
         "commentCount": "11469"
     }
