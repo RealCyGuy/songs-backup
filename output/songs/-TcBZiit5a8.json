@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "-TcBZiit5a8"
         },
-        "videoOwnerChannelTitle": "Hanon",
-        "videoOwnerChannelId": "UCJB1hgmiAD4ysg0Ao7uS8Rw"
+        "videoOwnerChannelTitle": "\u3055\u3076\u306f\u306e\u3093",
+        "videoOwnerChannelId": "UCKx4yiezj59UpijNKyt56uA"
     },
     "contentDetails": {
         "videoId": "-TcBZiit5a8",
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "476091",
+        "viewCount": "476099",
         "likeCount": "13195",
         "favoriteCount": "0",
         "commentCount": "331"
