@@ -2,7 +2,9 @@ import json
 import os
 import shutil
 import time
+import urllib.request
 
+from colorthief import ColorThief
 from dotenv import load_dotenv
 from isodate import parse_duration
 from pyyoutube import Api
@@ -89,8 +91,15 @@ if webhook_url:
     from discord_webhook import DiscordWebhook, DiscordEmbed
 
     def create_embed(song: dict):
-        embed = DiscordEmbed(color=7990062)
-        embed.set_author("New song!", url="https://songsyt.netlify.app/")
+        image_url = f"https://i.ytimg.com/vi/{song['id']}/maxresdefault.jpg"
+        try:
+            with urllib.request.urlopen(image_url) as url:
+                thief = ColorThief(url)
+                color_tuple = thief.get_color(quality=1)
+                color = (color_tuple[0] << 16) + (color_tuple[1] << 8) + color_tuple[2]
+        except:
+            color = 7990062
+        embed = DiscordEmbed(color=color)
         embed.set_description(
             f"[{escape_markdown(song['title'])}](https://youtube.com/watch?v={song['id']}&list=PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A) "
             f"by [{escape_markdown(song['channel'])}](https://youtube.com/channel/{song['channelId']})"
@@ -98,10 +107,10 @@ if webhook_url:
         embed.add_embed_field("Duration", song["duration"], True)
         embed.add_embed_field("Views", f"{song['views']:,}", True)
         embed.add_embed_field("Likes", f"{song['likes']:,}", True)
-        embed.set_image(f"https://i.ytimg.com/vi/{song['id']}/maxresdefault.jpg")
+        embed.set_image(image_url)
         return embed
 
-    for song in summary["items"]:
+    for song in reversed(summary["items"]):
         if song["id"] in previous_ids:
             continue
 
