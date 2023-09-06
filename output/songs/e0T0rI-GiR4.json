@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "e0T0rI-GiR4"
         },
-        "videoOwnerChannelTitle": "Phillip Schlosser [Hephestos, Amplitude Aether]",
+        "videoOwnerChannelTitle": "Phillip Schlosser (Hephestos, Amplitude Aether)",
         "videoOwnerChannelId": "UCxQHQjt0nbc0ZVDdNlZN6TQ"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "24940132",
+        "viewCount": "24940241",
         "likeCount": "436440",
         "favoriteCount": "0",
-        "commentCount": "14020"
+        "commentCount": "14021"
     }
 }
