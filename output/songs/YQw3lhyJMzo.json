@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43QzhDMjcyMUY0NTVBMTgy",
+    "snippet": {
+        "publishedAt": "2023-09-08T23:44:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Porter Robinson - Everything Goes On (Kobo Kanaeru Cover)",
+        "description": "Original by Porter Robinson (@porterrobinson): https://youtu.be/izHyKdrSKvo\n\n\u3010Credits\u3011\n\u25cf Illustrations: https://twitter.com/lufi_ays\n\u25cf Puppeting: https://twitter.com/xvneo_\n\u25cf Instrumental & Mix: https://twitter.com/REDSHiFT_ID\n\u25cf Harmony Arrangement: https://twitter.com/sagisapon\n\u25cf Movie: https://twitter.com/wyuusan\n\n\u3010Twitter\u3011\n https://twitter.com/kobokanaeru\n\u3010Instagram\u3011\n https://www.instagram.com/kobokanaeru\n\u3010Tiktok\u3011\n https://www.tiktok.com/@kobokanaeru\n\u3010Facebook\u3011\nhttps://www.facebook.com/KoboKanaeru\n\n\u3010Official cover website\u3011\nhttp://cover-corp.com/\n\u3010Official YouTube Channel hololive Indonesia\u3011\nhttps://www.youtube.com/c/hololiveIndonesia\n\u3010Official Twitter hololive Indonesia\u3011\nhttps://twitter.com/hololive_Id\n\u3010Official Facebook hololive Indonesia\u3011\nhttps://www.facebook.com/Hololive-Indonesia-108806367277672/\n\n--------------------------------\nRequest from hololive Productions to underage viewers:\nPlease be sure to check the link below before viewing our content.\nhttps://en.hololive.tv/request-to-minors\n\nPermintaan dari hololive Production untuk penonton di bawah umur:\nMohon membaca panduan di bawah ini sebelum menonton konten kami\nhttps://en.hololive.tv/request-to-minors-id\n--------------------------------",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YQw3lhyJMzo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YQw3lhyJMzo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YQw3lhyJMzo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/YQw3lhyJMzo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/YQw3lhyJMzo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "YQw3lhyJMzo"
+        },
+        "videoOwnerChannelTitle": "Kobo Kanaeru Ch. hololive-ID",
+        "videoOwnerChannelId": "UCjLEmnpCNeisMxy134KPwWw"
+    },
+    "contentDetails": {
+        "videoId": "YQw3lhyJMzo",
+        "videoPublishedAt": "2023-08-31T12:00:08Z",
+        "duration": "PT3M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "533076",
+        "likeCount": "50020",
+        "favoriteCount": "0",
+        "commentCount": "4303"
+    }
+}
