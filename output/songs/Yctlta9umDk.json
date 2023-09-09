@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DRjNBNjBENjY0Q0NCQTRB",
+    "snippet": {
+        "publishedAt": "2023-09-09T04:15:10Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "newjeans - super shy (pluggnb flip)",
+        "description": "newjeans - super shy\n[prod. @zino]\n#newjeans  #pluggnb  #kpop",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Yctlta9umDk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Yctlta9umDk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Yctlta9umDk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Yctlta9umDk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Yctlta9umDk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Yctlta9umDk"
+        },
+        "videoOwnerChannelTitle": "ZINO",
+        "videoOwnerChannelId": "UCL95zFAmqKhDeWRT7yH0Feg"
+    },
+    "contentDetails": {
+        "videoId": "Yctlta9umDk",
+        "videoPublishedAt": "2023-07-23T06:50:08Z",
+        "duration": "PT2M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "7811",
+        "likeCount": "381",
+        "favoriteCount": "0",
+        "commentCount": "9"
+    }
+}
