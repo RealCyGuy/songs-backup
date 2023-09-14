@@ -34,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "w0AOGeqOnFY"
         },
-        "videoOwnerChannelTitle": "Jeff Lau",
+        "videoOwnerChannelTitle": "Thecoconutsong",
         "videoOwnerChannelId": "UCg_yF92ZIC2KXV4x1ho7egw"
     },
     "contentDetails": {
@@ -52,8 +52,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "171182471",
-        "likeCount": "3287814",
+        "viewCount": "171184175",
+        "likeCount": "3287841",
         "favoriteCount": "0",
         "commentCount": "217158"
     }
