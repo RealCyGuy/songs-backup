@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45M0ZGQUM5QUU1ODc5QTlG",
+    "snippet": {
+        "publishedAt": "2023-09-17T18:45:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "haerin's cover Love Lee",
+        "description": "Haerin from NewJeans covering the song Love Lee",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9DpAZYmQ-JM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9DpAZYmQ-JM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9DpAZYmQ-JM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/9DpAZYmQ-JM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/9DpAZYmQ-JM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9DpAZYmQ-JM"
+        },
+        "videoOwnerChannelTitle": "Haerin \ud574\ub9b0",
+        "videoOwnerChannelId": "UC59y-Yn-BHe6_41ibC7MO3w"
+    },
+    "contentDetails": {
+        "videoId": "9DpAZYmQ-JM",
+        "videoPublishedAt": "2023-09-13T07:26:35Z",
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1511",
+        "likeCount": "57",
+        "favoriteCount": "0",
+        "commentCount": "6"
+    }
+}
