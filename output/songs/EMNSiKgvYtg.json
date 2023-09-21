@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yNzM4NjgwNTVENkZENkY3",
+    "snippet": {
+        "publishedAt": "2023-09-21T06:14:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "I DO - (G)I-DLE (Acoustic ver.)",
+        "description": "xooos instagram : xooos_ \nhttps://www.instagram.com/xooos_/\n\nBusiness contact : jiwonkim@wavy.kr\n\n mix by @ruiz_its_me https://youtube.com/c/AlertA0301",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EMNSiKgvYtg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EMNSiKgvYtg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EMNSiKgvYtg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EMNSiKgvYtg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EMNSiKgvYtg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EMNSiKgvYtg"
+        },
+        "videoOwnerChannelTitle": "xooos \uc218\uc2a4",
+        "videoOwnerChannelId": "UChs8FyDuoEmELFZgnSzh0UA"
+    },
+    "contentDetails": {
+        "videoId": "EMNSiKgvYtg",
+        "videoPublishedAt": "2023-09-17T09:00:12Z",
+        "duration": "PT2M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "63925",
+        "likeCount": "4175",
+        "favoriteCount": "0",
+        "commentCount": "195"
+    }
+}
