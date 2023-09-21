@@ -84,6 +84,7 @@
                 "FI",
                 "FR",
                 "GB",
+                "GE",
                 "GF",
                 "GP",
                 "GR",
@@ -97,6 +98,7 @@
                 "IE",
                 "IL",
                 "IN",
+                "IQ",
                 "IS",
                 "IT",
                 "JO",
@@ -106,6 +108,7 @@
                 "KR",
                 "KW",
                 "KY",
+                "LA",
                 "LB",
                 "LI",
                 "LK",
@@ -145,9 +148,11 @@
                 "SG",
                 "SI",
                 "SK",
+                "SN",
                 "SV",
                 "TC",
                 "TH",
+                "TN",
                 "TR",
                 "TW",
                 "UA",
@@ -167,9 +172,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "11745910",
-        "likeCount": "131872",
+        "viewCount": "11747228",
+        "likeCount": "131885",
         "favoriteCount": "0",
-        "commentCount": "657"
+        "commentCount": "659"
     }
 }

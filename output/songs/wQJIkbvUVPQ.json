@@ -89,6 +89,7 @@
                 "KH",
                 "KR",
                 "KY",
+                "LA",
                 "LK",
                 "LT",
                 "LV",
@@ -137,8 +138,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "64121730",
-        "likeCount": "623294",
+        "viewCount": "64125867",
+        "likeCount": "623326",
         "favoriteCount": "0",
         "commentCount": "1363"
     }

@@ -96,6 +96,7 @@
                 "IE",
                 "IL",
                 "IN",
+                "IQ",
                 "IS",
                 "IT",
                 "JO",
@@ -105,6 +106,7 @@
                 "KR",
                 "KW",
                 "KY",
+                "LA",
                 "LB",
                 "LI",
                 "LK",
@@ -143,9 +145,11 @@
                 "SG",
                 "SI",
                 "SK",
+                "SN",
                 "SV",
                 "TC",
                 "TH",
+                "TN",
                 "TR",
                 "TW",
                 "UA",
@@ -165,9 +169,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "60440235",
-        "likeCount": "442144",
+        "viewCount": "60443319",
+        "likeCount": "442156",
         "favoriteCount": "0",
-        "commentCount": "1029"
+        "commentCount": "1030"
     }
 }

@@ -60,6 +60,7 @@
                 "EG",
                 "GB",
                 "IE",
+                "IQ",
                 "JO",
                 "JP",
                 "KW",
@@ -72,6 +73,7 @@
                 "QA",
                 "RU",
                 "SA",
+                "TN",
                 "TR",
                 "UA",
                 "US",
@@ -85,8 +87,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1594758",
-        "likeCount": "48762",
+        "viewCount": "1594872",
+        "likeCount": "48763",
         "favoriteCount": "0",
         "commentCount": "55"
     }
