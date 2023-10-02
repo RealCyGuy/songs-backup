@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yNjg4ODM4N0IzQUIxQkQx",
+    "snippet": {
+        "publishedAt": "2023-10-02T19:34:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "We live we love we lie but Otamatones",
+        "description": "We wah.\n\nWatch the side-by-side comparison: https://www.youtube.com/watch?v=ilgH1sOronk\n\n*Affiliate Links*\nBrowse all Otamatones: https://hamee.com/collections/otamatone?ref=TheRealSullyG\nRegular Otamatone (White): https://hamee.com/collections/otamatone/products/otamatone-from-maywa-denki-white?ref=TheRealSullyG\nOtamatone Deluxe (White): https://hamee.com/collections/otamatone/products/otamatone-deluxe-from-meiwa-denki-white?ref=TheRealSullyG\nOtamatone Melody (White): https://hamee.com/collections/otamatone/products/otamatone-melody-from-meiwa-denki-white?ref=TheRealSullyG \n\nThank you to my Patreon supporters:\nAGuyCalledHumphrey\nBobbyTalksAboutStuff\nBrian Reed\nChristina Perez\ndssrtfx\nEnder Cobra\nJacob WSX\nJames Newburrie\nKaybee\nOrkfighta\nRheanna Resultay\nWootbot\n1blooy1\nAlexander Velazquez\nBryan Baird\nCrimson\nDavid H\nDavid Kolde\nDavid Valpiani\nDerek Wagner\nDhaq\nDylan Ramsey\nElvira Cordova\nJace Roblox\nJohn Taylor\nMaggie Campbell\n\nTags:\nSmurf, smurf cat, smurf cat we live we love we lie, \nMalwareChubb (Gaming)\nMysticMCMFP\nPablo Ornelas\nRIM-JAM (Jared & Rocky)\nRobert v 2001\nSam Jessen\nSemok Bohaska\nSteven Moore\nZach Smallwood\nZak Hammat",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UVDV4UBa3Gs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UVDV4UBa3Gs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UVDV4UBa3Gs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UVDV4UBa3Gs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UVDV4UBa3Gs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UVDV4UBa3Gs"
+        },
+        "videoOwnerChannelTitle": "TheRealSullyG",
+        "videoOwnerChannelId": "UCk-PPUZtKgj-GuyVaXSrhVQ"
+    },
+    "contentDetails": {
+        "videoId": "UVDV4UBa3Gs",
+        "videoPublishedAt": "2023-09-18T16:31:57Z",
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "398392",
+        "likeCount": "17502",
+        "favoriteCount": "0",
+        "commentCount": "551"
+    }
+}
