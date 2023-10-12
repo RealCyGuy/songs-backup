@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41Q0U3MkY1NDE3MDI0OTFC",
+    "snippet": {
+        "publishedAt": "2023-10-12T15:39:33Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "If League of Legends ft. NewJeans (\ub274\uc9c4\uc2a4) had more electric guitars (GODS Rock Cover)",
+        "description": "The Worlds Hymn-Song-Thing is a banger, but can it do better? I'd say yes.... because EVERYTHING IS BETTER WITH ELECTRIC GUITARS!!!! \n\nLeague of Legends please don't sue me, I'm just a poor student.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BeFhd5Zo584/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BeFhd5Zo584/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BeFhd5Zo584/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/BeFhd5Zo584/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/BeFhd5Zo584/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BeFhd5Zo584"
+        },
+        "videoOwnerChannelTitle": "Bernie",
+        "videoOwnerChannelId": "UC4JJcYymO5CnQ2Mm2v4iqoA"
+    },
+    "contentDetails": {
+        "videoId": "BeFhd5Zo584",
+        "videoPublishedAt": "2023-10-05T20:00:36Z",
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "43672",
+        "likeCount": "3218",
+        "favoriteCount": "0",
+        "commentCount": "199"
+    }
+}
