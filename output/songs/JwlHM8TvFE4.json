@@ -84,6 +84,7 @@
                 "FI",
                 "FR",
                 "GB",
+                "GH",
                 "GR",
                 "GT",
                 "GU",
@@ -165,8 +166,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "36840475",
-        "likeCount": "397142",
+        "viewCount": "36841448",
+        "likeCount": "397153",
         "favoriteCount": "0",
         "commentCount": "1165"
     }

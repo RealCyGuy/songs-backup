@@ -59,6 +59,7 @@
                 "DZ",
                 "EG",
                 "GB",
+                "GH",
                 "IE",
                 "IQ",
                 "JO",
@@ -87,8 +88,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1642631",
-        "likeCount": "49209",
+        "viewCount": "1642703",
+        "likeCount": "49211",
         "favoriteCount": "0",
         "commentCount": "54"
     }
