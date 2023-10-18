@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ZAJ3nfQTw4A"
         },
-        "videoOwnerChannelTitle": "\u30ed\u30af\u30c7\u30ca\u30b7 - Rokudenashi -",
+        "videoOwnerChannelTitle": "\u30ed\u30af\u30c7\u30ca\u30b7 -Rokudenashi-",
         "videoOwnerChannelId": "UCRlRgAguUGfWD4EDfBUls4w"
     },
     "contentDetails": {
@@ -63,8 +63,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3307539",
-        "likeCount": "75710",
+        "viewCount": "3307786",
+        "likeCount": "75712",
         "favoriteCount": "0",
         "commentCount": "1364"
     }
