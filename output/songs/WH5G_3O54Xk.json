@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wRDc0NEQ2QjU1Q0FEQTE2",
+    "snippet": {
+        "publishedAt": "2023-10-21T03:11:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Tia - The Glory Days",
+        "description": "Yay. Finally,  I've done the lyrics.\nLyrics: http://goo.gl/kqIYPZ\nOsu! beatmap: https://osu.ppy.sh/b/853625\n\n--- Radio Songmixer:\nTwitter: http://twitter.com/RadioSongmixer",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WH5G_3O54Xk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WH5G_3O54Xk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WH5G_3O54Xk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WH5G_3O54Xk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WH5G_3O54Xk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WH5G_3O54Xk"
+        },
+        "videoOwnerChannelTitle": "R\u00e1dio Songmixer",
+        "videoOwnerChannelId": "UCUdpeHRVABMq6qMs9nV-sNw"
+    },
+    "contentDetails": {
+        "videoId": "WH5G_3O54Xk",
+        "videoPublishedAt": "2016-04-23T21:00:01Z",
+        "duration": "PT4M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "215759",
+        "likeCount": "2679",
+        "favoriteCount": "0",
+        "commentCount": "86"
+    }
+}
