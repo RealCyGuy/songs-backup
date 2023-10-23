@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DNDE5QTVGRjY1MzBDOThC",
+    "snippet": {
+        "publishedAt": "2023-10-23T04:54:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "CHRISRGMFB \u2013 Pandemic [Synthwave] \ud83c\udfb5 from Royalty Free Planet\u2122",
+        "description": "Our music library prioritizes quality over quantity. We carefully select each track based on the feeling it creates. \ud83c\udfb6\n\nMusic is like a language that communicates emotion, and the goal here is to provide songs that will truly enhance the emotional impact of your projects. Synthwave is our specialty, but we feature much more. So sit back, listen, and feel. Oh, and enjoy the planet\u2019s dancing atmosphere while you\u2019re at it! Welcome to Royalty Free Planet, citizen.\n\nSubscribe and make Royalty Free Planet your home. \ud83d\udc99\n\n\u2615 Buy me a coffee to support this channel: http://buymeacoffee.com/ITQtMuL\n\u2b50 Become a patron on Patreon for exclusive perks! http://patreon.com/RoyaltyFreePlanet\n\n\ud83c\udfb5 Song: Pandemic\n\ud83c\udfa7 Artist: CHRISRGMFB\n\ud83d\udd0a Download: https://hypeddit.com/track/mvjrfa\n\n\ud83d\ude4c Support the Artist(s):\nNote - This artist has taken down all their social channels and websites, will update once I find out more.\n\nCredit the Artist (Copy & Paste): \n\nPandemic by CHRISRGMFB\nPromoted by Royalty Free Planet: https://royaltyfreeplanet.com\nCreative Commons Attribution 3.0\nhttp://bit.ly/RFP_CClicense\n\nBrowse our growing music collection with these categorized playlists: http://bit.ly/RFP_Playlists\n\n\ud83d\udcf1 Keep in touch with Royalty Free Planet on social media:\nhttp://bit.ly/RFP_Instagram\nhttp://bit.ly/RFP_Twitter \nhttp://bit.ly/RFP_Facebook\n\nAbout Royalty Free Planet:\n\nRoyalty Free Planet is owned and maintained by a professional Video Editor who has spent countless hours searching the vast expanse of the internet for meaningful and inspiring music to use in videos. This channel was created in hopes of making it easier for others doing the same. Feel free to use any music uploaded here in your videos, streams, games, vlogs, podcasts, and more! Have peace of mind and never worry about copyright strikes again. Use quality music for your projects stress-free. Unleash your creativity!\n\nThank you for visiting Royalty Free Planet. \ud83d\udc99\n\n#RoyaltyFreeMusic #CopyrightFreeMusic #Synthwave",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/DyAHbBGRBRc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/DyAHbBGRBRc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/DyAHbBGRBRc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/DyAHbBGRBRc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/DyAHbBGRBRc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "DyAHbBGRBRc"
+        },
+        "videoOwnerChannelTitle": "RoyaltyFreePlanet",
+        "videoOwnerChannelId": "UC6-wx-04aMXk6a3m_fSXLEw"
+    },
+    "contentDetails": {
+        "videoId": "DyAHbBGRBRc",
+        "videoPublishedAt": "2020-10-16T13:05:58Z",
+        "duration": "PT3M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "29494",
+        "likeCount": "1172",
+        "favoriteCount": "0",
+        "commentCount": "126"
+    }
+}
