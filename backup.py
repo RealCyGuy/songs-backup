@@ -11,7 +11,7 @@ from pyyoutube import Api
 
 from core.utils import escape_markdown
 
-for folder in ["output/songs", "output/deleted"]:
+for folder in ["output/songs", "output/deleted", "output/regionblocked"]:
     shutil.rmtree(folder, ignore_errors=True)
     os.mkdir(folder)
 
@@ -56,6 +56,20 @@ for index in range(0, len(data["items"]), 50):
             item["contentDetails"][key] = value
         if "likeCount" not in item["statistics"]:
             item["statistics"]["likeCount"] = "0"
+
+        # if region blocked in Canada
+        if "CA" in item["contentDetails"].get("regionRestriction", {}).get(
+            "blocked", []
+        ) or "CA" not in item["contentDetails"].get("regionRestriction", {}).get(
+            "allowed", ["CA"]
+        ):
+            with open(
+                f"output/regionblocked/{item['snippet']['resourceId']['videoId']}.json",
+                "w",
+            ) as file:
+                json.dump(item, file, indent=4)
+            continue
+
         with open(
             f"output/songs/{item['snippet']['resourceId']['videoId']}.json", "w"
         ) as file:
