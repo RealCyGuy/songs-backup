@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MTAxOUM0MDQ5RTdCRUMz",
+    "snippet": {
+        "publishedAt": "2023-10-26T00:02:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Canon in D  Remix by Arielfz",
+        "description": "",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zWOiIW5IaC4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zWOiIW5IaC4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zWOiIW5IaC4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/zWOiIW5IaC4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/zWOiIW5IaC4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "zWOiIW5IaC4"
+        },
+        "videoOwnerChannelTitle": "GamingWithEverest",
+        "videoOwnerChannelId": "UCbV3u800dM8Hgt7Xx11BCXQ"
+    },
+    "contentDetails": {
+        "videoId": "zWOiIW5IaC4",
+        "videoPublishedAt": "2021-02-14T13:53:19Z",
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "190",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+    }
+}

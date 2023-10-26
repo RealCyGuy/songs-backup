@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zRkIxNjVENzdCRjBFMEVD",
+    "snippet": {
+        "publishedAt": "2023-10-25T23:59:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Doki Doki Monika   Your Reality Miraie Remix",
+        "description": "Reupload, all credit goes to original creator! =3",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EQIhBGvTW7s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EQIhBGvTW7s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EQIhBGvTW7s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/EQIhBGvTW7s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/EQIhBGvTW7s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "EQIhBGvTW7s"
+        },
+        "videoOwnerChannelTitle": "Just Monika",
+        "videoOwnerChannelId": "UCAAt8fjJS8Xu2ghZ-FuXEvQ"
+    },
+    "contentDetails": {
+        "videoId": "EQIhBGvTW7s",
+        "videoPublishedAt": "2017-12-12T00:23:14Z",
+        "duration": "PT3M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "8240",
+        "likeCount": "298",
+        "favoriteCount": "0",
+        "commentCount": "39"
+    }
+}

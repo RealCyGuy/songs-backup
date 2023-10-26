@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wMjNBQURDQzhBQjM0QjYz",
+    "snippet": {
+        "publishedAt": "2023-10-26T00:00:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "MOZART DRILL REMIX",
+        "description": "MOZART DRILL REMIXED by Prod. Smurph (Rondo Alla Turca Remix)\nBeatstars: https://www.beatstars.com/beat/8303557\n\n\ud83c\udfa7 Follow TrapMusicHD \ud83c\udfa7\nFacebook: https://www.facebook.com/TrapMusicHD\nTwitter: https://twitter.com/TrapMusicHD\nSoundcloud: https://soundcloud.com/trapmusichd\nInstagram: http://instagram.com/trapmusichdtv\nVK: http://vk.com/trapmusichdtv\nSnapchat: TrapMusicHD\nMusical.ly: TrapMusicHD\n\n\ud83d\udc8e Follow Prod. Smurph \ud83d\udc8e\nYoutube: https://www.youtube.com/c/ProdSmurph\nInstagram: https://www.instagram.com/prod.smurph\n\nArtwork by Ariel Li\nArtStation: https://www.artstation.com/ariellerocker\nInstagram: https://www.instagram.com/fredericarsenault2112\n\n\ud83c\udfb6 HD Family \ud83c\udfb6\nRapMusicHD: https://goo.gl/J1Noub\nBassMusicHD: https://goo.gl/0RN70B\nChillMusicHD: https://goo.gl/EXAoAh\nHouseMusicHD: https://goo.gl/l51Abz\nEDMMusicHD: https://goo.gl/iGNNwY\nGanjaMusicHD: https://goo.gl/fXdWrL",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hcTYMzqb9uM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hcTYMzqb9uM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hcTYMzqb9uM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/hcTYMzqb9uM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/hcTYMzqb9uM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hcTYMzqb9uM"
+        },
+        "videoOwnerChannelTitle": "TrapMusicHDTV",
+        "videoOwnerChannelId": "UCaB_KyYOjfNHBm0f-TvBmiw"
+    },
+    "contentDetails": {
+        "videoId": "hcTYMzqb9uM",
+        "videoPublishedAt": "2021-07-05T13:06:57Z",
+        "duration": "PT1M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "647455",
+        "likeCount": "20615",
+        "favoriteCount": "0",
+        "commentCount": "584"
+    }
+}

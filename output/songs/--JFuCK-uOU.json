@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNzVFMTFEODJDOTAzRDVE",
+    "snippet": {
+        "publishedAt": "2023-10-26T00:03:33Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Maroon 5 - Beautiful Mistakes (ft. Megan Thee Stallion) (Marjon Remix)",
+        "description": "Maroon 5 - Beautiful Mistakes (ft. Megan Thee Stallion) (Marjon Remix)\n\nTorontoRaptors77:\nFacebook - https://www.facebook.com/TorontoRapto...\nTwitter - https://www.twitter.com/CammyDJ777 \nInstagram - https://www.instagram.com/yoitscammy\nYouNow - https://www.younow.com/Cammy\nSnapchat - CammyDJ777\n\nMarjon \nhttps://www.youtube.com/channel/UCnUcKetMJ8g18qjaq6HsLsw\n\nNo copyright infringement intended. If you are the original artist and you wouldn't want this video uploaded to my channel, please email me CameronZoellick@gmail.com or comment in the section below. I will immediately remove it upon request.\n\n#Maroon5 #BeautifulMistakes #MeganTheeStallion #Marjon #FutureHouse #FutureBounce #HouseMusic #DeepHouse #BassHouse #ElectroHouse #EDM #PartyMusic #ShuffleDance #Shuffle #FestivalMusic #Electronic #ElectronicMusic #Dance #Dancemusic #Summermusic #Music #NewMusic #Electronic #Future #House #TropicalHouse #TropicalHouseMusic #Remix #Trap #TrapMusic #TrapRemix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/--JFuCK-uOU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/--JFuCK-uOU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/--JFuCK-uOU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/--JFuCK-uOU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "--JFuCK-uOU"
+        },
+        "videoOwnerChannelTitle": "TorontoRaptors77",
+        "videoOwnerChannelId": "UCDdv8ZDGvBUvWH0Czk_Odng"
+    },
+    "contentDetails": {
+        "videoId": "--JFuCK-uOU",
+        "videoPublishedAt": "2021-08-24T20:01:35Z",
+        "duration": "PT3M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "636",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "2"
+    }
+}
