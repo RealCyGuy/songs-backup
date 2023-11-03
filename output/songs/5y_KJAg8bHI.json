@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QzlBOUIzQjA2MTg3RDYz",
+    "snippet": {
+        "publishedAt": "2022-01-06T00:38:50Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Avicii - Wake Me Up (Official Lyric Video)",
+        "description": "\u201dIt\u2019s so far away from anything I\u2019ve ever done before musically, so it\u2019s obviously a weight off my shoulder that everything went the way it did\u201d \u2014 Tim \u2019Avicii\u2019 Bergling. \n \nEvery hit song begins with a first note. Released in 2013 on the album True, Wake Me Up was one of the songs where Avicii showed the world his ability to blend different genres, creating songs that touched people worldwide \u2014 transcending the boundaries of ages, music preferences, and cultures.  \n\nListen to more music by Avicii here: https://Avicii.lnk.to/Channel\nIn Dolby Atmos: https://avicii.lnk.to/SpatialAudio\n\n#Avicii #WakeMeUp #10years",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5y_KJAg8bHI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5y_KJAg8bHI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5y_KJAg8bHI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/5y_KJAg8bHI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/5y_KJAg8bHI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5y_KJAg8bHI"
+        },
+        "videoOwnerChannelTitle": "AviciiOfficialVEVO",
+        "videoOwnerChannelId": "UC1SqP7_RfOC9Jf9L_GRHANg"
+    },
+    "contentDetails": {
+        "videoId": "5y_KJAg8bHI",
+        "videoPublishedAt": "2013-06-28T19:09:38Z",
+        "duration": "PT4M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "475488454",
+        "likeCount": "2663393",
+        "favoriteCount": "0",
+        "commentCount": "118992"
+    }
+}
