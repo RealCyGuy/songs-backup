@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zQzNBQkFCQkZCRkNFNzJG",
+    "snippet": {
+        "publishedAt": "2022-05-13T06:33:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Heat Waves - Glass Animals / Japanese ver.",
+        "description": "I've had this song stuck in my head for quite a while now,\nI hope you like this one as much as I do! \ud83d\ude33\n\nSpecial thanks to my friend, ERA, for the rearrangement!\nHe did a really good job turning this into a chill cover. \ud83d\udd25\ud83c\udf0a\n\nORIGINAL\n\nTitle: \"Heat Waves\"\nArtist: Glass Animals @GlassAnimals \nLink: https://youtu.be/mRD0-GxqHVo\n\nCOVER\n\nVocals \u2023 Lime  @limedayo \nInstrumental \u2023 ERASED https://www.erasedrecords.com/\nMixing \u2023 Kenka https://www.youtube.com/c/KenkaCh\nTranslyrics \u2023 Tokyo Cabin @tokyocabin (Translated exclusively for this cover only)\nIllustration\n\u2023 ERASED https://www.twitter.com/IsaacMonstera\n\u2023 UK13 https://instagram.com/utusanke13\nMovie \u2023 autumnwhitecat https://twitter.com/autumnwhitecat\n\nLINKS\n\nTwitter \u2023 https://twitter.com/limedayo\nSpotify \u2023 https://spoti.fi/39WcwOI\nInstagram \u2023 https://instagram.com/limedayo\nKo-fi \u2023 https://ko-fi.com/limey (Donations are not required, but appreciated!)\n\n_____\n\nUsage of audio is allowed as long as proper credits & link are included.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BOokFwrmri4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BOokFwrmri4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BOokFwrmri4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/BOokFwrmri4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/BOokFwrmri4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BOokFwrmri4"
+        },
+        "videoOwnerChannelTitle": "Lime",
+        "videoOwnerChannelId": "UCMdOcvasHUF_tImKhaXurEg"
+    },
+    "contentDetails": {
+        "videoId": "BOokFwrmri4",
+        "videoPublishedAt": "2022-04-18T14:00:13Z",
+        "duration": "PT3M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1852338",
+        "likeCount": "69855",
+        "favoriteCount": "0",
+        "commentCount": "2010"
+    }
+}

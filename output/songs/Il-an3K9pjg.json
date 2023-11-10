@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DQUFDNEM3QTc0MEFENDdC",
+    "snippet": {
+        "publishedAt": "2021-09-14T04:17:16Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Anne-Marie - 2002 [Official Video]",
+        "description": "The new album 'UNHEALTHY' OUT NOW: https://anne-marie.lnk.to/Unhealthy\nListen to 'UNHEALTHY' feat. Shania Twain: https://anne-marie.lnk.to/Unhealthy-Single/\n\nCheck out the Anne-Marie \u2013 Top Songs Video Playlist! \nhttps://lnk.to/AMTopSongs\n\nSubscribe to Anne-Marie\u2019s channel for all the latest official music videos, official audio, albums and more! \nhttps://lnk.to/AMSubscribe\n\nGet your Anne-Marie merchandise here! https://smarturl.it/anne-marie.store\n\nFollow Anne-Marie\nhttp://iamannemarie.com \nhttp://www.facebook.com/iamannemarie \nhttp://twitter.com/AnneMarie \nhttps://instagram.com/annemarie\n\nAbout Anne-Marie:\nAnne-Marie has proved to be one of the UK\u2019s most exciting and successful British breakthrough popstars of recent years. A former 3x world karate champion and West End child star-turned 9x BRIT Award nominee, A-M\u2019s rise has been nothing short of meteoric. In 2018 Anne-Marie released her debut album, \u2018Speak Your Mind\u2019 which featured the hit singles 'Alarm', 'Ciao Adios', 'Heavy', 'Friends', '2002' and 'Perfect to Me'. She subsequently ended that year as as the UK\u2019s biggest-selling debut artist, selling out headline shows and playing stadium dates supporting long-time friend and champion Ed Sheeran in the process.\n\nShe has also sang on and co-written many other hits such as Birthday, Rockabye, Don't Leave Me Alone,  To Be Young, f*ck, i'm lonely and Don't Play, collaborating with the likes of Clean Bandit, Marshmello, David Guetta, Lauv, Rudimental, Doja Cat and KSI, as well as starring on The Greatest Showman: Reimagined soundtrack performing Rewrite the stars alongside James Arthur.\n \n\n#AnneMarie #Unhealthy #AM3",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Il-an3K9pjg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Il-an3K9pjg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Il-an3K9pjg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Il-an3K9pjg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Il-an3K9pjg"
+        },
+        "videoOwnerChannelTitle": "Anne-Marie",
+        "videoOwnerChannelId": "UCBL7ZxVX4GvW4CFiES_-0YA"
+    },
+    "contentDetails": {
+        "videoId": "Il-an3K9pjg",
+        "videoPublishedAt": "2018-05-08T11:05:08Z",
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "809975150",
+        "likeCount": "5198602",
+        "favoriteCount": "0",
+        "commentCount": "106180"
+    }
+}

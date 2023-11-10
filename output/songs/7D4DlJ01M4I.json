@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRjVCN0Q4MEM3OUZFRjk1",
+    "snippet": {
+        "publishedAt": "2021-11-01T22:48:49Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "ROCKIN' AROUND THE CHRISTMAS TREE (OFFICIAL TRAP REMIX)",
+        "description": "Rockin' Around The Christmas Tree (OFFICIAL TRAP REMIX)\nGet it now: http://bit.ly/2gyrycm\n\u2764\ufe0f LIKE & \ud83d\udd14 SUBSCRIBE: https://www.youtube.com/c/trapmusicnow?sub_confirmation=1\n\ud83d\udc53 MERCH: https://teespring.com/stores/trapmusicnow\n\u2728 LISTEN ON SPOTIFY: https://open.spotify.com/artist/1cQnHsdUqpQ1z8D5uZyXPP?si=3Tu21BghQxmLKCZl8-S7Sw\n\n\ud83c\udfb6 Buck Rodgers\nhttp://www.djbuckrodgers.com/\nhttps://twitter.com/djbuckrodgers\nhttps://facebook.com/djbuckrodgers\nhttps://soundcloud.com/djbuckrodgers\n\n\ud83c\udf10 TRAP MUSIC NOW\nSubscribe: https://www.youtube.com/c/trapmusicnow?sub_confirmation=1\nMerch: https://teespring.com/stores/trapmusicnow\nSpotify: https://open.spotify.com/artist/1cQnHsdUqpQ1z8D5uZyXPP?si=3Tu21BghQxmLKCZl8-S7Sw\nTwitter: http://twitter.com/trapmusicfam\nInstagram: https://instagram.com/trapmusicfam\nSoundcloud: https://soundcloud.com/trapmusicnow\nFacebook: https://facebook.com/trapmusicnow\n\nUse AI to create music with your voice and leverage the latest in AI technology to supercharge your music with our partners at Musicfy! Get started today \ud83e\udd73 https://create.musicfy.lol/?via=tmn\n\n\u27a1\ufe0f For business inquiries and partnerships, email us through our contact page. The musical composition and underlying assets in this video are not free for commercial use or reupload. For more information, contact us via email. Wallpaper published under Creative Commons Zero.\n\n#trap #memes #meme",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/7D4DlJ01M4I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "7D4DlJ01M4I"
+        },
+        "videoOwnerChannelTitle": "Trap Music Now",
+        "videoOwnerChannelId": "UCi2bIyFtz-JdI-ou8kaqsqg"
+    },
+    "contentDetails": {
+        "videoId": "7D4DlJ01M4I",
+        "videoPublishedAt": "2016-12-02T19:00:00Z",
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "10201533",
+        "likeCount": "114169",
+        "favoriteCount": "0",
+        "commentCount": "3043"
+    }
+}

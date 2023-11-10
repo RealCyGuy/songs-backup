@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRTVDQkE0OURCOTZEMEY0",
+    "snippet": {
+        "publishedAt": "2021-09-24T06:12:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "it's different - Pokemon \u00dc (feat. Broderick Jones)",
+        "description": "it's different - Pokemon \u00dc (feat. Broderick Jones)\n\ud83d\udd25 STREAM NOW: https://trapnation.komi.io\n\nIt's Different\n\u2717 https://www.facebook.com/itsdifferenttoday/\n\u2717 https://soundcloud.com/itsdifferen\n\n\n\u2717 Copyright Free Music (Safe to Use - No Copyright Claim): https://broke.ffm.to/downloadbroke\n\n#itsdifferent #pokemonu #trapnation #trap #edm #trapmusic #trapremix #remix #music #mix #visualizer",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Fw0R0b2r6pE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Fw0R0b2r6pE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Fw0R0b2r6pE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Fw0R0b2r6pE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Fw0R0b2r6pE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Fw0R0b2r6pE"
+        },
+        "videoOwnerChannelTitle": "Trap Nation",
+        "videoOwnerChannelId": "UCa10nxShhzNrCE1o2ZOPztg"
+    },
+    "contentDetails": {
+        "videoId": "Fw0R0b2r6pE",
+        "videoPublishedAt": "2016-07-31T15:36:45Z",
+        "duration": "PT3M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "36737607",
+        "likeCount": "696659",
+        "favoriteCount": "0",
+        "commentCount": "34553"
+    }
+}
