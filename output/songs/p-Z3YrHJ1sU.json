@@ -40,22 +40,6 @@
         "definition": "sd",
         "caption": "false",
         "licensedContent": false,
-        "regionRestriction": {
-            "blocked": [
-                "FR",
-                "GF",
-                "GP",
-                "MC",
-                "MQ",
-                "NC",
-                "PF",
-                "PM",
-                "RE",
-                "TF",
-                "WF",
-                "YT"
-            ]
-        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -63,8 +47,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "585718296",
-        "likeCount": "4139936",
+        "viewCount": "585723349",
+        "likeCount": "4139983",
         "favoriteCount": "0",
         "commentCount": "172051"
     }
