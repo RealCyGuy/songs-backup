@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNDhCRDYxMjczOTgxN0JF",
+    "snippet": {
+        "publishedAt": "2023-11-22T16:42:17Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "YENA(\ucd5c\uc608\ub098) - 2002 | COVER - \uc6d0\uace1 : Anne-Marie",
+        "description": "#\ucd5c\uc608\ub098 #\uc608\ub098 #YENA #2002\n\nYENA(\ucd5c\uc608\ub098) - 2002 | COVER - \uc6d0\uace1 : Anne-Marie\n\n[YENA(\ucd5c\uc608\ub098) SNS] \n\nTwitter: https://twitter.com/YENA_OFFICIAL\nInstagram: https://www.instagram.com/yena.jigumina/\nFacebook: https://www.facebook.com/yenaofficial\nTikTok: https://www.tiktok.com/@choiyena.official?\nFan Cafe: https://cafe.daum.net/CHOIYENA\nWeibo: https://weibo.com/u/7811048686\nbilibili: https://space.bilibili.com/3493104095071072",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/opFK5IUvH9g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/opFK5IUvH9g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/opFK5IUvH9g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/opFK5IUvH9g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/opFK5IUvH9g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "opFK5IUvH9g"
+        },
+        "videoOwnerChannelTitle": "YENA(\ucd5c\uc608\ub098)",
+        "videoOwnerChannelId": "UCkrDEGNM3mqZXHk2MfnOjMw"
+    },
+    "contentDetails": {
+        "videoId": "opFK5IUvH9g",
+        "videoPublishedAt": "2023-11-13T09:00:29Z",
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "56067",
+        "likeCount": "7250",
+        "favoriteCount": "0",
+        "commentCount": "416"
+    }
+}
