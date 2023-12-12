@@ -1,0 +1,23 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42NDVCQTU1MEQ2OUMwOUU2",
+    "snippet": {
+        "publishedAt": "2022-08-05T02:24:12Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "uFa4MrjB_t8"
+        }
+    },
+    "contentDetails": {
+        "videoId": "uFa4MrjB_t8"
+    },
+    "status": {
+        "privacyStatus": "private"
+    }
+}
