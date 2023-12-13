@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMzk4Q0RGRjc1QjZGOUU3",
+    "snippet": {
+        "publishedAt": "2023-12-13T01:00:31Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[COVER] B-DAY TRACK #129 \u201cYUNA\u201d | Perfect To Me by Anne-Marie",
+        "description": "[COVER] B-DAY TRACK #129 \u201cYUNA\u201d | Perfect To Me by Anne-Marie\n\nITZY \"BORN TO BE\"\nhttps://ITZY.lnk.to/BORNTOBE\n\n\ud83d\udccc ALBUM RELEASE \n2024.01.08 MON 6PM (KST) | 4AM (EST)\n\n[ITZY Official]\n\u25b6 https://www.youtube.com/c/ITZY\n\u25b6 https://www.instagram.com/itzy.all.in.us\n\u25b6 https://www.tiktok.com/@itzyofficial\n\u25b6 http://www.twitter.com/ITZYOfficial\n\u25b6 http://www.facebook.com/OfficialITZY\n\u25b6 https://www.weibo.com/u/7462077750?is\n\u25b6 http://ITZY.jype.com\n\u25b6 http://fans.jype.com/ITZY\n\n#ITZY #YUNA #PerfectToMe\n\nCopyrights 2023 \u24d2 JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/j3pL15ypMWM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/j3pL15ypMWM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/j3pL15ypMWM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/j3pL15ypMWM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/j3pL15ypMWM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "j3pL15ypMWM"
+        },
+        "videoOwnerChannelTitle": "ITZY",
+        "videoOwnerChannelId": "UCDhM2k2Cua-JdobAh5moMFg"
+    },
+    "contentDetails": {
+        "videoId": "j3pL15ypMWM",
+        "videoPublishedAt": "2023-12-08T15:00:39Z",
+        "duration": "PT3M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "199650",
+        "likeCount": "36241",
+        "favoriteCount": "0",
+        "commentCount": "2784"
+    }
+}
