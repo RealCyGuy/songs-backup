@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "vjbApBuLlT0"
         },
-        "videoOwnerChannelTitle": "Crunchyroll Collection",
+        "videoOwnerChannelTitle": "Crunchyroll",
         "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
     },
     "contentDetails": {
@@ -132,8 +132,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1009073",
-        "likeCount": "20161",
+        "viewCount": "1009093",
+        "likeCount": "20162",
         "favoriteCount": "0",
         "commentCount": "1508"
     }
