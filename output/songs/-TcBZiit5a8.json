@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "-TcBZiit5a8"
         },
-        "videoOwnerChannelTitle": "Hanon\u3061\u3083\u3093",
+        "videoOwnerChannelTitle": "Hanon 2nd Channel",
         "videoOwnerChannelId": "UCKx4yiezj59UpijNKyt56uA"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "489578",
-        "likeCount": "13322",
+        "viewCount": "489583",
+        "likeCount": "13323",
         "favoriteCount": "0",
         "commentCount": "331"
     }
