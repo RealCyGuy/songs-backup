@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "KYwA5k00p2I"
         },
-        "videoOwnerChannelTitle": "Bill Withers - Topic",
-        "videoOwnerChannelId": "UCDjpW6k2Sfg_FTr1toLvffQ"
+        "videoOwnerChannelTitle": "Grover Washington, Jr. - Topic",
+        "videoOwnerChannelId": "UCsN1HTruhFfXcSMGMsBmX_w"
     },
     "contentDetails": {
         "videoId": "KYwA5k00p2I",
@@ -165,8 +165,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "124042949",
-        "likeCount": "1594609",
+        "viewCount": "124044602",
+        "likeCount": "1594629",
         "favoriteCount": "0",
         "commentCount": "2258"
     }
