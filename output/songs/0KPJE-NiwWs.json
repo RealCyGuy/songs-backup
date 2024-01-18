@@ -5,7 +5,7 @@
         "publishedAt": "2022-01-05T04:29:26Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Hans Zimmer - Interstellar Theme (Cover)",
-        "description": "spotify:                       http://bit.ly/spotify_ibi\nitunes/apple:             https://apple.co/3uvATsE\nmore links:                https://www.ibipiano.com/links\nSheet Music:   https://www.musicnotes.com/l/9brMp",
+        "description": "streams:         https://www.ibipiano.com/links\nSheet Music:   https://www.musicnotes.com/l/9brMp",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/0KPJE-NiwWs/default.jpg",
@@ -52,8 +52,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2425294",
-        "likeCount": "76716",
+        "viewCount": "2425342",
+        "likeCount": "76715",
         "favoriteCount": "0",
         "commentCount": "805"
     }
