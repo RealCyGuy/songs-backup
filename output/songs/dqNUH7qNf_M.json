@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "dqNUH7qNf_M"
         },
-        "videoOwnerChannelTitle": "JEON SOYEON - Topic",
-        "videoOwnerChannelId": "UCVXeNwNQs07XQ8d1HtvuxVg"
+        "videoOwnerChannelTitle": "SOYEON - Topic",
+        "videoOwnerChannelId": "UCXMBqAw-ltLmB_AKCmWaq6Q"
     },
     "contentDetails": {
         "videoId": "dqNUH7qNf_M",
@@ -310,7 +310,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "5313836",
+        "viewCount": "5313955",
         "likeCount": "59516",
         "favoriteCount": "0",
         "commentCount": "0"
