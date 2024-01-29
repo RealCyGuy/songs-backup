@@ -63,6 +63,7 @@
                 "GT",
                 "GU",
                 "HN",
+                "JM",
                 "KY",
                 "MP",
                 "MQ",
@@ -85,8 +86,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "7019468",
-        "likeCount": "99501",
+        "viewCount": "7019827",
+        "likeCount": "99507",
         "favoriteCount": "0",
         "commentCount": "373"
     }

@@ -67,7 +67,9 @@
                 "JO",
                 "KR",
                 "KW",
+                "KZ",
                 "LB",
+                "LY",
                 "MA",
                 "MX",
                 "MY",
@@ -80,7 +82,8 @@
                 "TN",
                 "TR",
                 "UA",
-                "US"
+                "US",
+                "YE"
             ]
         },
         "contentRating": {},
@@ -90,8 +93,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1400272",
-        "likeCount": "19083",
+        "viewCount": "1400299",
+        "likeCount": "19084",
         "favoriteCount": "0",
         "commentCount": "113"
     }

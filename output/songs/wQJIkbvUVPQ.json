@@ -55,6 +55,7 @@
                 "AR",
                 "AU",
                 "AW",
+                "AZ",
                 "BA",
                 "BG",
                 "BM",
@@ -85,15 +86,18 @@
                 "ID",
                 "IL",
                 "IT",
+                "JM",
                 "JP",
                 "KE",
                 "KH",
                 "KR",
                 "KY",
+                "KZ",
                 "LA",
                 "LK",
                 "LT",
                 "LV",
+                "ME",
                 "MK",
                 "MQ",
                 "MT",
@@ -124,12 +128,14 @@
                 "TR",
                 "TW",
                 "UA",
+                "UG",
                 "US",
                 "UY",
                 "VE",
                 "VI",
                 "VN",
-                "ZA"
+                "ZA",
+                "ZW"
             ]
         },
         "contentRating": {},
@@ -139,8 +145,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "70901608",
-        "likeCount": "667679",
+        "viewCount": "70902855",
+        "likeCount": "667699",
         "favoriteCount": "0",
         "commentCount": "1343"
     }

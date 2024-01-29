@@ -58,6 +58,7 @@
                 "AT",
                 "AU",
                 "AW",
+                "AZ",
                 "BA",
                 "BD",
                 "BE",
@@ -103,12 +104,14 @@
                 "IQ",
                 "IS",
                 "IT",
+                "JM",
                 "JO",
                 "JP",
                 "KE",
                 "KH",
                 "KW",
                 "KY",
+                "KZ",
                 "LA",
                 "LB",
                 "LI",
@@ -116,6 +119,7 @@
                 "LT",
                 "LU",
                 "LV",
+                "LY",
                 "MA",
                 "MK",
                 "MP",
@@ -141,6 +145,7 @@
                 "PT",
                 "PY",
                 "QA",
+                "RE",
                 "RO",
                 "RS",
                 "RU",
@@ -156,12 +161,16 @@
                 "TN",
                 "TR",
                 "TW",
+                "TZ",
                 "UA",
+                "UG",
                 "UY",
                 "VE",
                 "VN",
+                "YE",
                 "YT",
-                "ZA"
+                "ZA",
+                "ZW"
             ]
         },
         "contentRating": {},
@@ -171,8 +180,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "29021113",
-        "likeCount": "400681",
+        "viewCount": "29021947",
+        "likeCount": "400696",
         "favoriteCount": "0",
         "commentCount": "449"
     }
