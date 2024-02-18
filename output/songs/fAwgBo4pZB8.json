@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNzE0MTI2OERFQTYwRjc1",
+    "snippet": {
+        "publishedAt": "2024-02-17T23:47:53Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "If I can Stop One Heart from Breaking: Mtashed Cover (Honkai: Star Rail)",
+        "description": "My first ever official cover! Video made in: https://vizzy.io\nI had a blast doing this, and all proceeds will be going to my friend Adam Sanders who helped me record and edit this! Support his kids music channel here: https://www.youtube.com/@wholesomelittlehumans",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fAwgBo4pZB8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fAwgBo4pZB8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fAwgBo4pZB8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/fAwgBo4pZB8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/fAwgBo4pZB8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fAwgBo4pZB8"
+        },
+        "videoOwnerChannelTitle": "Mtashed",
+        "videoOwnerChannelId": "UCI0fV325v5QniwVJ74PAVcA"
+    },
+    "contentDetails": {
+        "videoId": "fAwgBo4pZB8",
+        "videoPublishedAt": "2024-02-17T20:10:20Z",
+        "duration": "PT2M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "24158",
+        "likeCount": "5093",
+        "favoriteCount": "0",
+        "commentCount": "887"
+    }
+}
