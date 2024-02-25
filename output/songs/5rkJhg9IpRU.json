@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "5rkJhg9IpRU"
         },
-        "videoOwnerChannelTitle": "Various Artists - Topic",
-        "videoOwnerChannelId": "UCGEEEXr1aSMQy3SYKaJDqew"
+        "videoOwnerChannelTitle": "Release - Topic",
+        "videoOwnerChannelId": "UCQKb15zl_jHiewL4ZFRpe9w"
     },
     "contentDetails": {
         "videoId": "5rkJhg9IpRU",
@@ -306,8 +306,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2136467",
-        "likeCount": "41221",
+        "viewCount": "2136523",
+        "likeCount": "41222",
         "favoriteCount": "0",
         "commentCount": "0"
     }
