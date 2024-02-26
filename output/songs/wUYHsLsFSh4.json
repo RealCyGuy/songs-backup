@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FMjI0NDA3MTFEMDM3QjYw",
+    "snippet": {
+        "publishedAt": "2024-02-26T05:46:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "The Big Sleep - Honkai: Star Rail 2.0 OST",
+        "description": "Part of \u201cHonkai: Star Rail - The Flapper Sinthome\u201d (Original Game Soundtrack)\nVersion 2.0 \u201cIf One Dreams At Midnight\u201d\n\u2117 2024 HOYO-MiX\n\nPlaylist: https://www.youtube.com/playlist?list=PLf9L5TXmplp2jdC-RwQF1zpo-bZps4s56\n\n328847138\nPenacony \u00b7 A Strange Dream \u00b7 The Reverie (Dreamscape)\n#HonkaiStarRail #Penacony",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wUYHsLsFSh4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wUYHsLsFSh4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wUYHsLsFSh4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/wUYHsLsFSh4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/wUYHsLsFSh4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wUYHsLsFSh4"
+        },
+        "videoOwnerChannelTitle": "Pom-Pom\u2019s Workstation",
+        "videoOwnerChannelId": "UCrH4a4BX2YkwzKmjwYTpniQ"
+    },
+    "contentDetails": {
+        "videoId": "wUYHsLsFSh4",
+        "videoPublishedAt": "2024-02-06T08:50:49Z",
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "54865",
+        "likeCount": "800",
+        "favoriteCount": "0",
+        "commentCount": "46"
+    }
+}

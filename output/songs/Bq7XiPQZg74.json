@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43RUNBNjI2MkYzRDZFQkQy",
+    "snippet": {
+        "publishedAt": "2024-02-26T05:57:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "This Side of Paradise - Honkai: Star Rail 2.0 OST",
+        "description": "Part of \u201cHonkai: Star Rail - The Flapper Sinthome\u201d (Original Game Soundtrack)\nVersion 2.0 \u201cIf One Dreams At Midnight\u201d\n\u2117 2024 HOYO-MiX\n\nPlaylist: https://www.youtube.com/playlist?list=PLf9L5TXmplp2jdC-RwQF1zpo-bZps4s56\n\n64421390 / 642539405\nPenacony \u00b7 Golden Hour\n#HonkaiStarRail #Penacony",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Bq7XiPQZg74/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Bq7XiPQZg74/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Bq7XiPQZg74/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Bq7XiPQZg74/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Bq7XiPQZg74/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Bq7XiPQZg74"
+        },
+        "videoOwnerChannelTitle": "Pom-Pom\u2019s Workstation",
+        "videoOwnerChannelId": "UCrH4a4BX2YkwzKmjwYTpniQ"
+    },
+    "contentDetails": {
+        "videoId": "Bq7XiPQZg74",
+        "videoPublishedAt": "2024-02-07T01:44:42Z",
+        "duration": "PT2M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "42831",
+        "likeCount": "998",
+        "favoriteCount": "0",
+        "commentCount": "23"
+    }
+}
