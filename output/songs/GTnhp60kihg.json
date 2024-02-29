@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "GTnhp60kihg"
         },
-        "videoOwnerChannelTitle": "Sorn - Topic",
-        "videoOwnerChannelId": "UC13g_nRVu5iF11_N3_Tz12A"
+        "videoOwnerChannelTitle": "SORN (CLC) - Topic",
+        "videoOwnerChannelId": "UCmswZAw1Lgbk1p1J9fu-u4Q"
     },
     "contentDetails": {
         "videoId": "GTnhp60kihg",
@@ -183,8 +183,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "789977",
-        "likeCount": "26790",
+        "viewCount": "790008",
+        "likeCount": "26791",
         "favoriteCount": "0",
         "commentCount": "0"
     }
