@@ -48,7 +48,7 @@
         "duration": "PT4M33S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1033912301",
-        "likeCount": "5502042",
+        "viewCount": "1033942767",
+        "likeCount": "5502157",
         "favoriteCount": "0",
-        "commentCount": "136055"
+        "commentCount": "136062"
     }
 }
