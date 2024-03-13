@@ -121,7 +121,6 @@
                 "LV",
                 "LY",
                 "MA",
-                "ME",
                 "MK",
                 "MP",
                 "MQ",
@@ -183,8 +182,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "72435979",
-        "likeCount": "526268",
+        "viewCount": "72437960",
+        "likeCount": "526282",
         "favoriteCount": "0",
         "commentCount": "2267"
     }
