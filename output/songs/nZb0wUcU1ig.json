@@ -34,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "nZb0wUcU1ig"
         },
-        "videoOwnerChannelTitle": "Skyrock Records",
+        "videoOwnerChannelTitle": "DJ Skyrock",
         "videoOwnerChannelId": "UCK1xxH2P4EdMMVjTJJyg3gA"
     },
     "contentDetails": {
@@ -52,7 +52,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "330517",
+        "viewCount": "330520",
         "likeCount": "3383",
         "favoriteCount": "0",
         "commentCount": "188"
