@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "OxiTrdB_x5k"
         },
-        "videoOwnerChannelTitle": "airo",
+        "videoOwnerChannelTitle": "airi",
         "videoOwnerChannelId": "UC6PeirgIN0O3m2I9hh-inmg"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3385802",
+        "viewCount": "3385824",
         "likeCount": "56201",
         "favoriteCount": "0",
         "commentCount": "1034"
