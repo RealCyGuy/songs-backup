@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "JfYPvPWSy0w"
         },
-        "videoOwnerChannelTitle": "JAWS - Topic",
+        "videoOwnerChannelTitle": "\u767d\u9ca8JAWS - Topic",
         "videoOwnerChannelId": "UCk-_bE9xdco3S6gQmRCLNUQ"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3546170",
-        "likeCount": "55551",
+        "viewCount": "3546398",
+        "likeCount": "55557",
         "favoriteCount": "0",
         "commentCount": "0"
     }
