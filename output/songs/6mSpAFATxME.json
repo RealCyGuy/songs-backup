@@ -49,7 +49,7 @@
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "regionRestriction": {
             "blocked": [
                 "RU"
@@ -62,7 +62,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3318286",
+        "viewCount": "3318368",
         "likeCount": "76512",
         "favoriteCount": "0",
         "commentCount": "1859"
