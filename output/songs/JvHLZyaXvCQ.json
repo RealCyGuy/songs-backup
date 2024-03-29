@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "JvHLZyaXvCQ"
         },
-        "videoOwnerChannelTitle": "Alohaii / Lone Alpha",
+        "videoOwnerChannelTitle": "Alohaii",
         "videoOwnerChannelId": "UCv7cX2hDhEVtCEBvssHofFA"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "143055",
+        "viewCount": "143065",
         "likeCount": "2920",
         "favoriteCount": "0",
         "commentCount": "162"
