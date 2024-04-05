@@ -50,6 +50,12 @@
         "definition": "hd",
         "caption": "true",
         "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "RU"
+            ]
+        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,8 +63,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "124821",
-        "likeCount": "2809",
+        "viewCount": "124828",
+        "likeCount": "2810",
         "favoriteCount": "0",
         "commentCount": "74"
     }
