@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NkVENTkxRDdCQUFBMDY4",
+    "snippet": {
+        "publishedAt": "2021-04-25T04:12:32Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ren - Money Game Part 2 (Official Lyric Video)",
+        "description": "Help support me by joining my Patreon: https://www.patreon.com/renmakesmusic\nSubscribe Now! - https://bit.ly/RenYTSub\n\nRen - Money Game Part 2 (Official Lyric Video)\n\nMoney game 2 is out now!\n\nhttp://smarturl.it/RenDemos\n\nI'm releasing, producing, editing, and promoting all my songs and content myself! I rely completely on word of mouth promotion to carry on doing what I love! If you guys like what I'm doing you can help me so much by streaming, downloading, sharing my videos across social media, showing them to friends and family, and leaving me a comment and a like. \n\n\nThank you so much for the love and support so far! It means the world!\n\n\nDon't forget to subscribe and turn notifications on!\n\n\nYou can follow me on instagram @RenMakesMusic\n\n\nwww.facebook.com/renmakesmusic\n\nYou can help support me doing what I love by grabbing some merch here: https://xvii-music-group.myshopify.com/collections/ren\n\n#renmakesmusic #ren #moneygame",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YonS9_QJbp8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YonS9_QJbp8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YonS9_QJbp8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "YonS9_QJbp8"
+        },
+        "videoOwnerChannelTitle": "Ren",
+        "videoOwnerChannelId": "UCqq3VcwPGseErHUa0-xLInQ"
+    },
+    "contentDetails": {
+        "videoId": "YonS9_QJbp8",
+        "videoPublishedAt": "2020-04-16T16:00:11Z",
+        "duration": "PT3M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "11267766",
+        "likeCount": "346959",
+        "favoriteCount": "0",
+        "commentCount": "18964"
+    }
+}

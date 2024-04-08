@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QzVGQUU2QjE2NDgxM0M4",
+    "snippet": {
+        "publishedAt": "2021-04-25T04:23:25Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[HD] Courage to Tell a Lie | Bakemonogatari Hachikuji Song",
+        "description": "\u00bb Author: Wise-ONE\n\u00bb Original: http://www.nicovideo.jp/watch/sm17008276\n\nAll credit goes to the Author Wise-ONE. A link to his original work is above.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WUjxaXg8QKE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WUjxaXg8QKE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WUjxaXg8QKE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/WUjxaXg8QKE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/WUjxaXg8QKE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "WUjxaXg8QKE"
+        },
+        "videoOwnerChannelTitle": "Siggy Music \u2014 Copyright Free Music Library",
+        "videoOwnerChannelId": "UCYfZNa6FVJHGwicSAYZjbbw"
+    },
+    "contentDetails": {
+        "videoId": "WUjxaXg8QKE",
+        "videoPublishedAt": "2016-07-26T17:49:00Z",
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "965767",
+        "likeCount": "18979",
+        "favoriteCount": "0",
+        "commentCount": "791"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BRDg1NUY1OTY2QzgzOEM0",
+    "snippet": {
+        "publishedAt": "2021-04-28T04:11:24Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30de\u30b7\u30e5\u30de\u30ea\u30fc / feat.\u521d\u97f3\u30df\u30af",
+        "description": "Music/MIMI @mimi_3mi\n\nillustration/\u30de\u30eb\u30b7\u30a7 @marche_0330\n\nmix,mastering/\u4f50\u85e4\u4e3b\u7a0e @studioonett\n\n(spotify / https://spoti.fi/2Pn7UV0)\n\n\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\n\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\u2192https://www.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA/join",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qtuX4cHk-vE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qtuX4cHk-vE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qtuX4cHk-vE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qtuX4cHk-vE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qtuX4cHk-vE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qtuX4cHk-vE"
+        },
+        "videoOwnerChannelTitle": "MIMI",
+        "videoOwnerChannelId": "UCam3IAA-nyfxRL8_wDQ35VA"
+    },
+    "contentDetails": {
+        "videoId": "qtuX4cHk-vE",
+        "videoPublishedAt": "2018-01-04T10:54:55Z",
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "10064580",
+        "likeCount": "164261",
+        "favoriteCount": "0",
+        "commentCount": "2876"
+    }
+}

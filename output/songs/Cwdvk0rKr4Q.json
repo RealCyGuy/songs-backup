@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNzk2RTlDQTNCQzJCQzJG",
+    "snippet": {
+        "publishedAt": "2021-04-27T03:30:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u306f\u3044\u305f\u3044\u4e03\u8449 ED [Haitai Nanafa - Ending]",
+        "description": "\u306f\u3044\u305f\u3044\u4e03\u8449 ED [Haitai Nanafa - Ending]",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Cwdvk0rKr4Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Cwdvk0rKr4Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Cwdvk0rKr4Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Cwdvk0rKr4Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Cwdvk0rKr4Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Cwdvk0rKr4Q"
+        },
+        "videoOwnerChannelTitle": "Pablo Contreras",
+        "videoOwnerChannelId": "UCKRlq6M8d50Jpw9HUk_3sxA"
+    },
+    "contentDetails": {
+        "videoId": "Cwdvk0rKr4Q",
+        "videoPublishedAt": "2012-10-13T21:42:43Z",
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "265291",
+        "likeCount": "3352",
+        "favoriteCount": "0",
+        "commentCount": "286"
+    }
+}

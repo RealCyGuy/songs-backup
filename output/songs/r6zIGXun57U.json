@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5GNDg1Njc1QzZERjlFRjE5",
+    "snippet": {
+        "publishedAt": "2021-04-25T04:04:35Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+        "description": "The pursuit of mastery is an endless journey, but those who persevere etch their names in history. \n\nFor more information on the 2017 League of Legends World Championship visit http://www.lolesports.com.\n\n\"Legends Never Die\"\nFeatured artist: Against The Current\nWritten by: Riot Games Music Team, Alex Seaver of Mako, and Justin Tranter\nProduced by: Riot Games Music Team, Alex Seaver of Mako, and Oliver\nMixed and mastered by: Riot Games Music Team\nVocals performed by: Against The Current\nVocal production by: Riot Games Music Team, and Colin Brittain\nAdditional vocal production by: Alex Goot\n\nhttp://www.atcofficial.com/\nhttps://www.youtube.com/againstthecurrentNY\nhttps://www.facebook.com/againstthecurrentband\nhttps://www.facebook.com/WeAreMako\n\n************************************************\n\nLegends Never Die when the world is calling you\nCan you hear them screaming out your name?\nLegends Never Die they become a part of you\nEvery time you bleed for reaching greatness \nRelentless you survive\n\nThey never lose hope when everything's cold and the fighting's near\nIt's deep in their bones they\u2019ll run into smoke when the fire is fierce\n'Oh pick yourself up, \u2018cause\n\nLegends Never Die when the world is calling you\nCan you hear them screaming out your name?\nLegends Never Die they become a part of you\nEvery time you bleed for reaching greatness \nLegends Never Die\n\nThey're written down in eternity\nBut you'll never see the price it costs, the scars collected all their lives\n\nWhen everything\u2019s lost, they pick up their hearts and avenge defeat\nBefore it all starts, they suffer through harm just to touch a dream\n'Oh pick yourself up, \u2018cause\n\nLegends Never Die when the world is calling you\nCan you hear them screaming out your name?\nLegends Never Die they become a part of you\nEvery time you bleed for reaching greatness \nLegends Never Die",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/r6zIGXun57U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/r6zIGXun57U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/r6zIGXun57U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/r6zIGXun57U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "r6zIGXun57U"
+        },
+        "videoOwnerChannelTitle": "League of Legends",
+        "videoOwnerChannelId": "UC2t5bjwHdUX4vM2g8TRDq5g"
+    },
+    "contentDetails": {
+        "videoId": "r6zIGXun57U",
+        "videoPublishedAt": "2017-10-18T13:00:08Z",
+        "duration": "PT2M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "273349419",
+        "likeCount": "3155523",
+        "favoriteCount": "0",
+        "commentCount": "80691"
+    }
+}
