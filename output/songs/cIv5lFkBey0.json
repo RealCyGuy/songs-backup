@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "cIv5lFkBey0"
         },
-        "videoOwnerChannelTitle": "Release - Topic",
-        "videoOwnerChannelId": "UCgTQQDlFaw8DDdqikoFfOYA"
+        "videoOwnerChannelTitle": "Zhou Shen - Topic",
+        "videoOwnerChannelId": "UC3xSH5DJZ0or5Tie0q0NFig"
     },
     "contentDetails": {
         "videoId": "cIv5lFkBey0",
@@ -309,7 +309,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3720572",
+        "viewCount": "3720770",
         "likeCount": "33431",
         "favoriteCount": "0",
         "commentCount": "4"
