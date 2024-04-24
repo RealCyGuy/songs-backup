@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BQTA2M0M5ODdEOTQwMTMy",
+    "snippet": {
+        "publishedAt": "2024-04-23T23:58:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "aAp Vision - Fukashigi no Carte (Lofi)",
+        "description": "Free for non profit use only - Must always credit in title (Prod by. aAp Vision)\n( Read below for full conditions )\n\nBusiness contact : aapvision1@gmail.com\nInstagram : @aap_vision\n\nSoundcloud : https://soundcloud.com/appvision\nInstagram : https://www.instagram.com/aap_vision/\n\n\nUSAGE :\n\nThe free version of this beat is available for subscribers for non-profit, evaluation purposes only. This means YouTube or Soundcloud use with NO monetization. The free version of this beat is NOT available for streaming services such as Spotify or Apple Music.\n\nIf you want to make profit with your music (upload your song to streaming services for example), you must purchase a license that is suitable for yourself before releasing your song.\n\n\n\nAll Rights Reserved \u00a9 - aAp Vision\n\nLo-fi Type Beat \n\n#lofihiphop #lofi #lofibeats #lofimusic #hiphop #sp #beats #lofiedits #lofiaesthetic #aesthetic #lofivibes #chillhop #music #beatmaker #vaporwave #chill #lofiedit #boombap #chillvibes #chillbeats #aestheticedits #producer #vaporwaveaesthetic #chillmusic #rap #lofibeat #anime #lofivibe #vibes #bhfyp",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-vFRm-nuLjc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-vFRm-nuLjc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-vFRm-nuLjc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/-vFRm-nuLjc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/-vFRm-nuLjc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-vFRm-nuLjc"
+        },
+        "videoOwnerChannelTitle": "aAp Vision",
+        "videoOwnerChannelId": "UC6oXBYZDMFhNCEvF78P3hWg"
+    },
+    "contentDetails": {
+        "videoId": "-vFRm-nuLjc",
+        "videoPublishedAt": "2024-04-17T01:15:00Z",
+        "duration": "PT2M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "78",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "1"
+    }
+}
