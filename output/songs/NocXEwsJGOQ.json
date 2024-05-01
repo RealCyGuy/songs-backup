@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "NocXEwsJGOQ"
         },
-        "videoOwnerChannelTitle": "HatsuneMiku",
+        "videoOwnerChannelTitle": "Hatsune Miku",
         "videoOwnerChannelId": "UCJwGWV914kBlV4dKRn7AEFA"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "55007497",
-        "likeCount": "1372255",
+        "viewCount": "55008073",
+        "likeCount": "1372259",
         "favoriteCount": "0",
-        "commentCount": "50263"
+        "commentCount": "50240"
     }
 }
