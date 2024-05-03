@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "mp4BTls3mZk"
         },
-        "videoOwnerChannelTitle": "xooos - Topic",
+        "videoOwnerChannelTitle": "Xooos - Topic",
         "videoOwnerChannelId": "UCOluOIffW-J0aS4_i3ZjSOg"
     },
     "contentDetails": {
@@ -182,8 +182,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "39221",
-        "likeCount": "443",
+        "viewCount": "39223",
+        "likeCount": "444",
         "favoriteCount": "0",
         "commentCount": "0"
     }
