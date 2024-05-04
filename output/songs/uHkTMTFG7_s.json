@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44MDkzOThFQzE4MDA3MTQ1",
+    "snippet": {
+        "publishedAt": "2024-05-03T23:16:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NewJeans- Bubble Gum \u4e2d\u6587\u7248 Chinese Version",
+        "description": "\u25b6Illustration, Vocal, Cover Lyrics, Video by Jii\n\u25b6Mix by Xiaoyi\nOriginal https://www.youtube.com/watch?v=ft70sAYrFyY \n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nJii \nInstagram\uff1ahttps://www.instagram.com/jii_0208/\nX\uff1ahttps://twitter.com/jii_0208\nTiktok\uff1a https://www.tiktok.com/@jii_0208?\nContact\uff1ajiiart0208@gmail.com\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#cover #newjeans #bubblegum  #coversong #covermusic #fanart #\u7ffb\u5531 #\u7ffb\u5531cover #kpopcover #kpop #illustration #digitalart #procreate",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/uHkTMTFG7_s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/uHkTMTFG7_s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/uHkTMTFG7_s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/uHkTMTFG7_s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/uHkTMTFG7_s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "uHkTMTFG7_s"
+        },
+        "videoOwnerChannelTitle": "Jii",
+        "videoOwnerChannelId": "UCFW2f74gc_LYjilkurMEBGA"
+    },
+    "contentDetails": {
+        "videoId": "uHkTMTFG7_s",
+        "videoPublishedAt": "2024-05-03T12:00:08Z",
+        "duration": "PT3M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6249",
+        "likeCount": "914",
+        "favoriteCount": "0",
+        "commentCount": "67"
+    }
+}
