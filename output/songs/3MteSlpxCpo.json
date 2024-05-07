@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44MkQyQ0FDREQwNEE5Mjg5",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:40:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pentatonix - Daft Punk",
+        "description": "\u2018THE GREATEST CHRISTMAS HITS\u2019 AVAILABLE NOW\nhttps://ptx.lnk.to/greatestchristmashits\n \nPENTATONIX THE MOST WONDERFUL TOUR OF THE YEAR TICKETS AND VIP PACKAGES ON SALE NOW\nhttps://www.ptxofficial.com/\n \nPTX: The Most Wonderful Tour Of The Year Dates\n11/14 \u2014 Greater Palm Springs, CA @ Acrisure Arena at Greater Palm Springs\n11/16 \u2014 Lincoln, CA @ The Venue at Thunder Valley Casino Resort\n11/18 \u2014 Casper, WY @ Ford Wyoming Center\n11/19 \u2014 Loveland, CO @ Budweiser Events Center\n11/21 \u2014 Omaha, NE @ CHI Health Center Omaha\n11/25 \u2014 St. Paul, MN @ Xcel Energy Center\n11/26 \u2014 Kansas City, MO @ T-Mobile Center\n11/27 \u2014 Moline, IL @ Vibrant Arena at the Mark\n11/29 \u2014 Rosemont, IL @ Allstate Arena\n11/30 \u2014 Evansville, IN @ Ford Center\n12/2 \u2014 Columbus, OH @ Nationwide Arena\n12/3 \u2014 Baltimore, MD @ CFG Bank Arena\n12/6 \u2014 Hershey, PA @ GIANT Center\n12/7 \u2014 Uncasville, CT @ Mohegan Sun Arena\n12/9 \u2014 Charlottesville, VA @ John Paul Jones Arena\n12/11 \u2014 Greenville, SC @ Bon Secours Wellness Arena\n12/13 \u2014 Orlando, FL @ Amway Center\n12/14 \u2014 Hollywood, FL @ Hard Rock Live at Seminole Hard Rock Hotel & Casino Hollywood \n12/16 \u2014 Knoxville, TN @ Thompson-Boling Arena\n12/17 \u2014 Birmingham, AL @ Legacy Arena at the BJCC\n12/19 \u2014 Wichita, KS @ INTRUST Bank Arena\n12/20 \u2014 Fort Worth, TX @ Dickies Arena\n12/21 \u2014 Austin, TX @ Moody Center\n\n\u201cI RISE\u201d AVAILABLE ON ALL MUSIC STREAMING PLATFORMS: http://stem.ffm.to/irise\n\nDOWNLOAD, PURCHASE AND STREAM MORE OF OUR MUSIC HERE: https://smarturl.it/PTXCompletePlaylist\n\nSHOP NEW MERCH: https://shop.ptxofficial.com/\n\nSTREAM OUR TOP HOLIDAY VIDEOS: https://smarturl.it/PTXmasClassics\n \nJOIN OUR PATREON FAN PAGE!! https://Pentatonix.lnk.to/PatreonYT\n \nFOLLOW PTX: \nhttp://www.ptxofficial.com\nhttp://www.facebook.com/Pentatonix\nhttp://www.instagram.com/ptxofficial @ptxofficial \nhttps://www.tiktok.com/ @pentatonix\nhttp://www.twitter.com/ptxofficial @ptxofficial \nhttp://www.snapchat.com/add/PTXsnap\n\n#Pentatonix #PTXMostWonderfulTourOfTheYear #PTXGreatestChristmasHits",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3MteSlpxCpo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3MteSlpxCpo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3MteSlpxCpo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3MteSlpxCpo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3MteSlpxCpo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3MteSlpxCpo"
+        },
+        "videoOwnerChannelTitle": "PentatonixVEVO",
+        "videoOwnerChannelId": "UCIE6_c6qPrHzuVRssQ5B0lQ"
+    },
+    "contentDetails": {
+        "videoId": "3MteSlpxCpo",
+        "videoPublishedAt": "2013-11-05T05:03:40Z",
+        "duration": "PT4M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "374792714",
+        "likeCount": "3600397",
+        "favoriteCount": "0",
+        "commentCount": "192995"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45REM1NzQ1MDM2OUZDNDMx",
+    "snippet": {
+        "publishedAt": "2021-06-08T23:28:19Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Couldn't be better than this ASIAN cover - Flower Dance Piano & Cajon",
+        "description": "DJ Okawari - Flower Dance\n\n\n+ There're no scores for all of my tunes n covers. Sorry. \n\n#FlowerDance",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NV1Vd8cu6ow/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NV1Vd8cu6ow/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NV1Vd8cu6ow/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/NV1Vd8cu6ow/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NV1Vd8cu6ow"
+        },
+        "videoOwnerChannelTitle": "PianoplayerElijah",
+        "videoOwnerChannelId": "UCE_TCFyPJLFcnI6_KufaTUg"
+    },
+    "contentDetails": {
+        "videoId": "NV1Vd8cu6ow",
+        "videoPublishedAt": "2018-11-29T11:42:36Z",
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1222944",
+        "likeCount": "17618",
+        "favoriteCount": "0",
+        "commentCount": "1259"
+    }
+}

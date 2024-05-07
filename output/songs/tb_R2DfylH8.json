@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDRGQkU0ODcwREVDRDQ2",
+    "snippet": {
+        "publishedAt": "2021-08-22T03:21:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kero One & Azure - 'Let Me Show You' (Official Music Video)",
+        "description": "Taken from the Kero & Azure EP,  listen here: http://smarturl.it/jazzhop\n\n2017 Plug Label. Produced by Kingmost. Keyboard & bass by Kero.  Directed by Tommii Lim. Story by Tommi & Kero. Biz: get@pluglabel.com\nLyrics: https://genius.com/Kero-one-and-azure-let-me-show-you-lyrics\n\nAbout:\nThough nearly a generation apart, Kero & Azure share common ground, quite literally in fact. Not only are they both Bay Area natives, but they are each Korean-American rapper/producer/DJ\u2019s that share an interest in vintage jazzy and soulful beats. Kero, an established international artist, contributes his lifelong experience in crafting feel good jazz-infused tracks while Azure, a member of iamsu!\u2019s HBK gang, brings a fresh perspective to the duo.\n\nIts true that Kero has recently been producing #1 hit songs in Asia (Park Kyung from Block B) and Azure hails from one of the Bay\u2019s most successful rap crews, however neither of them are resting on their laurels. Instead, these Bay rappers rely on a strong commitment to writing clever lighthearted lyrics and painting vivid pictures with their verses. To put it simply, Kero & Azure's end goal is to make timeless hiphop.\n\nStarring Tara Alavi, Sarah Wolfgang, and Steve of Neonderthal.\nFor Tommii Lim's art visit: https://uglyfresh.com\nIG: @keroone / @azuresworld",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/tb_R2DfylH8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/tb_R2DfylH8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/tb_R2DfylH8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/tb_R2DfylH8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/tb_R2DfylH8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "tb_R2DfylH8"
+        },
+        "videoOwnerChannelTitle": "KeroOneTV",
+        "videoOwnerChannelId": "UCReJUxrE_67xG-cZd08fCpA"
+    },
+    "contentDetails": {
+        "videoId": "tb_R2DfylH8",
+        "videoPublishedAt": "2017-06-20T06:37:53Z",
+        "duration": "PT3M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1326009",
+        "likeCount": "22478",
+        "favoriteCount": "0",
+        "commentCount": "419"
+    }
+}

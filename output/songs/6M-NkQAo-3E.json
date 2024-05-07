@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yRkI2ODMzMTcwQTRGMTdC",
+    "snippet": {
+        "publishedAt": "2021-08-24T20:44:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Sanctuary Guardian (What Meme) - Earthbound Music",
+        "description": "the original non-extended version uploaded by SNESMD16-OST got taken down and its a crime not to have this song in my head empty playlist.\n\nI do not own this song. The Earthbound soundtrack was composed by Keiichi Suzuki and Hirokazu Tanaka.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6M-NkQAo-3E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6M-NkQAo-3E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6M-NkQAo-3E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/6M-NkQAo-3E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/6M-NkQAo-3E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6M-NkQAo-3E"
+        },
+        "videoOwnerChannelTitle": "krazington",
+        "videoOwnerChannelId": "UCbGwadB54X6ZoXPqusyPNcw"
+    },
+    "contentDetails": {
+        "videoId": "6M-NkQAo-3E",
+        "videoPublishedAt": "2021-05-18T03:42:44Z",
+        "duration": "PT2M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2284348",
+        "likeCount": "82772",
+        "favoriteCount": "0",
+        "commentCount": "5162"
+    }
+}

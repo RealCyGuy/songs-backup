@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41MzY4MzcwOUFFRUU3QzEx",
+    "snippet": {
+        "publishedAt": "2021-04-25T04:14:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Mili - world.execute(me);",
+        "description": "Get Mili's album \u201cMiracle Milk\u201d here: https://mili.lnk.to/jJKqCID\n\nMili 2nd Full Album \"Miracle Milk\"\n2016/10/12 - release -\n\u25a0Now On Sale / \u767a\u58f2\u4e2d\u25a0\nSpecial Site : http://projectmili.com/\niTunes(World) : https://itunes.apple.com/album/miracle-milk/id1158608952\nAmazon (Japan) : http://www.amazon.co.jp/dp/B01JY7CLH4\nAppBank Store (Japan) :https://www.appbankstore.jp/products/detail.php?product_id=28443\nCDjapan (World) : http://www.cdjapan.co.jp/product/SIHT-1004\n\u30a2\u30cb\u30e1\u30a4\u30c8 (Japan) : http://www.animate-onlineshop.jp/pn/pd/1415015/\namiami (World) : http://www.amiami.com/top/detail/detail?scode=MED-CD2-22801\n\u3042\u307f\u3042\u307f (Japan) : http://www.amiami.jp/top/detail/detail?scode=MED-CD2-22801\n\u30f4\u30a3\u30ec\u30c3\u30b8\u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 (Japan) : http://vvstore.jp/feature/detail/8743/\nHMV (Japan) : http://www.hmv.co.jp/product/detail/7224207\n\u30ad\u30e3\u30e9\u30a2\u30cb (Japan) : http://www.chara-ani.com/details.aspx?prdid=D16800006\nTOWER RECORDS (Japan) : http://tower.jp/item/4331739\nTSUTAYA (Japan) : http://shop.tsutaya.co.jp/cd/product/4560452130435/\n\u3068\u3089\u306e\u3042\u306a (Japan) :\u3000http://www.toranoana.jp/mailorder/article/21/0006/57/11/210006571198.html\n\nWe are \"Mili\"\nHP : http://projectmili.com/\nMili Official Account\nTwitter : https://twitter.com/ProjectMili\nFacebook : https://www.facebook.com/ProjectMili\nLINE : http://line.me/ti/p/%40mili\nBandcamp : http://project-mili.bandcamp.com/\nSpotify : https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs\n\nTwitter\nmomocashew : https://twitter.com/momocashew\nYamato Kasai : https://twitter.com/HAMOloid/\nYukihito Mitomo : https://twitter.com/going_man\nShoto Yoshida : https://twitter.com/shoto_0y\nAme Yamaguchi : https://twitter.com/ametromin\nAo Fujimori : https://twitter.com/pioooooon\n\nArtwork : Kazuki Takakura\nTwitter : https://twitter.com/takakurakazuki\nHP : http://www.takakurakazuki.com/\n\nMastering : KIMKEN STUDIO\nHP : http://www.kimkenstudio.com/\n#Mili",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ESx_hy1n7HA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ESx_hy1n7HA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ESx_hy1n7HA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ESx_hy1n7HA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ESx_hy1n7HA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ESx_hy1n7HA"
+        },
+        "videoOwnerChannelTitle": "Mili",
+        "videoOwnerChannelId": "UCVh47EKH9VLresRqiYi9txw"
+    },
+    "contentDetails": {
+        "videoId": "ESx_hy1n7HA",
+        "videoPublishedAt": "2016-06-12T11:00:30Z",
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "19993368",
+        "likeCount": "228501",
+        "favoriteCount": "0",
+        "commentCount": "4157"
+    }
+}

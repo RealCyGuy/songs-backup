@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zNDIxRUJGQThFRTg1QzAy",
+    "snippet": {
+        "publishedAt": "2021-04-27T03:57:08Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "3rd Prototype - Dancefloor | Future House | NCS - Copyright Free Music",
+        "description": "Subscribe to NoCopyrightSounds  \ud83d\udc49 http://ncs.lnk.to/SubscribeYouTube\n\nNCS: Music Without Limitations.\nOur Spotify Playlist  http://spoti.fi/NCS\n\n\ud83d\udd0a Free Download / Stream: http://ncs.io/DancefloorID\n\n[NCS]\n\u2022 http://soundcloud.com/NoCopyrightSounds\n\u2022 http://instagram.com/NoCopyrightSounds\n\u2022 http://facebook.com/NoCopyrightSounds\n\u2022 http://twitter.com/NCSounds\n\n[3rd Prototype]\n\u2022 https://soundcloud.com/3rdPrototype\n\u2022 https://facebook.com/3rdPrototype\n\u2022 https://instagram.com/3rdPrototype\n\n\n\ud83c\udfa7 YouTube Playlists:\n\u21aa\ufe0e http://bit.ly/ALLNCSmusic\n\u21aa\ufe0e http://bit.ly/NCSdrumandbass\n\u21aa\ufe0e http://bit.ly/NCSelectronic\n\u21aa\ufe0e http://bit.ly/NCShouse\n\u21aa\ufe0e http://bit.ly/NCStrap\n\n\ud83c\udfb6 Spotify Playlists:\n\u21aa\ufe0e http://spoti.fi/NCS\n\u21aa\ufe0e http://ncs.io/GamingMusic\n\u21aa\ufe0e http://ncs.io/NewMusic\n\u21aa\ufe0e http://ncs.io/House\n\u21aa\ufe0e http://ncs.io/Trap\n\u21aa\ufe0e http://ncs.io/DnB\n\n\ud83d\udd11 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nWhen you are using this track, we simply ask that you put this in your description:\n\nTrack: 3rd Prototype - Dancefloor [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/ZLohS_HScwc\nFree Download / Stream: http://ncs.io/DancefloorYO\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n\u00a9 Check out our Usage Policy on how to use NCS music in your videos: http://ncs.io/UsagePolicy\n\nTo request a commercial license visit: http://ncs.io/Commercial\n\n #nocopyrightsounds #copyrightfree #music #song #edm #dancemusic #royaltyfreemusic #copyrightfreemusic #nocopyrightmusic #ncs #ncsmusic #electronicmusic #futurehouse",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZLohS_HScwc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZLohS_HScwc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZLohS_HScwc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/ZLohS_HScwc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/ZLohS_HScwc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZLohS_HScwc"
+        },
+        "videoOwnerChannelTitle": "NoCopyrightSounds",
+        "videoOwnerChannelId": "UC_aEa8K-EOJ3D6gOs7HcyNg"
+    },
+    "contentDetails": {
+        "videoId": "ZLohS_HScwc",
+        "videoPublishedAt": "2018-01-24T17:04:33Z",
+        "duration": "PT2M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "18963237",
+        "likeCount": "260615",
+        "favoriteCount": "0",
+        "commentCount": "7951"
+    }
+}

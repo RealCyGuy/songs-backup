@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5ENjg2QjQ3OTVDOUE2QzYw",
+    "snippet": {
+        "publishedAt": "2021-05-26T15:08:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Aitsuki Nakuru - Monochrome Butterfly",
+        "description": "Enjoy and don't forget to subscribe o(\u2267w\u2266)o  !\n\n\u2193\u2193\u2193\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nAitsuki Nakuru\nTwitter: https://twitter.com/NakuruAitsuki\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\n\u2605 Background: \n\u2022 Artwork by Hiten\n\u2022 http://www.pixiv.net/member_illust.php?mode=medium&illust_id=57793944\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nIf any producer or label has an issue with any of the uploads please get in contact per youtube message and it will be deleted immediately (this includes artists of the images used)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xhqYfb4id2c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xhqYfb4id2c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xhqYfb4id2c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xhqYfb4id2c/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xhqYfb4id2c/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xhqYfb4id2c"
+        },
+        "videoOwnerChannelTitle": "ASAI Ch.",
+        "videoOwnerChannelId": "UCHp0PvBlo5rFCUbjmVyEZKA"
+    },
+    "contentDetails": {
+        "videoId": "xhqYfb4id2c",
+        "videoPublishedAt": "2017-03-26T23:24:40Z",
+        "duration": "PT3M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "273684",
+        "likeCount": "4061",
+        "favoriteCount": "0",
+        "commentCount": "191"
+    }
+}

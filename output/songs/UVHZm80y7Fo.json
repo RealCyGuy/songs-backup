@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xN0EwMDIyNjM0N0FGMkUw",
+    "snippet": {
+        "publishedAt": "2021-07-18T18:47:24Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u30d2\u30d0\u30ca\uff0f\u305d\u3089\u308b\u00d7\u307e\u3075\u307e\u3075\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011",
+        "description": "\u30d2\u30d0\u30ca(Hihana) soraru mafumafu\n===============\n\u305d\u3089\u307e\u3075\uff11\uff13\n\n\u3053\u3093\u3070\u3093\u306f\nDECO*27\u3055\u3093\u306e\u300e\u30d2\u30d0\u30ca\u300f\u3092\u6b4c\u308f\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3057\u305f\n\n\u4eca\u5e74\u306e\u590f\u306f\u4e00\u5ea6\u3082\u82b1\u706b\u3092\u898b\u306b\u884c\u3051\u307e\u305b\u3093\u3067\u3057\u305f\n\u6d77\u306b\u884c\u3063\u305f\u3089\u53f0\u98a8\u304c\u6765\u307e\u3057\u305f\u3000\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\n\n\n\n\u672c\u5bb6\u69d8 sm31685272 \uff08\u4f5c\u8a5e\u4f5c\u66f2\uff0fDECO*27 \u69d8\uff09\n\n\n\nVo\n\u305d\u3089\u308b mylist/7359936 @soraruru\n\nVo/Mix\n\u307e\u3075\u307e\u3075 mylist/22993832 @uni_mafumafu",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UVHZm80y7Fo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UVHZm80y7Fo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UVHZm80y7Fo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UVHZm80y7Fo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UVHZm80y7Fo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UVHZm80y7Fo"
+        },
+        "videoOwnerChannelTitle": "\u307e\u3075\u307e\u3075\u3061\u3083\u3093\u306d\u308b",
+        "videoOwnerChannelId": "UCOTR1tcOAhjgi6YukrPpZxg"
+    },
+    "contentDetails": {
+        "videoId": "UVHZm80y7Fo",
+        "videoPublishedAt": "2017-09-14T09:00:05Z",
+        "duration": "PT3M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "19924299",
+        "likeCount": "189782",
+        "favoriteCount": "0",
+        "commentCount": "8394"
+    }
+}

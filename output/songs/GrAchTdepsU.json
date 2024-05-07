@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DMkU4NTY1QUFGQTYwMDE3",
+    "snippet": {
+        "publishedAt": "2021-04-25T03:58:22Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "24kGoldn - Mood (Official Video) ft. iann dior",
+        "description": "Official video for \"Mood\" by 24kGoldn featuring iann dior. \n \nListen + Download \u2018El Dorado\u2019 out now: https://24kgoldn.lnk.to/ElDorado\n\nAmazon Music - https://24kgoldn.lnk.to/ElDorado/amazonmusic\nApple Music - https://24kgoldn.lnk.to/ElDorado/applemusic\nAudiomack - https://24kgoldn.lnk.to/ElDorado/audiomack\nDeezer - https://24kgoldn.lnk.to/ElDorado/deezer\niTunes - https://24kgoldn.lnk.to/ElDorado/itunes\nSoundcloud - https://24kgoldn.lnk.to/ElDorado/soundcloud\nSpotify https://24kgoldn.lnk.to/ElDorado/spotify\nYouTube Music - https://24kgoldn.lnk.to/ElDorado/youtubemusic\n\nPlay as 24kGoldn in search of the treasure of El Dorado in El Dorado: The Game \nhttp://24kgoldn.com/\n\nExplore the world of El Dorado with Scavengar\nhttps://scvngr.app/edgl\n\nEl Dorado merch available now at https://shop.24kgoldn.com/\n \nDirector: Sebastian Sdaigui \nProduction Company: Bellanoir Films \nExecutive Producer: Chelsea Sdaigui \nProducer: Mariah Morgenstern \nProduction Manager: Jami Arceo \n1st AD: Erik Mateo \"E Class\"\n2nd AD: Anthony Hayward \nCinematographer: Tehillah De Castro \nSteadicam: Jose Espinoza \n1st AC: Ariel Pomerantz \n2nd AC: Hannah Carpenter \nProduction Designer: Sam Stone\nArt Director: Camilo Castano \nSet Dresser: Sandy Olson \nSet Dresser: Darron Cantone\nArt PA: Helen Morales \nBeauty: Marlaine Reiner \n24kGoldn stylist: Marko The Curator\nIann Dior stylist: Dev Alexander\nStyling: Kenn Law \nGaffer: Ant Boyd \nBest Boy Electric: Gino Roberson \nKey Grip: John Owen \nSwing: Aiden Dejong \nCasting Director: Copelan Cash/Esprit Casting\nTruck PA: Dashan Boyce \nProduction Assistant: Brooke Abernathy \nProduction Assistant: Jamie Conners \nProduction Assistant: Mallory Chevalier \n \nFollow 24kGoldn \nInstagram - https://www.instagram.com/24kgoldn/\nTik Tok: https://www.tiktok.com/@24kgoldn\nTwitter - https://twitter.com/24kgoldn\nSoundcloud - https://soundcloud.com/24kgoldn\n \nFollow iann dior\nInstagram - https://www.instagram.com/ianndior/\nTwitter - https://twitter.com/ianndior\nSoundcloud - https://soundcloud.com/ianndior\n \nhttps://24kgoldn.com/\n \n#24kGoldn #Mood #ianndior",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GrAchTdepsU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GrAchTdepsU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GrAchTdepsU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/GrAchTdepsU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/GrAchTdepsU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GrAchTdepsU"
+        },
+        "videoOwnerChannelTitle": "24KGoldnVEVO",
+        "videoOwnerChannelId": "UC6YyYm5LWzar8Isrqs2eXzQ"
+    },
+    "contentDetails": {
+        "videoId": "GrAchTdepsU",
+        "videoPublishedAt": "2020-08-05T19:00:17Z",
+        "duration": "PT2M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "465224510",
+        "likeCount": "7434653",
+        "favoriteCount": "0",
+        "commentCount": "150530"
+    }
+}

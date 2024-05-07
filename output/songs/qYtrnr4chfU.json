@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FOTE3RTBFMjNFMDNEM0Yz",
+    "snippet": {
+        "publishedAt": "2021-05-10T23:51:27Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Legend of Zelda - Main Theme on Marimba",
+        "description": "Our very own arrangement of the Zelda theme. \nPlayed on Marimba, Snare drum, Cymbal,  Bells, Timpani and fucking Triangle!\nFilmed and recorded in three days, however, we don't really enjoy drinking milk.\n\nBuy our album here: http://ldr.fm/AhqMd\n\nFacebook:\nhttp://www.facebook.com/mart0zz\n\nWe love you!\n\nWe still don't use sheet music! Everything is done by ear.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qYtrnr4chfU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qYtrnr4chfU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qYtrnr4chfU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qYtrnr4chfU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qYtrnr4chfU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qYtrnr4chfU"
+        },
+        "videoOwnerChannelTitle": "Mart0zz",
+        "videoOwnerChannelId": "UCg6x8OL9OF-v6XyyUk0ZCIA"
+    },
+    "contentDetails": {
+        "videoId": "qYtrnr4chfU",
+        "videoPublishedAt": "2011-07-24T21:51:42Z",
+        "duration": "PT4M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "20478145",
+        "likeCount": "573849",
+        "favoriteCount": "0",
+        "commentCount": "22543"
+    }
+}

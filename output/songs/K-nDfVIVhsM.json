@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNDc1MTI1RDk0OTgwQjFC",
+    "snippet": {
+        "publishedAt": "2021-07-19T22:37:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Musical Suicide",
+        "description": "Suicide has never been more fabulous!\n\nWritten and Directed by Thomas Ridgewell (http://youtube.com/TomSka)\nCinematography by Ciaran O\u2019Brien (http://twitter.com/ciaranobrien)\nMusic by Todd \u2018LilDeuceDeuce\u2019 Bryanton (http://youtube.com/lildeucedeuce)\nSound Design by Dan Pugsley (http://danpugsley.co.uk)\nFeaturing Mandy Hynes (http://youtube.com/mandy)\nand the voice of Jennifer Bingham (http://youtube.com/jenny)\n\nLYRICS:\n\nTOM: Darling, stop!\nGIRL: I'm gonna jump!\nTOM: Don't do it! I'm sorry, I blew it.\nGIRL: It's too little, too late.\nTOM: NO!\nGIRL: You can't change my fate.\nTOM: Please!\nGIRL: I'll leave you, and this whole cruel world behind...permanentlyyyyy!\nTOM: NOOOOO!\nTOM: Please, don't throw it all away!\nGIRL: Why should I stay?\nTOM: I swear I'll never leave, I'll never stray!\nGIRL: You never behave.\nTOM: I promise I'll never leave you for another!\nGIRL: I've heard it before!\nTOM: And I'm sorry that I shot your brother.\nGIRL: I don't recall..\nTOM: Please take me back, I swear I'll make this work!\nGIRL: You always say things like that, and then you treat me like a jerk. When it comes to love, you come first.\nTOM: I have a condition!\nGIRL: It's too late, you'll never change, you're the worst!\nTOM: I can change, I can learn...new positions!\nGIRL: If I die, you'll know the pain I feel inside! You'll suffer the\nway I did when you lied.\nTOM: Don't do it!\nGIRL: Goodbye!\n\nTomSka Shirts (https://tomskashop.com/)\nTwitter (http://twitter.com/thetomska)\nFacebook (http://fb.com/thetomska)\nTumblr (http://thetomska.tumblr.com)\nSecondary Channel (http://youtube.com/darksquidge)\n\nSpecial thanks to Chloe, Chris, Eloise and the people of ChannelFlip.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/K-nDfVIVhsM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/K-nDfVIVhsM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/K-nDfVIVhsM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/K-nDfVIVhsM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/K-nDfVIVhsM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "K-nDfVIVhsM"
+        },
+        "videoOwnerChannelTitle": "TomSka",
+        "videoOwnerChannelId": "UCOYWgypDktXdb-HfZnSMK6A"
+    },
+    "contentDetails": {
+        "videoId": "K-nDfVIVhsM",
+        "videoPublishedAt": "2012-01-27T21:07:22Z",
+        "duration": "PT1M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "12430286",
+        "likeCount": "287765",
+        "favoriteCount": "0",
+        "commentCount": "18363"
+    }
+}

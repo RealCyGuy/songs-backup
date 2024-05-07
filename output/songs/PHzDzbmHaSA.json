@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DOUVFNkQ5Njg2MUZBODdD",
+    "snippet": {
+        "publishedAt": "2021-08-28T17:24:53Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "IPhone Ringtone \"By the Seaside\" (1uke Remix)",
+        "description": "Use sucky headphones so you wont notice how bad it is.\n\nMade with FL Studio 20",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PHzDzbmHaSA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PHzDzbmHaSA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PHzDzbmHaSA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/PHzDzbmHaSA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/PHzDzbmHaSA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PHzDzbmHaSA"
+        },
+        "videoOwnerChannelTitle": "1uke",
+        "videoOwnerChannelId": "UClh2qPjnS5KvEbzWYjCGF9Q"
+    },
+    "contentDetails": {
+        "videoId": "PHzDzbmHaSA",
+        "videoPublishedAt": "2019-08-23T20:05:26Z",
+        "duration": "PT1M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "103904",
+        "likeCount": "2618",
+        "favoriteCount": "0",
+        "commentCount": "307"
+    }
+}

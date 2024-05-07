@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+        "publishedAt": "2021-04-25T03:37:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Anamanaguchi - \u30df\u30af (Miku) \u65e5\u672c\u7248",
+        "description": "'Miku' SS/17 Remixes available everywhere now.\n\nBuy: http://hyperurl.co/ss17\nStream: http://hyperurl.co/ss17stream\n\nAnamanaguchi\nFacebook: https://www.facebook.com/anamanaguchi/\nTwitter: https://twitter.com/anamanaguchi\nYouTube: https://www.youtube.com/user/anamanag...\nTumblr: http://anamanaguchi.tumblr.com/\nSoundcloud: https://soundcloud.com/anamanaguchi\nhttp://anamanaguchi.com/\n\nA collaboration between #HatsuneMiku & #Anamanaguchi\n\n\"All I wanted to do is follow you...\"",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/n8wUkPiKWGg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/n8wUkPiKWGg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/n8wUkPiKWGg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/n8wUkPiKWGg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/n8wUkPiKWGg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "n8wUkPiKWGg"
+        },
+        "videoOwnerChannelTitle": "Anamanaguchi",
+        "videoOwnerChannelId": "UCtdPSQIDsZyhq3L7kITrKoA"
+    },
+    "contentDetails": {
+        "videoId": "n8wUkPiKWGg",
+        "videoPublishedAt": "2017-03-24T18:25:25Z",
+        "duration": "PT3M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2653402",
+        "likeCount": "75184",
+        "favoriteCount": "0",
+        "commentCount": "1912"
+    }
+}

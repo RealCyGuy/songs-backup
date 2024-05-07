@@ -1,0 +1,72 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNjIyNEE0MDEyRDlCMjBE",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:30:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Dr. Dre - Still D.R.E. ft. Snoop Dogg",
+        "description": "CELEBRATING 1BILLION VIEWS! REMASTERED IN HD!!\nOfficial Music Video for Still D.R.E. performed by Dr. Dre.\n\n#DrDre ##SnoopDogg #StillDRE",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_CL6n0FJZpk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_CL6n0FJZpk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_CL6n0FJZpk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_CL6n0FJZpk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_CL6n0FJZpk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_CL6n0FJZpk"
+        },
+        "videoOwnerChannelTitle": "DrDreVEVO",
+        "videoOwnerChannelId": "UCx4Lxn5CzeG99X01__YsJpw"
+    },
+    "contentDetails": {
+        "videoId": "_CL6n0FJZpk",
+        "videoPublishedAt": "2011-10-27T16:48:34Z",
+        "duration": "PT4M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "IO",
+                "KP",
+                "SS"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1432272117",
+        "likeCount": "10904411",
+        "favoriteCount": "0",
+        "commentCount": "314909"
+    }
+}

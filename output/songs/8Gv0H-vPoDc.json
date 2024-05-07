@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xMTFCRDgyODkzQThBMEM3",
+    "snippet": {
+        "publishedAt": "2021-07-30T23:09:46Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\"Weird Al\" Yankovic - Word Crimes (Official 4K Video)",
+        "description": "\"Weird Al\" Yankovic's new album \"Mandatory Fun\" out now on iTunes: http://smarturl.it/MandatoryFun\nAmazon: http://smarturl.it/MandatoryFunAMZ\nGoogle Play: http://smarturl.it/MandatoryFunGP \nhttp://www.WeirdAl.com \n\nMusic video by \"Weird Al\" Yankovic performing Word Crimes. (C) 2014 RCA Records, a division of Sony Music Entertainment",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8Gv0H-vPoDc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8Gv0H-vPoDc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8Gv0H-vPoDc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8Gv0H-vPoDc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8Gv0H-vPoDc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8Gv0H-vPoDc"
+        },
+        "videoOwnerChannelTitle": "alyankovicVEVO",
+        "videoOwnerChannelId": "UCshnCkfV7U6DqR4IHbQbI7Q"
+    },
+    "contentDetails": {
+        "videoId": "8Gv0H-vPoDc",
+        "videoPublishedAt": "2014-07-15T15:41:44Z",
+        "duration": "PT3M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "60475521",
+        "likeCount": "620352",
+        "favoriteCount": "0",
+        "commentCount": "47024"
+    }
+}

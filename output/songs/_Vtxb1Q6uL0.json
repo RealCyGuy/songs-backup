@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41NEZEQTVEMjlBNUUyNTU2",
+    "snippet": {
+        "publishedAt": "2021-09-11T15:38:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[REMIX] Bad Randoms - We Won't Cooperate",
+        "description": "I slightly improved this remix overall, you can hear the better version in my recently published game \u201cBrawl Dash\u201d (Android and iOS) in the level Brawl Ball!)\n\nOr download/listen here:\nDownload (improved version): https://bit.ly/bad-radnoms_remix_imp\nDownload (old/this version): https://bit.ly/bad-randoms_remix\nInstrumental (old/this version): https://youtu.be/X7_Ot0g30Vo\n\nThis one unlike my other remixes won\u2019t be available on Streaming platforms as you can only distribute officially approved remixes there, so for now it will be only here!)\n\nAnimation credits of course go to Official Brawl Stars:\nhttps://www.youtube.com/channel/UCooVYzDxdwTtGYAkcPmOgOw\nAnd some short clips used belong to BLAS:\nhttps://www.youtube.com/channel/UCSQkftbg2z4kz4NNBVs6CIQ\nCheck his animations if you haven't already, they're great!\n\nSocials:\nYouTube \u2014 https://www.youtube.com/For7ius\nSpotify \u2014 https://open.spotify.com/artist/0a0iyEjuU1IE6rlBORdLqq?si=evG9VodOS1WrslA6fmSTfw&dl_branch=1\nApple Music \u2014 https://music.apple.com/am/artist/for7ius/1546694238\nSoundCloud \u2014 https://soundcloud.com/for7ius\nTwitter \u2014 https://twitter.com/For7ius\nGoogle Play \u2014 https://play.google.com/store/apps/dev?id=5742258641222362759",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_Vtxb1Q6uL0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_Vtxb1Q6uL0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_Vtxb1Q6uL0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/_Vtxb1Q6uL0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/_Vtxb1Q6uL0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_Vtxb1Q6uL0"
+        },
+        "videoOwnerChannelTitle": "For7ius",
+        "videoOwnerChannelId": "UCJ_2advkaKk8if3KX4ScUVQ"
+    },
+    "contentDetails": {
+        "videoId": "_Vtxb1Q6uL0",
+        "videoPublishedAt": "2021-08-25T07:40:08Z",
+        "duration": "PT3M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "241287",
+        "likeCount": "7510",
+        "favoriteCount": "0",
+        "commentCount": "364"
+    }
+}

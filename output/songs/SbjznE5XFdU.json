@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45MDQ2MjlBRTY2REU1QjNF",
+    "snippet": {
+        "publishedAt": "2021-09-06T15:36:20Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "dj TAKA - quaver",
+        "description": "dj TAKA - quaver\nOsu! :v",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SbjznE5XFdU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SbjznE5XFdU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SbjznE5XFdU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/SbjznE5XFdU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SbjznE5XFdU"
+        },
+        "videoOwnerChannelTitle": "DuckyHCMUT",
+        "videoOwnerChannelId": "UCX93xKGJghxego97Hg_-cGg"
+    },
+    "contentDetails": {
+        "videoId": "SbjznE5XFdU",
+        "videoPublishedAt": "2017-05-18T17:40:43Z",
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "186158",
+        "likeCount": "2845",
+        "favoriteCount": "0",
+        "commentCount": "108"
+    }
+}

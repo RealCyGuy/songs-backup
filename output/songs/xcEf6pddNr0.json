@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45NTBGQjA2RDUzMTJFM0VF",
+    "snippet": {
+        "publishedAt": "2021-06-21T01:39:11Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Bubblegum K.K. but it's hatsune miku",
+        "description": "and its IN ANIMALESE BABY\nanyways i drew the miku. she was gonna be a duck but i couldnt get her to look like miku \nmade the vsq myself if. anyone wants that at some point lmao\nsong owned by nintendo pls dont sue",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xcEf6pddNr0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xcEf6pddNr0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xcEf6pddNr0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/xcEf6pddNr0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/xcEf6pddNr0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xcEf6pddNr0"
+        },
+        "videoOwnerChannelTitle": "lovesickle",
+        "videoOwnerChannelId": "UCl-jvEhyHWSpXfa7yTRV-pQ"
+    },
+    "contentDetails": {
+        "videoId": "xcEf6pddNr0",
+        "videoPublishedAt": "2020-04-20T08:26:31Z",
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1543121",
+        "likeCount": "129270",
+        "favoriteCount": "0",
+        "commentCount": "2743"
+    }
+}

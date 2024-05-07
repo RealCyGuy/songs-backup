@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43Q0UyODJENjc3NDRCODU0",
+    "snippet": {
+        "publishedAt": "2021-05-19T00:10:39Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Minecraft Volume Alpha - 3 - Subwoofer Lullaby",
+        "description": "You can get Volume Alpha on iTunes here:\n\nhttps://itunes.apple.com/album/minecraft-volume-alpha/id424968465\n\nAnd at Bandcamp here:\n\nhttp://c418.bandcamp.com/album/minecraft-volume-alpha\n\nI seriously appreciate your support!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/o3_InDEtpLA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/o3_InDEtpLA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/o3_InDEtpLA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/o3_InDEtpLA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/o3_InDEtpLA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "o3_InDEtpLA"
+        },
+        "videoOwnerChannelTitle": "C418",
+        "videoOwnerChannelId": "UCnsbQM9ZgyCvYdHVRlRr8dg"
+    },
+    "contentDetails": {
+        "videoId": "o3_InDEtpLA",
+        "videoPublishedAt": "2013-04-06T02:30:06Z",
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2038877",
+        "likeCount": "52695",
+        "favoriteCount": "0",
+        "commentCount": "4067"
+    }
+}

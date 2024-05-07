@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zREM4MEQ5NkI0RDExOEYy",
+    "snippet": {
+        "publishedAt": "2021-06-09T14:05:07Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Hololive Sings - YOASOBI - Racing into the Night (Yoru ni Kakeru \u591c\u306b\u99c6\u3051\u308b) (30 Covers)",
+        "description": "Since me and broke gang don't have tickets to today's Bloom concert, I mixed 30 covers of \"Yoru ni Kakeru\" into a mini performance! To everyone who attended today's concert, I hope it was well worth the wait, and it becomes a memory you'll never forget!\n\nYoru ni Kakeru sources:\nSora: https://youtu.be/3Q07gT8svIU \nAzki: https://youtu.be/oXq9GS8z8Lw \nRoboco: https://youtu.be/ITdL6TXFvr0  \nMiko: https://youtu.be/2_El8J1jVK4 \nFubuki: https://youtu.be/79iOFS5iQvk \nMatsuri: https://youtu.be/-WEv5RvzUfs \nHaachama: https://youtu.be/Zj__U7-4kDQ \nAki: https://youtu.be/eNVxoS27nzU \nAqua: https://youtu.be/MPAo980e0HA \nAyame: https://youtu.be/HVl7ZpoxsyM \nShion: https://youtu.be/4X-eZH87BTw \nMio: https://youtu.be/gZo0Xa2_BJs \nOkayu: https://youtu.be/-jVRaRo4cvo\nKorone: https://youtu.be/Xr48VCpMAAI \nFlare: https://youtu.be/0NdHo21TbrQ \nNoel: https://youtu.be/R3rQ7uxIkvg \nMarine: https://youtu.be/udo07NqMtGQ \nPekora: https://youtu.be/kI9cXxH7xMk \nRushia: https://youtu.be/dZufD43xNTA \nSuisei: https://youtu.be/rF14Llf9D_8 \nKanata: https://youtu.be/8bR01vzastI \nLuna: https://youtu.be/eL0wzZjDIz0 \nCoco: https://youtu.be/hdyI6l1l0To \nWatame: https://youtu.be/FMKrHGqV7XY \nTowa: https://youtu.be/7jNeQJ8xUt0 \nNene: https://youtu.be/stjvR9bMwZ0 \nRisu: https://youtu.be/VupUel2Z_8w \nMoona: https://youtu.be/_9ncVjR48oE \nReine: https://youtu.be/Blg4KbWcYF8 \nIna: https://youtu.be/ryKL7fJW82k \n\nCovers I couldn\u2019t include due to them being acoustic covers or too hard to mix, but I highly recommend you check them out!\nIzuru: https://youtu.be/jbOskwNSEPA \nRikka and the BOYS: https://youtu.be/UqBsnlx9-Zs \nGura: https://youtu.be/QrwBapd7yvQ \nKiara: https://youtu.be/lAI_dv2YeoU \n#hololive #holoID #holoEN",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OA2cEOs9LfI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OA2cEOs9LfI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OA2cEOs9LfI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/OA2cEOs9LfI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/OA2cEOs9LfI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "OA2cEOs9LfI"
+        },
+        "videoOwnerChannelTitle": "Tyler Not Taylor ",
+        "videoOwnerChannelId": "UCIcfmIAFek2rWwhQMMnis9Q"
+    },
+    "contentDetails": {
+        "videoId": "OA2cEOs9LfI",
+        "videoPublishedAt": "2021-02-17T21:45:11Z",
+        "duration": "PT4M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "922586",
+        "likeCount": "28564",
+        "favoriteCount": "0",
+        "commentCount": "1233"
+    }
+}

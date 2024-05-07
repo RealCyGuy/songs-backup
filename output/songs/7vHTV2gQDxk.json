@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44ODU0NUVGNEZGMDI3QTdF",
+    "snippet": {
+        "publishedAt": "2021-06-05T16:53:04Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Pachelbel - Canon (BMus Remix) [Future Bass]",
+        "description": "\u27a4DISPONIBLE EN SPOTIFY!!!\nhttps://open.spotify.com/track/0lHhh5R3iuhTUdVb4S67r2\n\n\u27a4Descarga Directa:\nhttps://www.mediafire.com/file/wvw5icywzu5wain/Pachelbel_-_Canon_%28BMus_Remix%29.mp3/file\n\nUn remix sencillo y hermoso de mi canci\u00f3n cl\u00e1sica favorita... Espero que les guste!\n\n------------------------------------------\n\n\u27a4S\u00cdGUEME EN MIS REDES!\n\n\u27a4SOUNDCLOUD:\nhttps://soundcloud.com/bmus-music\n\n\u27a4NEWGROUNDS:\nhttps://bmusofficial.newgrounds.com/\n\n\u27a4SPOTIFY:\nhttps://open.spotify.com/artist/6q2ivHr1VY5htEQKFbN7ZN\n\n\u27a4INSTRAGRAM:\nhttps://www.instagram.com/joelmorales_14/\n\n\u27a4TWITTER:\nhttps://twitter.com/BGamesGMD\n\n------------------------------------------\n\n\u27a4Correo de Contacto:\nJoel.morales1405@gmail.com\n\n------------------------------------------",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7vHTV2gQDxk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7vHTV2gQDxk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7vHTV2gQDxk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/7vHTV2gQDxk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/7vHTV2gQDxk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "7vHTV2gQDxk"
+        },
+        "videoOwnerChannelTitle": "BMusic",
+        "videoOwnerChannelId": "UCtMr1sB_kIFwrUTULJ3v_GA"
+    },
+    "contentDetails": {
+        "videoId": "7vHTV2gQDxk",
+        "videoPublishedAt": "2018-03-03T17:50:37Z",
+        "duration": "PT6M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1685060",
+        "likeCount": "20321",
+        "favoriteCount": "0",
+        "commentCount": "613"
+    }
+}

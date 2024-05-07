@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDcyOTk4NUIwNjkzRkY4",
+    "snippet": {
+        "publishedAt": "2021-09-09T04:40:29Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Wii Shop Channel (Remix)",
+        "description": "Happy April Fool's Day, everyone! ;P OUT ON ITUNES AND SPOTIFY\nSpotify: https://open.spotify.com/album/4cXb5Ps16VQ1Is0uahwQH8\niTunes: https://itunes.apple.com/us/album/wii-shop-channel-single/id1222271995\n\nListen on SoundCloud! https://soundcloud.com/videogameremixes/wii-shop-channel-remix\n\nAlbum cover artwork by Spoluk!\nhttp://spoluk.tictail.com/products\nhttps://twitter.com/spoluks\nhttps://www.instagram.com/spoluk/\nemail: Spoluksart@gmail.com\n\nSpecial Thanks to my Great Ball and Timer Ball tier Patrons, NuSpirit and Raul Tejeda!\n\n\u25ba\u25ba\u25ba Support me on Patreon and I'll love you forever!! \u25c4\u25c4\u25c4 https://www.patreon.com/user?u=2293095\n\nThanks to Scotty for the thumbnail!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/n0pezsVK8gQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/n0pezsVK8gQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/n0pezsVK8gQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/n0pezsVK8gQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/n0pezsVK8gQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "n0pezsVK8gQ"
+        },
+        "videoOwnerChannelTitle": "Video Game Remixes",
+        "videoOwnerChannelId": "UCxr2ckHnwEr4VKqCe0INVAw"
+    },
+    "contentDetails": {
+        "videoId": "n0pezsVK8gQ",
+        "videoPublishedAt": "2017-04-01T14:55:14Z",
+        "duration": "PT2M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1867103",
+        "likeCount": "38657",
+        "favoriteCount": "0",
+        "commentCount": "3622"
+    }
+}

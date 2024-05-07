@@ -1,0 +1,59 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yM0EyQ0U1M0I2RkIwNTQ0",
+    "snippet": {
+        "publishedAt": "2021-04-26T04:33:48Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u3010\u521d\u97f3\u30df\u30af\u3011\u6c34\u97f3\u3068\u30ab\u30fc\u30c6\u30f3 English and romaji subs",
+        "description": "The transparent rain falls along to those words,\ngiving a lift to that loneliness on a melody\n\nLovely art and melody~\n \nTitle:  \u3010\u521d\u97f3\u30df\u30af\u3011 \u6c34\u97f3\u3068\u30ab\u30fc\u30c6\u30f3 \u3010\u30aa\u30ea\u30b8\u30ca\u30eb\u66f2\u3011The Sound of Water and Curtain/Mizuoto to Kaaten\nOriginal: http://www.nicovideo.jp/watch/sm31694519\nhttps://www.youtube.com/watch?v=QJaY60vjSxw\nComposer: MIMI \nComposer's YT: https://www.youtube.com/channel/UCam3IAA-nyfxRL8_wDQ35VA/videos \nArt: \u3082\u307e (Moma)\nSound Edit: \u4f50\u85e4\u4e3b\u7a0e (Satou Chikara)\nTranslation: http://shiopaca.tumblr.com/post/161096955737/mizuoto-curtain\n\nNo infringement intended.\n\n\u203bPermission was obtained to sub this video (https://imgur.com/a/VMskJ)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/d0bd3sQ1_XQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/d0bd3sQ1_XQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/d0bd3sQ1_XQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/d0bd3sQ1_XQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "d0bd3sQ1_XQ"
+        },
+        "videoOwnerChannelTitle": "RaineDrops",
+        "videoOwnerChannelId": "UCVIq81iATVC4isCLwOojMOw"
+    },
+    "contentDetails": {
+        "videoId": "d0bd3sQ1_XQ",
+        "videoPublishedAt": "2018-02-19T06:41:41Z",
+        "duration": "PT2M51S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "98479",
+        "favoriteCount": "0",
+        "likeCount": "0"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42QTAwM0IwOURDNUE5RURG",
+    "snippet": {
+        "publishedAt": "2021-08-02T04:07:21Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "black rover but its a swing arrangement by will stetson",
+        "description": "LISTEN ON SPOTIFY!! https://open.spotify.com/album/3cHasRhDpMQJUaZFaLaueu?si=wmVQrDIEQHya8ol6AkerFg&dl_branch=1 \u2193\u2193\u2193\nSupport on Patreon: https://www.patreon.com/willstetson\nTwitter: https://www.twitter.com/stillwetson\n\nJOIN MY DISCORD! https://discord.gg/S92QZSx\n\n\nCredits:\nOriginal: Vickeblanka https://www.youtube.com/watch?v=ElwWycMN8nw)\nVocals & Composition: Will Stetson\nMix: Dictate\n\nOFFICIAL METADATA: Black Rover (Swing Arrangement)\n\nFollow Will Stetson!\nTwitter: https://www.twitter.com/willstetson\nTwitch: https://www.twitch.tv/willstetson\nSoundCloud: https://soundcloud.com/willstetson\nBusiness Inquiries: will@lilacmedia.co\n\nFollow Dictate!\nSoundCloud: https://soundcloud.com/dictateneuro\nTwitter: https://www.twitter.com/dictatemusic\nSpotify: https://open.spotify.com/artist/4a74A...\n\n\n#Vickeblanka #BlackRover #swingarrangement",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/k5BJUHnRNcg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/k5BJUHnRNcg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/k5BJUHnRNcg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/k5BJUHnRNcg/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/k5BJUHnRNcg/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "k5BJUHnRNcg"
+        },
+        "videoOwnerChannelTitle": "Will Stetson",
+        "videoOwnerChannelId": "UCe82o8G7z0bFXI2U092nteA"
+    },
+    "contentDetails": {
+        "videoId": "k5BJUHnRNcg",
+        "videoPublishedAt": "2019-01-07T21:58:43Z",
+        "duration": "PT1M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3430552",
+        "likeCount": "98765",
+        "favoriteCount": "0",
+        "commentCount": "5717"
+    }
+}

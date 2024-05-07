@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DM0UwMkNDRTIwQUNDMjE2",
+    "snippet": {
+        "publishedAt": "2021-06-06T18:19:47Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\u5433\u82e5\u5e0c Jinny Ng - \u6211\u5011\u90fd\u53d7\u50b7 (\u5287\u96c6 \"\u5be6\u7fd2\u5929\u4f7f\" \u4e3b\u984c\u66f2) Official MV",
+        "description": "Single available on:\n\niTunes: http://apple.co/1GzA3Qr\nKKBOX: http://kkbox.fm/hA0xti\nSpotify: http://spoti.fi/1SnCLKe\nMOOV: http://bit.ly/1krNYh5\nJOOX: http://bit.ly/1LQR9Z6\nSoliton: http://bit.ly/1NPArKn\n\n\u66f2:\u5f90\u6d1b\u93d8 \n\u8a5e:\u5f35\u7f8e\u8ce2 \n\u7de8:johnny yim \n\u76e3:\u4f55\u54f2\u5716/johnny yim\n\n\n\u5728\u90a3\u5929 \u5f77\u5f7f\u767d\u7d19\u4e00\u5f35\n\u660e\u7738\u4e00\u96d9 \u4ea6\u50cf\u7409\u7483\u96ea\u4eae\n\u8072\u7dda\u591a\u9ebc\u93d7\u93d8 \u61f7\u8457\u6700\u5049\u5927\u7406\u60f3\n\u7a81\u7136\u4e00\u4e0d\u5c0f\u5fc3 \u611f\u5192\u8457\u6dbc \u611f\u67d3\u4e86\u98a8\u971c\n\u4eba\u7121\u529b\u518d\u4e0a \u7b11\u4e0d\u51fa \u958b\u59cb\u7f3a\u6c27\n\n\u90a3\u4e00\u5929\u6211\u53d7\u904e\u50b7 \u6240\u4ee5\u7406\u89e3\u9019\u72c0\u6cc1\n\u8ff7\u7cca\u88e1 \u6551\u85e5\u7121\u65b9\u7684\u611f\u89ba \u66fe\u6d41\u6dda\u5230\u5929\u5149\n\u8acb\u4e0d\u8981\u6d88\u5931\u5e0c\u671b \u591c\u9577\u9084\u662f\u6709\u661f\u5149\n\u82e5\u662f\u4f60 \u4ecd\u7136\u6709\u5fc3\u8df3 \u4f86\u966a\u8457\u6211\u7d93\u98a8\u8207\u6d6a \u4fe1\u53ef\u9760\u5cb8\n\n\u5728\u90a3\u5929 \u5beb\u4f4e\u6700\u75db\u4e00\u7ae0\n\u5f9e\u524d\u4fe1\u4ef0 \u4f46\u9858\u4ecd\u7136\u9583\u4eae\n\u76f8\u4fe1\u7c21\u55ae\u958b\u5fc3 \u624d\u662f\u6700\u5049\u5927\u7406\u60f3\n\u672a\u5fd8\u4e00\u4e0d\u5c0f\u5fc3 \u611f\u5192\u8457\u6dbc \u521d\u6b21\u67d3\u98a8\u971c\n\u5c0b\u5c0b\u8993\u53bb\u5411 \u81f3\u8d70\u51fa \u6eab\u5ba4\u4e2d\u592e\n\n\u90a3\u4e00\u5929\u6211\u53d7\u904e\u50b7 \u6240\u4ee5\u7406\u89e3\u9019\u72c0\u6cc1\n\u8ff7\u7cca\u88e1 \u6551\u85e5\u7121\u65b9\u7684\u611f\u89ba \u66fe\u6d41\u6dda\u5230\u5929\u5149\n\u8acb\u4e0d\u8981\u6d88\u5931\u5e0c\u671b \u591c\u9577\u9084\u662f\u6709\u661f\u5149\n\u82e5\u662f\u4f60 \u80fd\u6328\u904e\u6cae\u55aa\n\u5f9e\u524d\u9663\u75db\u50b7\u60a3 \u4e0d\u9700\u518d\u8b1b\n\n\u8acb\u4e0d\u8981\u6d88\u5931\u5e0c\u671b \u5225\u4f86\u7121\u6059\u4e5f\u4e0d\u6789\n\u76e1\u529b\u6c23 \u66fe\u6328\u904e\u6cae\u55aa\n\u8ab0\u4eba\u6c92\u6709\u7d93\u6b77 \u4e00\u4e9b\u8f15\u72c2",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Mjgc63kB0co/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Mjgc63kB0co/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Mjgc63kB0co/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Mjgc63kB0co/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Mjgc63kB0co/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Mjgc63kB0co"
+        },
+        "videoOwnerChannelTitle": "TVB Music Group",
+        "videoOwnerChannelId": "UCNPKstTCsULpoFdBea4SLtw"
+    },
+    "contentDetails": {
+        "videoId": "Mjgc63kB0co",
+        "videoPublishedAt": "2015-11-20T06:30:01Z",
+        "duration": "PT3M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "10514376",
+        "likeCount": "24699",
+        "favoriteCount": "0",
+        "commentCount": "1516"
+    }
+}

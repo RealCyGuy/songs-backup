@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5CNTk5RDhGNzdCMkRBRDUz",
+    "snippet": {
+        "publishedAt": "2021-07-29T03:37:18Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Arizona Zervas - ROXANNE (Official Video)",
+        "description": "Listen to \u201cROXANNE\u201d now: https://ArizonaZervas.lnk.to/ROXANNE\n\nFollow Me:\nTWITTER: https://Twitter.com/ArizonaZervas\nINSTAGRAM: https://Instagram.com/ArizonaZervas\nSPOTIFY: https://ArizonaZervas.lnk.to/spotify\nITUNES: https://ArizonaZervas.lnk.to/itunes\nSOUNDCLOUD: https://Soundcloud.com/ArizonaZervas\nTIK TOK: https://www.tiktok.com/@arizonazervas\nWEBSITE: http://ArizonaZervas.Com\nSNAPCHAT: ArizonaZervas\n\nProd Co - FREENJOY\nDirector - Nicholas Jandora\nStory By \u2013 Arizona Zervas & Nicholas Jandora\nExecutive Producer - Nathan Scherrer\nProducer - Jeff Kopchia\nProducer/Commissioner \u2013 Saul Levitz\n \nDP - Ben Carey\nProduction Designer - Spencer Graves\nEditor - Nicholas Jandora\nColor - Sam Gursky\nVFX - JR Strickland @ Nocturnal FX\nAZ Stylist - Carie Wendel\n\nLYRICS:\nRoxanne \nRoxanne\nAll she wanna do is party all night\nGod damn\nRoxanne\nNever gunna love me but it\u2019s alright\nShe think i\u2019ma asshole\nShe think i\u2019m a playa\nShe keep running back tho\nOnly cause i pay up\nRoxanne \nRoxanne \nAll she wanna do is party all night\n\nMet her at a party in the hills ya\nShe just wanna do it for the thrill ya\nShorty drive a poodle with no top aye\nBut if i throw this money she gone drop\n\nShe don\u2019t wait in lines if it\u2019s too long\nShe don\u2019t drive the whip unless the roof off\nOnly wanna call when the cash out\nOnly take the pic when her ass out\n\nShe from \nMalibu \nMalibu\nIf you don\u2019t gotta foreign then she laugh at you \nMalibu \nMalibu\nSpending daddy\u2019s money with a attitude\n\nRoxanne \nRoxanne\nAll she wanna do is party all night\nGod damn\nRoxanne\nNever gunna love me but it\u2019s alright\nShe think i\u2019ma asshole\nShe think i\u2019m a playa\nShe keep running back tho\nOnly cause i pay up\nRoxanne \nRoxanne \nAll she wanna do is party all night\n\n(I just wanna have fun!)\n\nIn LA ya \nGot no breaks ya\nLiving fast \nRicky bobby \nShake and bake ya\nSee the chain ya\nIssa lake ya \nSwipe the chase oo\nNow she wanna date ya\n\nStraight to nobu \nOn the coast oo\nShorty only like cocaine and whole foods \nSnappin all up on the gram ass goin crazy \nNow she wanna fuck me in the foreign going 80\n\nShe from \nMalibu \nMalibu\nIf you don\u2019t gotta foreign then she laugh at you \nMalibu \nMalibu\nSpending daddy\u2019s money with a attitude\n\nRoxanne \nRoxanne\nAll she wanna do is party all night\nGod damn\nRoxanne\nNever gunna love me but it\u2019s alright\nShe think i\u2019ma asshole\nShe think i\u2019m a playa\nShe keep running back tho\nOnly cause i pay up\nRoxanne \nRoxanne \nAll she wanna do is party all night\n\n#ArizonaZervas #Roxanne",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/16YnOUnbE6s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/16YnOUnbE6s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/16YnOUnbE6s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/16YnOUnbE6s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/16YnOUnbE6s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "16YnOUnbE6s"
+        },
+        "videoOwnerChannelTitle": "ArizonaZervasVEVO",
+        "videoOwnerChannelId": "UCgJqsU9aNmdusbxbeWVSt5g"
+    },
+    "contentDetails": {
+        "videoId": "16YnOUnbE6s",
+        "videoPublishedAt": "2020-02-12T17:00:11Z",
+        "duration": "PT2M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "226810654",
+        "likeCount": "2698758",
+        "favoriteCount": "0",
+        "commentCount": "69881"
+    }
+}

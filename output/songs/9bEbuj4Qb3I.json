@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FNzRDNDIwRDUwRDE4QUI1",
+    "snippet": {
+        "publishedAt": "2021-07-16T21:47:41Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Harry Potter Theme played on Acoustic Guitar",
+        "description": "My Fingerstyle Guitar Cover of \"Main Theme\" from Harry Potter\n\ud83c\udfa7 Stream my music: https://evdm.cc/music \ud83c\udfb5 Guitar tabs: https://eddievdmeer.com/tabs\n\ud83c\udfa5 Check out my vlog channel! https://youtube.com/EVDMofficial\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u2714\ufe0f FOLLOW ME ON\n\nTwitter: https://twitter.com/EddievanderMeer\nInstagram: https://instagram.com/EddievanderMeer_\nFacebook: https://facebook.com/EddievdMeer\nSubreddit: https://reddit.com/r/EddievanderMeer\nWebsite: https://eddievdmeer.com\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83c\udfb5 STREAM MY MUSIC\n\n(FREE) Spotify: https://spoti.fi/2cIWGWh\niTunes & Apple Music: https://apple.co/2dc1I0h\nGoogle Play Music: https://bit.ly/2cRNQIb\nAmazon Music: https://amzn.to/2cROmG4\n\n#harrypotter #guitar #fingerstyle",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9bEbuj4Qb3I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9bEbuj4Qb3I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9bEbuj4Qb3I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/9bEbuj4Qb3I/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/9bEbuj4Qb3I/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9bEbuj4Qb3I"
+        },
+        "videoOwnerChannelTitle": "Eddie van der Meer",
+        "videoOwnerChannelId": "UCCRb9Zn03QoEb8cnfwTOFTg"
+    },
+    "contentDetails": {
+        "videoId": "9bEbuj4Qb3I",
+        "videoPublishedAt": "2013-06-08T22:16:06Z",
+        "duration": "PT1M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3739638",
+        "likeCount": "57511",
+        "favoriteCount": "0",
+        "commentCount": "723"
+    }
+}

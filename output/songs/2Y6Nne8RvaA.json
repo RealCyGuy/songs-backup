@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS42REM4MTcyRDk5RkFGMDg5",
+    "snippet": {
+        "publishedAt": "2021-09-11T03:44:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kungs vs Cookin\u2019 on 3 Burners - This Girl (Official Music Video)",
+        "description": "Kungs vs Cookin\u2019 on 3 Burners - This Girl.\nVocals : Kylie Auldist\nDownload / listen to the album here : https://Barclay.lnk.to/KungsLayers\n\nFollow me on :\nhttps://www.facebook.com/Kungsmusic\nhttps://twitter.com/KungsMusic\nhttps://www.instagram.com/kungsmusic\nhttps://soundcloud.com/kungsmusic\n\nSubscribe to the channel : https://Barclay.lnk.to/KungsVevo\n\nProduced by La Main Productions\nDirected by Matt Larson\nActors: Irina Martynenko & Lou\u00efs Rault Watanabe\nDop : Diana Vidrascu\nGaffer : Nicholas Kent\n\n\nhttp://vevo.ly/QnlJ7g\nBest of Kungs: https://goo.gl/edSyQ3\nSubscribe here: https://goo.gl/JDZ5Mq\n\n#Kungs #ThisGirl #Vevo #CookinOn3Burners #KylieAuldist #House #OfficialMusicVideo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2Y6Nne8RvaA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2Y6Nne8RvaA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2Y6Nne8RvaA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/2Y6Nne8RvaA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/2Y6Nne8RvaA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2Y6Nne8RvaA"
+        },
+        "videoOwnerChannelTitle": "KungsVEVO",
+        "videoOwnerChannelId": "UCcsGmYitOT9kpZA6wPHXpGQ"
+    },
+    "contentDetails": {
+        "videoId": "2Y6Nne8RvaA",
+        "videoPublishedAt": "2016-03-24T19:00:00Z",
+        "duration": "PT3M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "521033851",
+        "likeCount": "3312416",
+        "favoriteCount": "0",
+        "commentCount": "91208"
+    }
+}

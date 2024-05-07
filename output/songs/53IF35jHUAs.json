@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40N0VCMzcxQTEyREU1NDND",
+    "snippet": {
+        "publishedAt": "2021-06-05T01:19:52Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Kana Hanazawa - Renai Circulation (Lone Alpha Remix) \u266a",
+        "description": "\u2606 Stream/Download: https://soundcloud.com/lonealphamusic/renai-circulation-lone-alpha-remix\nMore Information/Social Media links in the description below \u21e9 \n\n\u2606 Follow Lone Alpha\n\u25cf SoundCloud: https://soundcloud.com/lonealphamusic\n\u25cf Youtube:  https://www.youtube.com/channel/UCv7cX2hDhEVtCEBvssHofFA\n\u25cf Spotify: https://open.spotify.com/artist/0o8IQYc0GIBfoSeRAQYOX5\n\n\u2606 Background: https://imgur.com/dGODDaj\n\n\u2606 Follow Starling\n\u25cf SoundCloud: https://soundcloud.com/StarlingEDM\n\u25cf Fanpage : https://www.facebook.com/StarlingEDM\n\u25cf Youtube: https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w\n\u25cf Ask: https://ask.fm/jodiestarling\n\n\n\u2606 Support Me\n\u25cf https://ko-fi.com/StarlingYT\n\u25cf https://www.paypal.me/JodieStarlingVN\n \n\n\u2606 Watch More Videos:\n\u25cf https://www.youtube.com/channel/UCd7AuGqhXpOf-m5YBH4HM7w/videos\n\n\n\u270f\ufe0f Copyright/Claims/Issues: info@starlingedm.com",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/53IF35jHUAs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/53IF35jHUAs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/53IF35jHUAs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/53IF35jHUAs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/53IF35jHUAs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "53IF35jHUAs"
+        },
+        "videoOwnerChannelTitle": "StarlingEDM",
+        "videoOwnerChannelId": "UCd7AuGqhXpOf-m5YBH4HM7w"
+    },
+    "contentDetails": {
+        "videoId": "53IF35jHUAs",
+        "videoPublishedAt": "2020-07-15T05:00:31Z",
+        "duration": "PT3M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "370256",
+        "likeCount": "9742",
+        "favoriteCount": "0",
+        "commentCount": "233"
+    }
+}

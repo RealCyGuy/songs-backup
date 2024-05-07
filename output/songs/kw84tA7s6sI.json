@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BNjBCMUFCN0Q5QzUyMjlG",
+    "snippet": {
+        "publishedAt": "2021-05-21T13:06:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "How far I'll go (Moana ost)",
+        "description": "Erika by herself\n#moana  #disney #acapella",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kw84tA7s6sI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kw84tA7s6sI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kw84tA7s6sI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/kw84tA7s6sI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/kw84tA7s6sI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kw84tA7s6sI"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+    },
+    "contentDetails": {
+        "videoId": "kw84tA7s6sI",
+        "videoPublishedAt": "2018-10-21T23:17:40Z",
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "175618",
+        "likeCount": "5873",
+        "favoriteCount": "0",
+        "commentCount": "154"
+    }
+}

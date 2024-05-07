@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5BMDNGMkVEMjBGMzNGNEJC",
+    "snippet": {
+        "publishedAt": "2021-05-29T14:55:07Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Rick Astley\u306b\u99c6\u3051\u308b",
+        "description": "Vocal: Rick Astley - Never Gonna Give You Up\nMusic: YOASOBI - \u591c\u306b\u99c6\u3051\u308b\n\nRemix by Anker.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6omHDfHITZ4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6omHDfHITZ4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6omHDfHITZ4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/6omHDfHITZ4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6omHDfHITZ4"
+        },
+        "videoOwnerChannelTitle": "Anker",
+        "videoOwnerChannelId": "UCyYCx34CtMFn1kYvBvHE4Aw"
+    },
+    "contentDetails": {
+        "videoId": "6omHDfHITZ4",
+        "videoPublishedAt": "2021-01-11T08:21:55Z",
+        "duration": "PT2M4S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2932178",
+        "likeCount": "143499",
+        "favoriteCount": "0",
+        "commentCount": "3102"
+    }
+}

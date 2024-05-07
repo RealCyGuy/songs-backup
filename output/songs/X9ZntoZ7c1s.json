@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DQzQxMzBBQjZBMUE2MDgz",
+    "snippet": {
+        "publishedAt": "2021-08-05T00:05:01Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[MV]\u7d05\u84ee\u83ef(gurenge) - LiSA (Band Cover) Demon Slayer : Kimetsu no Yaiba Op",
+        "description": "Title : \u7d05\u84ee\u83ef (gurenge) - LiSA (Band Cover)\n Demon Slayer ost Kimetsu no Yaiba Op\n\n\n\n-Session List-\nBandmaster &Guitar: LION\nhttps://facebook.com/hyungwon.park.79\n\nBass : H.J.Freaks\nhttps://www.youtube.com/user/hjfreaks\n\nPiano : Yachae\nhttps://www.youtube.com/user/diddmsco528\n\nDrum : Sang June Choi\nhttps://www.youtube.com/c/\ub4dc\ub7fc\ub178\ud2b8DRUMNOTE\n\nVocal: yurisa\nhttps://instagram.com/risa.yu\nhttps://twitter.com/baby_yurisa\nhttps://facebook.com/yurisa123\n\nMix&Mastering : Lion studio\nhttps://facebook.com/hyungwon.park.79\n\ntapi\nhttps://twitter.com/TAPi_Lin\n\n\n\nMusic producer : Lee Sanhwa\nhttps://twitter.com/sanhwa_yamachan?s=09\n\nVideo by : kim jong seong\nhttps://instagram.com/dal._.moo\n\n\n\n\n\nLocation : flame studio (korea)\n\nhttp://flamest.dothome.co.kr\n\n\n\n#\u7d05\u84ee\u83ef #\u9b3c\u6ec5\u306e\u5203\n#gurenge #KimetsunoYaiba\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------\nSupporting our channel.\n\nPay\u2117al : yurisachan1@gmail.com\njoin membership \nhttps://www.youtube.com/channel/UCNZqFeSHt3mGvEpWF5ulBpg/join",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/X9ZntoZ7c1s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/X9ZntoZ7c1s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/X9ZntoZ7c1s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/X9ZntoZ7c1s/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/X9ZntoZ7c1s/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "X9ZntoZ7c1s"
+        },
+        "videoOwnerChannelTitle": "yurisa",
+        "videoOwnerChannelId": "UCNZqFeSHt3mGvEpWF5ulBpg"
+    },
+    "contentDetails": {
+        "videoId": "X9ZntoZ7c1s",
+        "videoPublishedAt": "2020-09-25T12:34:18Z",
+        "duration": "PT4M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "916998",
+        "likeCount": "21237",
+        "favoriteCount": "0",
+        "commentCount": "2746"
+    }
+}

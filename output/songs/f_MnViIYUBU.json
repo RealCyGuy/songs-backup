@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44QjNCNkRENjNFQTBEMUND",
+    "snippet": {
+        "publishedAt": "2021-04-27T03:29:00Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ayase Rie (ft. Hata-tan) - Yuima-ru*World TVver.",
+        "description": "bgm: yuima-ru*world tv ver\nsource: hata-tan",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/f_MnViIYUBU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/f_MnViIYUBU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/f_MnViIYUBU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/f_MnViIYUBU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/f_MnViIYUBU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f_MnViIYUBU"
+        },
+        "videoOwnerChannelTitle": "Clarity",
+        "videoOwnerChannelId": "UCXWa-E_lBLktCBB13B7TE3w"
+    },
+    "contentDetails": {
+        "videoId": "f_MnViIYUBU",
+        "videoPublishedAt": "2017-10-06T13:00:05Z",
+        "duration": "PT45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "39272",
+        "likeCount": "1681",
+        "favoriteCount": "0",
+        "commentCount": "66"
+    }
+}

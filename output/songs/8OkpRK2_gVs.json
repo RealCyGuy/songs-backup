@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4yMUQyQTQzMjRDNzMyQTMy",
+    "snippet": {
+        "publishedAt": "2021-04-25T03:46:09Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Attack on Titan - Opening 1 | Feuerroter Pfeil und Bogen",
+        "description": "Attack on Titan OP 1 \"Feuerroter Pfeil und Bogen\" by Linked Horizon. Watch Attack on Titan on Crunchyroll! https://got.cr/cc-aotop\n\n\r\rMore Attack on Titan Openings:\nAttack on Titan Opening 2 https://youtu.be/PbWFpzi8C94\nAttack on Titan Opening 3 https://youtu.be/LKP-vZvjbh8\nAttack on Titan Opening 6 https://youtu.be/P75q_3Qlrqg\nAttack on Titan Opening 7 https://youtu.be/EtjQVqXUPHo\nAttack on Titan: Junior High Opening https://youtu.be/pwmqlb8KY18\n\nWatch Attack on Titan's Best Moments:\nhttps://www.youtube.com/playlist?list=PLRe9ARNnYSY53R6H6r6aqSUl9rT1uSsHn\n\nKnown in Japan as Shingeki no Kyojin, many years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the heroic members of the Scouting Legion dared to stray beyond the safety of the walls \u2013 but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill \u2013 or be devoured!\n\nCrunchyroll brings you the latest clips, openings, full episodes, and more from your favorite anime!\n\nFREE 14-DAY CRUNCHYROLL TRIAL \ud83c\udf1f https://got.cr/cc-14daysop\n\n#AttackonTitan #Anime #Crunchyroll",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/8OkpRK2_gVs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8OkpRK2_gVs"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll",
+        "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
+    },
+    "contentDetails": {
+        "videoId": "8OkpRK2_gVs",
+        "videoPublishedAt": "2013-04-23T20:07:17Z",
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+            "blocked": [
+                "JP"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "46818706",
+        "likeCount": "606886",
+        "favoriteCount": "0",
+        "commentCount": "47480"
+    }
+}

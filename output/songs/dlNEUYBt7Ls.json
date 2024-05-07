@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xN0Y2QjVBOEI2MzQ5OUM5",
+    "snippet": {
+        "publishedAt": "2021-04-26T03:30:34Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "if elevators had trap music",
+        "description": "Elevator Music (Trap Remix)\nLo-fi/Vaportrap beats remix\n\nme. \nhttps://soundcloud.com/meonthebeat\nhttps://soundcloud.com/meonthebeat/trap-elevator\n\n\ud83d\udc9c bootleg\ud83d\udc9c\nsoundcloud - https://soundcloud.com/dabootlegboy\ntwitter - https://twitter.com/thebootlegboy\ninstagram - https://instagram.com/thebootlegboy\n\n\ud83d\udc95Subscribe for more vibes like this\ud83d\udc95",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dlNEUYBt7Ls/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dlNEUYBt7Ls/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dlNEUYBt7Ls/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/dlNEUYBt7Ls/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/dlNEUYBt7Ls/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "dlNEUYBt7Ls"
+        },
+        "videoOwnerChannelTitle": "the bootleg boy 2",
+        "videoOwnerChannelId": "UCwkTfp14Sj7o6q9_8ADJpnA"
+    },
+    "contentDetails": {
+        "videoId": "dlNEUYBt7Ls",
+        "videoPublishedAt": "2017-12-04T23:00:02Z",
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "824595",
+        "likeCount": "25863",
+        "favoriteCount": "0",
+        "commentCount": "1260"
+    }
+}

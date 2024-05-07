@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44MjdDQUY2RDQ0ODMzNENE",
+    "snippet": {
+        "publishedAt": "2021-08-30T23:39:33Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Shulk - Custom Minecraft Music Disc",
+        "description": "This is my first music disc i made not long ago\nI never know what else to put here\n\nSoundcloud:\nhttps://soundcloud.com/jamiesname/dragon-dance\n\nIf you end up using this in a video, please credit me, im small and only ask for this really\nDont straight up reupload my songs and say that i said to promote this, i didnt.\nThink.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UXR9QgaMbjw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UXR9QgaMbjw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UXR9QgaMbjw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UXR9QgaMbjw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UXR9QgaMbjw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UXR9QgaMbjw"
+        },
+        "videoOwnerChannelTitle": "JamiesName",
+        "videoOwnerChannelId": "UC_asSM4aKDiDLQ1xSn-nMjg"
+    },
+    "contentDetails": {
+        "videoId": "UXR9QgaMbjw",
+        "videoPublishedAt": "2021-03-07T20:56:50Z",
+        "duration": "PT1M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "2421263",
+        "likeCount": "101013",
+        "favoriteCount": "0",
+        "commentCount": "10474"
+    }
+}
