@@ -34,22 +34,9 @@
     },
     "contentDetails": {
         "videoId": "WDyjThHExNI",
-        "videoPublishedAt": "2021-10-19T01:19:51Z",
-        "duration": "PT1M38S",
-        "dimension": "2d",
-        "definition": "sd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoPublishedAt": "2021-10-19T01:19:51Z"
     },
     "status": {
         "privacyStatus": "public"
-    },
-    "statistics": {
-        "viewCount": "16622",
-        "likeCount": "732",
-        "favoriteCount": "0",
-        "commentCount": "70"
     }
 }
