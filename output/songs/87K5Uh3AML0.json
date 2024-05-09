@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "87K5Uh3AML0"
         },
-        "videoOwnerChannelTitle": "\ud835\ude1a\ud835\ude35\ud835\ude33\ud835\ude22\ud835\ude38\ud835\ude23\ud835\ude26\ud835\ude33\ud835\ude33\ud835\ude3a\u10e6",
+        "videoOwnerChannelTitle": "Strawberry \u10e6",
         "videoOwnerChannelId": "UC5qjesLQTGIuUm9pWPuwIvw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "53336246",
-        "likeCount": "1412417",
+        "viewCount": "53336550",
+        "likeCount": "1412421",
         "favoriteCount": "0",
         "commentCount": "27797"
     }
