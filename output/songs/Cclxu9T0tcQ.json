@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Cclxu9T0tcQ"
         },
-        "videoOwnerChannelTitle": "HOYO-Mix - Topic",
+        "videoOwnerChannelTitle": "HOYO-MiX - Topic",
         "videoOwnerChannelId": "UCJ4yjqc1XuGgiE35NsSSkYA"
     },
     "contentDetails": {
@@ -303,9 +303,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1643509",
+        "viewCount": "1643538",
         "likeCount": "25534",
         "favoriteCount": "0",
-        "commentCount": "411"
+        "commentCount": "412"
     }
 }
