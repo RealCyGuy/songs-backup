@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45RTNGN0IwODRGQTA2MkM3",
+    "snippet": {
+        "publishedAt": "2024-05-20T16:36:42Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "IVE- Accendio \u4e2d\u6587\u7248 Chinese Version",
+        "description": "\u25b6Illustration, Vocal, Cover Lyrics, Video by Jii\n\u25b6Mix by Tora\nOriginal @IVEstarship \n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nJii \nInstagram\uff1ahttps://www.instagram.com/jii_0208/\nX\uff1ahttps://twitter.com/jii_0208\nTiktok\uff1a https://www.tiktok.com/@jii_0208?\nContact\uff1ajiiart0208@gmail.com\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#ive #\u7ffb\u5531 #accendio #kpop \n#cover  #coversong #covermusic #fanart #illustration",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/f3PhnliIGK0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/f3PhnliIGK0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/f3PhnliIGK0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/f3PhnliIGK0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/f3PhnliIGK0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f3PhnliIGK0"
+        },
+        "videoOwnerChannelTitle": "Jii",
+        "videoOwnerChannelId": "UCFW2f74gc_LYjilkurMEBGA"
+    },
+    "contentDetails": {
+        "videoId": "f3PhnliIGK0",
+        "videoPublishedAt": "2024-05-20T12:00:08Z",
+        "duration": "PT3M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3577",
+        "likeCount": "677",
+        "favoriteCount": "0",
+        "commentCount": "47"
+    }
+}
