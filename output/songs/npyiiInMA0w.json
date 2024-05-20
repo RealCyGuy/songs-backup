@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "npyiiInMA0w"
         },
-        "videoOwnerChannelTitle": "robin - Topic",
-        "videoOwnerChannelId": "UCPSf1kCanBIoLlTc18x6qQw"
+        "videoOwnerChannelTitle": "ROBIN - Topic",
+        "videoOwnerChannelId": "UCaTZF0khK2bTzwG7vIsBdQg"
     },
     "contentDetails": {
         "videoId": "npyiiInMA0w",
@@ -179,9 +179,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1352988",
-        "likeCount": "34011",
+        "viewCount": "1357731",
+        "likeCount": "34062",
         "favoriteCount": "0",
-        "commentCount": "0"
+        "commentCount": "11"
     }
 }
