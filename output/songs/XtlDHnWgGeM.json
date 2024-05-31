@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "XtlDHnWgGeM"
         },
-        "videoOwnerChannelTitle": "\u30a2\u30ba\u30de\u30ea\u30e0 Azumalim\u3010\u30d0\u30a4\u30af\u7cfbVtuber\u3011",
+        "videoOwnerChannelTitle": "\u30a2\u30ba\u30de\u30ea\u30e0 Azumalim",
         "videoOwnerChannelId": "UCARI2g7r-PHaxrIcAYsMfmA"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1451307",
-        "likeCount": "33988",
+        "viewCount": "1451312",
+        "likeCount": "33989",
         "favoriteCount": "0",
         "commentCount": "2373"
     }
