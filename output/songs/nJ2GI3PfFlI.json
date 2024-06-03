@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FOEMzNEFEQTBDMjFERjc2",
+    "snippet": {
+        "publishedAt": "2024-06-03T04:08:35Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\ube44\ube44 (BIBI) - \ubc24\uc591\uac31(Bam Yang Gang)\u2503Raon cover",
+        "description": "\u2bccPlease turn on your subtitles!\u2bcc\n\n\u25b8Original Music :: \ube44\ube44 (BIBI)\n  \u261e link :: https://youtu.be/smdmEhkIRVc?si=kcn3mGzPSwMxcccq\n\n\u25b8vocal & video :: Raon (https://lit.link/Raon)\n\u25b8inst arrange :: Daitch (at Accelers studio) (https://twitter.com/Accelers_Inc)\n\u25b8mix & mastering :: TRMX Sound Lab (https://twitter.com/Trmx_Sound_Lab)\n\n\n\u300c What I\u2019ve always wanted was one thing\ud83c\udf30 \u300d\n\n#Raon #\ubc24\uc591\uac31 #BamYangGang #\ube44\ube44 #BIBI #cover #kpop",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nJ2GI3PfFlI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nJ2GI3PfFlI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nJ2GI3PfFlI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/nJ2GI3PfFlI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/nJ2GI3PfFlI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nJ2GI3PfFlI"
+        },
+        "videoOwnerChannelTitle": "Raon",
+        "videoOwnerChannelId": "UCQn1FqrR2OCjSe6Nl4GlVHw"
+    },
+    "contentDetails": {
+        "videoId": "nJ2GI3PfFlI",
+        "videoPublishedAt": "2024-03-22T11:00:06Z",
+        "duration": "PT2M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "142086",
+        "likeCount": "5744",
+        "favoriteCount": "0",
+        "commentCount": "251"
+    }
+}
