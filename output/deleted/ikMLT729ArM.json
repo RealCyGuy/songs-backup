@@ -1,8 +1,8 @@
 {
     "kind": "youtube#playlistItem",
-    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4zMEQ1MEIyRTFGNzhDQzFB",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40REI0Q0ZBNkM2MTYyNEJG",
     "snippet": {
-        "publishedAt": "2021-04-25T04:23:41Z",
+        "publishedAt": "2021-11-07T03:15:35Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Deleted video",
         "description": "This video is unavailable.",
@@ -11,11 +11,11 @@
         "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
         "resourceId": {
             "kind": "youtube#video",
-            "videoId": "w0AOGeqOnFY"
+            "videoId": "ikMLT729ArM"
         }
     },
     "contentDetails": {
-        "videoId": "w0AOGeqOnFY"
+        "videoId": "ikMLT729ArM"
     },
     "status": {
         "privacyStatus": "privacyStatusUnspecified"
