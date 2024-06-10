@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "YuLH8kH-EdY"
         },
-        "videoOwnerChannelTitle": "Captain AC",
+        "videoOwnerChannelTitle": "El Mago",
         "videoOwnerChannelId": "UC4prrR49UMqtfyZsSzQEVug"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "335909",
-        "likeCount": "12964",
+        "viewCount": "335923",
+        "likeCount": "12965",
         "favoriteCount": "0",
         "commentCount": "210"
     }
