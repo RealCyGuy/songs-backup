@@ -1,0 +1,70 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40QzFFMTZENTU3Njc5QTFF",
+    "snippet": {
+        "publishedAt": "2024-06-11T06:59:56Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Ryujin \u201cLemon\u201d (by. Kenshi Yonezu \u7c73\u6d25\u7384\u5e2b) | #COVER_IT",
+        "description": "Ryujin \u201cLemon\u201d (by. Kenshi Yonezu \u7c73\u6d25\u7384\u5e2b) | #COVER_IT\n\nITZY \u201cBORN TO BE\u201d - UNTOUCHABLE\n\ud83d\udd25 Melon https://kko.to/H1Pbs5MKtK\n\ud83d\udd25 M/V https://youtu.be/5e3rKInegeU\n\ud83d\udd25 ALBUM https://ITZY.lnk.to/BORNTOBE\n\n[ITZY Official]\n\u25b6 https://www.youtube.com/c/ITZY\n\u25b6 https://www.instagram.com/itzy.all.in.us\n\u25b6 https://www.tiktok.com/@itzyofficial\n\u25b6 http://www.twitter.com/ITZYOfficial\n\u25b6 http://www.facebook.com/OfficialITZY\n\u25b6 https://www.weibo.com/u/7462077750?is\n\u25b6 http://ITZY.jype.com\n\u25b6 http://fans.jype.com/ITZY\n\n#ITZY #RYUJIN #COVER\n\nCopyrights 2024 \u24d2 JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/M_Ed0Yc3AVQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/M_Ed0Yc3AVQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/M_Ed0Yc3AVQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/M_Ed0Yc3AVQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/M_Ed0Yc3AVQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "M_Ed0Yc3AVQ"
+        },
+        "videoOwnerChannelTitle": "ITZY",
+        "videoOwnerChannelId": "UCDhM2k2Cua-JdobAh5moMFg"
+    },
+    "contentDetails": {
+        "videoId": "M_Ed0Yc3AVQ",
+        "videoPublishedAt": "2024-06-10T09:00:01Z",
+        "duration": "PT4M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "93894",
+        "likeCount": "20657",
+        "favoriteCount": "0",
+        "commentCount": "2078"
+    }
+}
