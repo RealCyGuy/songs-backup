@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "1LBMlXqhzF0"
         },
-        "videoOwnerChannelTitle": "Shotgun Willy",
+        "videoOwnerChannelTitle": "Josh Williams",
         "videoOwnerChannelId": "UCTg6Jny4X_LteWGccXf596Q"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4887793",
+        "viewCount": "4887866",
         "likeCount": "82108",
         "favoriteCount": "0",
         "commentCount": "2815"
