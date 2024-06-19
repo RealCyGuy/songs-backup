@@ -89,6 +89,7 @@
                 "GE",
                 "GF",
                 "GH",
+                "GP",
                 "GR",
                 "GT",
                 "GU",
@@ -142,6 +143,7 @@
                 "PH",
                 "PK",
                 "PL",
+                "PR",
                 "PT",
                 "PY",
                 "QA",
@@ -182,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "280339562",
-        "likeCount": "2211257",
+        "viewCount": "280357354",
+        "likeCount": "2211364",
         "favoriteCount": "0",
         "commentCount": "3040"
     }
