@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wN0UyREJFQkJFMjQ2RkU3",
+    "snippet": {
+        "publishedAt": "2024-06-19T05:39:59Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "\ub864\uccb4 \uc2dc\uc98c10 BGM \ub9c8\uc5d0\uc2a4\ud2b8\ub85c X K/DA(\ud6c4\ubc18)",
+        "description": "TFT Set10 - Maestro X K/DA (Late)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fimtLZqJt0E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fimtLZqJt0E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fimtLZqJt0E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/fimtLZqJt0E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/fimtLZqJt0E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fimtLZqJt0E"
+        },
+        "videoOwnerChannelTitle": "\uc2a4\ud30c\uc774\ub354\uce78",
+        "videoOwnerChannelId": "UCcETKBPMBuRPrYRHJigpp0w"
+    },
+    "contentDetails": {
+        "videoId": "fimtLZqJt0E",
+        "videoPublishedAt": "2023-12-01T16:38:25Z",
+        "duration": "PT2M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "193068",
+        "likeCount": "1767",
+        "favoriteCount": "0",
+        "commentCount": "44"
+    }
+}
