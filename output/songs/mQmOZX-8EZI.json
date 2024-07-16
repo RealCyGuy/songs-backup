@@ -34,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "mQmOZX-8EZI"
         },
-        "videoOwnerChannelTitle": "Carlos Mart\u00ednez",
+        "videoOwnerChannelTitle": "Hunter Seth",
         "videoOwnerChannelId": "UCpkoTzVxjE7pq7in-dThMcQ"
     },
     "contentDetails": {
@@ -52,8 +52,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "13316707",
-        "likeCount": "215047",
+        "viewCount": "13316945",
+        "likeCount": "215050",
         "favoriteCount": "0",
         "commentCount": "5344"
     }
