@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5DQkY5RUExRTBBMEI4ODRC",
+    "snippet": {
+        "publishedAt": "2024-07-21T04:00:37Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Seycara - Is This Seat Taken? (Official Audio)",
+        "description": "\ud83c\udfb5 Listen to my music on Spotify & Apple Music \u25b6\u25b6\nSpotify: https://open.spotify.com/artist/1tdHPEu7gU9axrfswtGmhL\nApple Music: https://music.apple.com/ca/artist/seycara-orchestral/1578478878\nPatreon: https://www.patreon.com/user?u=9318037\nTwitter: https://twitter.com/Seycara\nDiscord: https://discord.gg/yJUTFn6\n\nCredits:\nMusic/Arrangement - Yuang Chen @Seycara \nCello - Chlo\u00e9 Mendola @chloemendola1885 \nViolin - Aaron Smith @Strings-n-muscle\nGuitar - Jack Ding\nPiano - Yuang Chen\nPercussion - Lloyd Eastman\nBass - Terry Kozen\nMixing/Mastering - Shai Fishman @vocapeopleofficial \n\nOriginal Illustration - \u6a2a yoko\nhttps://x.com/Bh1h1J\n\nVFX/Editing - Sander The Composer @SpongeBobAnimeOST \n\nMY LOVELY PATREON SUPPORTERS (please let me know if anything is off): \n\nYellow Jam\nJason Zheng\n\uae40\uae38\ud658\nMinh Nguyen\nSpencer Colton\nseruteblack \nPotatoe Gunner\nKrittapat Onthuam\nengineer_sentrytf2\nWoopbedeboop\n\u00c1kom K\u00e1roly \u00c1ron\nTaylor Phan\nMaster Destro\nKin0\nHarry lee\nGrace Pandra\nJackie Huang\nJONATHAN JONG IL LEE\nNarit Thiantanukij\nKoba GD\nHappySack \nAndrew Varela\nJaakko Honkanen\nCherrymina\nLordGeneric \nNorth\nGoblin Fish (Katia)\nbutter melk\nKalabint \nLostChopsticks\nJoshua Davis\nEarns2000\nBrian Ma\nAlexander Iglesias\nHydro Logic\nPichayapha Sabpisal\nGhost\nMyths01\nJordan Robles\nBells of St. John\nTimmy Ha\nAraxon \nBen Klein\nMylen Ploa\nYuuki Crystal\nTommy Le\nAndrew Mrogan\niarba\nMysterious being\nMetty\nNan Wang\nJohn Tolentino\nTom Yeung\npekoyo\nTom Servo\nSnol \nSunnyRx\nmoustanir soule ali\nKzai\nmrgodjesuss\nTheRavensdales\nQwertzYan\nFub\nCruz Monrreal II\nVinny Nguyen\nConnor \njackbc \nAndri Jaya\nLucas Kishore\nNaCl\nJoshua Turner\n\ub2f4\ud558\ud604\n\nContact: music@seycara.com\nWebsite: www.seycara.com\n------------------------------\n\nPlease do not re-upload without permission. Copyright strikes will be filed.\n\n------------------------------",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/h_9M7Hw2jOI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/h_9M7Hw2jOI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/h_9M7Hw2jOI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/h_9M7Hw2jOI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/h_9M7Hw2jOI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "h_9M7Hw2jOI"
+        },
+        "videoOwnerChannelTitle": "Seycara",
+        "videoOwnerChannelId": "UCVs86Dxq2cKkzYrzzxejwMw"
+    },
+    "contentDetails": {
+        "videoId": "h_9M7Hw2jOI",
+        "videoPublishedAt": "2024-07-19T22:30:06Z",
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "6726",
+        "likeCount": "1149",
+        "favoriteCount": "0",
+        "commentCount": "74"
+    }
+}
