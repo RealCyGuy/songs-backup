@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4wNDBBOUVFMjUwQkFEOTc5",
+    "snippet": {
+        "publishedAt": "2024-07-23T09:34:55Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Billie Eilish - What Was I Made For? (cover by Bongo Cat) \ud83c\udfa7",
+        "description": "Bongo Cat cover What Was I Made For? (Billie Eilish) with Meow style\nOriginal Song: https://youtu.be/cW8VLC9nnTo\n\nMeower: Kirine\nIG: @kirine.me\nYT: @negakirine \nMusic Producer: VBK | IG: https://www.instagram.com/thephuongvbk0510/\nMusic Arranger: DuyNH | FB: https://www.facebook.com/duyduynguyen111\nMix Master DHTM: https://www.facebook.com/profile.php?id=100014960254565\n\nMerch \u25b6 http://bit.ly/BongoCat-Merch\nSubscribe Bongo Cat \u25b6 http://bit.ly/BongoCat_Subscribe\nFacebook \u25b6 https://www.facebook.com/BongoStudioVN\nInstagram \u25b6 https://www.instagram.com/bongocat.studio/ \n\nCopyright/Claims/Issues: bongocat.studio@gmail.com\n\nHashtag: #bongocat #BillieEilish #whatwasimadefor",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3-y0p0GL4TI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3-y0p0GL4TI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3-y0p0GL4TI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/3-y0p0GL4TI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/3-y0p0GL4TI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3-y0p0GL4TI"
+        },
+        "videoOwnerChannelTitle": "Bongo Cat",
+        "videoOwnerChannelId": "UCrMH132hWAcvZu1nL1k7-vA"
+    },
+    "contentDetails": {
+        "videoId": "3-y0p0GL4TI",
+        "videoPublishedAt": "2023-12-02T14:00:02Z",
+        "duration": "PT1M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "430799",
+        "likeCount": "12214",
+        "favoriteCount": "0",
+        "commentCount": "616"
+    }
+}
