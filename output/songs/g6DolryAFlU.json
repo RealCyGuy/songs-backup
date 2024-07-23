@@ -39,9 +39,22 @@
     },
     "contentDetails": {
         "videoId": "g6DolryAFlU",
-        "videoPublishedAt": "2017-12-08T08:37:56Z"
+        "videoPublishedAt": "2017-12-08T08:37:56Z",
+        "duration": "PT1M7S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "3408",
+        "likeCount": "59",
+        "favoriteCount": "0",
+        "commentCount": "13"
     }
 }

@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "33eAfB4fOrY",
-        "videoPublishedAt": "2021-10-10T11:00:01Z"
+        "videoPublishedAt": "2021-10-10T11:00:01Z",
+        "duration": "PT3M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "957840",
+        "likeCount": "27270",
+        "favoriteCount": "0",
+        "commentCount": "810"
     }
 }
