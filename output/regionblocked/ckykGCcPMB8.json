@@ -49,9 +49,9 @@
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "regionRestriction": {
-            "allowed": [
+            "blocked": [
                 "AD",
                 "AE",
                 "AF",
@@ -99,6 +99,7 @@
                 "CK",
                 "CL",
                 "CM",
+                "CN",
                 "CO",
                 "CR",
                 "CU",
@@ -309,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3433168",
-        "likeCount": "75623",
+        "viewCount": "3436237",
+        "likeCount": "75652",
         "favoriteCount": "0",
         "commentCount": "465"
     }
