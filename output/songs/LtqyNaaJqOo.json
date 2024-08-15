@@ -47,7 +47,7 @@
         "videoPublishedAt": "2020-01-20T02:00:00Z",
         "duration": "PT2M27S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": true,
         "contentRating": {},
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "17219",
+        "viewCount": "17220",
         "likeCount": "144",
         "favoriteCount": "0",
         "commentCount": "4"
