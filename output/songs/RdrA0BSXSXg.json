@@ -47,7 +47,7 @@
         "videoPublishedAt": "2019-12-09T01:20:37Z",
         "duration": "PT2M14S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "341392",
+        "viewCount": "341405",
         "likeCount": "10205",
         "favoriteCount": "0",
         "commentCount": "266"
