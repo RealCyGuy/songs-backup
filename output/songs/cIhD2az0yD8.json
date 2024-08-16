@@ -47,7 +47,7 @@
         "videoPublishedAt": "2021-02-09T00:28:29Z",
         "duration": "PT1M1S",
         "dimension": "2d",
-        "definition": "hd",
+        "definition": "sd",
         "caption": "false",
         "licensedContent": true,
         "contentRating": {},
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "349955",
+        "viewCount": "349957",
         "likeCount": "22968",
         "favoriteCount": "0",
         "commentCount": "885"
