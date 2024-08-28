@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "GTnhp60kihg"
         },
-        "videoOwnerChannelTitle": "SORN (CLC) - Topic",
+        "videoOwnerChannelTitle": "SORN - Topic",
         "videoOwnerChannelId": "UCmswZAw1Lgbk1p1J9fu-u4Q"
     },
     "contentDetails": {
@@ -182,8 +182,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "868231",
-        "likeCount": "27631",
+        "viewCount": "868258",
+        "likeCount": "27633",
         "favoriteCount": "0",
         "commentCount": "27"
     }
