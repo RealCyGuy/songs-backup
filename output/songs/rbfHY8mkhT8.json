@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "rbfHY8mkhT8"
         },
-        "videoOwnerChannelTitle": "Crunchyroll Dubs",
-        "videoOwnerChannelId": "UCVi2lI40LetxLBKn-rtWC3A"
+        "videoOwnerChannelTitle": "Crunchyroll",
+        "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
     },
     "contentDetails": {
         "videoId": "rbfHY8mkhT8",
@@ -62,8 +62,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "11314947",
-        "likeCount": "194888",
+        "viewCount": "11315092",
+        "likeCount": "194890",
         "favoriteCount": "0",
         "commentCount": "30238"
     }
