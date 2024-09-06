@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "KMTo2LmixqQ"
         },
-        "videoOwnerChannelTitle": "cinnamon' room",
+        "videoOwnerChannelTitle": "cinnamons",
         "videoOwnerChannelId": "UCs3WiGO6L9StZX79KJImqXA"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "31986728",
-        "likeCount": "617331",
+        "viewCount": "31987188",
+        "likeCount": "617337",
         "favoriteCount": "0",
         "commentCount": "11810"
     }
