@@ -21,11 +21,6 @@
                 "url": "https://i.ytimg.com/vi/Stq2O803lTQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
-            },
-            "standard": {
-                "url": "https://i.ytimg.com/vi/Stq2O803lTQ/sddefault.jpg",
-                "width": 640,
-                "height": 480
             }
         },
         "channelTitle": "Cyrus Yip",
@@ -52,7 +47,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1476475",
+        "viewCount": "1476477",
         "likeCount": "64643",
         "favoriteCount": "0",
         "commentCount": "2685"
