@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "MSuL7y9W2-s"
         },
-        "videoOwnerChannelTitle": "Shaun Gibson Music",
+        "videoOwnerChannelTitle": "Shaun Gibson",
         "videoOwnerChannelId": "UCZ-XDnaPBk8z7X13NNhLoWw"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1183507",
-        "likeCount": "28723",
+        "viewCount": "1183535",
+        "likeCount": "28724",
         "favoriteCount": "0",
-        "commentCount": "2636"
+        "commentCount": "2637"
     }
 }
