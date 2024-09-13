@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "j9kdCnOG06k"
         },
-        "videoOwnerChannelTitle": "LIMELIGHT - Topic",
+        "videoOwnerChannelTitle": "MADEIN - Topic",
         "videoOwnerChannelId": "UCd2whDOR5tXGr9a6IpsE-fA"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1288195",
-        "likeCount": "7738",
+        "viewCount": "1288405",
+        "likeCount": "7737",
         "favoriteCount": "0",
         "commentCount": "36"
     }
