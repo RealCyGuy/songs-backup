@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3290007",
-        "likeCount": "43321",
+        "viewCount": "3290000",
+        "likeCount": "0",
         "favoriteCount": "0",
-        "commentCount": "165"
+        "commentCount": "0"
     }
 }
