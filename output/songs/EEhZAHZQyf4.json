@@ -52,9 +52,16 @@
         "licensedContent": true,
         "regionRestriction": {
             "blocked": [
+                "AS",
+                "GU",
                 "IO",
                 "KP",
-                "SS"
+                "MP",
+                "PR",
+                "SS",
+                "UM",
+                "US",
+                "VI"
             ]
         },
         "contentRating": {},
@@ -64,9 +71,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "296762729",
-        "likeCount": "2494106",
+        "viewCount": "296772798",
+        "likeCount": "2494122",
         "favoriteCount": "0",
-        "commentCount": "49682"
+        "commentCount": "49685"
     }
 }
