@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "CtkWvfuYkPk"
         },
-        "videoOwnerChannelTitle": "bbno$ - Topic",
-        "videoOwnerChannelId": "UCOJHX-s9AvQpX4cpjP62njw"
+        "videoOwnerChannelTitle": "\u200bbbno$ - Topic",
+        "videoOwnerChannelId": "UCqmI6Kl2lS99N9-e2hkuE9A"
     },
     "contentDetails": {
         "videoId": "CtkWvfuYkPk",
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1630588",
-        "likeCount": "27159",
+        "viewCount": "1631557",
+        "likeCount": "27179",
         "favoriteCount": "0",
         "commentCount": "0"
     }
