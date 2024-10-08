@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xRTJFM0FBNzEwOEMxMkFG",
+    "snippet": {
+        "publishedAt": "2024-10-08T05:11:30Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "[COVER] HUH YUNJIN - From the Start (\uc6d0\uace1 : Laufey)",
+        "description": "\ud83c\udfa7 https://soundcloud.com/le_sserafim_official/huhyunjin_fromthestart/s-nhEueot11zC?si=8db274e365f0476682c4f3a7b0ecdd92&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing\n\n#LE_SSERAFIM #\ub974\uc138\ub77c\ud54c \uacf5\uc2dd \ucc44\ub110\n#LE_SSERAFIM #\ub974\uc138\ub77c\ud54c OFFICIAL CHANNEL\n\nConnect with LE SSERAFIM:\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL X (TWITTER) https://x.com/le_sserafim\nOFFICIAL JAPAN X (TWITTER) https://x.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002\nOFFICIAL DOUYIN https://v.douyin.com/iJgLJpUp/\nOFFICIAL SOUNDCLOUD https://soundcloud.com/le_sserafim_official",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NePUdArXj8U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NePUdArXj8U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NePUdArXj8U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/NePUdArXj8U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/NePUdArXj8U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NePUdArXj8U"
+        },
+        "videoOwnerChannelTitle": "LE SSERAFIM",
+        "videoOwnerChannelId": "UCs-QBT4qkj_YiQw1ZntDO3g"
+    },
+    "contentDetails": {
+        "videoId": "NePUdArXj8U",
+        "videoPublishedAt": "2024-10-08T03:00:02Z",
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "37629",
+        "likeCount": "14353",
+        "favoriteCount": "0",
+        "commentCount": "1456"
+    }
+}
