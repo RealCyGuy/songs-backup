@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Y2E71oe0aSM"
         },
-        "videoOwnerChannelTitle": "Dan And Shay",
+        "videoOwnerChannelTitle": "Dan + Shay",
         "videoOwnerChannelId": "UCx8v-goujcpBVF7QKALgp3g"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "296233835",
-        "likeCount": "3288560",
+        "viewCount": "296236436",
+        "likeCount": "3288565",
         "favoriteCount": "0",
         "commentCount": "72715"
     }
