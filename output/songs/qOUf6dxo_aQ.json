@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS41NUFEOTQ1MjlCREI2OUM3",
+    "snippet": {
+        "publishedAt": "2024-10-17T05:15:03Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Thick Of It - Otamatone Version",
+        "description": "I mean...I didn't make it worse...\n\nThank you to my Patreon supporters: \nBobbynarde\nBrian Reed\nCharlie Mendo\nChristina Perez\ndssrtfx\nJacobWSX\nAlexander Velazquez\nBryan Baird\nDavid H\nDavid Kolde\nDwarg91\nDylan Ramsey\nElvira Cordova\nholzwurm3\nJohn Taylor\nRobert v 2001\nSemok Bohaska",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qOUf6dxo_aQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qOUf6dxo_aQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qOUf6dxo_aQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/qOUf6dxo_aQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/qOUf6dxo_aQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qOUf6dxo_aQ"
+        },
+        "videoOwnerChannelTitle": "TheRealSullyG",
+        "videoOwnerChannelId": "UCk-PPUZtKgj-GuyVaXSrhVQ"
+    },
+    "contentDetails": {
+        "videoId": "qOUf6dxo_aQ",
+        "videoPublishedAt": "2024-10-16T18:18:49Z",
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "40326",
+        "likeCount": "4603",
+        "favoriteCount": "0",
+        "commentCount": "352"
+    }
+}
