@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FMjAwNDFFNDgyQUQxMDIy",
+    "snippet": {
+        "publishedAt": "2024-10-20T00:37:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Feel My Rhythm",
+        "description": "red velvet\nfeel my rhythm audio",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/77jO8zNngZY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/77jO8zNngZY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/77jO8zNngZY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/77jO8zNngZY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/77jO8zNngZY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "77jO8zNngZY"
+        },
+        "videoOwnerChannelTitle": "RED VELVET - Topic",
+        "videoOwnerChannelId": "UCi6hZ4fjrKotCYEqVJ8IzpQ"
+    },
+    "contentDetails": {
+        "videoId": "77jO8zNngZY",
+        "videoPublishedAt": "2022-03-21T10:09:03Z",
+        "duration": "PT3M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "69975",
+        "likeCount": "992",
+        "favoriteCount": "0",
+        "commentCount": "8"
+    }
+}
