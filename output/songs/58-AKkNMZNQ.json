@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "58-AKkNMZNQ"
         },
-        "videoOwnerChannelTitle": "Bruno Mars - Topic",
-        "videoOwnerChannelId": "UCZn4r7heNOPY-C43YIywnVA"
+        "videoOwnerChannelTitle": "ROS\u00c9 - Topic",
+        "videoOwnerChannelId": "UCbpXC82cTLngSiZrysAaE-w"
     },
     "contentDetails": {
         "videoId": "58-AKkNMZNQ",
@@ -181,9 +181,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "50551237",
-        "likeCount": "789508",
+        "viewCount": "50598404",
+        "likeCount": "790173",
         "favoriteCount": "0",
-        "commentCount": "5536"
+        "commentCount": "5547"
     }
 }
