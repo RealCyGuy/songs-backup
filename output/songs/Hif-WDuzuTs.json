@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Hif-WDuzuTs"
         },
-        "videoOwnerChannelTitle": "Naoki",
+        "videoOwnerChannelTitle": "Reksieh",
         "videoOwnerChannelId": "UCP3k9NwsECUdvgcgbQoW7LQ"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "829919",
-        "likeCount": "20785",
+        "viewCount": "829946",
+        "likeCount": "20786",
         "favoriteCount": "0",
         "commentCount": "769"
     }
