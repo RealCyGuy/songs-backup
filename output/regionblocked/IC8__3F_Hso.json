@@ -307,11 +307,11 @@
         "projection": "rectangular"
     },
     "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
     },
     "statistics": {
-        "viewCount": "448541",
-        "likeCount": "14049",
+        "viewCount": "451003",
+        "likeCount": "14059",
         "favoriteCount": "0",
         "commentCount": "0"
     }
