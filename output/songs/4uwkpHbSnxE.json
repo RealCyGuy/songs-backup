@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS45QTRGNzE4RUEyMjAxOERB",
+    "snippet": {
+        "publishedAt": "2024-11-26T05:08:38Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Arcane Season 2 | Eason Chan - \u300cIsha\u2019s Song\u300d Cover by\u771f\u6817Makuri | \u96d9\u57ce\u4e4b\u62302 \u9019\u6a23\u5f88\u597d\u7ffb\u5531",
+        "description": "#arcane #isha #\u9673\u5955\u8fc5 #leagueoflegends #cover #anime \nHope you enjoy my videos! :)\n\nInstagram\uff1amakuri0731\nBilibili\uff1ahttps://b23.tv/n0BN7RB",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4uwkpHbSnxE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4uwkpHbSnxE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4uwkpHbSnxE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/4uwkpHbSnxE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/4uwkpHbSnxE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "4uwkpHbSnxE"
+        },
+        "videoOwnerChannelTitle": "\u771f\u6817",
+        "videoOwnerChannelId": "UCIOWYFFvCqTm_vvfJMj3u7A"
+    },
+    "contentDetails": {
+        "videoId": "4uwkpHbSnxE",
+        "videoPublishedAt": "2024-11-17T14:28:08Z",
+        "duration": "PT4M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "BY",
+                "RU"
+            ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "30001",
+        "likeCount": "1760",
+        "favoriteCount": "0",
+        "commentCount": "82"
+    }
+}
