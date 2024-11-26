@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "4I_u8Sf1GkU"
         },
-        "videoOwnerChannelTitle": "All About Music \u611b\u7206\u97f3\u6a02",
+        "videoOwnerChannelTitle": "All About Music",
         "videoOwnerChannelId": "UC0qYQUxPf96OljQn8-ymXxw"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "306969",
+        "viewCount": "306978",
         "likeCount": "3284",
         "favoriteCount": "0",
         "commentCount": "254"
