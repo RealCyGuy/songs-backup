@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "--99FF6xFNs"
         },
-        "videoOwnerChannelTitle": "ClariS \u30aa\u30d5\u30a3\u30b7\u30e3\u30eb YouTube \u30c1\u30e3\u30f3\u30cd\u30eb",
+        "videoOwnerChannelTitle": "ClariS Official YouTube Channel",
         "videoOwnerChannelId": "UC-zeaPnxZHE3EcTyVl1fTdw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1324881",
-        "likeCount": "15939",
+        "viewCount": "1324968",
+        "likeCount": "15940",
         "favoriteCount": "0",
         "commentCount": "301"
     }
