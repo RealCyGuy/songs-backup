@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS40OTJCRDA3QkNBRTQwQzU5",
+    "snippet": {
+        "publishedAt": "2024-12-16T00:04:51Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Honkai: Star Rail -Robin\u300cSway to My beat in Cosmos\u300dCover|\u5d29\u58de\uff1a\u661f\u7a79\u9435\u9053\u77e5\u66f4\u9e1f\u300c\u5728\u94f6\u6cb3\u4e2d\u5b64\u72ec\u6447\u6446\u300d\u7ffb\u5531",
+        "description": "#honkaistarrail #\u5d29\u58ca\u30b9\u30bf\u30fc\u30ec\u30a4\u30eb #robin #\u5d29\u58de\u661f\u7a79\u9435\u9053 #\u5d29\u574f\u661f\u7a79\u94c1\u9053 #\u77e5\u66f4\u9e1f\nHope you enjoy my videos! :)\n\nInstagram\uff1amakuri0731\nBilibili\uff1ahttps://b23.tv/n0BN7RB",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RQVVba-omVU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RQVVba-omVU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RQVVba-omVU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/RQVVba-omVU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/RQVVba-omVU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "RQVVba-omVU"
+        },
+        "videoOwnerChannelTitle": "\u771f\u6817",
+        "videoOwnerChannelId": "UCIOWYFFvCqTm_vvfJMj3u7A"
+    },
+    "contentDetails": {
+        "videoId": "RQVVba-omVU",
+        "videoPublishedAt": "2024-05-10T06:02:44Z",
+        "duration": "PT1M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "330707",
+        "likeCount": "13397",
+        "favoriteCount": "0",
+        "commentCount": "189"
+    }
+}
