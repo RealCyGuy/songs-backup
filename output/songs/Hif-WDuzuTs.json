@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Hif-WDuzuTs"
         },
-        "videoOwnerChannelTitle": "Reksieh",
+        "videoOwnerChannelTitle": "Rekis",
         "videoOwnerChannelId": "UCP3k9NwsECUdvgcgbQoW7LQ"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "833534",
+        "viewCount": "833535",
         "likeCount": "20844",
         "favoriteCount": "0",
         "commentCount": "775"
