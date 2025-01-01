@@ -54,10 +54,10 @@
         "projection": "rectangular"
     },
     "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
     },
     "statistics": {
-        "viewCount": "104703",
+        "viewCount": "104705",
         "likeCount": "2521",
         "favoriteCount": "0",
         "commentCount": "353"
