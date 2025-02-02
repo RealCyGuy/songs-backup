@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "T_lC2O1oIew"
         },
-        "videoOwnerChannelTitle": "\u7af9\u5185\u307e\u308a\u3084",
+        "videoOwnerChannelTitle": "\u7af9\u5185\u307e\u308a\u3084 - Mariya Takeuchi Official YouTube Channel",
         "videoOwnerChannelId": "UCFCHKsT1ZY2aLUAbWW1lJGA"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "51997790",
-        "likeCount": "752558",
+        "viewCount": "52000874",
+        "likeCount": "752574",
         "favoriteCount": "0",
-        "commentCount": "14010"
+        "commentCount": "14011"
     }
 }
