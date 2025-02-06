@@ -5,7 +5,7 @@
         "publishedAt": "2022-10-10T23:29:17Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Virginia To Vegas - Just Friends (Audio)",
-        "description": "Music video by Virginia To Vegas performing Just Friends (Audio). \u00a9 2019 Wax Records\n\nhttp://vevo.ly/07IOjf",
+        "description": "Music video by Virginia To Vegas performing Just Friends (Audio).\u00a9 2019 Wax Records",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/EVcx9n1YQNw/default.jpg",
@@ -307,7 +307,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "365850",
+        "viewCount": "365864",
         "likeCount": "4291",
         "favoriteCount": "0",
         "commentCount": "145"
