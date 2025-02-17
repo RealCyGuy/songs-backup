@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS43MEMwM0U4NTQ2RTgxMjIy",
+    "snippet": {
+        "publishedAt": "2025-02-17T03:17:26Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Balatro - Otamatone Cover",
+        "description": "Everyone's favorite game, now with 100% more Otamatone!\n\nThank you to my Patreon supporters:\nBobbynarde\nBrian Reed\nChristina Perez\ndssrtfx\nJacobWSX\nRheanna Resultay\nAlexander Velazquez\nDavid H\nDavid Kolde\nDwarg91\nDylan Ramsey\nElvira Cordova\nholzwurm3\nJohn Taylor\nRobert v 2001\nSemok Bohaska",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/V6vx5d4UdvA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/V6vx5d4UdvA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/V6vx5d4UdvA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/V6vx5d4UdvA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/V6vx5d4UdvA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "V6vx5d4UdvA"
+        },
+        "videoOwnerChannelTitle": "TheRealSullyG",
+        "videoOwnerChannelId": "UCk-PPUZtKgj-GuyVaXSrhVQ"
+    },
+    "contentDetails": {
+        "videoId": "V6vx5d4UdvA",
+        "videoPublishedAt": "2025-02-13T16:09:30Z",
+        "duration": "PT4M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "39647",
+        "likeCount": "4651",
+        "favoriteCount": "0",
+        "commentCount": "314"
+    }
+}
