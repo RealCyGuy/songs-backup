@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "E1j7KG-uy1s"
         },
-        "videoOwnerChannelTitle": "tim, the little music fox",
+        "videoOwnerChannelTitle": "tim, the pupberry",
         "videoOwnerChannelId": "UCeygKARTqGlpojywsvGwzrw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "636912",
-        "likeCount": "11749",
+        "viewCount": "636923",
+        "likeCount": "11750",
         "favoriteCount": "0",
         "commentCount": "337"
     }
