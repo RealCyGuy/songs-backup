@@ -5,7 +5,7 @@
         "publishedAt": "2022-09-13T04:49:47Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Post Malone - I Like You (A Happier Song) ((Even More)) ft. Doja Cat",
-        "description": "Music video by Post Malone performing I Like You (A Happier Song) ((Even More)). \u00a9 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/Tu5OHr",
+        "description": "Music video by Post Malone performing I Like You (A Happier Song) ((Even More)).\u00a9 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/qFYAPkTtv38/default.jpg",
@@ -305,8 +305,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "40847847",
-        "likeCount": "308638",
+        "viewCount": "40848363",
+        "likeCount": "308642",
         "favoriteCount": "0",
         "commentCount": "3535"
     }
