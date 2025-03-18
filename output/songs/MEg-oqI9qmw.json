@@ -50,6 +50,12 @@
         "definition": "hd",
         "caption": "false",
         "licensedContent": false,
+        "regionRestriction": {
+            "blocked": [
+                "AU",
+                "NZ"
+            ]
+        },
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,8 +63,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "415818075",
-        "likeCount": "6551240",
+        "viewCount": "415823615",
+        "likeCount": "6551275",
         "favoriteCount": "0",
         "commentCount": "146738"
     }
