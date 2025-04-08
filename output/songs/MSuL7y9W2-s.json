@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "MSuL7y9W2-s"
         },
-        "videoOwnerChannelTitle": "Shaun Gibson",
+        "videoOwnerChannelTitle": "\u8096\u6069 Shaun Gibson",
         "videoOwnerChannelId": "UCZ-XDnaPBk8z7X13NNhLoWw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1220653",
-        "likeCount": "29079",
+        "viewCount": "1220705",
+        "likeCount": "29080",
         "favoriteCount": "0",
         "commentCount": "2643"
     }
