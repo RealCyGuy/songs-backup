@@ -1,0 +1,23 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS5FN0MwOEIwNDJFMDI5RDhB",
+    "snippet": {
+        "publishedAt": "2021-06-16T04:24:15Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "LD7zeEXxFMo"
+        }
+    },
+    "contentDetails": {
+        "videoId": "LD7zeEXxFMo"
+    },
+    "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+    }
+}
