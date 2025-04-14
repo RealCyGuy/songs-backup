@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Hif-WDuzuTs"
         },
-        "videoOwnerChannelTitle": "Rekis",
+        "videoOwnerChannelTitle": "NaokiRekis",
         "videoOwnerChannelId": "UCP3k9NwsECUdvgcgbQoW7LQ"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "849269",
+        "viewCount": "849303",
         "likeCount": "21049",
         "favoriteCount": "0",
         "commentCount": "779"
