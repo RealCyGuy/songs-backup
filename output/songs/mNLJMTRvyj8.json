@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "mNLJMTRvyj8"
         },
-        "videoOwnerChannelTitle": "Audio Library \u2014 Music for content creators",
+        "videoOwnerChannelTitle": "Audio Library \u2014 No Copyright Background Music",
         "videoOwnerChannelId": "UCht8qITGkBvXKsR1Byln-wA"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6767707",
-        "likeCount": "135198",
+        "viewCount": "6767834",
+        "likeCount": "135200",
         "favoriteCount": "0",
-        "commentCount": "7778"
+        "commentCount": "7779"
     }
 }
