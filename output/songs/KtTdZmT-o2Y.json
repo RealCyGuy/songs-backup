@@ -63,7 +63,6 @@
                 "AR",
                 "AS",
                 "AT",
-                "AU",
                 "AW",
                 "AX",
                 "AZ",
@@ -139,7 +138,6 @@
                 "GR",
                 "GS",
                 "GT",
-                "GU",
                 "GW",
                 "GY",
                 "HK",
@@ -192,7 +190,6 @@
                 "MM",
                 "MN",
                 "MO",
-                "MP",
                 "MQ",
                 "MR",
                 "MS",
@@ -287,8 +284,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1006949",
-        "likeCount": "3794",
+        "viewCount": "1007007",
+        "likeCount": "3795",
         "favoriteCount": "0",
         "commentCount": "27"
     }
