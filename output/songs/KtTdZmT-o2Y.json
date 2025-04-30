@@ -265,11 +265,9 @@
                 "TG",
                 "TH",
                 "TJ",
-                "TK",
                 "TL",
                 "TM",
                 "TN",
-                "TO",
                 "TR",
                 "TT",
                 "TV",
@@ -288,7 +286,6 @@
                 "VN",
                 "VU",
                 "WF",
-                "WS",
                 "YE",
                 "YT",
                 "ZA",
@@ -303,8 +300,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1006710",
-        "likeCount": "3792",
+        "viewCount": "1006814",
+        "likeCount": "3794",
         "favoriteCount": "0",
         "commentCount": "27"
     }
