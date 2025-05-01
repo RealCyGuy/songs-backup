@@ -53,9 +53,7 @@
         "regionRestriction": {
             "allowed": [
                 "AS",
-                "CK",
-                "NU",
-                "UM"
+                "NU"
             ]
         },
         "contentRating": {},
