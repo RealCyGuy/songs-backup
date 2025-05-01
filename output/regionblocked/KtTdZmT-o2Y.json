@@ -56,7 +56,6 @@
                 "CK",
                 "NU",
                 "PF",
-                "PN",
                 "UM"
             ]
         },
@@ -67,7 +66,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1007223",
+        "viewCount": "1007224",
         "likeCount": "3796",
         "favoriteCount": "0",
         "commentCount": "27"
