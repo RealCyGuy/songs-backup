@@ -53,16 +53,10 @@
         "regionRestriction": {
             "allowed": [
                 "AS",
-                "BZ",
                 "CK",
-                "CR",
-                "GT",
-                "HN",
-                "NI",
                 "NU",
                 "PF",
                 "PN",
-                "SV",
                 "UM"
             ]
         },
