@@ -54,6 +54,7 @@
             "allowed": [
                 "AE",
                 "AR",
+                "AS",
                 "AT",
                 "AU",
                 "AW",
@@ -91,6 +92,7 @@
                 "GP",
                 "GR",
                 "GT",
+                "GU",
                 "HK",
                 "HN",
                 "HR",
@@ -121,6 +123,7 @@
                 "LY",
                 "MA",
                 "MK",
+                "MP",
                 "MQ",
                 "MT",
                 "MX",
@@ -140,6 +143,7 @@
                 "PH",
                 "PK",
                 "PL",
+                "PR",
                 "PT",
                 "PY",
                 "QA",
@@ -165,6 +169,7 @@
                 "US",
                 "UY",
                 "VE",
+                "VI",
                 "VN",
                 "YE",
                 "YT",
@@ -179,7 +184,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "16413401",
+        "viewCount": "16413738",
         "likeCount": "156451",
         "favoriteCount": "0",
         "commentCount": "6575"
