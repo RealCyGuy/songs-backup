@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "vBJVWOOsB4A"
         },
-        "videoOwnerChannelTitle": "(G)I-DLE - Topic",
+        "videoOwnerChannelTitle": "i-dle - Topic",
         "videoOwnerChannelId": "UCWT2ZfW7d8YI-HinHEVhyCA"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "120001635",
-        "likeCount": "352518",
+        "viewCount": "120005073",
+        "likeCount": "352523",
         "favoriteCount": "0",
         "commentCount": "2821"
     }
