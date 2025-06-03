@@ -38,7 +38,7 @@
         "duration": "PT3M43S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "false",
+        "caption": "true",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
@@ -47,8 +47,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "14635396",
-        "likeCount": "385752",
+        "viewCount": "14635662",
+        "likeCount": "385753",
         "favoriteCount": "0",
         "commentCount": "20249"
     }
