@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Xb6c31sDMsQ"
         },
-        "videoOwnerChannelTitle": "tuvington",
+        "videoOwnerChannelTitle": "bertie",
         "videoOwnerChannelId": "UCrYWP4FOeCIwW3FI1PM2xSw"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "73025",
+        "viewCount": "73024",
         "likeCount": "2540",
         "favoriteCount": "0",
         "commentCount": "230"
