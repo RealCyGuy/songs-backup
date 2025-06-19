@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "vu1K6f8CBiE"
         },
-        "videoOwnerChannelTitle": "My Channel",
+        "videoOwnerChannelTitle": "EHPMusicChannel",
         "videoOwnerChannelId": "UC345x_D7DgK5313D3ftM_EQ"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "14962557",
+        "viewCount": "14962588",
         "likeCount": "69782",
         "favoriteCount": "0"
     }
