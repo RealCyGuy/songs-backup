@@ -34,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "oKuhRPtwm9M"
         },
-        "videoOwnerChannelTitle": "XReachNocuos",
+        "videoOwnerChannelTitle": "XRN Records",
         "videoOwnerChannelId": "UCVQ1MzHrnvoL5MmoA3h5iyQ"
     },
     "contentDetails": {
@@ -49,10 +49,10 @@
         "projection": "rectangular"
     },
     "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
     },
     "statistics": {
-        "viewCount": "6268001",
+        "viewCount": "6268022",
         "likeCount": "202969",
         "favoriteCount": "0",
         "commentCount": "6003"
