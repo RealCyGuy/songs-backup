@@ -49,7 +49,7 @@
         "dimension": "2d",
         "definition": "hd",
         "caption": "true",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
     },
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "255636085",
-        "likeCount": "3176841",
+        "viewCount": "255637893",
+        "likeCount": "3176858",
         "favoriteCount": "0",
-        "commentCount": "171107"
+        "commentCount": "171106"
     }
 }
