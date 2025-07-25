@@ -50,14 +50,16 @@
         "definition": "hd",
         "caption": "false",
         "licensedContent": true,
-        "contentRating": {},
+        "contentRating": {
+            "ytRating": "ytAgeRestricted"
+        },
         "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2158202",
+        "viewCount": "2158220",
         "likeCount": "143537",
         "favoriteCount": "0",
         "commentCount": "5205"
