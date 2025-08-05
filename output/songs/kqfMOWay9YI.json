@@ -93,6 +93,7 @@
                 "GR",
                 "GT",
                 "GU",
+                "HK",
                 "HN",
                 "HR",
                 "HU",
@@ -161,6 +162,7 @@
                 "TH",
                 "TN",
                 "TR",
+                "TW",
                 "TZ",
                 "UA",
                 "UG",
@@ -182,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3305581",
-        "likeCount": "33937",
+        "viewCount": "3305744",
+        "likeCount": "33941",
         "favoriteCount": "0",
         "commentCount": "0"
     }
