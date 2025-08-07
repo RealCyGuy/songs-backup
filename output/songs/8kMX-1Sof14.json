@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "8kMX-1Sof14"
         },
-        "videoOwnerChannelTitle": "Release - Topic",
-        "videoOwnerChannelId": "UCdjwjgwAYQUn5QNRqlLblfg"
+        "videoOwnerChannelTitle": "HEARTSTEEL - Topic",
+        "videoOwnerChannelId": "UCKXSjvyy4qfc9WT3TPFB6Bw"
     },
     "contentDetails": {
         "videoId": "8kMX-1Sof14",
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "40518452",
-        "likeCount": "203162",
+        "viewCount": "40519582",
+        "likeCount": "203172",
         "favoriteCount": "0",
         "commentCount": "0"
     }
