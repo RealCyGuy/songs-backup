@@ -49,9 +49,9 @@
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "regionRestriction": {
-            "allowed": [
+            "blocked": [
                 "AD",
                 "AE",
                 "AF",
@@ -81,6 +81,7 @@
                 "BM",
                 "BN",
                 "BO",
+                "BQ",
                 "BR",
                 "BS",
                 "BT",
@@ -103,6 +104,7 @@
                 "CR",
                 "CU",
                 "CV",
+                "CW",
                 "CX",
                 "CY",
                 "CZ",
@@ -257,8 +259,10 @@
                 "SN",
                 "SO",
                 "SR",
+                "SS",
                 "ST",
                 "SV",
+                "SX",
                 "SY",
                 "SZ",
                 "TC",
@@ -306,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2408566",
-        "likeCount": "24505",
+        "viewCount": "2408903",
+        "likeCount": "24509",
         "favoriteCount": "0",
         "commentCount": "13"
     }
