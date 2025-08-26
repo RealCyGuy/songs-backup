@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "MXxXpm1qG7I"
         },
-        "videoOwnerChannelTitle": "TonyZan",
+        "videoOwnerChannelTitle": "TonyGaming",
         "videoOwnerChannelId": "UCEItMdFmIpjwDPSCGLn-vDg"
     },
     "contentDetails": {
@@ -311,7 +311,7 @@
     },
     "statistics": {
         "viewCount": "222621",
-        "likeCount": "6697",
+        "likeCount": "6696",
         "favoriteCount": "0",
         "commentCount": "241"
     }
