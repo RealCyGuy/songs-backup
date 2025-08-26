@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "nKWua_NvtFs"
         },
-        "videoOwnerChannelTitle": "VCHA - Topic",
+        "videoOwnerChannelTitle": "GIRLSET - Topic",
         "videoOwnerChannelId": "UCHJn6i4MXz7DwAZp26CAo-w"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3097368",
-        "likeCount": "31937",
+        "viewCount": "3097498",
+        "likeCount": "31938",
         "favoriteCount": "0",
         "commentCount": "404"
     }
