@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "x1T6QFpd0J4"
         },
-        "videoOwnerChannelTitle": "Audio Library \u2014 No Copyright Music",
+        "videoOwnerChannelTitle": "Audio Library",
         "videoOwnerChannelId": "UCht8qITGkBvXKsR1Byln-wA"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6310308",
+        "viewCount": "6310386",
         "likeCount": "65517",
         "favoriteCount": "0",
         "commentCount": "3524"
