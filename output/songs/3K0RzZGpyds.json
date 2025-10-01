@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "3K0RzZGpyds"
         },
-        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
-        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+        "videoOwnerChannelTitle": "Taylor Swift",
+        "videoOwnerChannelId": "UCqECaJ8Gagnn7YCbPEzWH6g"
     },
     "contentDetails": {
         "videoId": "3K0RzZGpyds",
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "153773435",
+        "viewCount": "153773959",
         "likeCount": "2204787",
         "favoriteCount": "0",
-        "commentCount": "197446"
+        "commentCount": "197447"
     }
 }
