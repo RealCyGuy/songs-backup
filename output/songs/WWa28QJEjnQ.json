@@ -177,17 +177,15 @@
                 "ZW"
             ]
         },
-        "contentRating": {
-            "ytRating": "ytAgeRestricted"
-        },
+        "contentRating": {},
         "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "37122872",
-        "likeCount": "509717",
+        "viewCount": "37124053",
+        "likeCount": "509739",
         "favoriteCount": "0",
         "commentCount": "1698"
     }
