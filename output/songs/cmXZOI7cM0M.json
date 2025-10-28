@@ -232,6 +232,7 @@
                 "PL",
                 "PM",
                 "PN",
+                "PR",
                 "PS",
                 "PT",
                 "PW",
@@ -307,9 +308,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "10374607",
+        "viewCount": "10374659",
         "likeCount": "200862",
         "favoriteCount": "0",
-        "commentCount": "10331"
+        "commentCount": "10329"
     }
 }
