@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "URR_Nv-6MZs"
         },
-        "videoOwnerChannelTitle": "Gen Hoshino - Topic",
+        "videoOwnerChannelTitle": "\u661f\u91ce\u6e90 Gen Hoshino - Topic",
         "videoOwnerChannelId": "UCUrcaHP1Qrlrxoxg9z1jlmg"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "32165497",
-        "likeCount": "301392",
+        "viewCount": "32165770",
+        "likeCount": "301394",
         "favoriteCount": "0",
         "commentCount": "283"
     }
