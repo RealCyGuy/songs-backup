@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5YbJ6ftft4k"
         },
-        "videoOwnerChannelTitle": "Lee Mujin - Topic",
+        "videoOwnerChannelTitle": "LEE MU JIN - Topic",
         "videoOwnerChannelId": "UC9oI67iPQVLVshSxQE-xsyg"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "24848580",
-        "likeCount": "38613",
+        "viewCount": "24856001",
+        "likeCount": "38620",
         "favoriteCount": "0",
         "commentCount": "284"
     }
