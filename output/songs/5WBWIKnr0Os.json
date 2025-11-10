@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5WBWIKnr0Os"
         },
-        "videoOwnerChannelTitle": "Jerobeam Fenderson",
+        "videoOwnerChannelTitle": "Jellybean Fenderson",
         "videoOwnerChannelId": "UCECl4aNz5hvuRzW5fgCOHKQ"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "712816",
+        "viewCount": "712849",
         "likeCount": "16625",
         "favoriteCount": "0",
         "commentCount": "896"
