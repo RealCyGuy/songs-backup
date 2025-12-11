@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "GAb7DeG_O3Q"
         },
-        "videoOwnerChannelTitle": "The Great Memer",
+        "videoOwnerChannelTitle": "TGM (Inactive)",
         "videoOwnerChannelId": "UCZJL9_EXvJbkw7t6tszdbvA"
     },
     "contentDetails": {
@@ -57,7 +57,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3044322",
+        "viewCount": "3044329",
         "likeCount": "41403",
         "favoriteCount": "0",
         "commentCount": "2090"
