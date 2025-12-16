@@ -21,6 +21,16 @@
                 "url": "https://i.ytimg.com/vi/Y2NkuFIlLEo/hqdefault.jpg",
                 "width": 480,
                 "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/Y2NkuFIlLEo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/Y2NkuFIlLEo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
             }
         },
         "channelTitle": "Cyrus Yip",
@@ -297,8 +307,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "219916306",
-        "likeCount": "1275241",
+        "viewCount": "219918599",
+        "likeCount": "1275243",
         "favoriteCount": "0",
         "commentCount": "24502"
     }
