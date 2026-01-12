@@ -49,9 +49,9 @@
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "regionRestriction": {
-            "allowed": [
+            "blocked": [
                 "AD",
                 "AE",
                 "AF",
@@ -102,6 +102,7 @@
                 "CN",
                 "CO",
                 "CR",
+                "CU",
                 "CV",
                 "CW",
                 "CX",
@@ -158,6 +159,7 @@
                 "IN",
                 "IO",
                 "IQ",
+                "IR",
                 "IS",
                 "IT",
                 "JE",
@@ -170,6 +172,7 @@
                 "KI",
                 "KM",
                 "KN",
+                "KP",
                 "KR",
                 "KW",
                 "KY",
@@ -244,6 +247,7 @@
                 "SA",
                 "SB",
                 "SC",
+                "SD",
                 "SE",
                 "SG",
                 "SH",
@@ -259,6 +263,7 @@
                 "ST",
                 "SV",
                 "SX",
+                "SY",
                 "SZ",
                 "TC",
                 "TD",
@@ -305,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "21906994",
-        "likeCount": "518341",
+        "viewCount": "21907442",
+        "likeCount": "518346",
         "favoriteCount": "0",
         "commentCount": "17635"
     }
