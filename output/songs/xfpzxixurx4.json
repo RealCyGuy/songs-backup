@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "xfpzxixurx4"
         },
-        "videoOwnerChannelTitle": "Sam Lin Music",
+        "videoOwnerChannelTitle": "Sam Lin",
         "videoOwnerChannelId": "UCo8MDVxK7vZywaz93EoVk3w"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "28534592",
-        "likeCount": "155583",
+        "viewCount": "28535138",
+        "likeCount": "155587",
         "favoriteCount": "0",
         "commentCount": "4500"
     }
