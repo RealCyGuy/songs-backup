@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Fve_lHIPa-I"
         },
-        "videoOwnerChannelTitle": "\u51db\u3068\u3057\u3066\u6642\u96e8 Official Channel",
+        "videoOwnerChannelTitle": "\u51db\u3068\u3057\u3066\u6642\u96e8 / TK",
         "videoOwnerChannelId": "UCWxFYv7xfPQVx5yzjpJX33w"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "81910349",
-        "likeCount": "1078399",
+        "viewCount": "81913207",
+        "likeCount": "1078416",
         "favoriteCount": "0",
         "commentCount": "25497"
     }
