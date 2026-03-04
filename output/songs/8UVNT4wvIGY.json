@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "8UVNT4wvIGY"
         },
-        "videoOwnerChannelTitle": "gotyemusic",
+        "videoOwnerChannelTitle": "Gotye",
         "videoOwnerChannelId": "UCFC9LamNMmLioW643VZ40OA"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2614186314",
-        "likeCount": "17873662",
+        "viewCount": "2614233536",
+        "likeCount": "17873714",
         "favoriteCount": "0",
-        "commentCount": "922046"
+        "commentCount": "922051"
     }
 }
