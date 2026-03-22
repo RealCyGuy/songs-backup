@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "7vHTV2gQDxk"
         },
-        "videoOwnerChannelTitle": "BMusic",
+        "videoOwnerChannelTitle": "BMus",
         "videoOwnerChannelId": "UCtMr1sB_kIFwrUTULJ3v_GA"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1879594",
-        "likeCount": "21560",
+        "viewCount": "1879637",
+        "likeCount": "21561",
         "favoriteCount": "0",
         "commentCount": "634"
     }
