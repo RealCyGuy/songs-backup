@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "HPrNFRWpGHw"
         },
-        "videoOwnerChannelTitle": "Pharrell Williams - Topic",
+        "videoOwnerChannelTitle": "Pharrell - Topic",
         "videoOwnerChannelId": "UCJw8VyO6e3v6S0327AsgwcQ"
     },
     "contentDetails": {
@@ -183,8 +183,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "56134088",
-        "likeCount": "752665",
+        "viewCount": "56136929",
+        "likeCount": "752691",
         "favoriteCount": "0",
         "commentCount": "0"
     }
