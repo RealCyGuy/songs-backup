@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "GTnhp60kihg"
         },
-        "videoOwnerChannelTitle": "SORN - Topic",
+        "videoOwnerChannelTitle": "Sorn - Topic",
         "videoOwnerChannelId": "UCmswZAw1Lgbk1p1J9fu-u4Q"
     },
     "contentDetails": {
@@ -182,7 +182,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1165748",
+        "viewCount": "1165857",
         "likeCount": "30161",
         "favoriteCount": "0",
         "commentCount": "61"

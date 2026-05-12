@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "f_S4SD8k-kE"
         },
-        "videoOwnerChannelTitle": "Jason Chen - Topic",
+        "videoOwnerChannelTitle": "JASON - Topic",
         "videoOwnerChannelId": "UCoLmFHomrdplbGMj22ixdkA"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "38923",
-        "likeCount": "233",
+        "viewCount": "38927",
+        "likeCount": "234",
         "favoriteCount": "0",
         "commentCount": "1"
     }
