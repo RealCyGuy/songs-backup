@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "k8OFhyalA1s"
         },
-        "videoOwnerChannelTitle": "Atlus Sound Team - Topic",
+        "videoOwnerChannelTitle": "ATLUS Sound Team - Topic",
         "videoOwnerChannelId": "UCvKJAJJ0-DxyrgIPPAOcLoQ"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "811787",
-        "likeCount": "5320",
+        "viewCount": "811891",
+        "likeCount": "5322",
         "favoriteCount": "0",
         "commentCount": "0"
     }
