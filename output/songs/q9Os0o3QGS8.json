@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "q9Os0o3QGS8"
         },
-        "videoOwnerChannelTitle": "sunwoojunga - Topic",
+        "videoOwnerChannelTitle": "Sunwoojunga - Topic",
         "videoOwnerChannelId": "UCP66nhY0Nk12HQOPTUlvrpA"
     },
     "contentDetails": {
@@ -308,8 +308,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6506503",
-        "likeCount": "42423",
+        "viewCount": "6507125",
+        "likeCount": "42425",
         "favoriteCount": "0",
         "commentCount": "244"
     }

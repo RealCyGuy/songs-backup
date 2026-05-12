@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "tN8lqg7SO9c"
         },
-        "videoOwnerChannelTitle": "WOOAH - Topic",
+        "videoOwnerChannelTitle": "woo!ah! - Topic",
         "videoOwnerChannelId": "UCZeh-lKmAbmnVLSpXhA8zvg"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2585546",
-        "likeCount": "73693",
+        "viewCount": "2585964",
+        "likeCount": "73691",
         "favoriteCount": "0",
         "commentCount": "107"
     }

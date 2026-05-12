@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "dLlD-dZNACM"
         },
-        "videoOwnerChannelTitle": "QUEEN BEE - Topic",
+        "videoOwnerChannelTitle": "Queen Bee - Topic",
         "videoOwnerChannelId": "UCcDtIC4qOmjrNUcBo4u1tvw"
     },
     "contentDetails": {
@@ -182,7 +182,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "23172272",
+        "viewCount": "23173263",
         "likeCount": "150283",
         "favoriteCount": "0",
         "commentCount": "966"

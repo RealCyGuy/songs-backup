@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "WwyDpKXG83A"
         },
-        "videoOwnerChannelTitle": "RADWIMPS - Topic",
+        "videoOwnerChannelTitle": "Radwimps - Topic",
         "videoOwnerChannelId": "UCT418-ChE6rgGuQlqzFsKZA"
     },
     "contentDetails": {
@@ -304,8 +304,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8444870",
-        "likeCount": "69960",
+        "viewCount": "8445308",
+        "likeCount": "69961",
         "favoriteCount": "0",
         "commentCount": "422"
     }
