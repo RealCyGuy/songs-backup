@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5_pdEtZS08A"
         },
-        "videoOwnerChannelTitle": "Sayuri - Topic",
+        "videoOwnerChannelTitle": "sayuri - Topic",
         "videoOwnerChannelId": "UCj-s48Irk1pcgnqvYIh4Xuw"
     },
     "contentDetails": {
@@ -183,8 +183,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1575623",
-        "likeCount": "23741",
+        "viewCount": "1575799",
+        "likeCount": "23744",
         "favoriteCount": "0",
         "commentCount": "822"
     }

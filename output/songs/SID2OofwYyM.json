@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "SID2OofwYyM"
         },
-        "videoOwnerChannelTitle": "Enako feat. Pmarusama - Topic",
+        "videoOwnerChannelTitle": "Enako - Topic",
         "videoOwnerChannelId": "UC0wDwW6Fuk6apQE9KdY8Dww"
     },
     "contentDetails": {
@@ -310,7 +310,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8474669",
+        "viewCount": "8475089",
         "likeCount": "52994",
         "favoriteCount": "0",
         "commentCount": "0"
