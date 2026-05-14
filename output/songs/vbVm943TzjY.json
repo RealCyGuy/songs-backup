@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "vbVm943TzjY"
         },
-        "videoOwnerChannelTitle": "Himawari Honma - Topic",
+        "videoOwnerChannelTitle": "Honma Himawari - Topic",
         "videoOwnerChannelId": "UCBMl1XSvrfKRw9UkKijp2_g"
     },
     "contentDetails": {
@@ -306,7 +306,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "346964",
+        "viewCount": "346966",
         "likeCount": "2661",
         "favoriteCount": "0",
         "commentCount": "41"
