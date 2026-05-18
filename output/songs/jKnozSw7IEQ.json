@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "jKnozSw7IEQ"
         },
-        "videoOwnerChannelTitle": "TripleS - Topic",
+        "videoOwnerChannelTitle": "tripleS - Topic",
         "videoOwnerChannelId": "UCn33sVkKks4vU4CbOXXmjQA"
     },
     "contentDetails": {
@@ -182,8 +182,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "489995",
-        "likeCount": "4212",
+        "viewCount": "490347",
+        "likeCount": "4213",
         "favoriteCount": "0",
         "commentCount": "85"
     }
