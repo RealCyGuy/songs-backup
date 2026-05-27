@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "3eytpBOkOFA"
         },
-        "videoOwnerChannelTitle": "Ayase / YOASOBI",
+        "videoOwnerChannelTitle": "YOASOBI",
         "videoOwnerChannelId": "UCvpredjG93ifbCP1Y77JyFA"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "178818456",
-        "likeCount": "761538",
+        "viewCount": "178829738",
+        "likeCount": "761573",
         "favoriteCount": "0",
-        "commentCount": "17483"
+        "commentCount": "17484"
     }
 }
