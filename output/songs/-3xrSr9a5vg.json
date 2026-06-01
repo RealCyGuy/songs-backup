@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "-3xrSr9a5vg"
         },
-        "videoOwnerChannelTitle": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f _",
+        "videoOwnerChannelTitle": "Vielectro",
         "videoOwnerChannelId": "UCEiU8Cyp6RpDrAqgj9xbPuw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2481441",
-        "likeCount": "21976",
+        "viewCount": "2481739",
+        "likeCount": "21977",
         "favoriteCount": "0",
         "commentCount": "501"
     }
