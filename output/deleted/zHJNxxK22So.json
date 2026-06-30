@@ -44,22 +44,9 @@
     },
     "contentDetails": {
         "videoId": "zHJNxxK22So",
-        "videoPublishedAt": "2020-03-22T15:20:27Z",
-        "duration": "PT1M48S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
+        "videoPublishedAt": "2020-03-22T15:20:27Z"
     },
     "status": {
         "privacyStatus": "unlisted"
-    },
-    "statistics": {
-        "viewCount": "26314",
-        "likeCount": "1438",
-        "favoriteCount": "0",
-        "commentCount": "170"
     }
 }
