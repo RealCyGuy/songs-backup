@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "ZcGDRjJEzak",
-        "videoPublishedAt": "2018-12-02T21:31:00Z"
+        "videoPublishedAt": "2018-12-02T21:31:00Z",
+        "duration": "PT4M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "9978893",
+        "likeCount": "117976",
+        "favoriteCount": "0",
+        "commentCount": "6157"
     }
 }

@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "m3zvVGJrTP8",
-        "videoPublishedAt": "2014-11-22T04:51:35Z"
+        "videoPublishedAt": "2014-11-22T04:51:35Z",
+        "duration": "PT4M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "56180565",
+        "likeCount": "422766",
+        "favoriteCount": "0",
+        "commentCount": "23255"
     }
 }

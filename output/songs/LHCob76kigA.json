@@ -44,9 +44,22 @@
     },
     "contentDetails": {
         "videoId": "LHCob76kigA",
-        "videoPublishedAt": "2015-12-15T15:01:55Z"
+        "videoPublishedAt": "2015-12-15T15:01:55Z",
+        "duration": "PT4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
     },
     "status": {
         "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "1786935879",
+        "likeCount": "12781344",
+        "favoriteCount": "0",
+        "commentCount": "417209"
     }
 }
