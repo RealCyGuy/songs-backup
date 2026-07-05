@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS44RDkyNTI4ODI0QzcwNjY4",
+    "snippet": {
+        "publishedAt": "2026-07-05T10:56:58Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "NIGHTCORE - huken x murkish - WASTED [Bass Boosted] [Juice Wrld x Lil Uzi Vert]",
+        "description": "it isn't \"Turkish & human\" \ud83e\udd23\n\nthe \"og\" version most people are used to hearing on tik tok\n\n\nGot a lot of comments saying they didn't like the re-mastered version so here ya go\n\nChair - NIGHTCORE - HVKEN X MURKISH - WASTED (JUICE WRLD) \"til my eyes roll back like the omen\" \n\nhuken: https://soundcloud.com/hvken\nmurkish: https://soundcloud.com/murkish\n\n\nInstrumental on youtube: https://youtu.be/k0O_xmhj760\n\nInstrumental on soundcloud: https://soundcloud.com/murkish/huken-x-murkish-wasted-nightcore\nOriginal remix on soundcloud: https://soundcloud.com/murkish/hukenxmurkish-wasted",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-UHnOA3Caww/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-UHnOA3Caww/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-UHnOA3Caww/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-UHnOA3Caww"
+        },
+        "videoOwnerChannelTitle": "murkish",
+        "videoOwnerChannelId": "UCTqMspYmlm0nuVs38-JwoIA"
+    },
+    "contentDetails": {
+        "videoId": "-UHnOA3Caww",
+        "videoPublishedAt": "2021-10-17T01:54:31Z",
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "21171270",
+        "likeCount": "249446",
+        "favoriteCount": "0",
+        "commentCount": "3731"
+    }
+}

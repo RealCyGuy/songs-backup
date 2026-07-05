@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItem",
+    "id": "UExSY3QxLTVJbi04RXdnNUtxLTBKUDh3aDNad2VPWEg5QS4xNUYwRDMzQzEwNkEyNzQ1",
+    "snippet": {
+        "publishedAt": "2026-07-05T10:43:35Z",
+        "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
+        "title": "Haitai Nanafa ED/Ending \u2013 Yuima-ru*World Full",
+        "description": "I couldn't find a full version of this song on YouTube other then the 360p one with weird quality and I wanted to listen to it on YouTube while I did stuff so here you go\n\n\n\n(Also if you were wondering (you weren't) I am osu! gamer)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UsMo3XD_jZ0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UsMo3XD_jZ0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UsMo3XD_jZ0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/UsMo3XD_jZ0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/UsMo3XD_jZ0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "Cyrus Yip",
+        "playlistId": "PLRct1-5In-8Ewg5Kq-0JP8wh3ZweOXH9A",
+        "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UsMo3XD_jZ0"
+        },
+        "videoOwnerChannelTitle": "MagicDP",
+        "videoOwnerChannelId": "UC8cWzEsIBKT_bbyamVzvOwg"
+    },
+    "contentDetails": {
+        "videoId": "UsMo3XD_jZ0",
+        "videoPublishedAt": "2020-12-31T15:46:39Z",
+        "duration": "PT2M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "status": {
+        "privacyStatus": "public"
+    },
+    "statistics": {
+        "viewCount": "34689",
+        "likeCount": "624",
+        "favoriteCount": "0",
+        "commentCount": "134"
+    }
+}
