@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "6GC8JF2FOgA"
         },
-        "videoOwnerChannelTitle": "Stone Music Entertainment",
+        "videoOwnerChannelTitle": "STONE MUSIC",
         "videoOwnerChannelId": "UC_pwIXKXNm5KGhdEVzmY60A"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "370412566",
-        "likeCount": "1624558",
+        "viewCount": "370435604",
+        "likeCount": "1624593",
         "favoriteCount": "0",
         "commentCount": "30355"
     }
