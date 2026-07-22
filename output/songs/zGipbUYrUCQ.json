@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "zGipbUYrUCQ"
         },
-        "videoOwnerChannelTitle": "Owl City - Topic",
-        "videoOwnerChannelId": "UCc7qv30nl6n6ZLP8TWDKjAw"
+        "videoOwnerChannelTitle": "Carly Rae Jepsen - Topic",
+        "videoOwnerChannelId": "UCexmZthnclJW1aM_o02t5qw"
     },
     "contentDetails": {
         "videoId": "zGipbUYrUCQ",
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "135637133",
-        "likeCount": "822318",
+        "viewCount": "135646462",
+        "likeCount": "822381",
         "favoriteCount": "0",
         "commentCount": "2804"
     }
