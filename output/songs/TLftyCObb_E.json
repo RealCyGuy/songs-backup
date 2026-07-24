@@ -165,7 +165,6 @@
                 "JE",
                 "JM",
                 "JO",
-                "JP",
                 "KE",
                 "KG",
                 "KH",
@@ -310,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "83644656",
-        "likeCount": "260618",
+        "viewCount": "83670035",
+        "likeCount": "260641",
         "favoriteCount": "0",
         "commentCount": "1876"
     }
