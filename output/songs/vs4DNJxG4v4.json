@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "vs4DNJxG4v4"
         },
-        "videoOwnerChannelTitle": "Michael Giacchino - Topic",
-        "videoOwnerChannelId": "UCD2LZAT1j1DyVXq2R2BdusQ"
+        "videoOwnerChannelTitle": "Release - Topic",
+        "videoOwnerChannelId": "UC04oD99zie4FVKmntWg-Qvw"
     },
     "contentDetails": {
         "videoId": "vs4DNJxG4v4",
@@ -178,8 +178,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "7164454",
-        "likeCount": "143273",
+        "viewCount": "7164737",
+        "likeCount": "143281",
         "favoriteCount": "0",
         "commentCount": "1161"
     }
