@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "npyiiInMA0w"
         },
-        "videoOwnerChannelTitle": "\u30ed\u30d3\u30f3 - Topic",
+        "videoOwnerChannelTitle": "Robin - Topic",
         "videoOwnerChannelId": "UCmVVMpE0pTKgzvrTmElaUAA"
     },
     "contentDetails": {
@@ -179,8 +179,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "13781585",
-        "likeCount": "117432",
+        "viewCount": "13782626",
+        "likeCount": "117439",
         "favoriteCount": "0",
         "commentCount": "651"
     }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "t7gRa3yskm0"
         },
-        "videoOwnerChannelTitle": "Charmaine Fong - Topic",
+        "videoOwnerChannelTitle": "\u65b9\u7693\u739f - Topic",
         "videoOwnerChannelId": "UCRwWhN7CjbLXsJPx2JbwozQ"
     },
     "contentDetails": {
@@ -183,7 +183,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "10284",
+        "viewCount": "10295",
         "likeCount": "37",
         "favoriteCount": "0",
         "commentCount": "0"
