@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "YN36NTGGvDo"
         },
-        "videoOwnerChannelTitle": "Kwon Eun-bi - Topic",
+        "videoOwnerChannelTitle": "KWON EUNBI - Topic",
         "videoOwnerChannelId": "UCqxneFT-NdkFAyVdmhD9drg"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2843991",
-        "likeCount": "8965",
+        "viewCount": "2849632",
+        "likeCount": "8976",
         "favoriteCount": "0",
         "commentCount": "106"
     }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "JVTS3fyoAEQ"
         },
-        "videoOwnerChannelTitle": "Rat Boy - Topic",
+        "videoOwnerChannelTitle": "RAT BOY - Topic",
         "videoOwnerChannelId": "UCS1LcwVayAjwzL7h_MM5OMA"
     },
     "contentDetails": {
@@ -182,8 +182,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "30908420",
-        "likeCount": "287977",
+        "viewCount": "30912482",
+        "likeCount": "288002",
         "favoriteCount": "0",
         "commentCount": "1818"
     }

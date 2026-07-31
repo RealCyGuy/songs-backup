@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "SD5kS1hzL-U"
         },
-        "videoOwnerChannelTitle": "ur pretty - Topic",
+        "videoOwnerChannelTitle": "Dixon Dallas - Topic",
         "videoOwnerChannelId": "UC88uE7Nv1Frjgiis-6I5XIg"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "7147857",
-        "likeCount": "115513",
+        "viewCount": "7148305",
+        "likeCount": "115518",
         "favoriteCount": "0",
         "commentCount": "1003"
     }
