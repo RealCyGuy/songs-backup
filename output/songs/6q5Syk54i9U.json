@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "6q5Syk54i9U"
         },
-        "videoOwnerChannelTitle": "Pu Shu - Topic",
+        "videoOwnerChannelTitle": "\u6734\u6811 - Topic",
         "videoOwnerChannelId": "UCPisO2j3xd_R1sITJeRLNvA"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "31266628",
-        "likeCount": "80805",
+        "viewCount": "31266893",
+        "likeCount": "80806",
         "favoriteCount": "0",
         "commentCount": "184"
     }
