@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "8n43tB_T4Aw"
         },
-        "videoOwnerChannelTitle": "KangHyeWon - Topic",
+        "videoOwnerChannelTitle": "KANG HYEWON - Topic",
         "videoOwnerChannelId": "UC25uiozxUhRYHnzP1wqStng"
     },
     "contentDetails": {
@@ -184,7 +184,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "369375",
+        "viewCount": "369383",
         "likeCount": "2723",
         "favoriteCount": "0",
         "commentCount": "0"
