@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "1rmRd0IjOog"
         },
-        "videoOwnerChannelTitle": "Leon Chang - Topic",
+        "videoOwnerChannelTitle": "leon chang - Topic",
         "videoOwnerChannelId": "UCExW06I3ZvNvECS3-phKKSg"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "7892",
-        "likeCount": "104",
+        "viewCount": "7908",
+        "likeCount": "105",
         "favoriteCount": "0",
         "commentCount": "4"
     }
