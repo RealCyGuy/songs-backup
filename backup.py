@@ -26,6 +26,25 @@ data = api.get_playlist_items(
 )
 
 
+def get_clean_vevo_artist(video_id):
+    url = "https://www.youtube.com/youtubei/v1/player"
+    payload = {
+        "context": {"client": {"clientName": "ANDROID", "clientVersion": "19.09.37"}},
+        "videoId": video_id,
+    }
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(req) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            return data.get("videoDetails", {}).get("author")
+    except Exception:
+        return None
+
+
 def extract_metadata(item):
     snippet = item.get("snippet", {})
     video_id = snippet.get("resourceId", {}).get("videoId", "")
@@ -104,6 +123,12 @@ for index in range(0, len(data["items"]), 50):
             item["contentDetails"][key] = value
         if "likeCount" not in item["statistics"]:
             item["statistics"]["likeCount"] = "0"
+
+        channel_title = item["snippet"].get("videoOwnerChannelTitle", "")
+        if channel_title.lower().endswith("vevo"):
+            clean_vevo = get_clean_vevo_artist(item["snippet"]["resourceId"]["videoId"])
+            if clean_vevo:
+                item["snippet"]["videoOwnerChannelTitle"] = clean_vevo
 
         # if region blocked in Canada
         if "CA" in item["contentDetails"].get("regionRestriction", {}).get(
