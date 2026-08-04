@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5y_KJAg8bHI"
         },
-        "videoOwnerChannelTitle": "AviciiOfficialVEVO",
+        "videoOwnerChannelTitle": "Avicii",
         "videoOwnerChannelId": "UC1SqP7_RfOC9Jf9L_GRHANg"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "548755321",
-        "likeCount": "2902309",
+        "viewCount": "548755708",
+        "likeCount": "2902308",
         "favoriteCount": "0",
         "commentCount": "124229"
     }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "3MteSlpxCpo"
         },
-        "videoOwnerChannelTitle": "PentatonixVEVO",
+        "videoOwnerChannelTitle": "Pentatonix",
         "videoOwnerChannelId": "UCIE6_c6qPrHzuVRssQ5B0lQ"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "385541692",
-        "likeCount": "3657996",
+        "viewCount": "385541737",
+        "likeCount": "3657997",
         "favoriteCount": "0",
         "commentCount": "192951"
     }

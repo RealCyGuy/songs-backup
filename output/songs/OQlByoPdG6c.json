@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "OQlByoPdG6c"
         },
-        "videoOwnerChannelTitle": "thetknsVEVO",
+        "videoOwnerChannelTitle": "The Tokens",
         "videoOwnerChannelId": "UCe4-Ci9VSuPnIT4intbk91g"
     },
     "contentDetails": {
@@ -310,7 +310,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "63058973",
+        "viewCount": "63059044",
         "likeCount": "784119",
         "favoriteCount": "0",
         "commentCount": "30536"

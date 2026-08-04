@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "HCjNJDNzw8Y"
         },
-        "videoOwnerChannelTitle": "CamilaCabelloVEVO",
+        "videoOwnerChannelTitle": "Camila Cabello",
         "videoOwnerChannelId": "UCk0wwaFCIkxwSfi6gpRqQUw"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2073380637",
-        "likeCount": "11074726",
+        "viewCount": "2073381193",
+        "likeCount": "11074723",
         "favoriteCount": "0",
         "commentCount": "435700"
     }

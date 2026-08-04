@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "kVpv8-5XWOI"
         },
-        "videoOwnerChannelTitle": "TrainVEVO",
+        "videoOwnerChannelTitle": "Train",
         "videoOwnerChannelId": "UC5e_2fVZJ2heCb799A04AtA"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "433730151",
-        "likeCount": "2779385",
+        "viewCount": "433730738",
+        "likeCount": "2779387",
         "favoriteCount": "0",
         "commentCount": "107326"
     }

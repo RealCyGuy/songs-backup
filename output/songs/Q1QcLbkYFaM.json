@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Q1QcLbkYFaM"
         },
-        "videoOwnerChannelTitle": "BoyWithUkeVEVO",
+        "videoOwnerChannelTitle": "BoyWithUke",
         "videoOwnerChannelId": "UCcUcckay9ZVzIZ92kEqz5Yw"
     },
     "contentDetails": {
@@ -305,8 +305,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "63299521",
-        "likeCount": "869137",
+        "viewCount": "63299572",
+        "likeCount": "869138",
         "favoriteCount": "0",
         "commentCount": "23793"
     }

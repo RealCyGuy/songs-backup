@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "SlPhMPnQ58k"
         },
-        "videoOwnerChannelTitle": "Maroon5VEVO",
+        "videoOwnerChannelTitle": "Maroon 5",
         "videoOwnerChannelId": "UCN1hnUccO4FD5WfM7ithXaw"
     },
     "contentDetails": {
@@ -307,8 +307,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1246891762",
-        "likeCount": "10402935",
+        "viewCount": "1246892782",
+        "likeCount": "10402936",
         "favoriteCount": "0",
         "commentCount": "306323"
     }

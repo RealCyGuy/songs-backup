@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "qMxX-QOV9tI"
         },
-        "videoOwnerChannelTitle": "JessieJVEVO",
+        "videoOwnerChannelTitle": "Jessie J",
         "videoOwnerChannelId": "UCGej5zp_KWZ-b_1w4Rq2hyA"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1034255852",
-        "likeCount": "5064741",
+        "viewCount": "1034256499",
+        "likeCount": "5064742",
         "favoriteCount": "0",
         "commentCount": "227521"
     }
