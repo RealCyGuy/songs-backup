@@ -27,20 +27,36 @@ data = api.get_playlist_items(
 
 
 def get_clean_vevo_artist(video_id):
-    url = "https://www.youtube.com/youtubei/v1/player"
+    url = "https://www.youtube.com/youtubei/v1/next"
     payload = {
-        "context": {"client": {"clientName": "ANDROID", "clientVersion": "19.09.37"}},
+        "context": {"client": {"clientName": "WEB", "clientVersion": "2.20240308.00.00"}},
         "videoId": video_id,
     }
     req = urllib.request.Request(
         url,
         data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json"},
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        },
     )
     try:
         with urllib.request.urlopen(req) as resp:
             data = json.loads(resp.read().decode("utf-8"))
-            return data.get("videoDetails", {}).get("author")
+            results = (
+                data.get("contents", {})
+                .get("twoColumnWatchNextResults", {})
+                .get("results", {})
+                .get("results", {})
+                .get("contents", [])
+            )
+            for item in results:
+                if "videoSecondaryInfoRenderer" in item:
+                    owner = item["videoSecondaryInfoRenderer"].get("owner", {}).get("videoOwnerRenderer", {})
+                    runs = owner.get("title", {}).get("runs", [])
+                    if runs:
+                        return runs[0].get("text")
+            return None
     except Exception:
         return None
 
