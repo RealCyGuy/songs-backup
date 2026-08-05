@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "pEEEe9xnv_Y"
         },
-        "videoOwnerChannelTitle": "Mave - Topic",
+        "videoOwnerChannelTitle": "MAVE: - Topic",
         "videoOwnerChannelId": "UCIP1bn8GyAFzePquh6hwzbA"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "21236812",
-        "likeCount": "185353",
+        "viewCount": "21237323",
+        "likeCount": "185354",
         "favoriteCount": "0",
         "commentCount": "747"
     }
