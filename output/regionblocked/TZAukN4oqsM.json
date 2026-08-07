@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "TZAukN4oqsM"
         },
-        "videoOwnerChannelTitle": "LEE CHAE YEON - Topic",
+        "videoOwnerChannelTitle": "LEE CHAEYEON - Topic",
         "videoOwnerChannelId": "UCAAUjXlrYZSOX5xGeahfQyw"
     },
     "contentDetails": {
@@ -313,6 +313,6 @@
         "viewCount": "59944902",
         "likeCount": "167183",
         "favoriteCount": "0",
-        "commentCount": "331"
+        "commentCount": "327"
     }
 }
