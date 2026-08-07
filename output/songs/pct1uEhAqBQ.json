@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "pct1uEhAqBQ"
         },
-        "videoOwnerChannelTitle": "Release - Topic",
-        "videoOwnerChannelId": "UCyykVHtFjnL1-FnArCsIfTQ"
+        "videoOwnerChannelTitle": "The Hit Crew - Topic",
+        "videoOwnerChannelId": "UCxjZHRbBCVMZYfV21SUaSAQ"
     },
     "contentDetails": {
         "videoId": "pct1uEhAqBQ",
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "13821395",
-        "likeCount": "113303",
+        "viewCount": "13821903",
+        "likeCount": "113306",
         "favoriteCount": "0",
         "commentCount": "3235"
     }
