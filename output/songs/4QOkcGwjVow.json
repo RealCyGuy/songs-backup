@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "4QOkcGwjVow"
         },
-        "videoOwnerChannelTitle": "OneRepublic - Topic",
-        "videoOwnerChannelId": "UCrrbm1toLPud8fFIisPuxpg"
+        "videoOwnerChannelTitle": "Release - Topic",
+        "videoOwnerChannelId": "UCP14nwd4k0Cc3Y1Lzy9FGRw"
     },
     "contentDetails": {
         "videoId": "4QOkcGwjVow",
@@ -182,8 +182,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "80155612",
-        "likeCount": "745075",
+        "viewCount": "80155996",
+        "likeCount": "745074",
         "favoriteCount": "0",
         "commentCount": "2533"
     }
