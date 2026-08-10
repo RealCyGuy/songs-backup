@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "SWSi3mZRWUs"
         },
-        "videoOwnerChannelTitle": "Release - Topic",
-        "videoOwnerChannelId": "UCGkr4sBpkhQTIAPcLZ8yGsw"
+        "videoOwnerChannelTitle": "HyuN - Topic",
+        "videoOwnerChannelId": "UCfOnpExKWlu4wiQOxh79nWg"
     },
     "contentDetails": {
         "videoId": "SWSi3mZRWUs",
@@ -310,7 +310,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "645675",
+        "viewCount": "645697",
         "likeCount": "7250",
         "favoriteCount": "0",
         "commentCount": "0"
