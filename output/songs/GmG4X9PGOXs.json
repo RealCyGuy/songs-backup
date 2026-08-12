@@ -5,7 +5,7 @@
         "publishedAt": "2021-12-11T03:01:56Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
         "title": "Everyday Normal Guy 2",
-        "description": "He's back...  And he's mildly upset.\nwww.jonlajoie.com",
+        "description": "He's back...  And he's mildly upset.",
         "thumbnails": {
             "default": {
                 "url": "https://i.ytimg.com/vi/GmG4X9PGOXs/default.jpg",
@@ -47,9 +47,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "140562604",
-        "likeCount": "2811685",
+        "viewCount": "140564319",
+        "likeCount": "2811718",
         "favoriteCount": "0",
-        "commentCount": "81858"
+        "commentCount": "81859"
     }
 }
