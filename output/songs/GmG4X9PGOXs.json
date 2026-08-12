@@ -35,7 +35,7 @@
     "contentDetails": {
         "videoId": "GmG4X9PGOXs",
         "videoPublishedAt": "2008-01-16T20:42:50Z",
-        "duration": "PT3M42S",
+        "duration": "PT3M34S",
         "dimension": "2d",
         "definition": "sd",
         "caption": "false",
@@ -47,8 +47,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "140559072",
-        "likeCount": "2811642",
+        "viewCount": "140560632",
+        "likeCount": "2811663",
         "favoriteCount": "0",
         "commentCount": "81855"
     }
