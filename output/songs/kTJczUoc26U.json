@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "kTJczUoc26U"
         },
-        "videoOwnerChannelTitle": "TheKidLAROIVEVO",
+        "videoOwnerChannelTitle": "The Kid LAROI.",
         "videoOwnerChannelId": "UCqPbkJrjrsQb_RGlC_4HEgg"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1117781707",
-        "likeCount": "12725701",
+        "viewCount": "1117792190",
+        "likeCount": "12725713",
         "favoriteCount": "0",
-        "commentCount": "302158"
+        "commentCount": "302162"
     }
 }
