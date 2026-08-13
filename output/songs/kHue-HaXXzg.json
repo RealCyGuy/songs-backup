@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "kHue-HaXXzg"
         },
-        "videoOwnerChannelTitle": "Demi Lovato",
+        "videoOwnerChannelTitle": "DemiLovatoVEVO",
         "videoOwnerChannelId": "UCnyB9MYKRkSFK3IIB32CoVw"
     },
     "contentDetails": {
@@ -308,8 +308,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "646203586",
-        "likeCount": "3657819",
+        "viewCount": "646204253",
+        "likeCount": "3657810",
         "favoriteCount": "0",
         "commentCount": "170454"
     }
