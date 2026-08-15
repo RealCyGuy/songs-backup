@@ -39,8 +39,8 @@
             "kind": "youtube#video",
             "videoId": "5gZl0PYC2Ho"
         },
-        "videoOwnerChannelTitle": "Release - Topic",
-        "videoOwnerChannelId": "UChlaxuVMFEXweRiFKtsq9QQ"
+        "videoOwnerChannelTitle": "TWICE - Topic",
+        "videoOwnerChannelId": "UCAq0pFGa2w9SjxOq0ZxKVIw"
     },
     "contentDetails": {
         "videoId": "5gZl0PYC2Ho",
@@ -302,8 +302,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "63321259",
-        "likeCount": "371369",
+        "viewCount": "63321763",
+        "likeCount": "371373",
         "favoriteCount": "0",
         "commentCount": "827"
     }
