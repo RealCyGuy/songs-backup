@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "GNkPJvVEm0s"
         },
-        "videoOwnerChannelTitle": "\u9e7f\u4e43 / Kano official channel",
+        "videoOwnerChannelTitle": "\u9e7f\u4e43\u307e\u307b\u308d / Kano Mahoro",
         "videoOwnerChannelId": "UCShXNLMXCfstmWKH_q86B8w"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "10380400",
-        "likeCount": "98628",
+        "viewCount": "10380434",
+        "likeCount": "98648",
         "favoriteCount": "0",
-        "commentCount": "2223"
+        "commentCount": "2227"
     }
 }
