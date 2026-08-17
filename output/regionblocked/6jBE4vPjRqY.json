@@ -52,9 +52,7 @@
         "licensedContent": true,
         "regionRestriction": {
             "allowed": [
-                "CA",
-                "MX",
-                "US"
+                "MX"
             ]
         },
         "contentRating": {},
@@ -64,8 +62,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "14646660",
-        "likeCount": "168976",
+        "viewCount": "14646807",
+        "likeCount": "168978",
         "favoriteCount": "0",
         "commentCount": "305"
     }
