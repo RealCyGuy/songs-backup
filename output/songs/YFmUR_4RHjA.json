@@ -37,7 +37,7 @@
         "videoPublishedAt": "2021-02-16T15:52:39Z",
         "duration": "PT3S",
         "dimension": "2d",
-        "definition": "sd",
+        "definition": "hd",
         "caption": "false",
         "licensedContent": false,
         "contentRating": {},
@@ -47,8 +47,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1978037",
-        "likeCount": "131771",
+        "viewCount": "1978040",
+        "likeCount": "131769",
         "favoriteCount": "0",
         "commentCount": "2150"
     }
