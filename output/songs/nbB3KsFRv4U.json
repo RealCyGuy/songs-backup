@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "nbB3KsFRv4U"
         },
-        "videoOwnerChannelTitle": "Pavolia Reine Ch. hololive-ID",
+        "videoOwnerChannelTitle": "Pavolia Reine Ch. hololive",
         "videoOwnerChannelId": "UChgTyjG-pdNvxxhdsXfHQ5Q"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "10725765",
-        "likeCount": "188026",
+        "viewCount": "10726188",
+        "likeCount": "188029",
         "favoriteCount": "0",
         "commentCount": "3102"
     }

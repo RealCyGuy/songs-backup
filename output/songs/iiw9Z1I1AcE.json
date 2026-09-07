@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "iiw9Z1I1AcE"
         },
-        "videoOwnerChannelTitle": "Kobo Kanaeru Ch. hololive-ID",
+        "videoOwnerChannelTitle": "Kobo Kanaeru Ch. hololive",
         "videoOwnerChannelId": "UCjLEmnpCNeisMxy134KPwWw"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "25031742",
-        "likeCount": "436596",
+        "viewCount": "25034847",
+        "likeCount": "436609",
         "favoriteCount": "0",
         "commentCount": "37704"
     }
