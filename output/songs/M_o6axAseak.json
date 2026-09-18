@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "M_o6axAseak"
         },
-        "videoOwnerChannelTitle": "AloeBlaccVEVO",
+        "videoOwnerChannelTitle": "Aloe Blacc",
         "videoOwnerChannelId": "UCcFKiA_8CSzamBPw3dPNRbQ"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "34746133",
-        "likeCount": "447964",
+        "viewCount": "34746428",
+        "likeCount": "447965",
         "favoriteCount": "0",
         "commentCount": "13840"
     }
