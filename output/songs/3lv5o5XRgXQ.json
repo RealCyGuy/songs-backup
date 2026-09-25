@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "3lv5o5XRgXQ"
         },
-        "videoOwnerChannelTitle": "MiMi - Topic",
+        "videoOwnerChannelTitle": "MIMI - Topic",
         "videoOwnerChannelId": "UCaXYqWTt1iBJiKHTdp_hmsw"
     },
     "contentDetails": {
@@ -310,7 +310,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "387475",
+        "viewCount": "387568",
         "likeCount": "2963",
         "favoriteCount": "0",
         "commentCount": "8"
