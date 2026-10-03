@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ZzFqGedMd1c"
         },
-        "videoOwnerChannelTitle": "Shoko Nakagawa OFFICIAL YouTube CHANNEL",
+        "videoOwnerChannelTitle": "ShokoNakagawaVEVO",
         "videoOwnerChannelId": "UCa7gEBQUdo-li2wDI1pjbhA"
     },
     "contentDetails": {
@@ -309,7 +309,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "668943",
+        "viewCount": "669008",
         "likeCount": "11031",
         "favoriteCount": "0",
         "commentCount": "1087"
