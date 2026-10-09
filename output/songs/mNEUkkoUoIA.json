@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "mNEUkkoUoIA"
         },
-        "videoOwnerChannelTitle": "OneRepublic",
+        "videoOwnerChannelTitle": "OneRepublicVEVO",
         "videoOwnerChannelId": "UCQ5kHOKpF3-1_UCKaqXARRg"
     },
     "contentDetails": {
@@ -305,8 +305,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "504603490",
-        "likeCount": "3077324",
+        "viewCount": "504630677",
+        "likeCount": "3077453",
         "favoriteCount": "0",
         "commentCount": "35920"
     }
