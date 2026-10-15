@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "NFHPLE4Tl0I"
         },
-        "videoOwnerChannelTitle": "Aimer - Topic",
+        "videoOwnerChannelTitle": "Aimerrhythm - Topic",
         "videoOwnerChannelId": "UC_gksw7NEueO_u3lPL372hA"
     },
     "contentDetails": {
@@ -183,8 +183,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "35288419",
-        "likeCount": "160420",
+        "viewCount": "35290956",
+        "likeCount": "160426",
         "favoriteCount": "0",
         "commentCount": "161"
     }
