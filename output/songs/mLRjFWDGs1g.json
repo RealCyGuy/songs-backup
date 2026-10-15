@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "mLRjFWDGs1g"
         },
-        "videoOwnerChannelTitle": "Freddie Mercury Solo",
+        "videoOwnerChannelTitle": "Freddie Mercury",
         "videoOwnerChannelId": "UCxbkO0haK5H6zhsa_lRcn0A"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "62391489",
-        "likeCount": "424133",
+        "viewCount": "62394440",
+        "likeCount": "424143",
         "favoriteCount": "0",
         "commentCount": "17880"
     }
