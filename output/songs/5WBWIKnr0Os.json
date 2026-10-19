@@ -4,7 +4,7 @@
     "snippet": {
         "publishedAt": "2022-04-22T05:15:44Z",
         "channelId": "UCX5XEfoxcLU9Dr_GVIdsLPA",
-        "title": "Jerobeam Fenderson - Reconstruct",
+        "title": "Oscilloscope Music - Reconstruct",
         "description": "Track 10 of the audiovisual album Oscilloscope Music\navailable at http://oscilloscopemusic.com\n\nWhat you see is what you hear: The audio signal is fed directly into the oscilloscope, where vector graphics are drawn with sound.\nFilmed from an analog Tektronix 5103N scope.\n\nleft audio channel: horizontal deflection\nright audio channel: vertical deflection\n\nsoftware used: OsciStudio & blender (circuit diagram, robot scene), SketchyScope (walking scene), Max MSP (bicycle & mountains), Capella (scorewriting), Ableton Live\n\ncircuit diagram: Ultra-Simple Oscilloscope (Tube Version) by Jon Stanley: http://www.electronixandmore.com/projects/simplescope",
         "thumbnails": {
             "default": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "827477",
-        "likeCount": "17282",
+        "viewCount": "827540",
+        "likeCount": "17283",
         "favoriteCount": "0",
         "commentCount": "924"
     }
