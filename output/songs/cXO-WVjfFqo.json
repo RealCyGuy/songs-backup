@@ -34,7 +34,7 @@
             "kind": "youtube#video",
             "videoId": "cXO-WVjfFqo"
         },
-        "videoOwnerChannelTitle": "MEENOI - Topic",
+        "videoOwnerChannelTitle": "Meenoi - Topic",
         "videoOwnerChannelId": "UCwi8AqRhHtSs6UqsDZXI7wQ"
     },
     "contentDetails": {
@@ -179,8 +179,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "11607629",
-        "likeCount": "29532",
+        "viewCount": "11608224",
+        "likeCount": "29535",
         "favoriteCount": "0",
         "commentCount": "23"
     }
