@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "VAoWD-RQCiY"
         },
-        "videoOwnerChannelTitle": "TWS - Topic",
+        "videoOwnerChannelTitle": "YOUNGJAE (TWS) - Topic",
         "videoOwnerChannelId": "UCkr1CWlkvX00Owo2Q15AukQ"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8096557",
-        "likeCount": "31524",
+        "viewCount": "8098128",
+        "likeCount": "31527",
         "favoriteCount": "0",
         "commentCount": "169"
     }
