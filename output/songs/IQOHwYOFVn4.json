@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "IQOHwYOFVn4"
         },
-        "videoOwnerChannelTitle": "tuki. - Topic",
+        "videoOwnerChannelTitle": "tuki - Topic",
         "videoOwnerChannelId": "UCtrbtNbdI4jwRQPG35Mtn2A"
     },
     "contentDetails": {
@@ -310,7 +310,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8773872",
+        "viewCount": "8774045",
         "likeCount": "43457",
         "favoriteCount": "0",
         "commentCount": "342"
