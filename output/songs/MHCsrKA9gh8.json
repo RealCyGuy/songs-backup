@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "MHCsrKA9gh8"
         },
-        "videoOwnerChannelTitle": "yung kai - Topic",
+        "videoOwnerChannelTitle": "Yung Kai - Topic",
         "videoOwnerChannelId": "UCTmWDYExT5TTVa-xp8c_W5w"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "151073357",
-        "likeCount": "1641912",
+        "viewCount": "151090820",
+        "likeCount": "1642102",
         "favoriteCount": "0",
         "commentCount": "21551"
     }
