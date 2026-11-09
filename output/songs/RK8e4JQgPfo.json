@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "RK8e4JQgPfo"
         },
-        "videoOwnerChannelTitle": "Snail's House - Topic",
+        "videoOwnerChannelTitle": "Ujico* - Topic",
         "videoOwnerChannelId": "UCJSPN1g1w9khsU_kbqpBYgA"
     },
     "contentDetails": {
@@ -305,8 +305,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "8568247",
-        "likeCount": "134993",
+        "viewCount": "8568532",
+        "likeCount": "134997",
         "favoriteCount": "0",
         "commentCount": "982"
     }
