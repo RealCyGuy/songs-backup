@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "XmaZv4RuzY8"
         },
-        "videoOwnerChannelTitle": "Mili - Topic",
+        "videoOwnerChannelTitle": "MILI - Topic",
         "videoOwnerChannelId": "UC-wNqHVYS82PF4mkaQb0Alg"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2002972",
-        "likeCount": "17031",
+        "viewCount": "2003575",
+        "likeCount": "17037",
         "favoriteCount": "0",
         "commentCount": "139"
     }
