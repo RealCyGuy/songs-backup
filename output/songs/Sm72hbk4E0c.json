@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Sm72hbk4E0c"
         },
-        "videoOwnerChannelTitle": "BANNERS",
+        "videoOwnerChannelTitle": "BannersVEVO",
         "videoOwnerChannelId": "UCrHuAEBS0odJ_P_Xtl-mN4w"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2909722",
-        "likeCount": "71665",
+        "viewCount": "2909936",
+        "likeCount": "71667",
         "favoriteCount": "0",
         "commentCount": "980"
     }

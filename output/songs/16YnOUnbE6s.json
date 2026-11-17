@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "16YnOUnbE6s"
         },
-        "videoOwnerChannelTitle": "Arizona Zervas",
+        "videoOwnerChannelTitle": "ArizonaZervasVEVO",
         "videoOwnerChannelId": "UCgJqsU9aNmdusbxbeWVSt5g"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "286122528",
-        "likeCount": "2948269",
+        "viewCount": "286137979",
+        "likeCount": "2948333",
         "favoriteCount": "0",
-        "commentCount": "73334"
+        "commentCount": "73332"
     }
 }

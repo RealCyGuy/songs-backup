@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "wQJIkbvUVPQ"
         },
-        "videoOwnerChannelTitle": "B.O.B - Topic",
+        "videoOwnerChannelTitle": "B.o.B - Topic",
         "videoOwnerChannelId": "UCU1JusGzZe0Msn79JB3g46w"
     },
     "contentDetails": {
@@ -183,8 +183,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "87722363",
-        "likeCount": "769017",
+        "viewCount": "87723918",
+        "likeCount": "769024",
         "favoriteCount": "0",
         "commentCount": "1573"
     }

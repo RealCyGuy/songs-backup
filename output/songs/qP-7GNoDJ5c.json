@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "qP-7GNoDJ5c"
         },
-        "videoOwnerChannelTitle": "NathanEvanss",
+        "videoOwnerChannelTitle": "NathanEvansVEVO",
         "videoOwnerChannelId": "UCXoDFSOVqpK5FMnFOH9p6tA"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "514548601",
-        "likeCount": "6120391",
+        "viewCount": "514624203",
+        "likeCount": "6120716",
         "favoriteCount": "0",
-        "commentCount": "155153"
+        "commentCount": "155155"
     }
 }
