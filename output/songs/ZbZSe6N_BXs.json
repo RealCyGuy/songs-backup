@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ZbZSe6N_BXs"
         },
-        "videoOwnerChannelTitle": "PharrellWilliamsVEVO",
+        "videoOwnerChannelTitle": "Pharrell Williams",
         "videoOwnerChannelId": "UCtQMmwBJGvINGU0lZ_GrZKQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1587545978",
-        "likeCount": "10193075",
+        "viewCount": "1587622589",
+        "likeCount": "10193336",
         "favoriteCount": "0",
-        "commentCount": "277611"
+        "commentCount": "277616"
     }
 }
