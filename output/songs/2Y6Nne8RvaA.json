@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "2Y6Nne8RvaA"
         },
-        "videoOwnerChannelTitle": "Kungs",
+        "videoOwnerChannelTitle": "KungsVEVO",
         "videoOwnerChannelId": "UCcsGmYitOT9kpZA6wPHXpGQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "572735696",
-        "likeCount": "3553898",
+        "viewCount": "572753828",
+        "likeCount": "3553962",
         "favoriteCount": "0",
-        "commentCount": "93064"
+        "commentCount": "93066"
     }
 }

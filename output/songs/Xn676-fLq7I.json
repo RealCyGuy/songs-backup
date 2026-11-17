@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Xn676-fLq7I"
         },
-        "videoOwnerChannelTitle": "Kelly Clarkson",
+        "videoOwnerChannelTitle": "kellyclarksonVEVO",
         "videoOwnerChannelId": "UC6QdZ-5j9t_836_xJPAaRSw"
     },
     "contentDetails": {
@@ -306,9 +306,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "572603283",
-        "likeCount": "3065812",
+        "viewCount": "572635991",
+        "likeCount": "3065933",
         "favoriteCount": "0",
-        "commentCount": "100495"
+        "commentCount": "100500"
     }
 }

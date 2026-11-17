@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Mhj15W23IjA"
         },
-        "videoOwnerChannelTitle": "James Arthur",
+        "videoOwnerChannelTitle": "JamesAVEVO",
         "videoOwnerChannelId": "UCnPjVVu__eOVZnAnjBiGhKA"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "482320469",
-        "likeCount": "3772399",
+        "viewCount": "482367572",
+        "likeCount": "3772568",
         "favoriteCount": "0",
-        "commentCount": "78062"
+        "commentCount": "78066"
     }
 }
