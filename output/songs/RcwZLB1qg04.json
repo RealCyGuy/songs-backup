@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "RcwZLB1qg04"
         },
-        "videoOwnerChannelTitle": "Lilypichu - Topic",
+        "videoOwnerChannelTitle": "LilyPichu - Topic",
         "videoOwnerChannelId": "UCaUl-VhkLvhbZiCpgclDJbg"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1699004",
-        "likeCount": "17852",
+        "viewCount": "1699490",
+        "likeCount": "17855",
         "favoriteCount": "0",
         "commentCount": "0"
     }

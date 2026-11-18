@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "bgr4sGq2ba0"
         },
-        "videoOwnerChannelTitle": "Beabadoobee",
+        "videoOwnerChannelTitle": "beabadoobee",
         "videoOwnerChannelId": "UCBJn8qy6bI82Oh34kzHViPQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "5483296",
-        "likeCount": "115154",
+        "viewCount": "5484484",
+        "likeCount": "115159",
         "favoriteCount": "0",
-        "commentCount": "1827"
+        "commentCount": "1826"
     }
 }

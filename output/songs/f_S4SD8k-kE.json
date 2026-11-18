@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "f_S4SD8k-kE"
         },
-        "videoOwnerChannelTitle": "Jason - Topic",
+        "videoOwnerChannelTitle": "JASON - Topic",
         "videoOwnerChannelId": "UCoLmFHomrdplbGMj22ixdkA"
     },
     "contentDetails": {
@@ -184,7 +184,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "40633",
+        "viewCount": "40638",
         "likeCount": "240",
         "favoriteCount": "0",
         "commentCount": "1"
