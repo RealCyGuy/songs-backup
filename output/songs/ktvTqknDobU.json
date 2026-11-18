@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ktvTqknDobU"
         },
-        "videoOwnerChannelTitle": "ImagineDragonsVEVO",
+        "videoOwnerChannelTitle": "ImagineDragons",
         "videoOwnerChannelId": "UCpx_k19S2vUutWUUM9qmXEg"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1576609145",
-        "likeCount": "9939406",
+        "viewCount": "1576638457",
+        "likeCount": "9939507",
         "favoriteCount": "0",
-        "commentCount": "349790"
+        "commentCount": "349792"
     }
 }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "GxBSyx85Kp8"
         },
-        "videoOwnerChannelTitle": "UsherVEVO",
+        "videoOwnerChannelTitle": "Usher",
         "videoOwnerChannelId": "UCU8hEdjK8u27TM7KA8JVIEw"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1303867008",
-        "likeCount": "7504609",
+        "viewCount": "1303994249",
+        "likeCount": "7504998",
         "favoriteCount": "0",
-        "commentCount": "136790"
+        "commentCount": "136788"
     }
 }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "GrAchTdepsU"
         },
-        "videoOwnerChannelTitle": "24KGoldnVEVO",
+        "videoOwnerChannelTitle": "24kGoldn",
         "videoOwnerChannelId": "UC6YyYm5LWzar8Isrqs2eXzQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "575129347",
-        "likeCount": "8056883",
+        "viewCount": "575155253",
+        "likeCount": "8057020",
         "favoriteCount": "0",
-        "commentCount": "162187"
+        "commentCount": "162185"
     }
 }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5T0utQ-XWGY"
         },
-        "videoOwnerChannelTitle": "FergieVEVO",
+        "videoOwnerChannelTitle": "Fergie",
         "videoOwnerChannelId": "UCCJ_1t1xHtks-cv1IU6EAWw"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "318504832",
-        "likeCount": "1847252",
+        "viewCount": "318519953",
+        "likeCount": "1847311",
         "favoriteCount": "0",
-        "commentCount": "68362"
+        "commentCount": "68360"
     }
 }

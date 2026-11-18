@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "j5-yKhDd64s"
         },
-        "videoOwnerChannelTitle": "EminemVEVO",
+        "videoOwnerChannelTitle": "EminemMusic",
         "videoOwnerChannelId": "UC20vb-R_px4CguHzzBPhoyQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2137140849",
-        "likeCount": "13282168",
+        "viewCount": "2137257197",
+        "likeCount": "13282481",
         "favoriteCount": "0",
-        "commentCount": "922377"
+        "commentCount": "922384"
     }
 }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "BS46C2z5lVE"
         },
-        "videoOwnerChannelTitle": "Route94VEVO",
+        "videoOwnerChannelTitle": "Route 94",
         "videoOwnerChannelId": "UCpxIda0NpzcxtEf-ehFoXUg"
     },
     "contentDetails": {
@@ -57,9 +57,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "632526096",
-        "likeCount": "2449962",
+        "viewCount": "632593927",
+        "likeCount": "2450078",
         "favoriteCount": "0",
-        "commentCount": "26669"
+        "commentCount": "26672"
     }
 }

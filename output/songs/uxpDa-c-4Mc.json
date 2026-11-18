@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "uxpDa-c-4Mc"
         },
-        "videoOwnerChannelTitle": "DrakeVEVO",
+        "videoOwnerChannelTitle": "Drake",
         "videoOwnerChannelId": "UCQznUf1SjfDqx65hX3zRDiA"
     },
     "contentDetails": {
@@ -305,9 +305,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2164787495",
-        "likeCount": "11643155",
+        "viewCount": "2164859255",
+        "likeCount": "11643487",
         "favoriteCount": "0",
-        "commentCount": "461377"
+        "commentCount": "461384"
     }
 }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "bESGLojNYSo"
         },
-        "videoOwnerChannelTitle": "LadyGagaVEVO",
+        "videoOwnerChannelTitle": "Lady Gaga",
         "videoOwnerChannelId": "UC07Kxew-cMIaykMOkzqHtBQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1837313645",
-        "likeCount": "9054276",
+        "viewCount": "1837538232",
+        "likeCount": "9054752",
         "favoriteCount": "0",
-        "commentCount": "343214"
+        "commentCount": "343225"
     }
 }

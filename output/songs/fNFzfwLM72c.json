@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "fNFzfwLM72c"
         },
-        "videoOwnerChannelTitle": "BeeGeesVEVO",
+        "videoOwnerChannelTitle": "beegees",
         "videoOwnerChannelId": "UCRRDW9soKSiOisOMyM3TzhQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "515185990",
-        "likeCount": "4022378",
+        "viewCount": "515227233",
+        "likeCount": "4022552",
         "favoriteCount": "0",
-        "commentCount": "103525"
+        "commentCount": "103524"
     }
 }
