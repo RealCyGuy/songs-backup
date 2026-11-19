@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ESLa421KQaM"
         },
-        "videoOwnerChannelTitle": "Chords - Topic",
+        "videoOwnerChannelTitle": "The Chords - Topic",
         "videoOwnerChannelId": "UCYxRupdKp0R4lNmwEzFwLFA"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "17099100",
-        "likeCount": "276893",
+        "viewCount": "17100161",
+        "likeCount": "276903",
         "favoriteCount": "0",
         "commentCount": "46"
     }
