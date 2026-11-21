@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "sPPsOmQh76A"
         },
-        "videoOwnerChannelTitle": "HalseyVEVO",
+        "videoOwnerChannelTitle": "Halsey",
         "videoOwnerChannelId": "UCm3FgJ2Hqm7tb70T-GfwXVA"
     },
     "contentDetails": {
@@ -302,9 +302,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "40276931",
-        "likeCount": "530268",
+        "viewCount": "40278141",
+        "likeCount": "530281",
         "favoriteCount": "0",
-        "commentCount": "18475"
+        "commentCount": "18477"
     }
 }

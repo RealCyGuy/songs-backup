@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "QJO3ROT-A4E"
         },
-        "videoOwnerChannelTitle": "OneDirectionVEVO",
+        "videoOwnerChannelTitle": "One Direction",
         "videoOwnerChannelId": "UCbW18JZRgko_mOGm5er8Yzg"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1750034268",
-        "likeCount": "12980726",
+        "viewCount": "1750116686",
+        "likeCount": "12980971",
         "favoriteCount": "0",
-        "commentCount": "1203683"
+        "commentCount": "1203686"
     }
 }

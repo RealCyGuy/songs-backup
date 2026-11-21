@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Lf9OgcXV5cE"
         },
-        "videoOwnerChannelTitle": "JustinBieberVEVO",
+        "videoOwnerChannelTitle": "Justin Bieber",
         "videoOwnerChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "62653225",
-        "likeCount": "363602",
+        "viewCount": "62658827",
+        "likeCount": "363624",
         "favoriteCount": "0",
-        "commentCount": "21096"
+        "commentCount": "21098"
     }
 }

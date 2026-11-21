@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "R3Lu3mWDFtg"
         },
-        "videoOwnerChannelTitle": "lunaharunaVEVO",
+        "videoOwnerChannelTitle": "Luna Haruna / \u6625\u5948\u308b\u306a",
         "videoOwnerChannelId": "UCVHRCF1lRsSlhZSl3jdLFnQ"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4122341",
-        "likeCount": "41799",
+        "viewCount": "4122537",
+        "likeCount": "41800",
         "favoriteCount": "0",
         "commentCount": "2187"
     }

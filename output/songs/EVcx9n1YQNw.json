@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "EVcx9n1YQNw"
         },
-        "videoOwnerChannelTitle": "VirginiaToVegasVEVO",
+        "videoOwnerChannelTitle": "virginia to vegas",
         "videoOwnerChannelId": "UCh1npJQUp9RgaGfMUOyDmhQ"
     },
     "contentDetails": {
@@ -307,8 +307,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "422133",
-        "likeCount": "4618",
+        "viewCount": "422169",
+        "likeCount": "4619",
         "favoriteCount": "0",
         "commentCount": "157"
     }
