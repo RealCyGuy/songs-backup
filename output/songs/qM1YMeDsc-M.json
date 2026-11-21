@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "qM1YMeDsc-M"
         },
-        "videoOwnerChannelTitle": "Owl City",
+        "videoOwnerChannelTitle": "OwlCityVEVO",
         "videoOwnerChannelId": "UCV-UW3I3mXakSoqV8SpF1sg"
     },
     "contentDetails": {
@@ -308,8 +308,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "91764399",
-        "likeCount": "864904",
+        "viewCount": "91769904",
+        "likeCount": "864932",
         "favoriteCount": "0",
         "commentCount": "0"
     }

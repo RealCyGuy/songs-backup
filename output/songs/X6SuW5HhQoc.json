@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "X6SuW5HhQoc"
         },
-        "videoOwnerChannelTitle": "Ariana Grande",
+        "videoOwnerChannelTitle": "ArianaGrandeVevo",
         "videoOwnerChannelId": "UC0VOyT2OCBKdQhF3BAbZ-1g"
     },
     "contentDetails": {
@@ -307,8 +307,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "11603166",
-        "likeCount": "312154",
+        "viewCount": "11603443",
+        "likeCount": "312155",
         "favoriteCount": "0",
         "commentCount": "15154"
     }

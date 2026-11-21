@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "OPf0YbXqDm0"
         },
-        "videoOwnerChannelTitle": "Mark Ronson",
+        "videoOwnerChannelTitle": "MarkRonsonVEVO",
         "videoOwnerChannelId": "UCmfFGTSsfJVu6CGvL8r75qg"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "5944498211",
-        "likeCount": "23639535",
+        "viewCount": "5944685389",
+        "likeCount": "23640057",
         "favoriteCount": "0",
-        "commentCount": "654475"
+        "commentCount": "654482"
     }
 }

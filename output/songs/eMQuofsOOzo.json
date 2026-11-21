@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "eMQuofsOOzo"
         },
-        "videoOwnerChannelTitle": "Calvin Harris",
+        "videoOwnerChannelTitle": "CalvinHarrisVEVO",
         "videoOwnerChannelId": "UCaHNFIob5Ixv74f5on3lvIw"
     },
     "contentDetails": {
@@ -309,9 +309,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "36306648",
-        "likeCount": "356724",
+        "viewCount": "36307740",
+        "likeCount": "356723",
         "favoriteCount": "0",
-        "commentCount": "9369"
+        "commentCount": "9368"
     }
 }

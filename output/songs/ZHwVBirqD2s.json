@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ZHwVBirqD2s"
         },
-        "videoOwnerChannelTitle": "Elton John",
+        "videoOwnerChannelTitle": "EltonJohnVEVO",
         "videoOwnerChannelId": "UCI8Ry7NdFNLel-S8dWU7mDA"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "300791572",
-        "likeCount": "2875846",
+        "viewCount": "300845132",
+        "likeCount": "2876165",
         "favoriteCount": "0",
-        "commentCount": "57973"
+        "commentCount": "57980"
     }
 }

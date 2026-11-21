@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Y66j_BUCBMY"
         },
-        "videoOwnerChannelTitle": "American Authors",
+        "videoOwnerChannelTitle": "AmericanAuthorsVEVO",
         "videoOwnerChannelId": "UC67f6whPY0ZzudUZaY2AymA"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "307522815",
-        "likeCount": "2773562",
+        "viewCount": "307536935",
+        "likeCount": "2773645",
         "favoriteCount": "0",
-        "commentCount": "78065"
+        "commentCount": "78067"
     }
 }

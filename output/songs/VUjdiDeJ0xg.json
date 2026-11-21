@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "VUjdiDeJ0xg"
         },
-        "videoOwnerChannelTitle": "Taio Cruz",
+        "videoOwnerChannelTitle": "TaioCruzVEVO",
         "videoOwnerChannelId": "UC24cEEOOAANlu35I1VvBApg"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "221358502",
-        "likeCount": "879162",
+        "viewCount": "221364549",
+        "likeCount": "879199",
         "favoriteCount": "0",
         "commentCount": "58116"
     }

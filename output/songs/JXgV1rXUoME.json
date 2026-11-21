@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "JXgV1rXUoME"
         },
-        "videoOwnerChannelTitle": "Doja Cat",
+        "videoOwnerChannelTitle": "dojacatVEVO",
         "videoOwnerChannelId": "UCpTaAz_BxtkUB1qc8JTU_7g"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "415435738",
-        "likeCount": "3630376",
+        "viewCount": "415485348",
+        "likeCount": "3630496",
         "favoriteCount": "0",
-        "commentCount": "71273"
+        "commentCount": "71275"
     }
 }

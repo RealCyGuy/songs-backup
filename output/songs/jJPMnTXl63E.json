@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "jJPMnTXl63E"
         },
-        "videoOwnerChannelTitle": "Powfu",
+        "videoOwnerChannelTitle": "PowfuVEVO",
         "videoOwnerChannelId": "UC3V9WaOQ7RdHPRsEQ9gZvDA"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "899144164",
-        "likeCount": "10937538",
+        "viewCount": "899271803",
+        "likeCount": "10938177",
         "favoriteCount": "0",
-        "commentCount": "273086"
+        "commentCount": "273103"
     }
 }

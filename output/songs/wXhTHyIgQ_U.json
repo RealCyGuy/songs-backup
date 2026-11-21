@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "wXhTHyIgQ_U"
         },
-        "videoOwnerChannelTitle": "Post Malone",
+        "videoOwnerChannelTitle": "PostMaloneVEVO",
         "videoOwnerChannelId": "UCOhtMAg7xh8wv_wUHMgFc-Q"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "829413261",
-        "likeCount": "5879760",
+        "viewCount": "829497563",
+        "likeCount": "5879942",
         "favoriteCount": "0",
-        "commentCount": "133190"
+        "commentCount": "133193"
     }
 }
