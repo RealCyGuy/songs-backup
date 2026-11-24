@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Em7vc8NWUNY"
         },
-        "videoOwnerChannelTitle": "Alessia Cara",
+        "videoOwnerChannelTitle": "AlessiaCaraVEVO",
         "videoOwnerChannelId": "UC1EwyHfJHEKnA7kKfcGhlIw"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "212603790",
-        "likeCount": "1695024",
+        "viewCount": "212608102",
+        "likeCount": "1695036",
         "favoriteCount": "0",
         "commentCount": "34820"
     }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "qDc_5zpBj7s"
         },
-        "videoOwnerChannelTitle": "Meghan Trainor",
+        "videoOwnerChannelTitle": "MeghanTrainorVEVO",
         "videoOwnerChannelId": "UCf3cbfAXgPFL6OywH7JwOzA"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "604631080",
-        "likeCount": "2632333",
+        "viewCount": "604633976",
+        "likeCount": "2632350",
         "favoriteCount": "0",
-        "commentCount": "131938"
+        "commentCount": "131936"
     }
 }

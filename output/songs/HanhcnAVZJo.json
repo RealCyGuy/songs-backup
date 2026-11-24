@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "HanhcnAVZJo"
         },
-        "videoOwnerChannelTitle": "Tate McRae",
+        "videoOwnerChannelTitle": "TateMcRaeVEVO",
         "videoOwnerChannelId": "UC-yW8iz7ICKv_bhuxLtcJaw"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2175287",
-        "likeCount": "29781",
+        "viewCount": "2175524",
+        "likeCount": "29783",
         "favoriteCount": "0",
         "commentCount": "549"
     }

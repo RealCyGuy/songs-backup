@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "4fndeDfaWCg"
         },
-        "videoOwnerChannelTitle": "Backstreet Boys",
+        "videoOwnerChannelTitle": "BackstreetBoysVEVO",
         "videoOwnerChannelId": "UCUFdeo1oLLH_QPlaQfZrqbg"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1840828500",
-        "likeCount": "9017414",
+        "viewCount": "1841008386",
+        "likeCount": "9017782",
         "favoriteCount": "0",
-        "commentCount": "335438"
+        "commentCount": "335447"
     }
 }

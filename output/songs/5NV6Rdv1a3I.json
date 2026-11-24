@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5NV6Rdv1a3I"
         },
-        "videoOwnerChannelTitle": "Daft Punk",
+        "videoOwnerChannelTitle": "DaftPunkVEVO",
         "videoOwnerChannelId": "UCKHFvArwRwQU2VbRjMpaVGw"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "886719614",
-        "likeCount": "5475559",
+        "viewCount": "886754035",
+        "likeCount": "5475683",
         "favoriteCount": "0",
-        "commentCount": "210976"
+        "commentCount": "210979"
     }
 }

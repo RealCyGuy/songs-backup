@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "izGwDsrQ1eQ"
         },
-        "videoOwnerChannelTitle": "George Michael",
+        "videoOwnerChannelTitle": "georgemichaelVEVO",
         "videoOwnerChannelId": "UC7X_qC_rgc3s04Aw1t5DSHg"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1631969079",
-        "likeCount": "10238155",
+        "viewCount": "1632117398",
+        "likeCount": "10238788",
         "favoriteCount": "0",
-        "commentCount": "350967"
+        "commentCount": "350984"
     }
 }
