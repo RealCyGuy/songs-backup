@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "H5v3kku4y6Q"
         },
-        "videoOwnerChannelTitle": "HarryStylesVEVO",
+        "videoOwnerChannelTitle": "Harry Styles",
         "videoOwnerChannelId": "UCbOCbp5gXL8jigIBZLqMPrw"
     },
     "contentDetails": {
@@ -309,9 +309,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1030587290",
-        "likeCount": "9398410",
+        "viewCount": "1030757592",
+        "likeCount": "9398853",
         "favoriteCount": "0",
-        "commentCount": "230445"
+        "commentCount": "230451"
     }
 }

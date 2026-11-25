@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "_CL6n0FJZpk"
         },
-        "videoOwnerChannelTitle": "DrDreVEVO",
+        "videoOwnerChannelTitle": "Dr. Dre",
         "videoOwnerChannelId": "UCx4Lxn5CzeG99X01__YsJpw"
     },
     "contentDetails": {
@@ -307,8 +307,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1773891460",
-        "likeCount": "12740569",
+        "viewCount": "1774008602",
+        "likeCount": "12741037",
         "favoriteCount": "0",
         "commentCount": "361045"
     }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "h1mpculkegY"
         },
-        "videoOwnerChannelTitle": "ChainsmokersVEVO",
+        "videoOwnerChannelTitle": "The Chainsmokers",
         "videoOwnerChannelId": "UCRzzwLpLiUNIs6YOPe33eMg"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1842244",
-        "likeCount": "27042",
+        "viewCount": "1842317",
+        "likeCount": "27043",
         "favoriteCount": "0",
         "commentCount": "633"
     }

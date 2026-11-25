@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "dlFA0Zq1k2A"
         },
-        "videoOwnerChannelTitle": "KANABOONVEVO",
+        "videoOwnerChannelTitle": "KANA-BOON Official YouTube Channel",
         "videoOwnerChannelId": "UC5UQaWSW7AizXnW8xrYL-vw"
     },
     "contentDetails": {
@@ -309,9 +309,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "369513813",
-        "likeCount": "3579891",
+        "viewCount": "369538130",
+        "likeCount": "3580001",
         "favoriteCount": "0",
-        "commentCount": "140790"
+        "commentCount": "140794"
     }
 }
