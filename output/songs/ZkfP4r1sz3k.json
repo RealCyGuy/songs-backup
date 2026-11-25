@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ZkfP4r1sz3k"
         },
-        "videoOwnerChannelTitle": "bbno$ - Topic",
+        "videoOwnerChannelTitle": "\u200bbbno$ - Topic",
         "videoOwnerChannelId": "UCqmI6Kl2lS99N9-e2hkuE9A"
     },
     "contentDetails": {
@@ -184,9 +184,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "52737391",
-        "likeCount": "472877",
+        "viewCount": "52755850",
+        "likeCount": "472973",
         "favoriteCount": "0",
-        "commentCount": "855"
+        "commentCount": "856"
     }
 }
