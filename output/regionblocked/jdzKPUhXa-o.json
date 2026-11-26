@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "jdzKPUhXa-o"
         },
-        "videoOwnerChannelTitle": "League of Legends - Topic",
+        "videoOwnerChannelTitle": "League Of Legends - Topic",
         "videoOwnerChannelId": "UCNQmUMv2OIDAfgIa1-ih0hA"
     },
     "contentDetails": {
@@ -311,7 +311,7 @@
     },
     "statistics": {
         "viewCount": "111814454",
-        "likeCount": "500733",
+        "likeCount": "500732",
         "favoriteCount": "0",
         "commentCount": "0"
     }

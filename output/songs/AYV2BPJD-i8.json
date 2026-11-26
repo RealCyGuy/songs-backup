@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "AYV2BPJD-i8"
         },
-        "videoOwnerChannelTitle": "J.Y. Park  - Topic",
+        "videoOwnerChannelTitle": "J.Y. Park - Topic",
         "videoOwnerChannelId": "UCp7gmGkYArQhD1AFE3_tXKw"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2395031",
-        "likeCount": "21466",
+        "viewCount": "2395212",
+        "likeCount": "21465",
         "favoriteCount": "0",
         "commentCount": "94"
     }

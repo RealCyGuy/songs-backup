@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "cOfFWiVMUXs"
         },
-        "videoOwnerChannelTitle": "twenty one pilots - Topic",
+        "videoOwnerChannelTitle": "Twenty One Pilots - Topic",
         "videoOwnerChannelId": "UCnX0L9QiftAcWdzeBx31xCw"
     },
     "contentDetails": {
@@ -311,7 +311,7 @@
     },
     "statistics": {
         "viewCount": "35862104",
-        "likeCount": "313836",
+        "likeCount": "313837",
         "favoriteCount": "0",
         "commentCount": "911"
     }

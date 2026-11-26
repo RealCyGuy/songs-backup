@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "5w3rRFWzjcM"
         },
-        "videoOwnerChannelTitle": "C418 - Topic",
+        "videoOwnerChannelTitle": "Daniel Rosenfeld - Topic",
         "videoOwnerChannelId": "UCONGElgDdV3FXSX-x7gBN4A"
     },
     "contentDetails": {
@@ -182,8 +182,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "3432721",
-        "likeCount": "49327",
+        "viewCount": "3436295",
+        "likeCount": "49365",
         "favoriteCount": "0",
         "commentCount": "1243"
     }

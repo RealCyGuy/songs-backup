@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "_gI_zC7_mlE"
         },
-        "videoOwnerChannelTitle": "Junna - Topic",
+        "videoOwnerChannelTitle": "JUNNA - Topic",
         "videoOwnerChannelId": "UC5y8wGAb1edv_9j2MBp3rcg"
     },
     "contentDetails": {
@@ -309,8 +309,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "6005223",
-        "likeCount": "86319",
+        "viewCount": "6005600",
+        "likeCount": "86322",
         "favoriteCount": "0",
         "commentCount": "773"
     }

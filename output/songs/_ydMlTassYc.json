@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "_ydMlTassYc"
         },
-        "videoOwnerChannelTitle": "JAY-Z - Topic",
+        "videoOwnerChannelTitle": "JA\u0178-Z - Topic",
         "videoOwnerChannelId": "UCbJG1HvzgzaMe_15xfiUyWw"
     },
     "contentDetails": {
@@ -184,9 +184,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "370227763",
-        "likeCount": "2866306",
+        "viewCount": "370311152",
+        "likeCount": "2866870",
         "favoriteCount": "0",
-        "commentCount": "8438"
+        "commentCount": "8440"
     }
 }

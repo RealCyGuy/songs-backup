@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "-lcVA_rn-7s"
         },
-        "videoOwnerChannelTitle": "Lee Seung-chul - Topic",
+        "videoOwnerChannelTitle": "Lee Seung Chul - Topic",
         "videoOwnerChannelId": "UCv0CgZ-uiKXxmwJV2-NQnmQ"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "63969579",
-        "likeCount": "104193",
+        "viewCount": "63976661",
+        "likeCount": "104198",
         "favoriteCount": "0",
         "commentCount": "746"
     }
