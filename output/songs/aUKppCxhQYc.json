@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "aUKppCxhQYc"
         },
-        "videoOwnerChannelTitle": "ViViD - Topic",
+        "videoOwnerChannelTitle": "Vivid - Topic",
         "videoOwnerChannelId": "UCBYie4_eVQ_6P4sXJSYyNww"
     },
     "contentDetails": {
@@ -183,8 +183,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "505180",
-        "likeCount": "5294",
+        "viewCount": "505329",
+        "likeCount": "5295",
         "favoriteCount": "0",
         "commentCount": "0"
     }
