@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "e0T0rI-GiR4"
         },
-        "videoOwnerChannelTitle": "HEPHESTOS",
+        "videoOwnerChannelTitle": "Hephestos",
         "videoOwnerChannelId": "UCxQHQjt0nbc0ZVDdNlZN6TQ"
     },
     "contentDetails": {
@@ -57,8 +57,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "29090371",
-        "likeCount": "474169",
+        "viewCount": "29091223",
+        "likeCount": "474163",
         "favoriteCount": "0",
         "commentCount": "14401"
     }
