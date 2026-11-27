@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "CJ239P4BU9Q"
         },
-        "videoOwnerChannelTitle": "Heiakim - Topic",
+        "videoOwnerChannelTitle": "heiakim - Topic",
         "videoOwnerChannelId": "UConAyNNy6wrEZX-emiUm5JA"
     },
     "contentDetails": {
@@ -184,7 +184,7 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "338271",
+        "viewCount": "338293",
         "likeCount": "14060",
         "favoriteCount": "0",
         "commentCount": "230"

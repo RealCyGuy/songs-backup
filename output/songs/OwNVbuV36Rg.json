@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "OwNVbuV36Rg"
         },
-        "videoOwnerChannelTitle": "BABY GRAVY - Topic",
+        "videoOwnerChannelTitle": "Baby Gravy - Topic",
         "videoOwnerChannelId": "UC57xlnW5lv23KpryjuUbqhw"
     },
     "contentDetails": {
@@ -184,8 +184,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4137831",
-        "likeCount": "41307",
+        "viewCount": "4138599",
+        "likeCount": "41313",
         "favoriteCount": "0",
         "commentCount": "15"
     }

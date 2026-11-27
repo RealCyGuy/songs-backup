@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "k6LB6nrkoJU"
         },
-        "videoOwnerChannelTitle": "deadman \u6b7b\u4eba - Topic",
+        "videoOwnerChannelTitle": "deadman - Topic",
         "videoOwnerChannelId": "UCXTCA5vVCYQH_wRYMpyzedA"
     },
     "contentDetails": {
@@ -311,7 +311,7 @@
     },
     "statistics": {
         "viewCount": "50738599",
-        "likeCount": "1095007",
+        "likeCount": "1095006",
         "favoriteCount": "0",
         "commentCount": "16163"
     }
