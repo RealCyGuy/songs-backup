@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "LIIDh-qI9oI"
         },
-        "videoOwnerChannelTitle": "The Weeknd",
+        "videoOwnerChannelTitle": "TheWeekndVEVO",
         "videoOwnerChannelId": "UCF_fDSgPpBQuh1MsUTgIARQ"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "385552759",
-        "likeCount": "4012672",
+        "viewCount": "385578139",
+        "likeCount": "4012784",
         "favoriteCount": "0",
-        "commentCount": "93252"
+        "commentCount": "93079"
     }
 }

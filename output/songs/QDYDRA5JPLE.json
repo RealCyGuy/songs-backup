@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "QDYDRA5JPLE"
         },
-        "videoOwnerChannelTitle": "Lil Nas X",
+        "videoOwnerChannelTitle": "LilNasXVEVO",
         "videoOwnerChannelId": "UCtTfSyci2urfwXXu_eRpNRA"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "176927449",
-        "likeCount": "2999907",
+        "viewCount": "176936880",
+        "likeCount": "2999941",
         "favoriteCount": "0",
-        "commentCount": "165536"
+        "commentCount": "165527"
     }
 }

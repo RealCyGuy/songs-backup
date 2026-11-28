@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "E8gmARGvPlI"
         },
-        "videoOwnerChannelTitle": "WHAM!",
+        "videoOwnerChannelTitle": "WhamVEVO",
         "videoOwnerChannelId": "UCm1QnxCbcLB8fQwoTDk39iQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1146985190",
-        "likeCount": "6221905",
+        "viewCount": "1147678572",
+        "likeCount": "6224633",
         "favoriteCount": "0",
-        "commentCount": "343625"
+        "commentCount": "343722"
     }
 }

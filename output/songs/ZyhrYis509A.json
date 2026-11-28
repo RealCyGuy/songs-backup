@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "ZyhrYis509A"
         },
-        "videoOwnerChannelTitle": "Aqua",
+        "videoOwnerChannelTitle": "AquaVEVO",
         "videoOwnerChannelId": "UCCiijV9YJmUtKSXOcxMqc_g"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1753071146",
-        "likeCount": "9505212",
+        "viewCount": "1753170789",
+        "likeCount": "9505538",
         "favoriteCount": "0",
-        "commentCount": "446328"
+        "commentCount": "446334"
     }
 }

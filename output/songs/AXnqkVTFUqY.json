@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "AXnqkVTFUqY"
         },
-        "videoOwnerChannelTitle": "Jon Bellion",
+        "videoOwnerChannelTitle": "JonBellionVEVO",
         "videoOwnerChannelId": "UCM8r8bIG7xKRGDEd7oSyxPQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "245146695",
-        "likeCount": "2820001",
+        "viewCount": "245153990",
+        "likeCount": "2820028",
         "favoriteCount": "0",
-        "commentCount": "95021"
+        "commentCount": "95025"
     }
 }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "M3mJkSqZbX4"
         },
-        "videoOwnerChannelTitle": "Zedd",
+        "videoOwnerChannelTitle": "ZEDDVEVO",
         "videoOwnerChannelId": "UCFzm6oAGFmmZfkrzQ5wATSQ"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "161792640",
-        "likeCount": "1252673",
+        "viewCount": "161801341",
+        "likeCount": "1252712",
         "favoriteCount": "0",
-        "commentCount": "30270"
+        "commentCount": "30271"
     }
 }

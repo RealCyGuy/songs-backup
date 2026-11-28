@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "6LBu92R_1t0"
         },
-        "videoOwnerChannelTitle": "AJR",
+        "videoOwnerChannelTitle": "AJRVEVO",
         "videoOwnerChannelId": "UCiZvzw95lDSB7Fz6Hg7cqWw"
     },
     "contentDetails": {
@@ -305,8 +305,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "11504833",
-        "likeCount": "166106",
+        "viewCount": "11505398",
+        "likeCount": "166109",
         "favoriteCount": "0",
         "commentCount": "8007"
     }

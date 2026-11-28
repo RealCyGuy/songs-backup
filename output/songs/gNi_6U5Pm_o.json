@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "gNi_6U5Pm_o"
         },
-        "videoOwnerChannelTitle": "Olivia Rodrigo",
+        "videoOwnerChannelTitle": "OliviaRodrigoVEVO",
         "videoOwnerChannelId": "UCxE5jEls-T0QtlTHT8lI1lw"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "541592208",
-        "likeCount": "7447352",
+        "viewCount": "541611732",
+        "likeCount": "7447457",
         "favoriteCount": "0",
-        "commentCount": "245310"
+        "commentCount": "245308"
     }
 }
