@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "PAzH-YAlFYc"
         },
-        "videoOwnerChannelTitle": "DNCEVEVO",
+        "videoOwnerChannelTitle": "DNCE",
         "videoOwnerChannelId": "UCEQ8hxWHFmfJVXibt3veDgQ"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "238638768",
-        "likeCount": "1243353",
+        "viewCount": "238684165",
+        "likeCount": "1243450",
         "favoriteCount": "0",
         "commentCount": "24519"
     }

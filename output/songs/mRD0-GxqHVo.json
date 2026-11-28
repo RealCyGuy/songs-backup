@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "mRD0-GxqHVo"
         },
-        "videoOwnerChannelTitle": "GlassAnimalsVEVO",
+        "videoOwnerChannelTitle": "Glass Animals",
         "videoOwnerChannelId": "UCOMLtULLvoymORim06O1vaw"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "984129505",
-        "likeCount": "10163800",
+        "viewCount": "984246729",
+        "likeCount": "10164153",
         "favoriteCount": "0",
-        "commentCount": "234143"
+        "commentCount": "234157"
     }
 }

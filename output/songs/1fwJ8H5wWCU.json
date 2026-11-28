@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "1fwJ8H5wWCU"
         },
-        "videoOwnerChannelTitle": "EmBeiholdVEVO",
+        "videoOwnerChannelTitle": "Em Beihold",
         "videoOwnerChannelId": "UCECPBL7TOzGe8elds-d0mXQ"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "64669314",
-        "likeCount": "965956",
+        "viewCount": "64675349",
+        "likeCount": "965986",
         "favoriteCount": "0",
-        "commentCount": "20083"
+        "commentCount": "20084"
     }
 }

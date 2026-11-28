@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "hh5vCtw8h6M"
         },
-        "videoOwnerChannelTitle": "StaceyRyanVEVO",
+        "videoOwnerChannelTitle": "Stacey Ryan",
         "videoOwnerChannelId": "UC72onfzFBzAZ0UhEK3DdE4g"
     },
     "contentDetails": {
@@ -305,8 +305,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "4516021",
-        "likeCount": "69593",
+        "viewCount": "4516055",
+        "likeCount": "69594",
         "favoriteCount": "0",
         "commentCount": "741"
     }

@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Gs069dndIYk"
         },
-        "videoOwnerChannelTitle": "EarthWindandFireVEVO",
+        "videoOwnerChannelTitle": "Earth Wind & Fire",
         "videoOwnerChannelId": "UC72IXi6wx33LdltVkdwtLpw"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "917095222",
-        "likeCount": "6172894",
+        "viewCount": "917155113",
+        "likeCount": "6173090",
         "favoriteCount": "0",
-        "commentCount": "394684"
+        "commentCount": "394687"
     }
 }

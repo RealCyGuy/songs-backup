@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "nbcCG7PkI18"
         },
-        "videoOwnerChannelTitle": "WalkTheMoonVEVO",
+        "videoOwnerChannelTitle": "WALK THE MOON",
         "videoOwnerChannelId": "UC33W-ccS1iDKLxlI5WOPknA"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "30632665",
-        "likeCount": "148711",
+        "viewCount": "30632941",
+        "likeCount": "148712",
         "favoriteCount": "0",
         "commentCount": "3963"
     }

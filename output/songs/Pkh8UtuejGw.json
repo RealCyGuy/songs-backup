@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "Pkh8UtuejGw"
         },
-        "videoOwnerChannelTitle": "ShawnMendesVEVO",
+        "videoOwnerChannelTitle": "Shawn Mendes",
         "videoOwnerChannelId": "UC4-TgOSMJHn-LtY4zCzbQhw"
     },
     "contentDetails": {
@@ -307,9 +307,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "2083726171",
-        "likeCount": "22118420",
+        "viewCount": "2083972333",
+        "likeCount": "22118877",
         "favoriteCount": "0",
-        "commentCount": "661251"
+        "commentCount": "661257"
     }
 }

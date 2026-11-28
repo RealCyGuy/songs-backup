@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "IpHPBIdrak4"
         },
-        "videoOwnerChannelTitle": "LattoVEVO",
+        "videoOwnerChannelTitle": "Latto",
         "videoOwnerChannelId": "UCGm22n-02oom5R_1lITZyAw"
     },
     "contentDetails": {
@@ -310,8 +310,8 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "1480272",
-        "likeCount": "12413",
+        "viewCount": "1480304",
+        "likeCount": "12414",
         "favoriteCount": "0",
         "commentCount": "330"
     }

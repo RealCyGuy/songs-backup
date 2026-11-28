@@ -39,7 +39,7 @@
             "kind": "youtube#video",
             "videoId": "8Gv0H-vPoDc"
         },
-        "videoOwnerChannelTitle": "alyankovicVEVO",
+        "videoOwnerChannelTitle": "alyankovic",
         "videoOwnerChannelId": "UCshnCkfV7U6DqR4IHbQbI7Q"
     },
     "contentDetails": {
@@ -310,9 +310,9 @@
         "privacyStatus": "public"
     },
     "statistics": {
-        "viewCount": "66855244",
-        "likeCount": "670832",
+        "viewCount": "66857466",
+        "likeCount": "670845",
         "favoriteCount": "0",
-        "commentCount": "49384"
+        "commentCount": "49385"
     }
 }
